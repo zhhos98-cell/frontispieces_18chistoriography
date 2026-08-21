@@ -1,161 +1,192 @@
 # Frontispieces and Eighteenth-Century Historiography
 
-A provenance-first corpus for tracking engraved frontispieces, their reissue across publication formats, and the wider print networks in which historical, genealogical, heraldic, antiquarian, and natural-historical evidence was organised.
+A provenance-first corpus for reconstructing engraved frontispieces, plate reuse, copy variation, and the visual/material infrastructures through which genealogy, heraldry, numismatics and historical evidence were organised from the late seventeenth to the later eighteenth century.
 
-## Research question
+## Research problem
 
-The seed case is the recurring engraved Clio frontispiece associated with the Weigel publishing constellation and Johann Christoph Gatterer's *Handbuch der neuesten Genealogie und Heraldik*. Rather than treating a frontispiece as a single iconographic object, this repository treats it as a **serial artefact**: a plate or plate-family that can be reissued, altered, relabelled, repositioned, detached, and embedded in different rhythms of consultation.
-
-The working hypothesis is operational rather than purely iconographic: changes in attributes, inscriptions, spatial arrangement, format, placement, publishing context and competition may record changes in how readers were expected to gather, check, compare, remember and navigate evidence.
-
-## Corpus unit
-
-The preferred atomic unit is a **witness occurrence**: one verifiable appearance of a plate or closely related plate-state in one publication context and, where possible, one identified copy.
-
-The corpus separates:
-
-1. `plate_series` — a recurring design/plate lineage across impressions and formats;
-2. `witness` — one publication occurrence of that plate or plate-state;
-3. `copy` — a specific surviving institutional or digitised copy;
-4. `agent` — designer, engraver, publisher, printer, author/editor, firm, heir, dealer;
-5. `feature` — inscription, attribute, object, layout relation, scale, placement;
-6. `source_evidence` — catalogue record, review, correspondence, scan, archival record, digitisation;
-7. `relationship` — reuse, probable reuse, variant-of, derived-from, same-plate-as, publisher-succession, production association.
-
-A bibliographic lead is not promoted to a witness until the relevant front matter or plate has been inspected.
-
-## Current findings
-
-### Core Clio series
-
-The plate-series record groups the recurring frontispiece with the inscription:
+The seed object is the recurring engraved frontispiece:
 
 > *Historia. Genealogia. Heraldica. Testes temporum et veritatis.*
 
-The production attribution is independently corroborated at **institutional catalogue level**. British Museum object `1910,0906.2`, a 1740 *Geschichts-, Geschlechts- und Wappen-Calender*, describes the frontispiece as made by **Martin Tyroff after Gabriel Müller**, with the title `Historia Genealogia Heraldica / testes temporum et veritatis`. The BM description identifies the allegorical scene as an angel, Time and two putti examining genealogical trees and books of heraldry, and gives an approximate page/sheet size of 198 × 115 mm. This promotes the Müller–Tyroff attribution beyond the original research-draft claim, while direct signature/plate inspection remains desirable for primary verification.
+It appears in the Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* and survives across later Gatterer formats. British Museum object `1910,0906.2` independently catalogues the 1740 frontispiece as **Martin Tyroff after Gabriel Müller**, approximately 198 × 115 mm.
 
-The attribution sits inside a wider production relationship rather than a one-off credit. A 1733 Altdorf dissertation associated with Johann David Köhler is catalogued by DDB/BSB with copperplate vignettes **after Gabriel Müller by Martin Tyroff**; a 1756 portrait of Köhler in the Rijksmuseum is likewise catalogued as a Tyroff print after a painting by Müller. The corpus therefore tracks **Köhler–Müller–Tyroff** as a recurring visual-production constellation.
+The project no longer treats this as a single iconographic image. It treats the frontispiece as a **serial artefact and threshold apparatus** whose material, bibliographic and evidentiary lives can diverge: it can be reissued, detached, rebound, copied, re-engraved, moved into a new publication rhythm, or survive after the text and editorial regime around it have changed.
 
-### Evidence-language prehistory: witness, truth, comparison
+The larger question is therefore operational:
 
-A new corpus layer now separates rhetorical and operational precedents from claims of direct transmission.
+> How did engraved images, coats of arms, genealogical tables, coins, seals, manuscripts, cabinet objects and their reproductions become transportable and comparable historical witnesses, and how were those witnesses reorganised across annual calendars, weekly serials, handbooks and cumulative armorials?
 
-- Cicero's *De oratore* II.36 makes singular *Historia* `testis temporum, lux veritatis`.
-- In a letter of **30 October 1691**, Gisbert Cuper describes coins as `certissimi testes temporum, clarissima lux veritatis` while proposing a history of kings arranged from numismatic evidence.
-- Christian Schlegel's c. **1696–1697** manuscript is programmatically titled *Historiae Saxonicae Antiquioris Veritas ex Nummis Demonstrata*. Modern reconstruction also shows its intended copperplate apparatus becoming materially separated from the manuscript and later reused in another publication context.
-- In **1721–1722**, Johann Georg Eccard describes comparing scripts, seal impressions, coins and securely dated manuscripts, visiting archives, and accepting drawings or material `ectypes` when originals cannot travel. He says coins can not only ornament genealogy but `imo et firmare` it.
-- Köhler's **1749** *Gezeigter und bestärckter Nutz der Wappenkenntnüß zur Entdeckung einer historischen Wahrheit* uses a material object, engraved representation and heraldic comparison to resolve a disputed historical identification; a 1751 printed response reopens the conclusion.
+## Corpus unit and evidence discipline
 
-This does **not** yet establish a linear Cicero → Cuper → Schlegel → Eccard → Köhler → Clio influence chain. The current working category is **rhetorical-operational convergence / redistribution of evidentiary authority**: testimonial authority classically attached to History is also assigned to coins, seals, genealogy and heraldry when they function as historical witnesses.
+The preferred atomic unit is a **witness occurrence**: one verifiable appearance of a plate or closely related plate-state in one publication context and, where possible, one identified copy.
 
-A documented bridge does exist between Köhler and the older Gotha-Saxony numismatic world: volume 15 of the *Historische Münz-Belustigung* (1743) treats a 1700 medal of Wilhelm Ernst Tentzel. By contrast, the current searchable series/index pass has not yet produced an Eccard/Eckhart name hit. That negative result is bounded and is not treated as proof of absence.
+The corpus keeps distinct:
 
-See [`docs/EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md`](docs/EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md).
+1. `plate_series` — design/plate lineage;
+2. `witness` — one publication occurrence;
+3. `copy` — one surviving institutional, digitised or market copy;
+4. `agent` — designer, engraver, publisher, editor, scholar, owner, dealer;
+5. `feature` — inscription, object, attribute, arrangement, placement, dimensions;
+6. `source_evidence` — object record, scan, catalogue, correspondence, review, advertisement;
+7. `relationship` — reuse, same-plate-as, variant-of, derived-from, production association, textual use, teaching, publisher succession.
 
-### 1724–1726: a frontispiece regime change
+A bibliographic lead is not promoted to a plate witness until the image/front matter has been inspected. Similar iconography is not enough for `same_plate_as`; dimensions, lettering, line breaks, signatures, wear, scratches, retouching and copy chronology matter.
 
-The target allegory should not be projected backwards across the entire Weigel calendar series.
+Evidence statuses:
 
-- A **1724** copy is independently described with an annual historical-memory frontispiece, *Gedenckwürdigkeiten des 1722ten Jahres*.
-- A historical physical-copy catalogue now explicitly reports a **`Titelkupfer` in the 1725 issue**, but does not identify its design.
-- By **1726**, surviving auction imagery visibly shows the familiar *Historia Genealogia Heraldica* allegory.
-- A detached example dated ca. **1737** survives as a loose print with the full *Testes temporum et veritatis* inscription and reported traces of former attachment to a book.
-- The British Museum provides a strong institutional **1740** witness with explicit Müller–Tyroff attribution and full target-title transcription.
-- A **1744** complete-copy description explicitly identifies the engraved frontispiece as *Historia Genealogia Heraldica*.
-- A **1759** Gatterer *Handbuch* copy explicitly transcribes the same pretitular inscription.
-- A **1764** *Fortgesetzter Wappen-Calender* copy again explicitly names *Historia Genealogia Heraldica: Testes Temporum Et Veritatis*.
-- A **1765** copy is now independently described with an engraved frontispiece/title copper, but its identity remains unchecked.
-
-The immediate problem is therefore narrower: **identify the 1725 title copper** and determine whether the regime change occurs in 1725 or between 1725 and 1726.
-
-### Prehistory: genealogy-heraldry calendars before Weigel
-
-The corpus extends backwards to **1717**, and this materially changes the explanation.
-
-A *Genealogisch-Heraldischer Calender* issued under Heinrich Jonas Ostertag already combined births, marriages, deaths, kinship, Stamm-Tafeln and engraved coats of arms with explanations. A 1718 copy is institutionally secured in BSB/DDB, while an antiquarian collation explicitly reports a **frontispiece engraved by Johann Matthias Steidlin**, twelve monthly engravings, thirty-five armorial plates and a folding genealogical table.
-
-Steidlin then issued a *Genealogisch-heraldischer Staats-Calender* as an annual serial for **1720–1726**. The 1720 Heidelberg digitisation separately indexes its `Frontispiz` and includes repeated `Bericht an den Buchbinder` sections, making the prescribed material order of the visual-tabular apparatus itself part of the evidence.
-
-Most importantly, the Steidlin serial overlaps the first Weigel years: surviving/digitised Steidlin issues include **1723 and 1726**. Therefore 1723–1726 is not a simple predecessor-successor sequence but a **competitive publication ecology** between Augsburg/Steidlin and Nürnberg/Weigel–Köhler.
-
-This sharpens the problem. The Clio plate did not invent genealogy-heraldry visual apparatus. It may instead represent a Nürnberg **epistemic reframing or differentiation strategy** within an already-established calendar technology. That causal interpretation remains a hypothesis to test against competing frontispieces, reviews and advertising language.
-
-### A pre-Gatterer handbook branch
-
-An undated Nuremberg volume titled *Bequemes und zum Zeitungs-Lesen sehr dienliches genealogisches und heraldisches Hand-Buch. Worinnen aller jetzigen Europäischen Potentaten Stamm-Tafeln und Wappen enthalten* survives in divergent copies under the imprint of **Christoph Weigels seel. Wittwe / Lorentz Bieling**.
-
-Its title is analytically striking because it defines genealogy and heraldry as apparatus *for reading newspapers* (`zum Zeitungs-Lesen sehr dienlich`). This demonstrates a non-annual genealogical-heraldic reference logic well before Gatterer's 1759 *Handbuch*.
-
-The date and collation must remain unresolved at family level. Current witnesses include:
-
-- SB-17124: seller dates c. **1725** from Pope Benedict XIII; 106 armorial engravings + 107 genealogical tables;
-- Honterus lot 295: c. **1740** catalogue attribution to Köhler; one copper title/frontispiece + 81 armorial engravings;
-- Babel lot 128: one copper title/frontispiece + 60 armorial plates; incomplete;
-- Hôtel des Ventes Genève 2013 lot 66: one frontispiece, 105 arms and 107 numbered descriptions;
-- Darabanth 2026 lot 22539: original frontispiece/title missing; a later owner inserted a **frontispiece from another work** and six leaves of two-colour calendar pages;
-- Brandenburgisches Landeshauptarchiv: institutional catalogue dates its copy `[nach 1750]`.
-
-The Darabanth copy directly demonstrates later recombination. Divergent collations therefore cannot be translated mechanically into separate editions. The corpus models this material as a **copy family / witness cluster** until publication states and later interventions can be separated.
-
-### Serial extent and overlapping rhythms
-
-The project no longer assumes a linear calendar → handbook evolution. The current object ecology is:
-
-- **1717–1719?** — Ostertag genealogy-heraldry calendar;
-- **1720–1726** — Steidlin genealogy-heraldry state calendar;
-- **1723–1757** — Weigel/Köhler historical-genealogical-heraldic calendar;
-- **undated, catalogue brackets c.1725 to after 1750** — non-annual genealogy/heraldry handbook for newspaper reading;
-- **1729–1750** — Köhler weekly *Historische Münz-Belustigung*;
-- **1759–1763** — Gatterer, *Handbuch der neuesten Genealogie und Heraldik*;
-- **1764–1766** — *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch*;
-- **1767–1776** — Seyfart/Raspe cumulative *Wappenbuch* ecology.
-
-The Clio design is positively attested across the Weigel-calendar, Gatterer-handbook and Gatterer/Raspe continued-calendar phases. Its survival into the Seyfart phase remains open. A complete-indexed 1767 Seyfart set explicitly contains one unnumbered frontispiece in volume I, and a 1768 ULB Halle record also reports a frontispiece, but neither catalogue identifies the image.
-
-The more promising explanatory vocabulary is now **competition, extraction, recomposition, de-serialisation and re-serialisation**: armorial, genealogical and evidentiary materials move between annual, weekly, handbook/reference and cumulative formats.
-
-### Extended Nuremberg network and parallel controls
-
-Private research correspondence with the Germanisches Nationalmuseum (GNM) produced a 35-entry holdings list for Christoph Weigel and Martin Tyroff. These records are ingested as **bibliographic leads**, not as evidence that they contain the Clio plate. They widen the comparison set across mnemonic history, professions and social orders, law, natural history, numismatics, emblematic/heraldic engraving and chronology.
-
-The parallel apparatus census now deliberately extends beyond Nürnberg to earlier controls that test specific operations:
-
-- Schlegel's c.1696–97 numismatic historical manuscript and separated copperplate apparatus;
-- Eccard's 1721–22 comparison/surrogate network and 1722 genealogical history;
-- Köhler's weekly *Historische Münz-Belustigung* (1729–1750, 22 parts);
-- the 1733 Köhler–Müller–Tyroff dissertation;
-- Köhler's 1749 heraldic demonstration and 1751 printed re-checking;
-- the 1748 Oetter rare-coin tract;
-- Rösel's 1758 frog natural history.
-
-The comparison remains procedural. Shared operations—recurrence, controlled reproduction, juxtaposition, chronology, indexing, verification, accumulation—are recorded before claims of shared epistemology are made.
-
-## Material afterlives and copy variation
-
-The sweep has shown why `copy` cannot be collapsed into `edition`:
-
-- a 1738 Wappenkalender copy explicitly lacks its frontispiece;
-- a ca.1737 target frontispiece survives detached from its former book;
-- armorial leaves circulate as loose prints while retaining genealogical tables on versos;
-- historical collectors cut calendar plates out and recombined them into manuscript armorial collections;
-- annotated genealogical tables occur in surviving copies;
-- one *Bequemes ... Hand-Buch* copy is explicitly rebound with a foreign frontispiece and inserted calendar leaves;
-- descriptions of the same handbook family range from 60 to 106 armorial plates and from incomplete fragments to near-full collations;
-- Schlegel's manuscript/copperplate project provides an earlier control case where text and intended graphic apparatus acquired separate documentary lives.
-
-The corpus therefore preserves material states such as `detached_plate`, `cut_and_reused`, `rebound_composite`, `inserted_foreign_frontispiece`, `calendar_leaves_inserted`, `annotated_copy`, and `frontispiece_missing` rather than treating them as damage/noise.
-
-## Evidence levels
-
-Every record carries one of these statuses:
-
-- `verified_primary` — inspected in the object, scan, or reliable primary transcription;
-- `verified_catalogue` — grounded in a catalogue/finding aid but object not yet inspected;
-- `reported_correspondence` — reported by an archive/library in research correspondence;
-- `research_inference` — an explicit analytical inference;
-- `unresolved` — identity, date, plate-state, or relationship requires checking.
+- `verified_primary` — object, scan or reliable primary transcription inspected;
+- `verified_catalogue` — institutional/catalogue evidence, image not yet directly inspected;
+- `reported_correspondence` — archive/library correspondence;
+- `research_inference` — explicit analytical hypothesis;
+- `unresolved` — identity/date/state/relationship still open.
 
 See [`docs/EVIDENCE_POLICY.md`](docs/EVIDENCE_POLICY.md).
+
+## 1. The Clio plate: current chronology
+
+The target allegory should **not** be projected backward across the whole Weigel calendar run.
+
+- **1724** — a surviving copy is described with a different annual-memory frontispiece, *Gedenckwürdigkeiten des 1722ten Jahres*.
+- **1725** — independent historical catalogue evidence establishes `Mit Titelkupfer`; BSB/MDZ `bsb10428127` and a free 308-page Google digitisation survive, but the title copper's identity remains unresolved.
+- **1726** — surviving auction imagery visibly shows the target *Historia Genealogia Heraldica* allegory.
+- **ca.1737** — a detached target frontispiece survives independently, about 198 × 122 mm, with reported traces of former binding.
+- **1740** — British Museum `1910,0906.2`: target design explicitly catalogued as Martin Tyroff after Gabriel Müller.
+- **1744** — complete-copy description explicitly names the target frontispiece.
+- **1759** — Gatterer *Handbuch* copy explicitly transcribes `HISTORIA GENEALOGIA HERALDICA / TESTES TEMPORVM ET VERITATIS`.
+- **1764** — *Fortgesetzter Wappen-Calender* again explicitly names the target.
+- **1765** — title copper/frontispiece independently reported; identity not yet checked.
+- **1767–1776** — Seyfart/Raspe four-volume *Wappenbuch* set is described with **three repeated engraved frontispieces**; a separate 1771 volume has a `Titelkupfer`. The repeated design has not yet been identified as Clio.
+
+The highest-information unresolved object remains **1725**: if its title copper is Clio, the regime change occurs in 1725; if not, it occurs between 1725 and 1726.
+
+## 2. Prehistory: genealogy-heraldry calendars already existed
+
+The Weigel series did not invent genealogy/heraldry visual apparatus.
+
+- **1717–1719?** — Ostertag *Genealogisch-Heraldischer Calender* ecology.
+- **1718** — a surviving copy is described with a Johann Matthias Steidlin frontispiece, twelve monthly engravings, thirty-five armorial plates and a folding genealogical table.
+- **1720–1726** — Steidlin *Genealogisch-heraldischer Staats-Calender* continues as an annual series; the 1720 Heidelberg digitisation separately indexes its frontispiece and includes `Bericht an den Buchbinder` instructions.
+- Steidlin volumes survive for **1723 and 1726**, so Augsburg/Steidlin and Nürnberg/Weigel overlap during the Clio transition.
+
+The 1723–26 problem is therefore one of **competition and reframing inside an existing calendar technology**, not simple genre invention.
+
+See `data/predecessor_calendar_census.csv` and [`docs/PREHISTORY_COMPETITION_SWEEP_2026-08-21.md`](docs/PREHISTORY_COMPETITION_SWEEP_2026-08-21.md).
+
+## 3. Contemporary standards: graphic quality is not evidentiary reliability
+
+Two contemporary controls make the period's own evaluative vocabulary visible.
+
+**Martin Schmeitzel, 1723.** In *Einleitung zur Wappen-Lehre* he praises the c.1720 Augsburg genealogical-heraldic calendar's coats of arms as cleanly engraved while dismissing the accompanying explanations. The current record remains below `verified_primary` until p.69 is checked directly in the scan.
+
+**Johann Ehrenfried Zschackwitz, 1724.** The HAB full-text transcription of *Historisch-Genealogischer Schau-Platz* programmatically promises genealogies purged of fables and supported by necessary `Documenta`. Zschackwitz evaluates genealogical authors through accuracy, errors, certainty, trustworthiness and comparison; he criticises Hübner's tables for conspicuous mistakes despite their claimed worldwide correspondence and argues for including only genealogical origins about which one can speak with certainty. He also prints submitted corrections to Hübner's tables.
+
+This is a strong contemporary control for the Clio transition: **visual execution, textual explanation, documentary support, comparison and certainty were already separable criteria of genealogical quality.**
+
+See `data/contemporary_reception_records.jsonl`.
+
+## 4. Evidence-language prehistory: witnesses, truth and comparison
+
+The corpus records lexical and operational precedents without converting them into an unproven influence chain.
+
+- **Cicero, *De oratore* II.36** — singular *Historia* as `testis temporum, lux veritatis`.
+- **Gisbert Cuper, 30 Oct. 1691** — coins described as `certissimi testes temporum, clarissima lux veritatis` while arranging royal history from numismatic evidence.
+- **Christian Schlegel, c.1696–97** — manuscript project titled *Historiae Saxonicae Antiquioris Veritas ex Nummis Demonstrata*.
+- **Johann Georg Eccard, 1721–22** — scripts, seal impressions, coins, securely dated manuscripts and archives compared across media; when originals cannot travel, drawings and ectypes in isinglass, tin foil, wax, gypsum, lead or paper are accepted. Coins can `imo et firmare` genealogy.
+- **Johann David Köhler, 1749** — *Nutz der Wappenkenntnüß zur Entdeckung einer historischen Wahrheit*: a material object, engraved representation, coats of arms and initials are used to resolve a historical identification; a 1751 response reopens the conclusion.
+
+The current analytical category is **rhetorical-operational convergence / redistribution of evidentiary authority**. The corpus does not yet claim a Cicero → Cuper → Schlegel → Eccard → Köhler → Clio textual genealogy.
+
+See `data/evidentiary_language_records.jsonl` and [`docs/EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md`](docs/EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md).
+
+## 5. Visual surrogates can transmit and corrupt evidence
+
+A particularly important earlier control comes from the Sagittarius–Schlegel numismatic material reconstructed by Martin Mulsow.
+
+In the 1680s Johann Christfried Sagittarius planned a work on roughly **600 bracteates**. Some images derived from originals and others from received drawings; **497 coin images** were cut in wood across four full sheets. Schlegel later criticised reproduction errors: names could be omitted and letters transposed. He nevertheless understood the sheets as a way for Sagittarius to communicate remotely what his collection contained. A Gotha witness (`Ch. A 1205`) preserves Schlegel's handwritten identifications beneath the images.
+
+The operational sequence is therefore already visible before 1700:
+
+`object / received drawing → printed surrogate → remote circulation → reproduction error → expert correction`
+
+Schlegel's own c.1696–97 manuscript and its eight intended folio copperplates later acquired separate documentary lives, providing an early control for the corpus rule **plate history ≠ text history ≠ host-publication history**.
+
+See [`docs/MATERIAL_SURROGATE_AND_NUREMBERG_1725_SWEEP_2026-08-21.md`](docs/MATERIAL_SURROGATE_AND_NUREMBERG_1725_SWEEP_2026-08-21.md).
+
+## 6. Nürnberg 1725 as a microhistory
+
+The transition year is becoming a dense local comparison rather than a single missing frontispiece.
+
+### Weigel calendar
+
+A 1930 Emil Hirsch catalogue records the **1725 Wappenkalender** with:
+
+- `Titelkupfer`;
+- twelve portraits;
+- about one hundred coloured arms on **85 copperplates**;
+- a colour-key copperplate.
+
+### Weigel-widow handbook
+
+The immediately following Hirsch lot is the undated *Genealogisches und heraldisches Hand-Buch*, catalogued `(1725)`, also with:
+
+- `Titelkupfer`;
+- **85 engraved armorial plates**.
+
+Other surviving copies range from 60 to 106 armorial plates and include later recombination. One 2026 auction copy explicitly has its original frontispiece/title missing and a **foreign frontispiece plus calendar leaves inserted** by a later owner.
+
+The Hirsch 85/85 coincidence is therefore a test, not a conclusion. Plate-by-plate comparison should check captions, sequence, verso Stammtafeln, dimensions, scratches/wear and colour state before any same-stock claim is made.
+
+### Eccard / Ebner / Monath
+
+In the same year Johann Georg Eccard published in Nürnberg with **Peter Conrad Monath** an explanation of an old jewel/casket from the Ebner cabinet. The object, depicting a dynastic betrothal, is used together with related old coins to illuminate Brunswick-Lüneburg history. Copy descriptions report **three copperplates**, one folding, plus a text copper and woodcut paratext.
+
+A later numismatic writer, Johann Alexander Döderlein, cites Eccard's **p.45, Tab. III, Fig. XXVI** in a coin identification. This demonstrates that Eccard's plates functioned as numbered, reusable reference figures rather than decorative illustration alone.
+
+No direct Eccard–Weigel/Köhler production relation has yet been established. Monath is a separate publisher. The significance is **same-year, same-city evidentiary practice**, not influence proof.
+
+## 7. A 1729 Nürnberg bridge: Döderlein reads Schlegel and Eccard
+
+Johann Alexander Döderlein's *Commentatio Historica de Numis Germaniae Mediae* (Nürnberg, 1729) places two previously separate strands inside one printed numismatic argument:
+
+- he refers the reader to **Schlegel**;
+- in the same comparison environment he says he encountered Eccard's 1725 *Kleinodien-Kästlein* and explicitly uses **Eccard p.45 / Tab. III Fig. XXVI** to judge a coin.
+
+This is the strongest printed Nürnberg bridge yet found between the late-seventeenth-century Schlegel world and Eccard's 1725 object publication.
+
+The same year Köhler launches *Historische Münz-Belustigung*. A direct Johann David Köhler → Döderlein citation has **not** been found in the current searchable series index (`Döderlein / Doederlein / Doderlein` all zero hits).
+
+A genuine later social edge does exist: Johann David's son **Johann Tobias Köhler** was educated at Weißenburg under Döderlein and later contributed to/continued his father's *Münzbelustigungen*. This is an intergenerational connection, not proof of Johann David's 1729 borrowing.
+
+See `data/parallel_apparatus_census.csv` and `data/production_network_records.jsonl`.
+
+## 8. Overlapping publication rhythms
+
+The current object ecology is not linear:
+
+- annual genealogy/heraldry calendars;
+- annual Weigel historical-genealogical-heraldic calendar, **1723–1757**;
+- undated Weigel-widow genealogical/heraldic handbook for **newspaper reading**;
+- Köhler weekly *Historische Münz-Belustigung*, **1729–1750**, 22 parts;
+- Gatterer handbook, **1759–1763**;
+- continued annual handbook/calendar, **1764–1766**;
+- Seyfart/Raspe cumulative *Wappenbuch*, **1767–1776**.
+
+The more useful vocabulary is **competition, extraction, recomposition, de-serialisation, re-serialisation and accumulation**. The same kinds of armorial, genealogical and material witnesses move between different rhythms of consultation.
+
+## 9. Material afterlives are evidence
+
+The corpus preserves rather than normalises away:
+
+- `frontispiece_missing`;
+- `detached_plate`;
+- `cut_and_reused`;
+- `rebound_composite`;
+- `inserted_foreign_frontispiece`;
+- `calendar_leaves_inserted`;
+- `annotated_copy`;
+- plate/text separation and later plate reuse.
+
+A copy is therefore not merely an imperfect representative of an edition. Damage, extraction, rebinding and annotation can reveal how these visual systems were actually handled and recomposed.
 
 ## Repository layout
 
@@ -166,12 +197,13 @@ schema/
 data/
   core_records.jsonl
   web_witness_records.jsonl
-  production_network_records.jsonl
-  evidentiary_language_records.jsonl
   wappenkalender_witness_census.csv
   predecessor_calendar_census.csv
-  parallel_apparatus_census.csv
   handbook_copy_records.jsonl
+  parallel_apparatus_census.csv
+  production_network_records.jsonl
+  evidentiary_language_records.jsonl
+  contemporary_reception_records.jsonl
   gnm_holdings_seed.csv
   research_leads.csv
 docs/
@@ -180,31 +212,22 @@ docs/
   DEEP_SWEEP_2026-08-21.md
   PREHISTORY_COMPETITION_SWEEP_2026-08-21.md
   EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md
+  MATERIAL_SURROGATE_AND_NUREMBERG_1725_SWEEP_2026-08-21.md
 ```
 
-## Immediate work queue
+## Immediate high-information queue
 
-1. **Identify the 1725 title copper:** inspect BSB/MDZ `bsb10428127` opening leaves; the presence of a `Titelkupfer` is now independently established at catalogue level.
-2. Compare 1718/1720/1723/1726 Steidlin frontispieces with the Weigel 1724–26 sequence.
-3. Locate an institutional/digitised *Bequemes ... Zeitungs-Lesen ... Hand-Buch* copy and identify its copper title/frontispiece; separate publication states from later copy recombination.
-4. Compare target plate-state evidence at 1726, 1740 BM, 1744, 1759 and 1764: lettering, dimensions, line breaks, signatures, plate wear, retouching, replaced objects and spatial shifts.
-5. Inspect **1765–1768** opening leaves directly; 1765, 1767 and 1768 all now have frontispiece/title-copper evidence but unresolved image identity.
-6. Search Köhler's full 22-volume numismatic run and registers for Eccard/Eckhart, Tentzel, Schlegel, Cuper and Sperling; preserve bounded negative searches.
-7. Extract the full manuscript/plate provenance of Schlegel's *Veritas ex Nummis Demonstrata* and the 1723 Franck reuse from Mulsow's notes.
-8. Inspect Köhler 1749 directly and reconstruct every object-to-image-to-heraldic-identification step and cited authority.
-9. Search 1690–1726 genealogy/heraldry/numismatics for exact and near-exact forms of `testes temporum`, `lux veritatis`, `Wahrheit`, `Prüfung`, `Beweis` and `Zeugen`.
-10. Continue contemporary reviews, advertisements and booksellers' catalogues for `neu vermehrt`, `verbessert` and `Zeitungs-Lesen` and link claims to witness-level material changes.
-
-## Inclusion rule
-
-The corpus is intentionally broader than “frontispieces depicting Clio,” but narrower than “all eighteenth-century engraving.” A record belongs when it can help reconstruct at least one of the following:
-
-- a plate's material/serial history;
-- a publishing or engraving relationship relevant to the plate network;
-- a comparable visual procedure for organising evidence;
-- competition or migration between publication formats;
-- the circulation, consultation or re-use conditions of relevant printed apparatus.
+1. **Extract the 1725 title copper** from BSB/MDZ `bsb10428127` or another complete copy.
+2. Compare the 1725 calendar and handbook **85-plate** configurations plate by plate before claiming shared stock.
+3. Inspect Eccard 1725 plates directly; identify engraver/signatures and reconstruct Tab. I–III plus text copper.
+4. Search Johann David Köhler's writings/correspondence for Döderlein and Eccard; keep current zero-hit searches bounded.
+5. Identify the **three repeated Seyfart frontispieces** across 1767–1776 and test whether any are the Müller–Tyroff Clio design.
+6. Compare 1718/1720/1723/1726 Steidlin frontispieces against the Weigel 1724–26 sequence.
+7. Verify Schmeitzel 1723 p.69 directly and expand contemporary review/advertising evidence for `neu vermehrt`, `verbessert`, `Wahrheit`, `Prüfung`, `Gewißheit` and correction.
+8. Resolve Weigel household/firm authority records before normalising imprints.
+9. Continue Köhler's numismatic corpus issue-by-issue, recording objects, engravings, provenance, comparison language, corrections and reader correspondence.
+10. Keep every documented transmission edge separate from operational similarity until direct citation, correspondence or production evidence is found.
 
 ## Privacy and provenance
 
-Raw Gmail messages, addresses, and unpublished attachments are **not** mirrored into this public repository. Correspondence-derived facts are stored only as sanitised source notes with institution, date, claim type, and verification status. Original messages remain in the private mailbox as provenance.
+Raw Gmail messages, addresses and unpublished attachments are **not** mirrored into this public repository. Correspondence-derived facts are stored only as sanitised source notes with institution, date, claim type and verification status. Original messages remain in the private mailbox as provenance.
