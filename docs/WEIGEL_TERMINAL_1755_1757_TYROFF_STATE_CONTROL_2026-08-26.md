@@ -29,9 +29,19 @@ Collation reported:
 - 79 numbered double-leaf genealogical tables;
 - title, calendar and preface; publisher advertisements.
 
-A second auction record independently describes a 1755 copy in the Christoph-Weigel-heirs imprint with more than one hundred copper engravings.
+A second physical-copy sale catalogue independently gives the 1755 issue as `zum drey und dreysigstenmal`, while the adjacent 1756 issue is correctly `zum vier und dreysigstenmal`.
 
 Therefore claims that the series skipped 1755 are false. The issue is physically attested and explicitly self-numbers as the **thirty-third**.
+
+### Modern catalogue-transcription error to quarantine
+
+Several recent market listings derived from Auktionshaus Kiefer/Jasper52 reproduce the 1755 title as `zum vier- und dreysigstenmal`, i.e. thirty-fourth. This is incompatible with:
+
+- Katalog 37's explicit `drey und dreysigstenmal` for 1755;
+- an independent physical-copy catalogue that places 1755 as 33rd and 1756 as 34th;
+- the 1757 self-numbering as 35th.
+
+The recent `34th / 1755` wording should therefore be treated as a **modern catalogue transcription/copying error**, not as an alternate historical numbering state, unless a directly inspected 1755 title page proves otherwise.
 
 ## 2. The old series ends in 1757, not 1758
 
@@ -63,11 +73,13 @@ The 1762 Gatterer *Handbuch* copy in the National Library of Finland is catalogu
 
 This date now falls directly on a securely attested Weigel-calendar issue that itself had an engraved frontispiece.
 
-The coincidence is potentially material rather than merely chronological. In 1755 Martin Tyroff was also supplying heraldic plates for Gatterer's *Historia illustris gentis Holzschuherianae*. Nineteenth-century heraldic literature explicitly attributes the armorial plates of that 1755 work to Tyroff as designer/engraver.
+The coincidence is potentially material rather than merely chronological. In 1755 Martin Tyroff was also supplying heraldic plates for Gatterer's *Historia genealogica dominorum Holzschuherorum*. Nineteenth-century heraldic literature explicitly attributes multiple armorial plates of that 1755 work to Tyroff as designer/engraver.
+
+Araújo 2025 supplies an important negative control: Gatterer's own preface describes the 1755 Holzschuher frontispiece as a family-specific composition centered on the Holzschuher family's older/newer insignia plus toga, military cloak, sword and knightly crosses. That specific frontispiece is therefore an implausible direct source for the generic 1762 European genealogy/heraldry handbook threshold. Do not collapse `Gatterer + Tyroff + 1755` into one plate identity.
 
 A bounded production-history hypothesis is therefore justified:
 
-`older Müller–Tyroff Clio composition (visible by 1726; BM witness 1740)`
+`older Müller–Tyroff Clio composition (visible by 1726; signed G. Müller del. / M. Tyroff sc. in 1739; BM witness 1740)`
 → `possible Tyroff plate renewal / new state in or around 1755`
 → `1759 Gatterer first Handbuch uses Historia/Genealogia/Heraldica frontispiece`
 → `1762 Handbuch frontispiece signed M. Turoff fec. 1755`.
@@ -83,10 +95,11 @@ Do not write any of the following as fact until the 1762 image is inspected:
 
 The next decisive operation is an image-level comparison of:
 
-1. BM 1740 `Historia Genealogia Heraldica` witness;
-2. complete 1755 Wappenkalender frontispiece;
-3. 1759 Gatterer pretitular Clio witness;
-4. 1762 Gatterer frontispiece with reported `M. Turoff fec. 1755` signature.
+1. signed 1739 Müller/Tyroff calendar witness;
+2. BM 1740 `Historia Genealogia Heraldica` witness;
+3. complete 1755 Wappenkalender frontispiece;
+4. 1759 Gatterer pretitular Clio witness;
+5. 1762 Gatterer frontispiece with reported `M. Turoff fec. 1755` signature.
 
 Record composition, dimensions, signature wording/location, scratches, recutting, retouching and line-state differences.
 
@@ -95,9 +108,12 @@ Record composition, dimensions, signature wording/location, scratches, recutting
 - Deutsche Nationalbibliothek serial record, IDN `011987162`: 1723–1757, through 35.1757; continuation into Gatterer *Handbuch*.
 - ZDB title record `1046058630`: digital issue run through 1757.
 - Katalog 37, item 35: complete 1755 Wappenkalender, thirty-third issue, engraved frontispiece and full collation.
-- Katalog 37, item 36: 1757 Wappenkalender, thirty-fifth issue.
+- Independent Dresden sale catalogue: 1755 = `drey und dreysigstenmal`; 1756 = `vier und dreysigstenmal`.
+- Recent Kiefer/Jasper52 listings: quarantine their `vier- und dreysigstenmal` transcription for 1755 as a modern error unless image evidence overturns the older physical-copy controls.
+- Katalog 37, item 36 / other physical-copy controls: 1757 Wappenkalender, thirty-fifth issue.
 - National Library of Finland / Finna record `fikka.763690`: 1762 Gatterer *Handbuch*, engraved frontispiece signed `M. Turoff fec. 1755`.
-- *Jahrbuch des Heraldisch-Genealogischen Vereines Adler*, discussion of Martin Tyroff's 1755 plates for Gatterer's *Historia illustris gentis Holzschuherianae*.
+- *Jahrbuch des Heraldisch-Genealogischen Vereines Adler*, discussion of Martin Tyroff's 1755 plates for Gatterer's Holzschuher genealogy.
+- André de Melo Araújo, “Evidentiary Authority as a System” (2025), for Gatterer's own explanation of the family-specific Holzschuher frontispiece and the engraved evidence system.
 
 ## Corpus rule
 
