@@ -57,21 +57,67 @@ Other surviving 1725 detached leaves independently show the same calendar page t
 
 These are approximately 20 × 24 cm sheets and are repeatedly described with genealogical tables on the verso.
 
-## 3. What this upgrades
+## 3. The Pfalz/Augsburg design family remains visible well after 1725
+
+Detached-market and complete-copy evidence now shows that the Pfalz/Augsburg module was not a one-year 1725 curiosity.
+
+### 1729 detached plate
+
+A surviving copperplate is catalogued as:
+
+`Churfürstl. Pfältzisches Wappen - Bischöffl. Augspurgisches Wappen`
+
+and attributed to Weigel, **1729**, approximately **16.5 × 10 cm**.
+
+This is a later same-title module in the same Weigel heraldic ecology. Without an image-level comparison it must remain a `same_design_or_stock_family_candidate`, not `same_copperplate_as` the 1725 leaf.
+
+### ca.1740 detached plate
+
+Another market catalogue records:
+
+`Churfürstl.-Pfältzisches Wappen, Bischöffl. Augspurgisches Wappen (auf einem Blatt)`
+
+as a coloured Weigel copperplate, **c.1740**, approximately **17 × 9 cm**.
+
+The near-identical paired caption and similar trimmed dimensions strengthen the case for a long-lived module/design family.
+
+### 1746 detached stock
+
+A Nürnberg 1746 group of detached Weigel heraldic plates survives in the modern market, including `Churfürste Pfaltzisches Wappen` and many of the same recurrent political/ecclesiastical entries found in the calendars. Again, this controls persistence of the stock family, not identical plate identity.
+
+### Complete-calendar controls
+
+The 1738 and 1749 complete Wappenkalender descriptions independently list Pfalz and Augsburg among their armorial sequences. The 1749 issue also retains many other recurring modules that appear in earlier calendars and the handbook ecology.
+
+The safe longitudinal model is therefore:
+
+`1725 Pfalz/Augsburg/Trier module`
+→ `1729 same-caption Pfalz/Augsburg module`
+→ `ca.1740 same-caption Pfalz/Augsburg module`
+→ `1740s recurring Pfalz and Augsburg calendar stock`
+
+This supports a **long-lived maintained design/stock family**. It does not prove that one copperplate survived unchanged through the whole period.
+
+## 4. What this upgrades
 
 The overlap is now more specific than `same genre` or `same publisher orbit`.
 
-At least the following are directly controlled on both sides:
+At least the following are directly controlled:
 
 1. the same class of current ruling polities/houses;
 2. named armorial copper engravings;
-3. an armorial-image → genealogical-table pairing;
+3. an armorial-image → genealogical-table pairing in the 1725 calendar and handbook ecology;
 4. overlapping named entries including Pfalz/Augsburg/Trier;
-5. Weigel elder-widow / Bieling production context for the handbook and Weigel calendar stock immediately around 1725.
+5. Weigel elder-widow / Bieling production context around the handbook and calendar;
+6. recurrence of the Pfalz/Augsburg module/design family across later Weigel years.
 
 This justifies promoting the research relation from a generic similarity to:
 
-`direct_stock_family_test_candidate`.
+`direct_stock_family_test_candidate`
+
+with an additional longitudinal status:
+
+`long_lived_recurring_module_family`.
 
 It does **not** yet justify:
 
@@ -79,11 +125,12 @@ It does **not** yet justify:
 - `same_impression_as`;
 - `same complete plate stock`;
 - dating the SB-17124 copy exactly to 1725;
-- identifying the handbook's frontispiece as the Clio plate.
+- identifying the handbook's frontispiece as the Clio plate;
+- treating identical heraldic subject matter as sufficient evidence of plate identity.
 
-## 4. Decisive next comparison
+## 5. Decisive next comparison
 
-Compare the handbook gallery's Pfalz-Bayern / Augsburg / Trier material directly against the 1725 calendar leaf for the same polities.
+Compare the handbook gallery's Pfalz-Bayern / Augsburg / Trier material directly against the 1725 calendar leaf for the same polities, then against the 1729 and c.1740 detached Pfalz/Augsburg plates when images are available.
 
 Record:
 
@@ -99,7 +146,7 @@ Record:
 
 A close match in heraldic content alone is insufficient because heraldic designs are conventional. A match in **engraved caption hand + composition + micro-layout + plate defects** would support same-plate reuse.
 
-## 5. Why the copy-state problem remains central
+## 6. Why the copy-state problem remains central
 
 The handbook family is materially unstable across surviving copies:
 
@@ -116,6 +163,6 @@ Therefore even a confirmed same-plate match would demonstrate a **shared plate-s
 
 The strongest current model is material rather than bibliographic:
 
-`annual calendar stock ↔ extractable armorial/genealogical leaf units ↔ handbook recomposition`
+`annually maintained armorial modules → extractable armorial/genealogical leaf units → handbook recomposition → continued reuse/revision across later calendar years`
 
-This remains a testable model. The newly recovered handbook interior image makes the test executable at the level of individual armorial leaves.
+This remains a testable model. The recovered handbook interior image plus the longitudinal Pfalz/Augsburg controls make the test executable at the level of individual armorial leaves rather than aggregate book descriptions.
