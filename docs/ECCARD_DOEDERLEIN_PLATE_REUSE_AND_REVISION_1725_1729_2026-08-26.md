@@ -2,7 +2,7 @@
 
 ## Status
 
-**Direct printed-primary control for Döderlein 1729; Eccard 1725 carrier identity and plate count independently controlled.**
+**Direct printed-primary control for Döderlein 1729; Eccard 1725 carrier identity and plate count independently controlled. Image-level Tab. III inspection remains the only substantive gap in this chain.**
 
 This pass upgrades the 1725 Nürnberg Eccard comparator from `same-city object-centred antiquarian practice` to a demonstrable case in which Eccard's numbered printed apparatus enters a later scholar's act of numismatic reassessment.
 
@@ -10,14 +10,27 @@ This pass upgrades the 1725 Nürnberg Eccard comparator from `same-city object-c
 
 Johann Georg von Eckhart, *Erklärung eines alten Kleinodien-Kästleins, aus dem Ebnerischen Cabinete zu Nürnberg... dadurch auch einiger massen die Braunschweig-Lüneburgische Historie, nebst einigen alten dahin gehörigen Müntzen, erläutert wird* (Nürnberg: Peter Conrad Monath, 1725).
 
-Institutional controls:
+### Institutional/digital controls
 
 - Bayerische Staatsbibliothek, `4 Bavar. 601`, VD18 `14444186`, URN `urn:nbn:de:bvb:12-bsb10332488-3`;
 - BSB/Asc copy, `4 Asc. 954#Beibd.1`, URN `urn:nbn:de:bvb:12-bsb10625348-2`;
+- Bayerische Staatsbibliothek, `4 Num.rec. 33 d`, URN `urn:nbn:de:bvb:12-bsb10685202-3`;
+- **Staatliche Bibliothek Regensburg independent digital carrier**, bavarikon object `bav:SBR-MDZ-00000BSB11083407`;
 - DDB/bavarikon metadata: `[6] Bl., 56 S., [2] Bl. : Ill. (Kupferst.)`;
 - Künker catalogue 301 independently collates the Eccard item as `6 unpag., 56 S., 3 Tfn.`.
 
+### Free Google carriers
+
+Two separate full-view Google Play carriers are also currently available:
+
+- Google Books/Play ID `w5JZAAAAcAAJ`;
+- Google Books/Play ID `cAZYAAAAcAAJ`.
+
+Both are catalogued as the 1725 Monath edition and are free to read. These are useful fallback carriers if MDZ/Bavarikon page-image routing fails.
+
 The title itself states the evidentiary programme: an old jewel/casket from the Ebner cabinet is used to elucidate Brunswick-Lüneburg history together with related old coins.
+
+The multiplicity of carriers changes the status of the remaining gap: **the source is not scarce or uncertain; only stable page-level image routing to Tab. III remains unresolved in the present research environment.**
 
 ## 2. Döderlein 1729: a prior attribution is changed after consulting Eccard
 
@@ -83,7 +96,7 @@ The safe claim is narrower and stronger: **Döderlein explicitly says that consu
 
 ## 6. Next bounded task
 
-Inspect Eccard's three plates directly and record:
+Inspect Eccard's three plates directly from any one of the redundant carriers and record:
 
 - Tab. I–III contents and plate order;
 - the casket/object views versus coin figures;
@@ -93,3 +106,7 @@ Inspect Eccard's three plates directly and record:
 - any captions that make the plate independently navigable.
 
 Until that image inspection, plate composition remains unpromoted beyond the directly cited Fig. XXVI relation.
+
+### Fast manual route if needed
+
+If automated page routing remains blocked, use either free Google Play carrier and jump to the end/plate section rather than reading the text sequentially. The target is **Tab. III**, specifically **Fig. XXVI**. One screenshot of the whole plate, including any bottom signature, is sufficient for the next evidentiary upgrade.
