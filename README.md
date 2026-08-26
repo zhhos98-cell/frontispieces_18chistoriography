@@ -4,15 +4,19 @@ A provenance-first corpus for reconstructing engraved frontispieces, plate reuse
 
 ## Research problem
 
-The seed object is the recurring engraved frontispiece:
+The seed programme is the recurring engraved threshold inscription:
 
 > *Historia. Genealogia. Heraldica. Testes temporum et veritatis.*
 
-It appears in the Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* and survives across later Gatterer formats. British Museum object `1910,0906.2` independently catalogues the 1740 frontispiece as **Martin Tyroff after Gabriel Müller**, approximately 198 × 115 mm.
+It appears in the Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* and survives across later Gatterer/Raspe formats. Direct image comparison now shows that the phrase does **not** identify one stable picture or one copperplate. At least three distinct composition families carry the same programme, and older designs can return after newer ones have circulated.
 
-The project no longer treats this as a single iconographic image. It treats the frontispiece as a **serial artefact and threshold apparatus** whose material, bibliographic and evidentiary lives can diverge: it can be reissued, detached, rebound, copied, re-engraved, moved into a new publication rhythm, or survive after the text and editorial regime around it have changed.
+The project therefore keeps four levels separate:
 
-The larger question is therefore operational:
+`inscription/programme identity ≠ composition/design identity ≠ matrix/plate identity ≠ impression/copy identity`.
+
+This turns the frontispiece from a single iconographic object into a **serial threshold apparatus and plate-stock ecology** whose verbal, graphic, material, bibliographic and evidentiary lives can diverge. A design can be replaced; an earlier design can recur; a matrix can move between publisher stocks; an impression can be detached, rebound or inserted into a later host; a copy can be enlarged by its owner.
+
+The larger question is operational:
 
 > How did engraved images, coats of arms, genealogical tables, coins, seals, manuscripts, cabinet objects and their reproductions become transportable and comparable historical witnesses, and how were those witnesses reorganised across annual calendars, weekly serials, handbooks and cumulative armorials?
 
@@ -30,7 +34,7 @@ The corpus keeps distinct:
 6. `source_evidence` — object record, scan, catalogue, correspondence, review, advertisement;
 7. `relationship` — reuse, same-plate-as, variant-of, derived-from, production association, textual use, teaching, publisher succession.
 
-A bibliographic lead is not promoted to a plate witness until the image/front matter has been inspected. Similar iconography is not enough for `same_plate_as`; dimensions, lettering, line breaks, signatures, wear, scratches, retouching and copy chronology matter.
+A bibliographic lead is not promoted to a plate witness until the image/front matter has been inspected. A motto match is not enough for composition identity; composition similarity is not enough for `same_plate_as`. Dimensions, lettering, signatures, frame, linework, stable defects, wear, scratches, retouching and copy chronology matter.
 
 Evidence statuses:
 
@@ -42,22 +46,39 @@ Evidence statuses:
 
 See [`docs/EVIDENCE_POLICY.md`](docs/EVIDENCE_POLICY.md).
 
-## 1. The Clio plate: current chronology
+## 1. Historia–Genealogia–Heraldica: composition families and recurrence
 
-The target allegory should **not** be projected backward across the whole Weigel calendar run.
+The controlled sequence is now recurrent rather than linear:
+
+`1726 A → 1728 A → 1733 A → 1737 A → 1738 A → 1744 B → 1746 B → 1748 C → 1751 C → 1755 C → 1759 A → 1761 C → 1762 C? → 1763 C → 1765 A`.
+
+### Type A — tree composition
+
+Winged Historia stands at upper left beneath/against a tree; Time/Chronos sits centrally with scythe; putti and heraldic/genealogical media occupy the lower/right field. Direct or copy-level controls now exist for **1726, 1728, 1733, 1737, 1738, 1759 and 1765**.
+
+The 1759 and 1765 returns are crucial. Type A does not simply disappear when later designs appear; it can be re-hosted after Type B and Type C. Whether these late impressions derive from the same physical copper as the early Type A sequence remains an open matrix-level question.
+
+### Type B — Müller–Tyroff architectural composition
+
+A different architectural/interior design is directly visible in **1744 and 1746**. The 1744 ULB Düsseldorf witness visibly reads `G. Müller del.` / `M. Tyroff sc.`. British Museum object `1910,0906.2` independently catalogues a 1740 *Historia Genealogia Heraldica* frontispiece as Martin Tyroff after Gabriel Müller, about 198 × 115 mm; a 1739 catalogue also reads the Müller/Tyroff signatures. Those earlier records are strong Type B hypotheses, but direct image comparison remains necessary before same-design or same-matrix promotion.
+
+Since 1746 is directly Type B and 1748 is directly Type C, **1747 is now the single-year test** for the B→C change.
+
+### Type C — seated Historia / open-book composition
+
+A third design, with seated winged Historia and a large open book, is directly visible in **1748, 1751, 1755, 1761 and 1763**; 1762 is the leading probable assignment. The National Library of Finland independently records the 1762 frontispiece signature as `M. Turoff fec. 1755`.
+
+Because Type C already exists by 1748 and a photographed physical 1755 calendar directly carries Type C, `fec. 1755` is now a **within-Type-C matrix/state problem**, not evidence for invention of the composition in 1755 and not evidence for continuity of Type B.
+
+### Adoption boundary
 
 - **1724** — a surviving copy is described with a different annual-memory frontispiece, *Gedenckwürdigkeiten des 1722ten Jahres*.
-- **1725** — independent historical catalogue evidence establishes `Mit Titelkupfer`; BSB/MDZ `bsb10428127` and a free 308-page Google digitisation survive, but the title copper's identity remains unresolved.
-- **1726** — surviving auction imagery visibly shows the target *Historia Genealogia Heraldica* allegory.
-- **ca.1737** — a detached target frontispiece survives independently, about 198 × 122 mm, with reported traces of former binding.
-- **1740** — British Museum `1910,0906.2`: target design explicitly catalogued as Martin Tyroff after Gabriel Müller.
-- **1744** — complete-copy description explicitly names the target frontispiece.
-- **1759** — Gatterer *Handbuch* copy explicitly transcribes `HISTORIA GENEALOGIA HERALDICA / TESTES TEMPORVM ET VERITATIS`.
-- **1764** — *Fortgesetzter Wappen-Calender* again explicitly names the target.
-- **1765** — title copper/frontispiece independently reported; identity not yet checked.
-- **1767–1776** — Seyfart/Raspe four-volume *Wappenbuch* set is described with **three repeated engraved frontispieces**; a separate 1771 volume has a `Titelkupfer`. The repeated design has not yet been identified as Clio.
+- **1725** — historical catalogue evidence establishes `Mit Titelkupfer`; BSB/MDZ `bsb10428127` survives, but the title copper remains unclassified.
+- **1726** — a photographed physical copy directly shows Type A.
 
-The highest-information unresolved object remains **1725**: if its title copper is Clio, the regime change occurs in 1725; if not, it occurs between 1725 and 1726.
+The programme-adoption boundary is therefore still **1725/1726**.
+
+See [`docs/HISTORIA_GENEALOGIA_HERALDICA_COMPOSITION_FAMILIES_1726_1765_2026-08-26.md`](docs/HISTORIA_GENEALOGIA_HERALDICA_COMPOSITION_FAMILIES_1726_1765_2026-08-26.md), `data/frontispiece_composition_control_1726_1765_2026-08-26.jsonl`, and `data/wappenkalender_witness_census.csv`.
 
 ## 2. Prehistory: genealogy-heraldry calendars already existed
 
@@ -66,7 +87,7 @@ The Weigel series did not invent genealogy/heraldry visual apparatus.
 - **1717–1719?** — Ostertag *Genealogisch-Heraldischer Calender* ecology.
 - **1718** — a surviving copy is described with a Johann Matthias Steidlin frontispiece, twelve monthly engravings, thirty-five armorial plates and a folding genealogical table.
 - **1720–1726** — Steidlin *Genealogisch-heraldischer Staats-Calender* continues as an annual series; the 1720 Heidelberg digitisation separately indexes its frontispiece and includes `Bericht an den Buchbinder` instructions.
-- Steidlin volumes survive for **1723 and 1726**, so Augsburg/Steidlin and Nürnberg/Weigel overlap during the Clio transition.
+- Steidlin volumes survive for **1723 and 1726**, so Augsburg/Steidlin and Nürnberg/Weigel overlap during the threshold transition.
 
 The 1723–26 problem is therefore one of **competition and reframing inside an existing calendar technology**, not simple genre invention.
 
@@ -76,11 +97,11 @@ See `data/predecessor_calendar_census.csv` and [`docs/PREHISTORY_COMPETITION_SWE
 
 Two contemporary controls make the period's own evaluative vocabulary visible.
 
-**Martin Schmeitzel, 1723.** In *Einleitung zur Wappen-Lehre* he praises the c.1720 Augsburg genealogical-heraldic calendar's coats of arms as cleanly engraved while dismissing the accompanying explanations. The current record remains below `verified_primary` until p.69 is checked directly in the scan.
+**Martin Schmeitzel, 1723.** In *Einleitung zur Wappen-Lehre* he praises the c.1720 Augsburg genealogical-heraldic calendar's coats of arms as cleanly engraved while dismissing the accompanying explanations. The substantive wording is controlled; direct p.69 inspection remains useful for diplomatic quotation.
 
 **Johann Ehrenfried Zschackwitz, 1724.** The HAB full-text transcription of *Historisch-Genealogischer Schau-Platz* programmatically promises genealogies purged of fables and supported by necessary `Documenta`. Zschackwitz evaluates genealogical authors through accuracy, errors, certainty, trustworthiness and comparison; he criticises Hübner's tables for conspicuous mistakes despite their claimed worldwide correspondence and argues for including only genealogical origins about which one can speak with certainty. He also prints submitted corrections to Hübner's tables.
 
-This is a strong contemporary control for the Clio transition: **visual execution, textual explanation, documentary support, comparison and certainty were already separable criteria of genealogical quality.**
+This is a strong contemporary control for the threshold transition: **visual execution, textual explanation, documentary support, comparison and certainty were already separable criteria of genealogical quality.**
 
 See `data/contemporary_reception_records.jsonl`.
 
@@ -94,7 +115,7 @@ The corpus records lexical and operational precedents without converting them in
 - **Johann Georg Eccard, 1721–22** — scripts, seal impressions, coins, securely dated manuscripts and archives compared across media; when originals cannot travel, drawings and ectypes in isinglass, tin foil, wax, gypsum, lead or paper are accepted. Coins can `imo et firmare` genealogy.
 - **Johann David Köhler, 1749** — *Nutz der Wappenkenntnüß zur Entdeckung einer historischen Wahrheit*: a material object, engraved representation, coats of arms and initials are used to resolve a historical identification; a 1751 response reopens the conclusion.
 
-The current analytical category is **rhetorical-operational convergence / redistribution of evidentiary authority**. The corpus does not yet claim a Cicero → Cuper → Schlegel → Eccard → Köhler → Clio textual genealogy.
+The current analytical category is **rhetorical-operational convergence / redistribution of evidentiary authority**. The corpus does not yet claim a Cicero → Cuper → Schlegel → Eccard → Köhler textual genealogy.
 
 See `data/evidentiary_language_records.jsonl` and [`docs/EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md`](docs/EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md).
 
@@ -183,10 +204,15 @@ The corpus preserves rather than normalises away:
 - `rebound_composite`;
 - `inserted_foreign_frontispiece`;
 - `calendar_leaves_inserted`;
+- `owner_augmented_visual_comparison_set`;
 - `annotated_copy`;
 - plate/text separation and later plate reuse.
 
-A copy is therefore not merely an imperfect representative of an edition. Damage, extraction, rebinding and annotation can reveal how these visual systems were actually handled and recomposed.
+Two copy-level controls now show owners actively enlarging the published apparatus. A 1747 copy described in 1912 had **more than one hundred additional named aristocratic copper engravings** cut out and lightly attached to existing plate versos. A 1750 luxury copy associated by armorial supralibros with **Maria Josepha of Saxony, Dauphine of France** had its 108 issued armorial engravings coloured and heightened with gold and silver, while numerous additional coloured arms were pasted onto blank pages.
+
+A copy is therefore not merely an imperfect representative of an edition. Damage, extraction, rebinding, colouring, metallic heightening, insertion and annotation can reveal how these visual systems were handled and recomposed. In some cases the calendar became an **extensible private armorial database**.
+
+See `data/copy_afterlife_controls_2026-08-26.jsonl` and [`docs/COPY_AUGMENTATION_AS_PRIVATE_ARMORIAL_DATABASE_1747_1750_2026-08-26.md`](docs/COPY_AUGMENTATION_AS_PRIVATE_ARMORIAL_DATABASE_1747_1750_2026-08-26.md).
 
 ## Repository layout
 
@@ -198,18 +224,21 @@ data/
   core_records.jsonl
   web_witness_records.jsonl
   wappenkalender_witness_census.csv
+  frontispiece_composition_control_1726_1765_2026-08-26.jsonl
+  copy_afterlife_controls_2026-08-26.jsonl
   predecessor_calendar_census.csv
   handbook_copy_records.jsonl
   parallel_apparatus_census.csv
   production_network_records.jsonl
+  transmission_network_records.jsonl
   evidentiary_language_records.jsonl
   contemporary_reception_records.jsonl
-  gnm_holdings_seed.csv
   research_leads.csv
 docs/
   EVIDENCE_POLICY.md
-  WEB_SWEEP_2026-08-21.md
-  DEEP_SWEEP_2026-08-21.md
+  HISTORIA_GENEALOGIA_HERALDICA_COMPOSITION_FAMILIES_1726_1765_2026-08-26.md
+  CLIO_PLATE_STATE_CONTROL_1739_1762_2026-08-26.md
+  COPY_AUGMENTATION_AS_PRIVATE_ARMORIAL_DATABASE_1747_1750_2026-08-26.md
   PREHISTORY_COMPETITION_SWEEP_2026-08-21.md
   EVIDENCE_AND_TRUTH_SWEEP_2026-08-21.md
   MATERIAL_SURROGATE_AND_NUREMBERG_1725_SWEEP_2026-08-21.md
@@ -217,16 +246,16 @@ docs/
 
 ## Immediate high-information queue
 
-1. **Extract the 1725 title copper** from BSB/MDZ `bsb10428127` or another complete copy.
-2. Compare the 1725 calendar and handbook **85-plate** configurations plate by plate before claiming shared stock.
-3. Inspect Eccard 1725 plates directly; identify engraver/signatures and reconstruct Tab. I–III plus text copper.
-4. Search Johann David Köhler's writings/correspondence for Döderlein and Eccard; keep current zero-hit searches bounded.
-5. Identify the **three repeated Seyfart frontispieces** across 1767–1776 and test whether any are the Müller–Tyroff Clio design.
-6. Compare 1718/1720/1723/1726 Steidlin frontispieces against the Weigel 1724–26 sequence.
-7. Verify Schmeitzel 1723 p.69 directly and expand contemporary review/advertising evidence for `neu vermehrt`, `verbessert`, `Wahrheit`, `Prüfung`, `Gewißheit` and correction.
-8. Resolve Weigel household/firm authority records before normalising imprints.
-9. Continue Köhler's numismatic corpus issue-by-issue, recording objects, engravings, provenance, comparison language, corrections and reader correspondence.
-10. Keep every documented transmission edge separate from operational similarity until direct citation, correspondence or production evidence is found.
+1. **1725:** extract/classify the documented title copper from BSB/MDZ `bsb10428127`; this decides whether the recurring programme begins in 1725 or 1726.
+2. **1739/1740:** directly classify the Müller/Tyroff witnesses and compare them with 1744 Type B before any same-matrix claim.
+3. **1747:** inspect the Rostock/Bassenge opening image; with 1746 Type B and 1748 Type C, this single year now locates the B→C replacement.
+4. **1752:** inspect BSB `bsb10428150`; test Type C persistence and the historical Gandersheim catalogue entry `Historia Genealogia Heraldica de An. 1751 et 1752`.
+5. **Type C matrix sequence:** compare 1748 → 1751 → 1755 → 1761 → 1762 → 1763, especially the relation of the 1755 copy to Finna's `M. Turoff fec. 1755` reading.
+6. **Type A recurrence:** compare 1726–1738 against 1759 and 1765 for signatures, dimensions, stable defects and wear; a positive same-matrix result would directly document long-lived threshold plate stock across host/publisher regimes.
+7. **1767–1776:** identify the three repeated Seyfart/Raspe frontispieces by composition family before asking whether any matrix persists.
+8. Compare the 1725 calendar and undated handbook **85-plate** configurations plate by plate before claiming shared stock.
+9. Inspect Eccard 1725 plates directly and reconstruct Tab. I–III plus text copper.
+10. Keep every documented transmission edge separate from operational similarity until direct citation, correspondence, matrix or production evidence is found.
 
 ## Privacy and provenance
 
