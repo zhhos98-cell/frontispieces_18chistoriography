@@ -1,96 +1,92 @@
-# Köhler → Gatterer: fourfold succession, 1755–1759 — 26 August 2026
+# Köhler → Gatterer: multi-carrier succession, 1755–1759 — corrected 26 August 2026
 
 ## Status
 
-**The mid-century relation can now be reconstructed as a fourfold succession across office, collection, publication, and print/plate infrastructure. Each edge has a different evidentiary status and must remain analytically separate. The result is stronger than an intellectual-influence claim because several transfers are institutional or material.**
+The mid-century relation remains stronger than a generic `influence` claim, but the earlier formulation of a simple fourfold succession requires one correction. Office, publication, and print/plate succession remain strong. The **collection edge is braided rather than linear**: Köhler material is one major inherited component of Gatterer's apparatus, but Heumann also directly supplied Urkunden- und Wappensammlungen, and the mature cabinet incorporated later purchases, gifts, institutional donations and loans.
 
-The current evidence supports four distinct relations:
+Use the following four carriers, but do not treat them as four identical transfer mechanisms:
 
-1. **academic office / Göttingen history teaching** — Gatterer becomes Köhler's successor in Göttingen;
-2. **teaching collection / scholarly apparatus** — Gatterer's later teaching collection takes as a foundational component material inherited from Köhler's estate/collection;
-3. **publication / numismatic serial** — Gatterer contributes substantially to the posthumous closure of Köhler's final `Münz-Belustigung` volume;
-4. **publisher / plate ecology** — Gatterer's 1759 genealogy-heraldry handbook appears inside the continuing Weigel-heirs/Tyroff/Bieling infrastructure and retains the inherited Clio frontispiece.
+1. **academic office / Göttingen history teaching** — Köhler's Göttingen professorial environment → Gatterer;
+2. **collection / teaching apparatus** — Köhler material + Heumann material + Gatterer's own and institutional acquisitions → mature Gatterer cabinet;
+3. **publication / numismatic serial** — Köhler's unfinished `Münz-Belustigung` → collaborative posthumous closure including Gatterer;
+4. **publisher / plate ecology** — Weigel-heirs / Tyroff / Bieling infrastructure → Gatterer's 1759 `Handbuch`, retaining the inherited Clio frontispiece.
 
-These four relations overlap chronologically but are not the same transfer.
+Detailed provenance correction: `docs/KOHLER_HEUMANN_GATTERER_COLLECTION_PROVENANCE_CORRECTION_2026-08-26.md`.
 
 ---
 
-## I. Academic succession: Köhler's Göttingen position → Gatterer
+## I. Academic succession
 
-A near-contemporary/early nineteenth-century biographical tradition states that Gatterer accepted the Göttingen call after Köhler's death. Modern scholarship on eighteenth-century numismatics states the succession even more directly: Gatterer, `Köhlers Nachfolger in Göttingen 1759`.
+Johann David Köhler taught history at Göttingen from 1735 until his death in 1755. Gatterer accepted the Göttingen call after Köhler's death and arrived in 1759. A historical biographical formulation states that in 1758 Gatterer accepted the previously offered call `nach Köhlers Tod`.
 
-Johann David Köhler had taught history at Göttingen from 1735 until his death in 1755. Gatterer arrived in Göttingen in 1759 as professor of history.
-
-A BSB Personenlexika entry preserves an older formulation:
-
-`Im J. 1758 nahm er, nach Köhlers Tod, den vorher schon einmal an ihn ergangenen Ruf zum ordentlichen Lehrer der Geschichte nach Göttingen an`.
-
-The same entry's bibliography identifies contemporary/near-contemporary controls including Heyne's 1799 elogium, Eichhorn 1800, Pütter's Göttingen university history, Meusel and Schlichtegroll.
-
-Modern university/historiographical literature also describes Gatterer as Köhler's successor in Göttingen.
-
-### Guard
-
-Do not overcompress appointment chronology. The invitation/acceptance belongs to 1758; Gatterer's Göttingen professorship is normally dated from 1759. Some later scholarship distinguishes an initial extraordinary professorial status before later ordinary-faculty promotion. For this repository the safe relation is simply:
+Safe relation:
 
 `Köhler's Göttingen history professorial environment → Gatterer succeeds him in 1759`.
 
----
-
-## II. Material succession: Köhler's collection → Gatterer's teaching apparatus
-
-This is the most important new material edge.
-
-Karl Heinz Debus's reconstruction of the `Gatterer-Apparat`, based on the Landesarchiv Speyer collection history and earlier work on Göttingen's diplomatic apparatus, states that Gatterer's teaching apparatus began from material he took over from his Göttingen predecessor Johann David Köhler.
-
-The reported inherited nucleus consisted of collections relating to:
-
-- numismatics;
-- diplomatics;
-- heraldry;
-- geography.
-
-A Speyer report summarizing Debus's presentation states that, while building a teaching apparatus for students, Gatterer `zunächst den Nachlass seines Göttinger Vorgängers Johann David Köhler übernommen hatte`; this comprised an extensive collection in those four fields. Gatterer then enlarged it through purchases, gifts from students and institutional donations.
-
-The reconstruction is independently repeated in literature on the Gatterer-Apparat and traces the claim through Hans Goetting, `Geschichte des Diplomatischen Apparats der Universität Göttingen`, *Archivalische Zeitschrift* 65 (1969), cited by Debus.
-
-This gives a concrete material succession:
-
-`Köhler collection / teaching materials`
-→ `Gatterer's inherited nucleus`
-→ `expanded visual/material teaching apparatus`.
-
-The relation is especially important because Gatterer's mature pedagogy explicitly values `Anschauung`, copying, comparison and material surrogates. That later pedagogy therefore developed in a setting containing inherited object collections, not only inherited texts.
-
-### Guard
-
-Do not claim that **the entire later Gatterer-Apparat** came from Köhler. Gatterer greatly enlarged the inherited nucleus, and his son later expanded the collection again on a much larger scale. Nor should every surviving object now in Speyer be assigned a Köhler provenance without item-level evidence.
-
-The safe formulation is:
-
-> **Köhler's scholarly collection formed a documented foundational component of Gatterer's later teaching apparatus.**
+Appointment-year nuances should remain separate from the broader succession claim.
 
 ---
 
-## III. Publication succession: Köhler's numismatic serial → collaborative posthumous closure with Gatterer
+## II. Corrected material succession: a multi-source apparatus
 
-Johann David Köhler's `Wöchentliche Historische Münz-Belustigung` retained a nominal 1750 final year but remained incomplete at his death.
+The earlier shorthand
 
-The delayed final material was brought out in 1756. Current contribution-level control separates several actors:
+`Köhler collection → Gatterer-Apparat`
+
+is incomplete.
+
+### A. Köhler edge
+
+Landesarchiv Speyer / Debus-derived collection history states that Gatterer took over material from the `Nachlass` of Johann David Köhler, including holdings related to numismatics, diplomatics, heraldry and geography. This remains a real and important material succession.
+
+### B. Heumann edge
+
+Martin Gierl's 2013 Gatterer-Medaille address, directly controlled at the printed page, explicitly says that **Köhler and Johann Heumann von Teutschenbrunn supported Gatterer and gave/left him their `Urkunden- und Wappensammlungen`.** This is a two-donor statement, not a Heumann → Köhler → Gatterer chain.
+
+Chronology reinforces the distinction. Köhler left Altdorf for Göttingen in 1735; Heumann began his Altdorf professorial career in 1740 and became ordinary professor in 1744. A simple assumption that Heumann built the relevant Altdorf collection and then passed it through Köhler therefore requires evidence that is not presently available.
+
+### C. Gatterer and institutional acquisitions
+
+Pütter's 1765 description treats Gatterer's `diplomatisches Cabinett` as a heterogeneous working collection of seals, monograms, alphabets, scripts, writing implements, originals and engraved/drawn surrogates, while separately noting about twenty original charters entrusted to him from the royal-electoral archive for teaching.
+
+Theodor von Liebenau's 1877 account further shows that later documents and seals were donated to Gatterer **for the Königliches historisches Institut**. He explicitly warns that the apparatus had not in its entirety been Gatterer's unrestricted private property.
+
+The mature provenance model is therefore:
+
+`Heumann collection material`
++
+`Köhler collection material`
++
+`Gatterer's own acquisitions/production`
++
+`archive loans`
++
+`Historisches Institut gifts`
+→
+`Gatterer's teaching apparatus`.
+
+This produces a stronger methodological point:
+
+> **collection history, legal ownership history and object provenance must be recorded separately.**
+
+Do not assign every surviving Speyer object a Köhler, Heumann or Gatterer provenance without item-level evidence.
+
+---
+
+## III. Publication succession: Köhler's numismatic serial
+
+Köhler's `Wöchentliche Historische Münz-Belustigung` retained a nominal 1750 terminal year but its final material was completed only after his death. Current contribution-level control separates at least:
 
 - Johann Tobias Köhler — documented posthumous continuator;
 - Johann Christoph Gatterer — six attributed numismatic articles plus the biographical preface on Johann David Köhler;
 - Andreas Bieling — printer named on the title page;
-- current publisher/graphic contributor — strongly identifiable from the dedication as Martin Tyroff, pending one signature-image closure.
+- Martin Tyroff — very strongly identified as publisher/graphic producer in the final-part environment, with one signature-image check still pending.
 
-Gatterer's own preface explicitly explains the mismatch between the nominal 1750 serial heading and the 1756 completion after an author who had died in 1755.
+Gatterer's own preface explicitly addresses the mismatch between the nominal 1750 heading and actual post-1755 completion.
 
-This is a direct publication succession, not merely later citation:
+Safe relation:
 
-`Köhler serial`
-→ `death / unfinished terminal volume`
-→ `Johann Tobias continuation + Gatterer contributions + publisher/engraver intervention`
-→ `posthumous closure`.
+`Köhler serial → death / unfinished terminal volume → Johann Tobias Köhler + Gatterer + Tyroff/Bieling posthumous closure`.
 
 See:
 
@@ -99,165 +95,94 @@ See:
 
 ---
 
-## IV. Cross-format production: numismatic module → annual Wappenkalender ecology
+## IV. Cross-format production reservoir
 
-The same transition environment also shows cross-format reuse.
+The highly specific Landgrave Karl / Carlsberg medal module occurs in the final Köhler numismatic environment and is also advertised in the 1756 Weigel-heirs Wappenkalender. Because nominal serial time and actual production time diverge, transfer direction remains open.
 
-The Carlsberg medal article in the posthumous Köhler sequence, no. 49, and the 1756 Weigel-heirs Wappenkalender advertise the same highly specific Landgrave Karl / Carlsberg medal and `historische Erklärung` module.
+For now encode:
 
-Because the weekly volume's nominal date and actual completion date diverge, direction of transfer remains unresolved. The important point is a shared production reservoir across publication rhythms:
+`shared medal subject + historical explanation module across weekly and annual hosts`
 
-`coin image + description + historical explanation`
-↔
-`weekly numismatic serial / annual genealogy-heraldry calendar`.
+rather than
 
-The 1756 annual is now directly located as BSB/MDZ `bsb10428153`. Manual comparison remains pending for exact text and plate identity.
+`weekly serial copied into annual calendar`.
+
+Image/text comparison of BSB `bsb10428153` against Köhler no. 49 remains in the manual queue.
 
 See `docs/CARLSBERG_CROSS_FORMAT_REUSE_KOHLER_WAPPENCALENDER_1750_1756_2026-08-26.md`.
 
 ---
 
-## V. Bibliographic/title succession: Wappenkalender → Gatterer Handbuch
+## V. Bibliographic and print/plate succession: Wappenkalender → Gatterer Handbuch
 
-The formal serial relationship is independently controlled by German union cataloguing.
+ZDB records the 1723–1757 Weigel `Geschichts-, Geschlechts- und Wappen-Calender` with continuation `Handbuch der neuesten Genealogie und Heraldik`. An older biographical bibliography likewise calls Gatterer's handbook the continued Weigel Wappenkalender.
 
-ZDB records the Nürnberg Weigel `Geschichts-, Geschlechts- und Wappen-Calender` as running **1723–1757** and lists its continuation as:
+The 1759 object combines editorial change with infrastructural continuity:
 
-`Forts.: Handbuch der neuesten Genealogie und Heraldik`.
-
-A BSB historical Personenlexika entry is even more explicit in its list of Gatterer's works:
-
-`Handbuch der neuesten Genealogie und Heraldik vom Jahre 1759 bis 1772. Ist der fortgesetzte Weigelische Wappenkalender.`
-
-Thus the 1759 title change is not merely a modern inference from similar contents. It belongs to a durable bibliographic understanding of publication succession.
-
-The 1759 physical object is materially conservative and editorially new at once:
-
-- title: `Handbuch der neuesten Genealogie und Heraldik`;
+- `Handbuch der neuesten Genealogie und Heraldik`;
 - `Aufs neue ausgefertigt von M. Johann Christoph Gatterer`;
-- publisher: `Christoph Weigels, des ältern, seel. Erben`;
+- publisher: Christoph Weigel the Elder's heirs;
 - printer: Andreas Bieling;
 - inherited Clio pretitular copper retained;
-- extensive armorial/genealogical apparatus retained/reworked.
+- armorial/genealogical apparatus continues in revised form.
 
-The publication therefore models a useful distinction:
+Martin Tyroff sits inside this transition as engraver/publisher, active extender of inherited heraldic plate stock and an engraver for Gatterer's 1755 Holzschuher project.
 
-`serial/title/editorial regime changes`
+This remains the clearest corpus instance of:
+
+`editorial/personnel succession + title change`
 while
-`publisher infrastructure + plate stock + visual threshold can persist`.
+`publisher infrastructure + plate stock + threshold image can persist`.
 
 ---
 
-## VI. Print/plate succession: Weigel heirs / Tyroff / Bieling → Gatterer host
+## VI. Revised analytical claim
 
-The personnel and material chain around the 1759 handbook is now unusually dense.
+Do not write simply `Gatterer was influenced by Köhler`.
 
-Martin Tyroff:
+Use distinct carrier relations:
 
-- married into the Weigel family;
-- ran the inherited firm / operated as engraver and publisher;
-- extended inherited armorial plate stock in 1753;
-- engraved for Gatterer's 1755 Holzschuher genealogy;
-- appears in the 1756 final Köhler environment as named graphic producer and, with very strong contextual support, the current publisher speaking in the dedication;
-- belongs to the same plate lineage in which the older Clio image is catalogued as `Martin Tyroff after Gabriel Müller`.
+### Office
+`Köhler Göttingen professorial environment → Gatterer`
 
-Andreas Bieling:
+### Collection
+`Köhler material + Heumann material + later acquisitions → Gatterer cabinet`
 
-- repeatedly serves as printer in the Weigel-heirs publication environment;
-- is explicitly named printer of the final Köhler part;
-- is explicitly named printer of Gatterer's 1759 handbook.
+### Publication
+`Köhler Münz-Belustigung → collaborative posthumous closure including Gatterer`
 
-The Clio plate:
+### Publishing/plate infrastructure
+`Weigel–Tyroff–Bieling ecology → Gatterer 1759 Handbuch with inherited Clio plate`.
 
-- predates Gatterer's handbook authorship;
-- survives into the 1759 host;
-- therefore crosses the editorial succession without requiring a new design.
+The article-level formulation can therefore be sharpened:
 
-This is the cleanest example in the corpus of:
-
-`personnel succession + publication succession + plate persistence`.
+> **Succession is multi-carrier and braided. Scholarly practice can pass through posts, objects, serial obligations, publisher relations, plate stocks and page formats, with different provenance and ownership histories attached to each carrier.**
 
 ---
 
-## VII. The four successions should not be collapsed into `influence`
+## VII. Evidence guard
 
-A generic sentence such as `Gatterer was influenced by Köhler` is now analytically weaker than the evidence.
-
-Current relations can be represented separately:
-
-### A. Office
-`Köhler Göttingen history chair/environment → Gatterer`
-
-### B. Collection
-`Köhler numismatic/diplomatic/heraldic/geographic material → Gatterer teaching apparatus`
-
-### C. Publication
-`Köhler Münz-Belustigung → posthumous closure with Gatterer contributions`
-
-### D. Publishing/plate infrastructure
-`Weigel–Tyroff–Bieling ecology → Gatterer 1759 Handbuch with inherited Clio plate`
-
-Only after these concrete transfers are separated should one ask what conceptual vocabulary or historical method was also transmitted, revised or rejected.
-
-This suggests an article-level methodological principle:
-
-> **Succession is multi-carrier. Scholarly method can move through posts, objects, serial obligations, plate stocks, publisher relationships and page formats as well as through propositions or citations.**
+1. Köhler's collection is a documented predecessor component, not the demonstrated sole origin of the Gatterer-Apparat.
+2. Gierl 2013 explicitly supports separate Köhler and Heumann transfers to Gatterer.
+3. A linear `Heumann → Köhler → Gatterer` collection chain is presently unsupported and chronologically awkward; do not use it without a transfer document.
+4. Gatterer's `sein ... Cabinet` in Pütter describes his working apparatus, not necessarily unrestricted legal title to every constituent object.
+5. Archive loans and gifts to the Königliches historisches Institut must remain distinct from private acquisitions.
+6. The present Göttingen `Diplomatischer Apparat` has a later Schönemann-based institutional lineage and should not be equated with the collection that passed to Gatterer's son and later to Speyer.
+7. Publication and plate succession remain independent of the corrected collection provenance.
 
 ---
 
-## VIII. Relation to Gatterer's later visual methods
+## Immediate bounded checks
 
-This fourfold succession helps explain why it is misleading to treat the mature Gatterer visual corpus as a wholly new Göttingen invention.
+1. Read Hans Goetting, `Geschichte des Diplomatischen Apparats der Universität Göttingen`, *Archivalische Zeitschrift* 65 (1969), pp. 11–46, especially the opening provenance discussion.
+2. Read Karl Heinz Debus, *Der Gatterer-Apparat* (Patrimonia 119, 1998) and distinguish his own reconstruction from Goetting-derived statements.
+3. Manual queue remains responsible for 1759 Handbuch front matter, 1756 Wappenkalender initials/Carlsberg module and the final Köhler-part Tyroff signature.
 
-When Gatterer develops or articulates later practices around:
+## Sources added in the correction
 
-- genealogical table–text routing;
-- `Beweisstellen` placed beside propositions;
-- synchronistic world-history tables;
-- object/surrogate pedagogy;
-- diplomatic graphic comparison;
-
-he is working after having inherited or entered several pre-existing infrastructures of comparison and representation.
-
-This does **not** mean those mature methods are simply Köhler's methods under a new name. It means the historical unit of analysis should include **material and institutional inheritance alongside conceptual innovation**.
-
----
-
-## IX. Immediate bounded checks
-
-1. **1759 Handbuch front matter** — Google full-view `P69AAAAAcAAJ`; inspect the six unnumbered opening leaves for any explicit statement about the previous Wappenkalender, Köhler, continuation, title change or new arrangement.
-2. **1756 Wappenkalender** — BSB `bsb10428153`; resolve editorial initials and compare the Carlsberg module against Köhler no.49.
-3. **Köhler final-part dedication** — visually close the `Martin ...` signature and court/service title.
-4. **Collection transfer** — when Debus 1998 / Goetting 1969 is available in full, extract the exact source chain for the transfer of Köhler's collection to Gatterer and distinguish university property from private estate material where possible.
-
----
-
-## X. Evidence guard
-
-1. `successor in Göttingen` is secure at the institutional/biographical level; appointment-year nuances should not be flattened.
-2. `Köhler collection formed the nucleus/foundational component` is controlled through Debus/Goetting-derived collection history; item-level Köhler provenance remains a separate task.
-3. Gatterer did not single-handedly complete the final `Münz-Belustigung`; Johann Tobias Köhler also had a documented role.
-4. Tyroff as dedication signer remains one image check short of direct signature-level verification.
-5. The 1759 Clio plate is inherited; its survival does not imply Gatterer designed it or endorsed every aspect of its original intended meaning.
-6. Formal serial succession does not mean every textual or graphic component migrated unchanged.
-
----
-
-## XI. Sources
-
-Institutional/bibliographic:
-
-- ZDB, `Der durchlauchtigen Welt ... Geschichts-, Geschlechts- und Wappen-Calender`, ZDB 343034-0: Nürnberg, Weigel, 1723–1757; continuation `Handbuch der neuesten Genealogie und Heraldik`.
-- BSB Personenlexika entry for Johann Christoph Gatterer, including `Ist der fortgesetzte Weigelische Wappenkalender` and older biographical/source bibliography.
-- Landesarchiv Speyer / Karl Heinz Debus, `Der Gatterer-Apparat`, Patrimonia 119 (1998); collection-history summary and later institutional presentation.
-- Hans Goetting, `Geschichte des Diplomatischen Apparats der Universität Göttingen`, *Archivalische Zeitschrift* 65 (1969), cited in the Gatterer-Apparat collection history.
-
-Modern scholarly controls:
-
-- `Umgemünzte Aufklärung. Die Numismatik im 18. Jahrhundert bis Eckhel` (2022), describing Gatterer as Köhler's Göttingen successor and recording his seven contributions to the delayed final volume.
-- Martin Gierl, `Geschichte als präzisierte Wissenschaft` (2012), contribution-level bibliography and transition context.
-
-Primary print controls:
-
-- Köhler, `Wöchentliche Historische Münz-Belustigung`, part 22, nominal 1750 / completed posthumously 1756.
-- Gatterer, `Handbuch der neuesten Genealogie und Heraldik` (Nürnberg, 1759), Google Books `P69AAAAAcAAJ`, BSB `bsb10428155`.
+- Martin Gierl, Gatterer-Medaille address, *DAGV-News* 04/2013, p. 98, direct printed-page control.
+- Deutsche Biographie, Johann Heumann von Teutschenbrunn, for Altdorf chronology.
+- LMU/biographical control, Johann David Köhler, for move to Göttingen in 1735.
+- Johann Stephan Pütter, Göttingen university history (1765), cabinet/loan description as preserved in later collection history.
+- Theodor von Liebenau, `Gatterer's Lehrapparat in Luzern` (1877), for mixed institutional/private provenance.
+- Göttingen institutional history of the Diplomatischer Apparat, for separation of Gatterer's cabinet from the later Schönemann-based present collection.
