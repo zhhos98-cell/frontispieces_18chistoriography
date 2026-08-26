@@ -1,15 +1,46 @@
-# Historiographical boundary: Araújo on Gatterer, visual evidence and paratext — 2025–2026
+# Historiographical boundary: Araújo on title pages, transmediation, Gatterer and visual evidence — 2020–2026
 
 ## Why this boundary is necessary
 
-Two recent studies by André de Melo Araújo directly occupy territory that this project must not redescribe as a novelty claim:
+Four studies by André de Melo Araújo now provide direct controls for claims about material bibliography, threshold images, reproduction and evidentiary authority:
 
-1. **2025** — “Evidentiary Authority as a System: Johann Christoph Gatterer and the Collective Making of Historical Knowledge in the Eighteenth Century,” *Berichte zur Wissenschaftsgeschichte* 48 (3): 203–226.
-2. **2026** — “Epistemologia paratextual. Prova e autoridade no prefácio à Historia genealogica (1755) de Johann Christoph Gatterer,” *Revista de Fontes* 12 (23): 52–78.
+1. **2020** — “The First Page of History: Materiality and the Making of a Visual Argument in Eighteenth-Century Historiography.”
+2. **2022** — “Transmediating Historical Artifacts. Johann Christoph Gatterer’s Works on Diplomatics and the Reproduction of Documentary Evidence for Eighteenth-Century Historical Research,” *Espacio, Tiempo y Forma* 35: 129–156.
+3. **2025** — “Evidentiary Authority as a System: Johann Christoph Gatterer and the Collective Making of Historical Knowledge in the Eighteenth Century,” *Berichte zur Wissenschaftsgeschichte* 48 (3): 203–226.
+4. **2026** — “Epistemologia paratextual. Prova e autoridade no prefácio à Historia genealogica (1755) de Johann Christoph Gatterer,” *Revista de Fontes* 12 (23): 52–78.
 
-Both center Gatterer's *Historia genealogica dominorum Holzschuherorum* (1755). Their combined scope makes several broad formulations unavailable as claims of originality for the present project.
+Taken together, these works make several broad novelty claims unavailable. They also sharpen the present project's distinct object scale.
 
-## 1. What Araújo 2025 already does
+## 1. Araújo 2020: title-page materiality, series identity and an explicit frontispiece boundary
+
+The 2020 article is especially useful because its corpus rule is precise. It distinguishes the **frontispiece** from the letterpress title page and then deliberately restricts its main analysis to title pages. A metal-engraved frontispiece facing the title page is treated as a different bibliographic object. This matters here: the present corpus is centered precisely on independently printed threshold plates whose material lives can diverge from the title leaf.
+
+Within the title-page corpus, Araújo nevertheless establishes several procedures that the present repository should adopt rather than rediscover:
+
+- stable visual design can identify a serial publication even when individual volumes use **different metal matrices**;
+- the Göttingen universal-history series preserves one iconographic scheme across dozens of title pages while using multiple engraved matrices and different artists;
+- visual continuity therefore does not imply plate identity;
+- wear, marginal ink accumulation and small material defects can demonstrate that the **same physical ornament** migrated between different publishers and host books;
+- publishers could insist on continued visual series identity even when authors themselves regarded ornaments or vignettes as unnecessary.
+
+This is a direct methodological control for `same_plate_as` in the repository: iconographic sameness is weaker evidence than matrix-specific defects, wear, lettering and dimensions.
+
+It also clarifies the project's opening. Araújo 2020 gives a material history of the **title page and its ornaments**; the present project follows the separately printed frontispiece/plate occurrence across host publications, copies and publisher stocks.
+
+## 2. Araújo 2022: transmediation and the Quedlinburg reproduction chain
+
+The 2022 article follows four engravings of the Quedlinburg gravestone dispute across 1770, 1783, 1787 and 1799. It is therefore direct prior art for the proposition that reproduced documentary evidence can change, accumulate errors and require expert control across media.
+
+Two specific controls materially reduce the repository's manual queue:
+
+- Araújo reproduces **Gatterer 1770 p.6 and Gatterer 1799 p.135 side by side**, so the graphic-letter comparison between those two printed states is already controlled in a published figure.
+- Araújo quotes and analyses Gatterer's **1799 p.152** retrospective account of the 1770 `Hauptdruckfehler`: the neo-Gothic C/D had been rendered with lunar-quarter signs and the N with the final Hebrew letter. He connects those errors to the distance between Gatterer in Göttingen and the Halle printing process.
+
+The 2022 article also reproduces the plates inserted between pp.4–5 in the 1770 publication and pp.146–147 in the 1799 *Praktische Diplomatik*. That makes it a strong secondary visual control, although direct primary plate-state inspection still matters if the project wants to record dimensions, signatures, line defects or exact state changes.
+
+Accordingly, “reproduction errors matter epistemically” is prior art. The present corpus can instead ask how the physical or re-engraved visual witness travels, where correction becomes possible, and how those reproduced states interact with other serial and publisher-held plate ecologies.
+
+## 3. What Araújo 2025 already does
 
 The 2025 article explicitly reconstructs the **multiple production stages** of Gatterer's 1755 illustrated genealogy through material and medial analysis. It does not treat engravings as decorative supplements.
 
@@ -38,7 +69,7 @@ Therefore the following generic propositions are already prior art:
 - “Media transformations could alter documentary evidence.”
 - “Gatterer's frontispiece participated in an epistemic/evidentiary programme.”
 
-## 2. What Araújo 2026 adds
+## 4. What Araújo 2026 adds
 
 The 2026 article moves from the whole editorial system to the **preface as an epistemic device**.
 
@@ -55,7 +86,7 @@ The bibliography notably includes both the **1752 Weigel Wappenkalender** and th
 
 Accordingly, the present project should not claim that treating front matter/thresholds as epistemically active is itself new.
 
-## 3. The defensible opening for the present project
+## 5. The defensible opening for the present project
 
 The strongest opening is **longitudinal and material-bibliographic**, not a generic theory of visual evidence or paratext.
 
@@ -120,9 +151,11 @@ This scale differs from reconstructing the production of one authorial work. It 
 
 The project reconstructs the Weigel elder-widow/heirs succession, printer Bieling, Tyroff family/production relations, recurring publisher advertisements and possible stock transfer into Raspe/Gatterer formats.
 
-The 1725 calendar/handbook `85 plate + title copper` coincidence is treated as a plate-stock comparison problem, not as bibliographic similarity.
+The 1766 *Die Grösse und Mannigfaltigkeit* preface now gives an actor's term for this ecology: old plates physically held in the publisher's office are defended as reusable **`Verlagskupfer`**, because replacing them with newly engraved plates would not be commercially recoverable at the work's price. This is direct period evidence that plate stock could be treated as persistent publishing capital while texts and audiences changed.
 
-## 4. Claims to demote or avoid
+The 1725 calendar/handbook `85 plate + title copper` coincidence therefore remains a plate-stock comparison problem, not merely a bibliographic similarity.
+
+## 6. Claims to demote or avoid
 
 Do **not** use as central novelty claims:
 
@@ -131,23 +164,24 @@ Do **not** use as central novelty claims:
 - eighteenth-century engraved reproductions mediate historical truth;
 - manuscript and printed evidence interact;
 - visual evidence is collaboratively produced;
-- reproduction errors matter epistemically.
+- reproduction errors matter epistemically;
+- stable serial visual identity necessarily means the same physical matrix.
 
 These can be used as established historiographical ground, with Araújo cited directly.
 
-Likewise, avoid inventing a false opposition in which Araújo studies “text” and this project studies “images.” His 2025 article explicitly says the opposite and gives the engravings primary analytical weight.
+Likewise, avoid inventing a false opposition in which Araújo studies “text” and this project studies “images.” His work explicitly gives material and graphic production primary analytical weight.
 
-## 5. Strong differentiation sentence
+## 7. Strong differentiation sentence
 
 A defensible compact distinction is:
 
-> **Araújo reconstructs how Gatterer's 1755 editorial system produced and authenticated evidence across manuscript, print and engraving. This project follows a different object scale: how engraved threshold and armorial apparatus moved between annual calendars, handbooks and cumulative Wappenbücher, acquired new host functions, and diverged across surviving copies over more than half a century.**
+> **Araújo reconstructs how title-page materiality and Gatterer's editorial systems produced, transmitted and authenticated evidence. This project follows a different object scale: how separately printed threshold and armorial plates moved between annual calendars, handbooks and cumulative Wappenbücher, acquired new host functions, remained in publisher stock, and diverged across surviving copies over more than half a century.**
 
 An even tighter formulation:
 
-> **The unit here is not Gatterer's book but the migrating plate/witness occurrence.**
+> **The unit here is not Gatterer's book or its title page but the migrating plate/witness occurrence.**
 
-## 6. Consequence for the Clio frontispiece
+## 8. Consequence for the Clio frontispiece
 
 The Clio plate should not be presented primarily as proof that an eighteenth-century frontispiece could do epistemic work. That proposition is now too broad and too close to existing work.
 
@@ -161,9 +195,11 @@ The more original questions are:
 - how its lineage differs from the older Eimmart Wappenbuch frontispiece;
 - how repeated threshold imagery interacts with annual source recomposition, publisher advertising and plate-stock reuse.
 
-## 7. Bibliographic controls
+## 9. Bibliographic controls
 
+- André de Melo Araújo, “The First Page of History: Materiality and the Making of a Visual Argument in Eighteenth-Century Historiography,” 2020.
+- André de Melo Araújo, “Transmediating Historical Artifacts. Johann Christoph Gatterer’s Works on Diplomatics and the Reproduction of Documentary Evidence for Eighteenth-Century Historical Research,” *Espacio, Tiempo y Forma. Serie IV, Historia Moderna* 35 (2022): 129–156, DOI 10.5944/etfiv.35.2022.34557.
 - André de Melo Araújo, “Evidentiary Authority as a System: Johann Christoph Gatterer and the Collective Making of Historical Knowledge in the Eighteenth Century,” *Berichte zur Wissenschaftsgeschichte* 48, no. 3 (2025): 203–226, DOI 10.1002/bewi.2145.
 - André de Melo Araújo, “Epistemologia paratextual. Prova e autoridade no prefácio à Historia genealogica (1755) de Johann Christoph Gatterer,” *Revista de Fontes* 12, no. 23 (2026): 52–78, DOI 10.34024/fontes.2025.v12.20930.
 
-Both are direct prior-art controls and should enter the project historiography rather than remain optional background reading.
+These are direct prior-art controls and should enter the project historiography rather than remain optional background reading.
