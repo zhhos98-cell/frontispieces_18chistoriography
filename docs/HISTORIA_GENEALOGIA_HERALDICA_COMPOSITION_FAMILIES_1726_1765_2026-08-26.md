@@ -26,6 +26,7 @@ For this corpus, “Clio” without a composition qualifier is too coarse for pl
 | 1737 | Detached formerly bound impression, Antiquariaat Arine van der Steur / AbeBooks inventory 30036579591; image `https://pictures.abebooks.com/inventory/30036579591.jpg` | **Type A** | Detached approximately 198 × 122 mm impression visibly carries Type A and the full Latin programme. Seller notes former binding traces. Exact original host remains to be secured independently. |
 | 1738 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621373`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8306365` | **Type A** | Same broad composition family; direct image-level persistence through 1738. |
 | 1744 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621634`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8331509` | **Type B — Müller–Tyroff architectural composition** | Clearly different architectural/interior design. Bottom signatures visibly read `G. Müller del.` and `M. Tyroff sc.`. |
+| **1746** | Ricardo photographed physical copy; opening spread title page visibly dated 1746 | **Type B** | Photograph directly pairs a 1746 calendar title page with the same broad architectural Type B composition. This extends secure Type B persistence beyond 1744 and narrows the Type B → Type C replacement window to **1746/1748**. |
 | 1748 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621735`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8301985` | **Type C — seated Historia / open-book composition** | Third distinct design: seated winged Historia with a large open book, Time at right, genealogical sheet at left. |
 | 1751 | ULB Düsseldorf; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8306719` | **Type C** | Same broad seated-Historia/open-book composition family. Bottom-right wording appears to read `M. Tyroff fec.`; retain as image observation pending diplomatic enlargement. |
 | **1755** | Jasper52 / Lot-Art photographed physical *Geschichts-, Geschlechts- und Wappen-Calender*; lot 0105, 6 Nov. 2024 | **Type C** | The photographed opening directly pairs the frontispiece with the title page for calendar year 1755. The image is visibly the Type C seated-Historia/open-book design, not Type A or Type B. The recurring Latin programme is legible beneath it. This closes the former composition-classification gap for 1755. |
@@ -49,9 +50,9 @@ This is design recurrence, not yet proof that one copperplate survived intact fr
 
 ### Type B — Müller–Tyroff architectural composition
 
-Directly verified in 1744 and signed `G. Müller del.` / `M. Tyroff sc.`. Catalogue controls from 1739 and the British Museum 1740 object identify a Müller→Tyroff Historia/Genealogia/Heraldica frontispiece, making Type B a strong hypothesis for those witnesses, but artist names alone do not substitute for direct composition comparison.
+Directly verified in **1744 and 1746**. The 1744 witness is signed `G. Müller del.` / `M. Tyroff sc.`; the 1746 photographed physical copy repeats the same broad architectural composition. Catalogue controls from 1739 and the British Museum 1740 object identify a Müller→Tyroff Historia/Genealogia/Heraldica frontispiece, making Type B a strong hypothesis for those witnesses, but artist names alone do not substitute for direct composition comparison.
 
-Same-matrix identity among 1739/1740/1744 remains a separate question.
+Same-matrix identity among 1739/1740/1744/1746 remains a separate question. The new 1746 witness sharply tightens the replacement chronology: because Type C is directly present in 1748, **1747 is now the single high-information intervening year** for locating the Type B → Type C switch.
 
 ### Type C — seated Historia / open-book composition
 
@@ -65,7 +66,7 @@ Type C already exists in 1748 and 1751, so even if the 1762 signature is diploma
 
 The current direct/probable composition sequence is:
 
-`1726 A → 1728 A → 1733 A → 1737 A → 1738 A → 1744 B → 1748 C → 1751 C → 1755 C → 1759 A → 1761 C → 1762 C? → 1763 C → 1765 A`.
+`1726 A → 1728 A → 1733 A → 1737 A → 1738 A → 1744 B → 1746 B → 1748 C → 1751 C → 1755 C → 1759 A → 1761 C → 1762 C? → 1763 C → 1765 A`.
 
 This is more consequential than a sequence of redesigns. The same verbal programme could be attached to different compositions, while older composition families could be **reactivated or re-hosted** after newer ones circulated.
 
@@ -113,6 +114,7 @@ Old catalogue: Staatsarchiv Coburg, LAA 5772.
 
 ## Immediate discriminating checks
 
+- **1747** is now the single-year test for the Type B → Type C switch after direct 1746 Type B and 1748 Type C controls;
 - enlarge the 1755 Type C photograph and transcribe its bottom production signature;
 - compare 1748/1751 Type C against 1755 for frame, lettering and micro-defects to determine whether 1755 is a new matrix or an older plate/state;
 - pair the 1762 frontispiece directly with Finna’s `M. Turoff fec. 1755` note;
