@@ -7,7 +7,7 @@ The project's Gatterer-first turn requires a strict separation between several o
 Two corrections are now mandatory:
 
 1. **`Evidenz` in Gatterer's 1767 methodological vocabulary has more than one register.** Source-based historical demonstration and vivid, spectator-producing narration must not be collapsed.
-2. **The six tables of the 1766 `Synopsis historiae universalis` do not all visualize history in the same way.** At least the colored power diagrams and the classified event matrix perform different operations.
+2. **The six tables of the 1766 `Synopsis historiae universalis` do not all visualize history in the same way.** At least the duration/power diagrams and the classified event matrix perform different operations; moreover, colour itself is a copy-level variable rather than a safely edition-level constant.
 
 ---
 
@@ -67,19 +67,19 @@ Do not translate all three as undifferentiated “visual evidence.”
 
 ## II. The 1766 `Synopsis`: not one kind of historical table
 
-The original title already gives material differentiation:
+The original title gives material differentiation:
 
 `Synopsis historiae universalis sex tabulis comprehensa, quarum duae in aes incisae coloribusque illustratae sunt`.
 
-The work consists of six folding tables; **two were copper-engraved and colored**.
+The work consists of six folding tables. Two are copper-engraved and are described in the title as coloured, but surviving-copy evidence shows that **the actual presence of hand-applied colour cannot be treated as a fixed edition property**.
 
 Direct open copy: ULB Sachsen-Anhalt, shelfmark `Na 1338`, DOI `10.25673/55581`, VD18 11228814.
 
-### A. Tables 1–2: duration and power as colored continuous structures
+### A. Tables 1–2: duration and power as continuous structures
 
-The colored diagrams identified by Gierl as Tables 1 and 2 encode the beginning/end and relations of states through extended bars and color.
+The diagrams identified by Gierl as Tables 1 and 2 encode the beginning/end and relations of states through extended bars and, in coloured copies, pigment.
 
-Gierl's reconstruction records Gatterer's code as:
+Gierl's reconstruction reads the colour code as:
 
 - leading empire — red;
 - competing states — green;
@@ -115,7 +115,7 @@ Table 4 uses a different grammar. It divides historical material into columns fo
 
 and boxes them into hundred-year intervals.
 
-This is not the same operation as the power bars. It gives selected facts stable categorical positions inside a simultaneous matrix.
+This is not the same operation as the duration/power bars. It gives selected facts stable categorical positions inside a simultaneous matrix.
 
 Gierl compares the result to an open cabinet: universal history is assembled from particular and special histories, each placed in a structured location.
 
@@ -123,10 +123,35 @@ Gierl compares the result to an open cabinet: universal history is assembled fro
 
 The `Synopsis` therefore already contains at least two distinct visual solutions:
 
-1. **relational/dynamic simultaneity** — colored durations and power relations across time;
+1. **relational/dynamic simultaneity** — durations and power relations across time;
 2. **classified/synoptic simultaneity** — events placed by historical domain and century.
 
 A generic claim that Gatterer “used tables to show simultaneity” is too weak. The project should ask what type of relation each table makes optically available.
+
+### D. Copy-level colour and binding control
+
+André de Melo Araújo's 2015 six-folio study adds a material control that is essential for this repository. He reports variation not only in hand colouring but also in the order in which the two subsets of tables were bound.
+
+Current copy controls from his inspection:
+
+- **1766 Halle, ULB Sachsen-Anhalt, `Ha 179 IZEA / Na 1338`** — four-table subset I–IV followed by two-table subset I–II; the smaller two-table subset is coloured.
+- **1766 Hannover, Gottfried Wilhelm Leibniz Bibliothek, `F-A 10010`** — coloured copy.
+- **1766 Tübingen, Universitätsbibliothek, `Fn 28.2`** — crucial mixed state: the first of the two relevant tables is coloured while the second is not.
+- **1766 Leipzig, `Allg.Gesch.73`** — no colour.
+- **1766 Gotha, Forschungsbibliothek, `SPB 2° 1270.00157`** — no colour.
+- **1769 Erlangen-Nürnberg, `H00/2 HIST 20 h`** — four-table subset followed by two-table subset; the latter has no colour.
+- **1769 Göttingen, `2 H UN II, 488`** — the two subsets are bound in the reverse order; both are uncoloured.
+- **1769 Leipzig `Allg.Gesch.74`, Oldenburg `GE III 1 A 60`, Rostock `Rb-930`** — reported uncoloured.
+
+Araújo uses the Tübingen mixed copy and the wider census to argue that pigment was applied individually by hand rather than mechanically fixed across an impression. He also argues that, unlike Priestley and Fulda, colour in Gatterer's *Synopsis* does not add historically significant information beyond the precise line structure, but mainly highlights boundaries.
+
+This produces an unresolved interpretive tension with Gierl's stronger semantic reading of red/green/yellow/black as a code for leading, competing, dependent and external states. The safe position is therefore:
+
+> **line geometry and placement are demonstrably load-bearing across coloured and uncoloured witnesses; the semantic necessity and stability of the pigment code must be tested copy by copy before being treated as Gatterer's invariant visual syntax.**
+
+This is especially important for the repository because a digital colour witness can silently convert a contingent hand-coloured state into what looks like the canonical work.
+
+Primary/copy source: ULB Sachsen-Anhalt open object `10.25673/55581`. Secondary copy census and material analysis: André de Melo Araújo, “Imagens da simultaneidade e os impasses da narrativa – O caso da *Synopsis historiae universalis* (1766) de Johann Christoph Gatterer,” *Tempo* 21.38 (2015), 192–215, DOI `10.1590/TEM-1980-542X2015v213801`, esp. p.206 and nn.13–14. Compare Martin Gierl's reconstruction of the colour code in *Geschichte als präzisierte Wissenschaft* (2012) and “Johann Christoph Gatterer and History as Science” (2013/2016).
 
 ---
 
@@ -156,13 +181,14 @@ Do **not** write a single developmental sentence such as:
 
 The evidence supports a more discriminating question:
 
-> Which historical operation was delegated to which visual or textual form?
+> Which historical operation was delegated to which visual or textual form, and which of its visible features were stable across copies?
 
 Current controlled distinctions:
 
 - plate reproducing charter/seal/object → **source warrant / demonstrative surrogate**;
 - classified historical table → **placement and surveyability**;
-- colored duration diagram → **power relation and temporal process**;
+- duration diagram → **power relation and temporal process**;
+- hand-applied colour → **copy-variable layer whose semantic load remains to be controlled**;
 - synchronistic overview → **epoch/system synthesis**;
 - vivid narration → **ideal presence / spectator-effect**;
 - diplomatic graphic comparison → **formal diagnostic test**.
