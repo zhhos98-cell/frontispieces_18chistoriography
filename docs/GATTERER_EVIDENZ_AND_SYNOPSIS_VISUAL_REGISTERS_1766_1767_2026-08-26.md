@@ -1,196 +1,324 @@
-# Gatterer: evidence and the visual registers of the *Synopsis*, 1766–1767 — 26 August 2026
+# Gatterer: Evidenz, synopsis, and inspectability, 1766–1769 — 26 August 2026
 
 ## Why this control is necessary
 
-The project's Gatterer-first turn requires a strict separation between several operations that can all look “visual” to a modern reader but are not equivalent in Gatterer's historical method.
+The project's Gatterer-first turn now requires a strict separation between **four** operations that can all acquire visual language but are not equivalent in Gatterer's historical method.
 
-Two corrections are now mandatory:
+Three distinctions were already controlled for 1766–1767: source warrant, systemic/synoptic intelligibility, and vivid narration. Gatterer's 1769 `Von der Evidenz in der Genealogie` adds a fourth operation that materially changes the picture: **the warrant relation itself can be made rapidly inspectable by page disposition**.
 
-1. **`Evidenz` in Gatterer's 1767 methodological vocabulary has more than one register.** Source-based historical demonstration and vivid, spectator-producing narration must not be collapsed.
-2. **The six tables of the 1766 `Synopsis historiae universalis` do not all visualize history in the same way.** At least the duration/power diagrams and the classified event matrix perform different operations; moreover, colour itself is a copy-level variable rather than a safely edition-level constant.
+The resulting question is no longer whether Gatterer “made history visual.” It is:
+
+> **Which relation did a given textual, graphic, tabular or material form make easier to inspect, compare, remember, prove or imagine?**
 
 ---
 
-## I. Gatterer's double register of `Evidenz`
+## I. Four registers that must not be collapsed
 
-### A. Historical demonstration / source warrant
+### A. Source warrant / historical demonstration
 
 In `Vorrede von der Evidenz in der Geschichtskunde` (1767), authentic, uncorrupted charters and monuments, together with critically tested reports of actors and eyewitnesses, can function as the `Grundsätze` of a `historische Demonstration`.
 
-Eyewitness status does not eliminate criticism. Gatterer explicitly treats enthusiasm/partiality as a recurrent problem and requires critical testing before such reports can support historical certainty.
+Eyewitness status does not eliminate criticism. Gatterer treats enthusiasm and partiality as recurrent problems and requires critical testing before reports can support historical certainty.
 
 Operationally:
 
 `source / monument / report`
 → `criticism of authenticity and credibility`
 → `historische Demonstration`
-→ `Gewißheit of the factual claim`.
+→ `Gewißheit of factual claim`.
 
-This is the register closest to the 1755 genealogical plates when they reproduce and cite artifacts as warrants.
+This register concerns the **warranting status of evidence**.
 
-### B. Evident narration / ideal presence
+### B. Systemic overview / causal arrangement
 
-Gatterer also calls the production of `Evidenz` one of the major tasks of `historische Kunst`. Here the problem is not merely whether a fact is proved, but how a historical whole is made present to the reader.
+A second relation is visible in `Vom historischen Plan` and the synchronistic material. A `System von Begebenheiten` in history resembles a system of concepts in a science: what principles and premises are in the latter, occasions and causes are in the former.
 
-His formulation is explicit: the historian should create `ideale Gegenwart der Begebenheiten` and narrate so vividly and intuitively that the reader becomes, as it were, a `Zuschauer`.
+Historical intelligibility is produced when selected events, durations, causes, consequences and political relations can be surveyed as a structured whole.
 
-Gatterer distinguishes historian from poet: the poet constructs a whole that never existed in exactly that configuration; the historian is to bring a whole that **did once exist** back into appearance in the way it existed.
+Operationally:
+
+`selected historical units`
+→ `position / duration / relation`
+→ `surveyable system`
+→ `causal or synchronous intelligibility`.
+
+This register concerns **relations among historical units**.
+
+### C. Narrative evidentia / ideal presence
+
+Gatterer also calls production of `Evidenz` one of the major tasks of `historische Kunst`. Here the problem is how a warranted past whole is made present to the reader.
+
+His formulation is explicit: historical narration should create `ideale Gegenwart der Begebenheiten` and make the reader, as it were, a `Zuschauer` or `Mitgenosse`.
 
 Operationally:
 
 `critically warranted past whole`
 → `pragmatic development of causes/effects`
 → `anschauende Darstellung / ideale Gegenwart`
-→ `reader as Zuschauer / Mitgenosse`.
+→ `reader as spectator`.
 
-### C. Systematic intelligibility sits between proof and vividness
+This register concerns **experienced presence**.
 
-A third relation is crucial for the tables and `Plan`. Gatterer writes that a `System von Begebenheiten` in history resembles a system of concepts in a proper science: what principles and premises are in the latter, occasions and causes are in the former.
+### D. Genealogical Evidenz / displayed proposition–source identity
 
-The historian can generate evidential intelligibility when causes and consequences can be surveyed together. This is not identical either with documentary proof or with rhetorical vividness.
+Gatterer's 1769 `Von der Evidenz in der Genealogie`, *Allgemeine historische Bibliothek* 12, pp. 3–17, introduces a fourth operation.
 
-Therefore use three separate analytical labels in this project:
+The current uncorrected GenWiki transcription from the Göttingen digitisation preserves an unusually precise distinction.
 
-1. **source warrant / historical demonstration**;
-2. **systemic overview / causal arrangement**;
-3. **narrative evidentia / ideal presence**.
+Genealogical **truth** consists in the `Uebereinstimmung` between sources and the genealogical propositions drawn from them. A proposition can therefore be true because it agrees with its source without yet being maximally evident to another reader.
 
-Do not translate all three as undifferentiated “visual evidence.”
+Genealogical **Evidenz** requires that this agreement or `Identität` be placed in such a light that it can be perceived immediately and without effort. Gatterer gives the relation explicitly visual wording: it should effectively `ins Auge` fall that the genealogist's proposition says the same thing as the diploma, monument or credible writer on which it rests.
 
-### Source anchors
+Operationally:
 
-- Johann Christoph Gatterer, `Vorrede von der Evidenz in der Geschichtskunde`, in Friedrich Eberhard Boysen, ed., *Die Allgemeine Welthistorie ... in einem vollständigen und pragmatischen Auszuge*, vol. 1 (Halle, 1767), pp. 1–38.
-- Direct digitisation: Landesbibliothek Oldenburg / Kulturerbe Niedersachsen; carrier table of contents explicitly places `Frontispiz → Titelseite → J. C. Gatterers Vorrede von der Evidenz ... → measures/weights/coins tables → universal history`.
-- Secondary quotation controls used in this pass preserve Gatterer's wording on `historische Demonstration`, `ideale Gegenwart`, `Zuschauer`, `Mitgenosse`, and `System von Begebenheiten`.
+`source`
+→ `genealogical proposition extracted from source`
+→ `verbatim Beweisstelle`
+→ `proposition and proof placed immediately together`
+→ `agreement inspectable almost mit einem Blick`
+→ `Evidenz`.
+
+This register concerns **inspectability of the warrant relation itself**.
 
 ---
 
-## II. The 1766 `Synopsis`: not one kind of historical table
+## II. The 1769 distinction changes the meaning of “visual” in this project
+
+The phrase `ins Auge fällt` is tempting to treat as proof that Gatterer simply preferred visual knowledge. That would flatten the operation.
+
+The 1769 case is not primarily pictorial. Its mechanism is **disposition**:
+
+- reproduce the relevant proof passage rather than merely cite a distant source;
+- isolate the genealogical proposition rather than compress many claims together;
+- place proposition and proof in immediate proximity;
+- reduce the reader's navigational and mnemonic burden;
+- make comparison local and rapid.
+
+The better analytical vocabulary is therefore:
+
+**inspectability / proof localization / adjacency / reduced navigational distance**.
+
+A typographic page can satisfy this operation without becoming an image. Conversely, a richly illustrated page can fail it if the reader cannot see which source warrants which proposition.
+
+This is a central methodological guard for the entire image corpus.
+
+---
+
+## III. Citation versus local proof reproduction
+
+The 1769 essay draws a sharp distinction between **citation** and **evidentiary display**.
+
+Bare citation leaves the warrant elsewhere. The reader must locate the source, recover the relevant passage, remember the proposition and perform the comparison across distance.
+
+Gatterer's preferred procedure brings the `Beweisstelle` into the local page environment and places it beside the proposition whose truth it is supposed to establish.
+
+The contrast is:
+
+`claim → citation → distant source lookup → comparison`
+
+versus
+
+`claim + reproduced proof passage → immediate comparison`.
+
+This is not a rejection of source criticism. It is a second-stage editorial operation applied **after** the source has been judged good enough to warrant the proposition.
+
+Thus:
+
+`source quality`
+≠ `truth of extracted proposition`
+≠ `Evidenz of displayed warrant relation`.
+
+---
+
+## IV. Duchesne as a negative control for disposition
+
+Gatterer credits the Duchesne method because it reproduces proof passages verbatim. Yet he still judges it unable to raise genealogical truth fully to Evidenz.
+
+The defect, in the current transcription, is spatial and granular:
+
+- propositions remain in Stammtafeln rather than being separately marked;
+- many propositions are compressed together;
+- each proposition does not appear individually with its corresponding proof;
+- proposition and proof therefore cannot be compared quickly enough.
+
+This is a crucial control because the failure occurs **despite the presence of the right evidentiary material**.
+
+A publication can contain source, claim and proof and still be methodologically weak because their arrangement imposes too much search and comparison work on the reader.
+
+The epistemic variable is therefore not only `what evidence is present?` but also:
+
+> **How far must the reader travel, visually and cognitively, to test the relation between claim and evidence?**
+
+---
+
+## V. The 1755 Holzschuher genealogy now has two distinct evidence architectures
+
+Immediately before defining genealogical truth, Gatterer says Stammtafeln should indicate the paragraphs or textual sections in which the known historical and genealogical particulars of each person are narrated. He names his own 1755 *Historia genealogica dominorum Holzschuherorum* as an example of this arrangement.
+
+This creates a direct but bounded retrospective bridge.
+
+The 1755 work should now be decomposed into at least two operations:
+
+### A. Artifact surrogate / testimony
+
+`charter / seal / inscription / armorial object`
+→ `drawing or manuscript intermediary`
+→ `engraved surrogate`
+→ `genealogical warrant or authority`.
+
+### B. Table–text navigation
+
+`person / relation in Stammtafel`
+→ `paragraph or section reference`
+→ `historical-genealogical account`
+→ `supporting proof environment`.
+
+The 1769 essay does not prove that Gatterer's mature theory of Evidenz was already fully articulated in 1755. It does prove that he retrospectively identified the earlier table–text cross-reference architecture as belonging to the genealogical method he was now refining.
+
+This is a stronger claim than a generic continuity of “visual genealogy.”
+
+---
+
+## VI. The worked example immediately after the 1769 essay
+
+The material sequence of *Allgemeine historische Bibliothek* 12 is itself methodologically important.
+
+Gatterer's essay occupies pp. 3–17. Google Books' full-view Austrian National Library carrier (`bFZmAAAAcAAJ`) places immediately after it:
+
+`Beyspiel zur Erläuterung der Gattererschen Methode`, beginning p. 18.
+
+Martin Gierl attributes the worked example to Matthias Christian Sprengel and gives the full span as pp. 18–46. His illustration list describes it specifically as **`Tafel und Erläuterungen`** and points to p. 19ff.
+
+Thus the issue moves directly from:
+
+`methodological definition of Evidenz`
+→ `worked genealogical example`.
+
+The highest-information outstanding test is therefore material, not conceptual: inspect the Sprengel example and determine exactly how table, proposition, proof passage, numbering and explanatory text are spatially coordinated.
+
+Google Books' searchable carrier already confirms that the volume's text environment contains terms including `Beweis`, `Evidenz`, `genealogischen`, `Stammtafeln`, `Urkunden`, `Graf von Kiburg`, `Graf von Urach`, `Berthold/Bertholdus` and `Habsburg`, consistent with the worked genealogical case following the essay. These common-term hits are navigational leads, not page-specific proof of the example's layout.
+
+---
+
+## VII. The 1766 Synopsis still contains more than one visual grammar
 
 The original title gives material differentiation:
 
 `Synopsis historiae universalis sex tabulis comprehensa, quarum duae in aes incisae coloribusque illustratae sunt`.
 
-The work consists of six folding tables. Two are copper-engraved and are described in the title as coloured, but surviving-copy evidence shows that **the actual presence of hand-applied colour cannot be treated as a fixed edition property**.
+The work consists of six folding tables. Two are copper-engraved and described as coloured, but surviving-copy evidence shows that hand-applied colour cannot be treated as a fixed edition property.
 
 Direct open copy: ULB Sachsen-Anhalt, shelfmark `Na 1338`, DOI `10.25673/55581`, VD18 11228814.
 
 ### A. Tables 1–2: duration and power as continuous structures
 
-The diagrams identified by Gierl as Tables 1 and 2 encode the beginning/end and relations of states through extended bars and, in coloured copies, pigment.
+The diagrams identified by Gierl as Tables 1 and 2 encode beginnings, endings and relations of states through extended bars and, in coloured copies, pigment.
 
-Gierl's reconstruction reads the colour code as:
+Gierl reconstructs the colour code as leading empire red, competing states green, dependent states yellow, and states outside the main historical system black. Whether this pigment code is semantically invariant must remain a copy-level question.
 
-- leading empire — red;
-- competing states — green;
-- dependent states — yellow;
-- states outside the main historical system — black.
+The visual operation is relational:
 
-The visual operation is relational rather than merely chronological. States are given duration and placed into systems of power.
+`state duration + dependence/competition + changing power structure`.
 
-#### Table 1
+### B. Table 4: classified simultaneity
 
-The ancient-world diagram produces a diagonal chain of dominant empires:
+Table 4 uses a different grammar. Historical materials are placed into categorical columns and hundred-year intervals. This gives selected facts stable positions within a simultaneous matrix rather than continuous durations.
 
-`Babylonian → Persian → Greek → Roman`.
+The two operations should remain separate:
 
-The diagonal makes the migration of power—and in Gierl's reading culture—from east to west visible as a spatial trajectory.
+- **relational/dynamic simultaneity** — durations and power relations;
+- **classified/synoptic simultaneity** — facts positioned by domain and century.
 
-#### Table 2
+### C. Colour remains a copy-level variable
 
-The post-antique diagram no longer has one continuous diagonal. It separates:
+André de Melo Araújo's copy census shows coloured, uncoloured and mixed witnesses, including the crucial Tübingen state in which one relevant table is coloured and another is not.
 
-- a more fragmented eastern line: East Roman / Ottoman / Mongol empires;
-- a more coherent line of European states.
+The safe project-level rule remains:
 
-These diagrams therefore visualize what Gatterer theorizes as **systems of submission** (`Systeme der Unterwürfigkeit`) and **systems of confederation** (`Systeme der Bündnisse`).
-
-### B. Table 4: classified simultaneity / historical cabinet
-
-Table 4 uses a different grammar. It divides historical material into columns for, among other categories:
-
-- state history;
-- church history;
-- `historia literaria`;
-
-and boxes them into hundred-year intervals.
-
-This is not the same operation as the duration/power bars. It gives selected facts stable categorical positions inside a simultaneous matrix.
-
-Gierl compares the result to an open cabinet: universal history is assembled from particular and special histories, each placed in a structured location.
-
-### C. Two forms of simultaneity inside one publication
-
-The `Synopsis` therefore already contains at least two distinct visual solutions:
-
-1. **relational/dynamic simultaneity** — durations and power relations across time;
-2. **classified/synoptic simultaneity** — events placed by historical domain and century.
-
-A generic claim that Gatterer “used tables to show simultaneity” is too weak. The project should ask what type of relation each table makes optically available.
-
-### D. Copy-level colour and binding control
-
-André de Melo Araújo's 2015 six-folio study adds a material control that is essential for this repository. He reports variation not only in hand colouring but also in the order in which the two subsets of tables were bound.
-
-Current copy controls from his inspection:
-
-- **1766 Halle, ULB Sachsen-Anhalt, `Ha 179 IZEA / Na 1338`** — four-table subset I–IV followed by two-table subset I–II; the smaller two-table subset is coloured.
-- **1766 Hannover, Gottfried Wilhelm Leibniz Bibliothek, `F-A 10010`** — coloured copy.
-- **1766 Tübingen, Universitätsbibliothek, `Fn 28.2`** — crucial mixed state: the first of the two relevant tables is coloured while the second is not.
-- **1766 Leipzig, `Allg.Gesch.73`** — no colour.
-- **1766 Gotha, Forschungsbibliothek, `SPB 2° 1270.00157`** — no colour.
-- **1769 Erlangen-Nürnberg, `H00/2 HIST 20 h`** — four-table subset followed by two-table subset; the latter has no colour.
-- **1769 Göttingen, `2 H UN II, 488`** — the two subsets are bound in the reverse order; both are uncoloured.
-- **1769 Leipzig `Allg.Gesch.74`, Oldenburg `GE III 1 A 60`, Rostock `Rb-930`** — reported uncoloured.
-
-Araújo uses the Tübingen mixed copy and the wider census to argue that pigment was applied individually by hand rather than mechanically fixed across an impression. He also argues that, unlike Priestley and Fulda, colour in Gatterer's *Synopsis* does not add historically significant information beyond the precise line structure, but mainly highlights boundaries.
-
-This produces an unresolved interpretive tension with Gierl's stronger semantic reading of red/green/yellow/black as a code for leading, competing, dependent and external states. The safe position is therefore:
-
-> **line geometry and placement are demonstrably load-bearing across coloured and uncoloured witnesses; the semantic necessity and stability of the pigment code must be tested copy by copy before being treated as Gatterer's invariant visual syntax.**
-
-This is especially important for the repository because a digital colour witness can silently convert a contingent hand-coloured state into what looks like the canonical work.
-
-Primary/copy source: ULB Sachsen-Anhalt open object `10.25673/55581`. Secondary copy census and material analysis: André de Melo Araújo, “Imagens da simultaneidade e os impasses da narrativa – O caso da *Synopsis historiae universalis* (1766) de Johann Christoph Gatterer,” *Tempo* 21.38 (2015), 192–215, DOI `10.1590/TEM-1980-542X2015v213801`, esp. p.206 and nn.13–14. Compare Martin Gierl's reconstruction of the colour code in *Geschichte als präzisierte Wissenschaft* (2012) and “Johann Christoph Gatterer and History as Science” (2013/2016).
+> **line geometry and placement are load-bearing across coloured and uncoloured witnesses; pigment must be controlled copy by copy before it is treated as invariant visual syntax.**
 
 ---
 
-## III. From table to historical `Plan`
+## VIII. From table to historical Plan
 
-The 1767 `Vom historischen Plan` makes the theoretical relation clearer. Historical materials do not become history merely by being collected or chronologically listed. A `Plan` determines why a material unit belongs in one location rather than another, and the pragmatically highest ideal is the `Nexus rerum universalis`.
+The 1767 `Vom historischen Plan` makes clear that collection and chronological listing are insufficient. A `Plan` determines why a material unit belongs where it does, and the highest pragmatic ideal is the `Nexus rerum universalis`.
 
-This allows a precise image-method crosswalk:
+The image-method crosswalk now reads:
 
-- **Table 4**: selection + categorical placement;
-- **Tables 1–2**: duration + relation + changing power systems;
-- **1771 synchronistic overview**: these relations are subsequently folded into epochs/revolutions and forms of historiography.
+- classified table → selection + categorical placement;
+- duration diagram → temporal extension + changing political relation;
+- genealogical proposition/proof page → warrant adjacency + inspectability;
+- synchronistic overview → epoch/system synthesis;
+- vivid narration → ideal presence;
+- diplomatic comparison → morphological diagnostic test.
 
-Gierl's reading of the 1771 overview is especially useful. The central columns contain Gatterer's epochs, named after major revolutions; the left column tracks changing systems of power; the right column associates epochs with successive modes of historiography, from mythic/biblical-classical histories through chronicles to collectors, critics and pragmatic historians.
-
-Thus the mature overview visualizes not only “what happened when” but:
-
-`political structure + epochal rupture + mode of historical knowledge`.
+These are distinct delegations of historical work to material form.
 
 ---
 
-## IV. Article-level guard
+## IX. Revised Evidenz matrix
 
-Do **not** write a single developmental sentence such as:
+| Register | Core relation | Primary problem | Material/representational solution |
+| --- | --- | --- | --- |
+| source warrant / demonstration | source → factual claim | is the claim warranted? | authenticity/credibility criticism, monuments, documents, testimony |
+| systemic overview | event ↔ event / duration / cause | how does the historical whole hang together? | Plan, table, synoptic arrangement |
+| narrative evidentia | past whole → reader | how can the past become experientially present? | vivid pragmatic narration, spectator-effect |
+| genealogical inspectability | proposition ↔ proof passage | can the warrant relation be checked rapidly? | verbatim proof reproduction, isolation, adjacency, local comparison |
 
-`Gatterer increasingly made history visual.`
+This matrix should replace any undifferentiated use of `visual evidence` when describing Gatterer.
 
-The evidence supports a more discriminating question:
+---
 
-> Which historical operation was delegated to which visual or textual form, and which of its visible features were stable across copies?
+## X. Article-level consequence
 
-Current controlled distinctions:
+A stronger media-division-of-labour model is now available:
 
-- plate reproducing charter/seal/object → **source warrant / demonstrative surrogate**;
-- classified historical table → **placement and surveyability**;
-- duration diagram → **power relation and temporal process**;
-- hand-applied colour → **copy-variable layer whose semantic load remains to be controlled**;
-- synchronistic overview → **epoch/system synthesis**;
-- vivid narration → **ideal presence / spectator-effect**;
-- diplomatic graphic comparison → **formal diagnostic test**.
+1. **threshold/frontispiece** — co-presents disciplines and witnesses;
+2. **artifact plate** — transports a material witness into print;
+3. **genealogical table** — compresses kin relations and navigates toward fuller textual locations;
+4. **proposition + Beweisstelle disposition** — makes source/claim agreement locally inspectable;
+5. **synchronistic table** — coordinates historical relations at larger scales;
+6. **vivid narrative** — produces ideal presence;
+7. **diplomatic graphic comparison** — makes morphology into a diagnostic test;
+8. **copy-level control** — asks whether colour, binding, insertion or reproduction has changed the visible evidence itself.
 
-These operations can cooperate, but they are not substitutes for one another.
+The shared problem is not visuality in the abstract. It is **which historical relation a medium makes operationally accessible**.
+
+---
+
+## XI. Evidence guards
+
+1. The GenWiki transcription of `Von der Evidenz in der Genealogie` explicitly labels itself `unkorrigiert`. Exact spelling and quotation punctuation require direct printed-page inspection.
+2. The Google Books carrier `bFZmAAAAcAAJ` verifies the full-view volume and the worked example beginning p. 18, but current search output does not substitute for direct page-image inspection.
+3. Do not equate `ins Auge fällt` with pictorial evidence. In 1769 the mechanism is primarily textual/editorial disposition.
+4. Spatial adjacency cannot make a false proposition true. It makes a claimed source/proposition agreement easier to inspect.
+5. Do not project the mature 1769 theory wholesale back into 1755. Gatterer's own self-reference supports continuity of table–text navigation, not identity of the full theory.
+6. Sprengel's `Beyspiel` illustrates Gatterer's method but should not be attributed to Gatterer as author; Gierl attributes it to Matthias Christian Sprengel.
+7. The semantics of colour in the *Synopsis* remain copy-sensitive.
+
+---
+
+## XII. Source controls
+
+Primary / carrier controls:
+
+- Johann Christoph Gatterer, `Von der Evidenz in der Genealogie`, *Allgemeine historische Bibliothek* 12 (1769), pp. 3–17. Google Books Austrian National Library carrier `bFZmAAAAcAAJ`.
+- [Matthias Christian Sprengel], `Beyspiel zur Erläuterung der Gattererschen Methode in der Genealogie`, *Allgemeine historische Bibliothek* 12 (1769), pp. 18–46.
+- Gatterer, `Vorrede von der Evidenz in der Geschichtskunde`, in Boysen, ed., *Die Allgemeine Welthistorie*, vol. 1 (Halle, 1767), pp. 1–38.
+- Gatterer, *Synopsis historiae universalis* (1766/1769), direct Halle copy control DOI `10.25673/55581`.
+
+Transcription / bibliographic controls:
+
+- GenWiki, `Von der Evidenz in der Genealogie (Gatterer)`, uncorrected transcription from Göttingen digitisation, especially transcription pp. 10–11.
+- Martin Gierl, *Geschichte als präzisierte Wissenschaft* (2012), bibliography and illustration list, including Duchesne, Köhler, Sprengel and Gatterer visual/genealogical examples.
+- André de Melo Araújo, “Imagens da simultaneidade e os impasses da narrativa,” *Tempo* 21.38 (2015), copy census and material analysis of the *Synopsis*.
+
+---
+
+## XIII. Immediate high-information checks
+
+1. Inspect printed pp. 10–11 of AHB 12 and promote the central `Uebereinstimmung / Identität / ins Auge / Beweisstellen / unmittelbar / mit einem Blick` wording from uncorrected transcription to direct primary control.
+2. Inspect Sprengel pp. 18–46, especially p. 19ff, and record the exact `Tafel und Erläuterungen` architecture.
+3. Test whether one genealogical proposition is visibly paired with one proof passage as Gatterer's critique of Duchesne predicts.
+4. Return to the 1755 Holzschuher copy and verify the paragraph references carried by Stammtafel entries and the actual navigational distance to text/proof.
+5. Build a comparative layout control: Duchesne 1621 → Köhler 1733 → Gatterer/Sprengel 1769.
