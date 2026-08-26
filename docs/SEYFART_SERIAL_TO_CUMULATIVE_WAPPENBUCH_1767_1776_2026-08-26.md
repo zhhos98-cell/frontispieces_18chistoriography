@@ -2,24 +2,107 @@
 
 ## Status
 
-**Retrospective specialist account now directly controlled in Bernd 1830, pp. 397–398; surviving-book and market collation independently support the resulting publication structure. Frontispiece identity remains an image-level manual task.**
+**The cumulative Wappenbuch architecture is now controlled at two evidentiary levels: a contemporaneous publisher `Vorbericht` in the Tübingen Wappenbuch carrier (catalogued 1771) explicitly describes demand, reuse of the existing Wappencalender armorial stock, a planned multi-volume corpus, divisional issue and annual co-distribution with the Wappencalender; Bernd 1830 supplies the later specialist explanation of subscriber resistance to repurchasing repeated arms and calendar detachment. Frontispiece identity remains an image-level manual task.**
 
-The terminal Seyfart/Raspe phase should not be described simply as the end of the annual Wappenkalender or the appearance of a new multi-volume armorial. Christian Samuel Theodor Bernd's 1830 retrospective account supplies a concrete explanation of the material and commercial transition.
+The terminal Seyfart/Raspe phase should no longer be described as a bibliographically accidental shift from annual calendar to later bound Wappenbuch. The surviving publisher preface gives an actor-level production programme for accumulation across annual delivery, while Bernd's later account explains additional commercial and regulatory pressures.
 
-The strongest current sequence is:
+The strongest evidence-controlled sequence is now:
 
-`repeated annual armorial stock`
-→ `calendar detached from the book`
-→ `subscriber resistance to rebuying the same armorial images`
-→ `different arms supplied in successive years`
-→ `independent numbering + descriptive text + special title pages`
-→ `a cumulative general Wappenbuch able to stand apart from the annual format`.
+`existing Wappencalender armorial stock`
+→ `demand for a more complete current Wappenbuch`
+→ `publisher undertakes a costly multi-volume work`
+→ `existing Wappencalender arms explicitly used as the foundation`
+→ `new material divided into instalments because it cannot be assembled at once`
+→ `instalments issued annually with the Wappencalender`
+→ `cumulative multi-volume Wappenbuch`.
 
-This gives historical specificity to the repository's existing vocabulary of **de-serialisation, re-serialisation and accumulation**.
+Bernd 1830 adds two retrospective mechanisms to this contemporary programme:
+
+`calendar detached under circulation/import pressure`
++
+`buyers resist repurchasing identical armorial images`
+→ `different arms supplied across years`
+→ `continuous numbering + special titles reinforce independent Wappenbuch identity`.
+
+This gives historical specificity to the repository's existing vocabulary of **de-serialisation, re-serialisation, accumulation and modular reuse**.
 
 ---
 
-## I. Primary retrospective source: Bernd 1830, vol. 2, pp. 397–398
+## I. Contemporary publisher programme: Tübingen `Vorbericht`, catalogued 1771
+
+UB Tübingen's OpenDigi carrier for *Der durchlauchtigen Welt vollständiges Wappenbuch* (shelfmark `Fe 18-1`, DOI `10.20345/digitue.20819`, URN `urn:nbn:de:bsz:21-dt-208196`) exposes OCR/TEI for the opening `Vorbericht` on leaves 2r–3v.
+
+The catalogue dates the carrier to 1771. One OCR/title rendering appears to contain a 1772 date, so exact title/imprint state should be kept separate from the content claim unless the literal title page is inspected. The `Vorbericht` itself is sufficient for the production architecture below.
+
+### A. The new Wappenbuch is presented as an extension of an established annual apparatus
+
+The preface begins from the already familiar genealogical-heraldic Handbuch/Wappencalender and notes its annual continuation, enlargement and especially Gatterer's improvements. It then says that further demand arose for arms of the remaining German spiritual and secular princes and counts, together with foreign princes and counts, in a scale, order and descriptive accuracy sufficient to make a **`möglichst vollständiges Wappenbuch der jetzt lebenden hohen Häuser`**.
+
+This matters because the cumulative project is not retrospectively inferred from later bindings. The publisher frames it as a deliberate response to demand for a more complete current armorial system.
+
+### B. The publisher explicitly decides to undertake a costly cumulative work
+
+The `Vorbericht` says that, despite the difficulty of the project, the publisher resolved, **`auf so mannichfaltiges Verlangen`**, to undertake the laborious and costly work with the assistance of learned men.
+
+Safe actor-level inference:
+
+`expressed demand`
+→ `publisher decision`
+→ `large, expensive reference project`.
+
+This is contemporary evidence for intentional programme formation. It does **not** by itself prove Bernd's later specific claim that subscribers objected to buying the same arms again each year.
+
+### C. Existing Wappencalender plate/content stock is explicitly made the foundation
+
+The strongest sentence for the present repository states that the publisher **`hat die bisher bey dem Wappencalender gewesenen Wappen zum Grunde gelegt`**.
+
+That is a direct contemporary statement of cross-format stock inheritance. The new cumulative Wappenbuch is built on the armorial material already carried by the Wappencalender.
+
+The relation is therefore not merely thematic continuity:
+
+`Wappencalender armorial stock`
+→ **explicit foundation/base**
+→ `cumulative Wappenbuch`.
+
+At this level the source does not distinguish reuse of identical copper matrices from reuse of designs, impressions, descriptions or the already constituted armorial corpus. Matrix continuity must still be shown plate by plate.
+
+### D. Four-volume architecture is planned in advance
+
+The preface outlines a four-volume structure. In broad terms:
+
+- the first volume is to contain imperial, royal, electoral and German princely arms;
+- the second and third volumes are to cover the Reichsgrafen;
+- the fourth is to contain princely and comital arms outside Germany, together with changed German princely arms and newly added comital material.
+
+This is evidence for an intentionally cumulative architecture, not merely later binder aggregation.
+
+### E. Incompleteness is operationalized as instalment publication
+
+The publisher says that it was impossible to gather all required arms at once. The material would therefore be supplied in **`verschiedenen Abtheilungen`** and **`jährlich mit dem Wappencalender ausgegeben`**.
+
+This is the key contemporary mechanism:
+
+`desired completeness`
++
+`information cannot be collected at once`
+→ `divide corpus into instalments`
+→ `deliver instalments annually with the existing serial`.
+
+Annuality here is not the ontology of the final knowledge object. It is a **delivery protocol for an intentionally cumulative work**.
+
+### F. The stated endpoint is a complete contemporary heraldic reference system
+
+The publisher describes the aim as producing, within several years and alongside genealogy, a work sufficiently complete for knowledge of contemporary heraldry. He asks high-ranking patrons and lovers of the science to assist with contributions.
+
+This turns the annual Wappencalender into an acquisition/distribution infrastructure for a reference corpus whose horizon is cumulative completeness.
+
+The strongest contemporary formulation is therefore:
+
+> **The cumulative Wappenbuch was planned as a multi-year information project whose existing base came from the Wappencalender and whose missing material would be acquired, divided into instalments, and issued annually through the Wappencalender channel.**
+
+---
+
+## II. Retrospective specialist control: Bernd 1830, vol. 2, pp. 397–398
 
 Christian Samuel Theodor Bernd, *Allgemeine Schriftenkunde der gesammten Wappenwissenschaft mit beurtheilenden und andern zur Bücher- und Gelehrtengeschichte gehörenden Bemerkungen und Nachweisungen*, vol. 2 (Bonn: in commission bei Joh. Aug. Gottl. Weigel, Leipzig, 1830), pp. 397–398.
 
@@ -43,61 +126,62 @@ The publication could renew genealogical/current-affairs content while retaining
 
 ### B. The calendar had already begun to detach
 
-Bernd then gives a separate commercial/regulatory reason for a material transformation. The importation of foreign calendars into some German states caused difficulty and expense. He says that in the later years **the calendar was therefore separated from the work**.
+Bernd gives a separate commercial/regulatory reason for material transformation. The importation of foreign calendars into some German states caused difficulty and expense. He says that in the later years **the calendar was therefore separated from the work**.
 
 This matters because de-serialisation did not begin only when the Seyfart Wappenbuch was retrospectively rebound or collected. A component central to the genre name had already become materially detachable before the cumulative armorial logic was complete.
 
 Safe formulation:
 
-> **The annual publication lost the necessity of physically carrying the calendar before it lost its annual publication rhythm.**
+> **The annual publication could lose the necessity of physically carrying the calendar before it lost its annual publication rhythm.**
 
-Do not yet infer the exact first year of calendar detachment from Bernd alone; his account is retrospective and gives no year-by-year copy census for this change.
+Do not infer the exact first year of calendar detachment from Bernd alone; his account is retrospective and gives no year-by-year copy census for this change.
 
 ### C. Subscriber resistance changes the armorial image regime
 
 Bernd's decisive sentence says that once Seyfart had taken over the work, the subscribers/buyers (`Abnehmer`) did not want to purchase the same armorial illustrations every year. Consequently, **different coats of arms were now supplied in each year**.
 
-The relevant relation is not merely editorial novelty. It is a market problem generated by durable visual stock:
+This is the part not yet matched by the 1771 publisher preface. The contemporary source establishes demand for a fuller armorial work, but not the specific anti-redundancy complaint. Therefore retain:
+
+- **1771 primary:** demand, publisher commitment, inherited Wappencalender base, multi-volume plan, instalment issue, annual co-distribution;
+- **1830 retrospective:** subscriber reluctance to repurchase repeated armorial images and the resulting rotation of different arms.
+
+The visual regime described by Bernd can be modelled as:
 
 `serial subscription`
 +
-`repeated plate content`
+`repeated durable plate content`
 → `perceived redundancy`
 → `pressure for non-repeating visual matter`.
-
-The visual regime of the annual series changes because the plates themselves are durable enough to make repetition commercially visible.
 
 ### D. Independent numbering and special titles produce a second object
 
 Bernd states that the resulting **571 arms**, together with the texts describing them, were specially numbered and designated so that they could be regarded **as a general Wappenbuch in their own right**. For this purpose they were furnished with separate/special titles.
 
-This is the strongest evidence currently available for a deliberate dual-format logic:
-
-`annual Wappenkalender / Handbuch occurrence`
-+
-`continuously numbered armorial sequence`
-→ `cumulative Wappenbuch`.
-
-The cumulative work is therefore not simply a later binder's accidental extraction from the annual series. Bernd understood the numbering and title apparatus itself as designed to make the armorial corpus independently legible.
+The 1771 primary preface now independently proves the planned cumulative Wappenbuch and annual instalment system. Bernd's later account adds the finished total and the explicit bibliographic logic of independent numbering/special titles.
 
 ---
 
-## II. Surviving-book control
+## III. Surviving-book control
 
-The surviving title/plate organization is consistent with Bernd's retrospective reconstruction.
+The surviving title/plate organization is consistent with both the contemporary programme and Bernd's retrospective reconstruction.
 
-### Tübingen / LEO-BW
+### Tübingen / LEO-BW / OpenDigi
 
-A Tübingen digital object for *Der durchlauchtigen Welt vollständiges Wappenbuch* records:
+The Tübingen digital Wappenbuch corpus records:
 
 - vol. 1: **178 copperplates** for imperial, royal, electoral and princely arms;
 - vol. 2: numbered arms continuing through **No. 194**;
 - vol. 4: arms **Nos. 391–571**, together with descriptions of the arms in vols. 2–4.
 
-Carrier:
+The OpenDigi `Fe 18-1` carrier also exposes the `Vorbericht` that states the cumulative publication programme.
+
+LEO-BW carrier:
 `https://www.leo-bw.de/en/detail/-/Detail/details/DOKUMENT/ubt_digitalisate/Fe18/Der%20durchlauchtigen%20Welt%20vollst%C3%A4ndiges%20Wappenbuch`
 
-This is material corroboration for the independently cumulative numbering system described by Bernd.
+OpenDigi carrier:
+`https://opendigi.ub.uni-tuebingen.de/opendigi/Fe18-1`
+
+This is material corroboration for the independently cumulative numbering system.
 
 ### Complete-set / market controls
 
@@ -112,40 +196,50 @@ These descriptions independently separate the unnumbered threshold image from th
 
 This is analytically important:
 
-> **The armorial content could be reorganized to avoid annual repetition while a frontispiece could remain repeatable across multiple cumulative volumes.**
+> **The armorial content could be reorganized around cumulative novelty while a frontispiece could remain repeatable across multiple cumulative volumes.**
 
 That hypothesis becomes testable at image level once the three repeated frontispieces are identified.
 
 ---
 
-## III. A two-stage rather than one-stage transformation
+## IV. A three-operation transformation
 
-The Bernd passage makes it unsafe to narrate the shift as simply:
+The combined 1771 + 1830 evidence makes it unsafe to narrate the shift simply as:
 
 `calendar → Wappenbuch`.
 
-A more precise reconstruction is:
+A more precise reconstruction separates three operations.
 
-### Stage 1: modularization of the annual publication
+### Operation 1: modularization of the annual publication
 
-Import restrictions/costs make the calendar detachable from the learned genealogical-heraldic book.
+Bernd retrospectively describes import restrictions/costs making the calendar detachable from the learned genealogical-heraldic book.
 
 `calendar + historical/genealogical/heraldic book`
 → `calendar separable from book`.
 
-### Stage 2: accumulation of non-repeating visual stock
+### Operation 2: cumulative project formation
 
-Subscriber resistance to repeated armorial plates makes each year's visual supply different; independent numbering and special titles allow the new stock to accumulate across years.
+The 1771 publisher preface contemporaneously documents demand for a fuller armorial reference work, reuse of existing Wappencalender armorial stock as its base, a four-volume plan, and annual delivery of instalments.
+
+`existing serial knowledge stock`
++
+`demand for greater completeness`
+→ `planned cumulative corpus`
+→ `annual instalment distribution`.
+
+### Operation 3: anti-redundancy rotation and rebibliographization
+
+Bernd retrospectively explains why different armorial images were supplied across years and why continuous numbering/special titles helped them function independently as a Wappenbuch.
 
 `annual non-repeating image packet`
 → `cross-year continuous sequence`
 → `general Wappenbuch`.
 
-These are distinct operations with distinct pressures. One concerns circulation of calendars across political jurisdictions; the other concerns the economics of repeated visual content.
+These operations answer different problems: political/circulation constraints, incompleteness of information at project launch, and the economics of durable repeated visual stock.
 
 ---
 
-## IV. Relation to plate/witness/copy ontology
+## V. Relation to plate/witness/copy ontology
 
 This transition is particularly valuable for the repository because the same physical/graphic material can inhabit several bibliographic identities.
 
@@ -153,6 +247,8 @@ Possible unit relations include:
 
 - one annual Wappenkalender issue as a **witness occurrence**;
 - a numbered armorial plate as part of a **cross-year cumulative sequence**;
+- inherited Wappencalender armorial material serving as the stated basis of a newly planned Wappenbuch;
+- new Wappenbuch instalments issued annually with the Wappencalender;
 - the same annual leaves later bound under a special Wappenbuch title;
 - frontispiece repetition independent of numbered-content novelty;
 - copy-specific rebinding producing further composite states.
@@ -162,42 +258,43 @@ Therefore:
 `host-publication identity`
 ≠ `plate sequence identity`
 ≠ `serial rhythm`
+≠ `project identity`
 ≠ `later bound-volume identity`.
 
 The Seyfart phase is not just an afterlife at the end of the corpus. It is a direct demonstration of why those entities must remain separate.
 
 ---
 
-## V. Article-level consequence
+## VI. Article-level consequence
 
-Bernd's account supports a strong but carefully dated claim:
+The combined sources support a stronger, carefully stratified claim:
 
-> **By the Seyfart phase, the serial genealogy-heraldry publication was being materially redesigned around the economics of visual repetition. Calendar leaves could be detached; armorial plates were made non-repeating across annual issues; continuous numbering and special titles converted serial installments into an independently cumulative Wappenbuch.**
-
-This provides an actor-level explanation for a transformation that otherwise looks bibliographically accidental.
+> **By the early Seyfart/Raspe phase, the annual genealogy-heraldry publication had become an explicit delivery infrastructure for a separately conceived cumulative Wappenbuch. A contemporary publisher preface says the new work was based on the arms previously carried by the Wappencalender, divided missing material into instalments, and issued those instalments annually with the Wappencalender. Bernd later adds that repeated armorial purchases had become commercially redundant and that differentiated annual supplies, continuous numbering and special titles helped produce the completed 571-arm corpus.**
 
 The strongest conceptual contrast is:
 
 - **annuality** governs delivery;
+- **project architecture** governs intended completeness;
 - **continuous numbering** governs accumulation;
 - **special titles** govern rebibliographization;
-- **repeated frontispieces**, if image inspection confirms the market collation, govern threshold continuity across changing content stock.
+- **repeated frontispieces**, if image inspection confirms the set collation, govern threshold continuity across changing content stock.
 
-That last distinction may become especially useful for the frontispiece argument: a threshold image can remain stable precisely while the serial's interior visual matter is being reorganized to avoid redundancy.
-
----
-
-## VI. Evidence guard
-
-1. **Bernd is retrospective.** His 1830 account was written more than half a century after the Seyfart transition. Treat it as a specialist reconstruction, not contemporary subscriber testimony.
-2. His statement about subscriber reluctance should therefore be cross-checked where possible against advertisements, publisher notices, prefaces or annual title matter from 1767–1776.
-3. Do not use the `571` total to normalize every surviving copy. Market and institutional records already show missing plates, different binding configurations and other copy variation.
-4. Do not infer from `three repeated frontispieces` that the repeated image is the Müller–Tyroff Clio design. That remains a manual first-leaf identification task.
-5. Bernd's exact year ranges and names are occasionally imperfect or OCR-corrupted in digital text; use the original printed pages when quoting dates verbatim.
+A threshold image can therefore remain stable precisely while the serial's interior visual matter is being reorganized for cumulative informational growth.
 
 ---
 
-## VII. Immediate high-information tasks
+## VII. Evidence guard
+
+1. **The Tübingen `Vorbericht` is contemporary publisher evidence for the cumulative programme.** It supports demand, publisher commitment, the Wappencalender armorial stock as explicit foundation, a multi-volume plan, instalment publication and annual co-distribution.
+2. **Bernd remains retrospective** for subscriber resistance to repeated images, calendar detachment under import pressure, and his reconstruction of the completed system. Do not silently move those causal details back into 1767/1771.
+3. The Tübingen carrier is catalogued 1771, while one OCR/title rendering appears to contain 1772. Treat exact title/imprint state as a separate bibliographic control if year-level dating of that particular copy matters.
+4. Do not use the `571` total to normalize every surviving copy. Market and institutional records already show missing plates, different binding configurations and other copy variation.
+5. Do not infer from `three repeated frontispieces` that the repeated image is the Müller–Tyroff Clio design. That remains an opening-image identification task.
+6. The phrase that existing Wappencalender arms were used `zum Grunde` proves corpus/stock inheritance at programme level; it does not alone establish same-copperplate continuity for every reused image.
+
+---
+
+## VIII. Immediate high-information tasks
 
 ### A. Frontispiece identity
 
@@ -207,28 +304,25 @@ Inspect the first image leaves of:
 - 1768 BSB `bsb10481709`: `https://www.digitale-sammlungen.de/en/details/bsb10481709`
 - 1768 ULB Halle open copy: `https://opendata.uni-halle.de/handle/1981185920/48380`
 
-Test whether the frontispiece is the target `HISTORIA / GENEALOGIA / HERALDICA / TESTES TEMPORUM ET VERITATIS` composition. If yes, compare signature, frame and wear against the 1740 BM and 1764 witnesses. If not, record the image and move the terminal boundary.
+Test whether the repeated frontispiece belongs to Type A, B, C or a new composition. If comparable, record signature, frame, lettering and wear. These tasks are already bounded in `docs/MANUAL_DOWNLOAD_AND_INSPECTION_LOG.md`; do not create duplicate manual requests.
 
-### B. Contemporary explanation of the transformation
+### B. Contemporary anti-redundancy evidence
 
-Search 1766–1776 annual prefaces, advertisements and publisher notices for language explaining:
+The former broad search for a contemporary explanation is now substantially closed by the Tübingen `Vorbericht`. The remaining narrow question is whether a 1767–1776 advertisement, preface or subscription notice explicitly states the **anti-redundancy** motive later reported by Bernd: buyers not wanting to repurchase the same armorial images.
 
-- removal/separate sale of the calendar;
-- `andere Wappen` / new arms each year;
-- avoidance of repeated plates;
-- continuous numbering;
-- special title pages for the cumulative Wappenbuch;
-- subscriber / `Abnehmer` language.
-
-A contemporary hit on any of these would upgrade Bernd's retrospective explanation substantially.
+A hit would upgrade that specific causal mechanism; absence does not weaken the now-primary evidence for cumulative project architecture.
 
 ### C. Copy-level recombination
 
-Compare copies that preserve annual-calendar title matter with copies bound principally as *Der durchlauchtigen Welt vollständiges Wappenbuch*. Record whether special titles were originally supplied as leaves within annual issues or only survive in later cumulative bindings.
+Compare copies that preserve annual-calendar title matter with copies bound principally as *Der durchlauchtigen Welt vollständiges Wappenbuch*. Record whether special titles were supplied within annual issues or survive only in cumulative binding states.
 
 ---
 
-## VIII. Sources
+## IX. Sources
+
+Contemporary primary production source:
+
+- UB Tübingen / OpenDigi, *Der durchlauchtigen Welt vollständiges Wappenbuch*, shelfmark `Fe 18-1`, catalogue year 1771, DOI `10.20345/digitue.20819`, URN `urn:nbn:de:bsz:21-dt-208196`, `Vorbericht` leaves 2r–3v.
 
 Primary retrospective bibliographic source:
 
