@@ -4,17 +4,21 @@
 
 Johann David Köhler's *Genealogia familiae augustae Stauffensis* provides a strong mid-point comparator between earlier genealogical table/chronicle formats and Gatterer's 1769 demand that genealogical propositions and their proof passages be made locally inspectable.
 
-The present control is deliberately narrow. It establishes that the 1733 Staufer genealogy combines a genealogical table with an apparatus identified by Martin Gierl as `Probationes`. It does **not** yet establish that Köhler spatially paired each genealogical proposition with its proof in the specific adjacency form demanded by Gatterer in 1769.
+The present control now goes beyond the minimal formula `Stammtafel + Probationes`. A detailed surviving-copy description of the **1727 revised edition** records a repeated section architecture:
 
-The useful analytical status is therefore:
+- **pp. 5–24** — text associated with **folding Stammtafel I**, followed by `Probationes` to Stammtafel I;
+- **pp. 25–41** — **Stammtafel II** with its `Probationes`;
+- **pp. 42–68** — **Stammtafel III**.
 
-`genealogical table + explicit proof apparatus`
+This gives a materially grounded intermediate form of proof localization. Köhler's genealogy does not leave all proofs in one remote global appendix: at least in the 1727 revised copy, proof material is organized **by genealogical table / section**.
 
-with
+The safe comparative result is therefore:
 
-`claim–proof distance / numbering / cross-reference mechanics = still to inspect directly`.
+`Duchesne: genealogy/history and Preuves separated at large book-section scale`
+→ `Köhler: each Stammtafel embedded in a bounded table + Probationes section`
+→ `Gatterer 1769 ideal: each individual genealogical Satz immediately beside its own Beweisstelle`.
 
-This makes Köhler 1733 a high-value **layout comparator**, not yet a demonstrated methodological source for Gatterer.
+The Köhler stage is still **section-level localization**, not yet demonstrated one-proposition/one-proof adjacency.
 
 ---
 
@@ -24,197 +28,175 @@ Google Play exposes a free full-view record for the 1733 revised edition:
 
 Johann David Köhler, *Genealogia familiae augustae Stauffensis: ex diplomatibus et optimis scriptoribus asserta et correcta. Curis posterioribus correctior et auctior* (1733), object id **`iFdLAAAAcAAJ`**, 74 pages.
 
-The title itself is methodologically relevant but should not be over-read. It announces a genealogy:
+The title announces a source-critical programme:
 
-- asserted and corrected from **diplomas/documents** and the **best writers**;
-- further corrected and enlarged in the later edition.
+- genealogy asserted and corrected from **diplomata** and the **best writers**;
+- later edition further corrected and enlarged.
 
-This gives a secure source-critical programme at title level:
+Earlier and later Google carriers show an edition family:
 
-`genealogical reconstruction`
-→ `diplomata + selected writers`
-→ `assertion/correction`
-→ `later correction/enlargement`.
+- 1721 — 60 pages;
+- 1727 — 68 pages;
+- 1733 — 74 pages;
+- 1747 — 80 pages.
 
-Earlier and later Google carriers show a small edition family rather than one frozen object:
-
-- 1721 carrier: 60 pages;
-- 1727 revised carrier: 68 pages;
-- 1733 carrier: 74 pages;
-- 1747 carrier: 80 pages.
-
-Do not treat page-count growth alone as proof of changes to the genealogical tables or proof architecture. It does establish that the work circulated through repeated revision and expansion.
+Page-count growth alone does not prove that the proof architecture changed, but the 1727 surviving-copy collation shows that the revised work already had a repeated table/proof sectional structure before the 1733 edition used by Gierl.
 
 ---
 
-## II. Gierl's explicit visual/layout control
+## II. Gierl's 1733 visual/layout control
 
 Martin Gierl's illustration list identifies:
 
 `Johann David Köhler: Genealogia familiae augustae Stauffensis (1733), Stammtafel und »Probationes«. Köhler 1733, 5, Tafel 1.`
 
-This is the strongest current control on the information architecture.
+This securely establishes that Gierl sees **p. 5 and Tafel 1 together** as a meaningful example of genealogical table plus proof apparatus.
 
-It establishes that Gierl considers **page 5 and Table 1 together** as a meaningful example of:
-
-- a genealogical `Stammtafel`;
-- an explicitly identified proof apparatus, `Probationes`.
-
-The phrase should not yet be expanded into a claim that table and proof are printed on the same opening, directly adjacent, or linked one-to-one. Those are exactly the properties that direct page inspection must test.
-
-The present safe formulation is:
-
-> **By 1733 Köhler's Staufer genealogy visibly combined genealogical tabulation with a named proof apparatus; the spatial and referential distance between the two remains an open copy/page-level question.**
+Do not infer from the illustration caption alone that table and proof are on the same opening or paired proposition by proposition. The 1727 copy description now supplies the missing medium-scale structure: a table is associated with a bounded textual/proof section rather than with a single global proof corpus.
 
 ---
 
-## III. Material control: multiple folded genealogical tables
+## III. 1727 surviving-copy collation: proof is localized by table section
 
-A surviving-copy market description of the 1733 second edition records **three folded genealogical tables** (`drei gefaltete genealogische Tafeln`).
+A detailed antiquarian description of the 1727 revised Altdorf edition records:
 
-This is useful as a material control because it prevents `Tafel 1` from being treated as the book's sole table. The work contains a multi-table apparatus.
+- 68 pages;
+- three folding genealogical tables;
+- pp. 5–24: text with folding Stammtafel I and `Probationes` to Stammtafel I;
+- pp. 25–41: Stammtafel II and `Probationes`;
+- pp. 42–68: Stammtafel III.
 
-The market description is not a substitute for institutional copy inspection. Use it only for the bounded physical claim that a described 1733 copy contained three folding genealogical tables.
+This is much stronger than the earlier generic claim that the book contains three tables.
 
-The immediate direct-copy questions are therefore:
+The information architecture can now be modeled as:
 
-1. what does Tafel 1 contain?
-2. where are Tafeln 2–3 placed?
-3. does p. 5 contain `Probationes` keyed to Tafel 1?
-4. are table entries numbered or lettered?
-5. how does a reader move from one person/relation in the table to the corresponding proof?
+`Stammtafel I`
+↔ `bounded textual section`
+↔ `Probationes I`
 
----
+then
 
-## IV. Why Köhler is the critical middle comparator for Gatterer 1769
+`Stammtafel II`
+↔ `bounded textual section`
+↔ `Probationes II`
 
-Gatterer's `Von der Evidenz in der Genealogie` (1769) distinguishes mere possession of correct source material from the production of `Evidenz` through disposition.
+and then a third table/section.
 
-The 1769 demand is unusually strict:
+The exact internal order inside each span still needs direct page inspection. In particular, we do not yet know:
 
-`genealogical proposition`
-+
-`verbatim Beweisstelle`
-+
-`immediate spatial proximity`
-→ `agreement inspectable mit einem Blick`.
+- whether the table appears before, within or after the proof block;
+- whether individual persons/relations are numbered into the `Probationes`;
+- whether proof passages are verbatim or summarized;
+- how many pages a reader must move for one specific genealogical relation.
 
-Gierl's visual sequence places three historical formats beside one another:
-
-1. André Duchesne 1621 — genealogy, arms, chronicle;
-2. Köhler 1733 — `Stammtafel und Probationes`;
-3. Matthias Christian Sprengel / Gattererian method — `Tafel und Erläuterungen`, 1769 carrier.
-
-This sequence makes Köhler a natural middle control for a **history of proof localization**.
-
-But two relations must remain separate:
-
-### Direct relation already established elsewhere
-
-Gatterer later entered Köhler's print world directly: he supplied six numismatic pieces and a biographical preface for the posthumous closure of Köhler's *Münz-Belustigung* in 1756.
-
-### Methodological relation still unresolved
-
-No direct citation has yet been recovered in which Gatterer says his 1769 genealogical layout method derives from Köhler's 1733 Staufer genealogy.
-
-Therefore:
-
-`Gatterer ↔ Köhler editorial relation`
-= directly controlled for 1756
-
-but
-
-`Köhler 1733 proof layout → Gatterer 1769 Evidenz method`
-= **comparative hypothesis, not influence claim**.
+But the **scale of localization** is no longer unresolved. It is at least table/section-level.
 
 ---
 
-## V. A more precise comparative question
+## IV. A controlled three-stage proof-distance comparison
 
-The wrong question is:
+### 1. Duchesne 1621 — large-zone separation
 
-`Did Köhler already have visual evidence?`
+Institutional BnF/Biblissima locators show a concrete Châtillon branch in the genealogy/history at pp. 114–119 while the corresponding `Preuves du livre III` occupy a separate proof zone at pp. 68–82.
 
-The high-information questions are:
+Gatterer 1769 independently criticizes the Duchesne method because genealogical propositions and proofs remain too far apart for their identity to be grasped rapidly.
 
-- **granularity** — does one proof unit correspond to one genealogical proposition, or to a larger cluster?
-- **distance** — are table and proof on the same page/opening, adjacent pages, or separated by folding/navigation?
-- **addressability** — are persons/relations keyed by numbers, letters, symbols or names to proof sections?
-- **source visibility** — are documentary passages reproduced verbatim or merely cited?
-- **reader operations** — how many lookups and memory steps are required to test one genealogical relation?
+Current status:
 
-This turns `Stammtafel + Probationes` from a generic illustration into an information-architecture problem directly comparable to Gatterer's 1769 criticism of Duchesne.
+`proofs present and often verbatim`
++
+`genealogical propositions compressed in tables/history`
++
+`reader moves between large book zones`.
+
+### 2. Köhler 1727/1733 — section-level localization
+
+Current status:
+
+`one Stammtafel`
++
+`its bounded text/proof section`
++
+`named Probationes`.
+
+This reduces proof distance compared with a single remote proof corpus. It still does not satisfy Gatterer's later explicit ideal unless each proposition can be tested locally and individually.
+
+### 3. Gatterer/Sprengel 1769 — proposition-level adjacency as explicit ideal
+
+Gatterer's method requires:
+
+`one genealogical Satz`
++
+`its Beweisstelle`
++
+`unmittelbar zusammen`
+→ `identity inspectable mit einem Blick`.
+
+The worked Sprengel example immediately following the essay remains the decisive object for testing how far this ideal was realized typographically.
 
 ---
 
-## VI. Current three-stage proof-layout hypothesis
+## V. The historical transformation is one of localization scale
 
-Keep this explicitly provisional until all three primary layouts are inspected.
+The strongest current hypothesis is not a simple progression from text to image. It is a reduction in the **spatial and cognitive scale at which proof is attached to a genealogical claim**:
 
-### Duchesne 1621
+`book-level proof corpus`
+→ `table/section-level proof corpus`
+→ `individual proposition-level proof adjacency`.
 
-Current Gatterer 1769 control says the method contains verbatim proof passages but leaves genealogical propositions compressed in tables and too distant from their proofs for rapid comparison.
+This is a history of **warrant localization**.
 
-Analytical status:
+The variables are:
 
-`proof present`
-+
-`claim/proof localization inadequate for Evidenz`.
+- claim granularity;
+- proof granularity;
+- physical distance;
+- addressability;
+- number of reader lookups;
+- memory burden between claim and warrant.
 
-### Köhler 1733
+That is exactly the kind of information-architectural variable Gatterer's 1769 concept of Evidenz makes methodologically explicit.
 
-Current Gierl control:
+---
 
-`Stammtafel + Probationes`.
+## VI. Relation to Gatterer's direct Köhler connection
 
-Analytical status:
+Gatterer's later direct participation in the posthumous closure of Köhler's *Münz-Belustigung* in 1756 is independently controlled.
 
-`explicit table + proof apparatus`
-+
-`exact localization mechanics unresolved`.
+Keep the relations separate:
 
-### Sprengel / Gattererian method 1769
+`Köhler ↔ Gatterer print-world relation`
+= direct, controlled for 1756.
 
-Current carrier/Gierl control:
+`Köhler proof layout → Gatterer 1769 genealogy method`
+= still a comparative hypothesis.
 
-`Tafel und Erläuterungen`, immediately following Gatterer's essay defining claim–proof adjacency.
-
-Analytical status:
-
-`worked example explicitly presented as Gatterer's method`
-+
-`exact page architecture still requires inspection`.
-
-The possible historical transformation is therefore not yet a linear narrative. The controlled research programme is to measure **proof distance and addressability** across all three.
+The fact that Gierl places Duchesne, Köhler and Sprengel/Gatterer in one visual sequence makes the comparison historiographically well motivated but does not prove textual borrowing.
 
 ---
 
 ## VII. Relation to the frontispiece corpus
 
-This comparator matters because the same analytical variables apply to visual witnesses beyond genealogy.
+The same scale-of-localization model can be applied to visual witnesses:
 
-For a frontispiece or engraved historical plate one can ask:
+- image in one volume, explanation in another;
+- image and explanation in one book but remote sections;
+- image and keyed legend in one opening;
+- individual visual feature and local proof/comment immediately paired.
 
-- how far is the represented object from its textual identification?
-- how is one graphic feature keyed to one historical proposition?
-- does the image compress many claims without local warrants?
-- can a reader check a visual inference without leaving the page/opening?
-- does a later reuse preserve the image while severing its original proof/context relation?
+A reused plate can preserve the graphic object while increasing proof distance by severing its original cross-references. Conversely, a later editor can reduce proof distance by adding captions, legends, indices or local documentary extracts.
 
-Thus `proof distance` is potentially as important as iconography.
-
-This does not make genealogical tables and frontispieces identical media. It supplies a historically controlled question about **locality of warrant**.
+Thus the historical life of a plate includes not only `same image / different host`, but also **same image / different warrant locality**.
 
 ---
 
 ## Evidence guards
 
-1. Google Play verifies the 1733 free carrier, title and 74-page extent; the present retrieval layer has not exposed p. 5 or Tafel 1 directly.
-2. Gierl securely identifies the comparison as `Stammtafel und Probationes`, p. 5 / Tafel 1. Do not infer exact adjacency, numbering or one-to-one pairing beyond that wording.
-3. The three-fold-table statement is from a surviving-copy market description, not yet an institutional copy collation.
-4. Page-count differences across 1721/1727/1733/1747 establish revision/expansion of the work, not necessarily revision of the tables.
-5. Do not infer a Köhler → Gatterer methodological influence chain from Gierl's comparative illustration sequence.
-6. Gatterer's direct 1756 editorial relation to Köhler's publication ecology is separate evidence and does not settle the 1769 methodological relation.
+1. The section-level localization claim derives from a detailed surviving-copy market description of the 1727 revised edition, not yet an institutional page inspection.
+2. Gierl's 1733 caption securely identifies p. 5 / Tafel 1 as `Stammtafel und Probationes`; direct inspection is still required before asserting that the 1733 edition preserves exactly the 1727 sectional arrangement.
+3. The 1727 copy description establishes table/section association, not proposition-level one-to-one proof pairing.
+4. Do not infer a linear Köhler → Gatterer influence chain from the layout sequence.
+5. Treat edition differences as real until collated; do not normalize 1727 and 1733 silently.
 
 ---
 
@@ -222,27 +204,28 @@ This does not make genealogical tables and frontispieces identical media. It sup
 
 Primary/digital carrier:
 
-- Johann David Köhler, *Genealogia familiae augustae Stauffensis: ex diplomatibus et optimis scriptoribus asserta et correcta. Curis posterioribus correctior et auctior* (1733), Google Play free ebook, 74 pp., object `iFdLAAAAcAAJ`.
+- Johann David Köhler, *Genealogia familiae augustae Stauffensis... Curis posterioribus correctior et auctior* (1733), Google Play free ebook, 74 pp., object `iFdLAAAAcAAJ`.
+
+Surviving-copy material control:
+
+- Antiquariat Carl Wegner / AbeBooks-IberLibro description of the 1727 revised Altdorf edition: 68 pages, three folding genealogical tables; pp. 5–24 text + Tafel I + `Probationes`; pp. 25–41 Tafel II + `Probationes`; pp. 42–68 Tafel III.
 
 Comparative scholarly control:
 
-- Martin Gierl, *Geschichte als präzisierte Wissenschaft* / *Fundamenta Historica*, illustration list, Abb. 25: Köhler 1733, `Stammtafel und »Probationes«`, p. 5 / Tafel 1; Abb. 23 Duchesne 1621; Abb. 26 Sprengel/Gattererian method.
-
-Material-copy lead:
-
-- surviving-copy description for the 1733 second edition recording 68 text pages and three folded genealogical tables. Pagination discrepancy with the Google carrier should be treated as a collation/bibliographic question, not silently normalized.
+- Martin Gierl, *Fundamenta Historica*, illustration list, Abb. 25: Köhler 1733, `Stammtafel und »Probationes«`, p. 5 / Tafel 1; compare Abb. 23 Duchesne and Abb. 26 Sprengel/Gattererian method.
 
 Cross-reference:
 
 - `docs/GATTERER_EVIDENZ_IN_GENEALOGIE_PAGE_ADJACENCY_1769_2026-08-26.md`
+- `docs/DUCHESNE_1621_GENEALOGY_PROOF_SEPARATION_CONTROL_2026-08-26.md`
 - `docs/GATTERER_KOHLER_WEIGEL_EDITORIAL_BRIDGE_1750_1759_2026-08-26.md`
 
 ---
 
 ## Next high-information checks
 
-1. Open the 1733 carrier at **p. 5 and Tafel 1** and record the exact spatial relation between Stammtafel and `Probationes`.
-2. Record all symbols/numbers that make the table addressable from the proof text.
-3. Determine whether proof passages are quoted verbatim, summarized or cited.
-4. Collate the Google 74-page carrier against the described 68-page / three-table copy to understand whether unnumbered tables/front matter explain the discrepancy.
-5. Repeat the same measurements for Duchesne 1621, pp. 68f, and Sprengel 1769, p. 19ff, then build a controlled comparison table.
+1. Directly inspect the 1733 p. 5 / Tafel 1 and determine whether the 1727 section-level architecture survives.
+2. Record numbering/lettering that links table persons or relationships to `Probationes`.
+3. Determine whether `Probationes` reproduce source passages verbatim or summarize/cite them.
+4. Inspect Sprengel 1769 pp. 18–46 for the corresponding proposition-level implementation.
+5. Build the first quantitative proof-distance census with fields: `claim_unit`, `proof_unit`, `same_opening`, `page_distance`, `cross_reference_type`, `verbatim_proof`, `reader_lookup_count`.
