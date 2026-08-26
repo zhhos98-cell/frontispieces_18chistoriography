@@ -41,11 +41,13 @@ Gatterer's major Nürnberg genealogy appeared in the same year through Johann Jo
 - multiple illustrators, explicitly including **Martin Tyroff**, alongside Georg Daniel Heumann, Johann Jakob Paul Küffner, Michael Rößler, Johann Jacob Schwarz and Johann Michael Seligmann;
 - 886 scans in the BSB/MDZ carrier (`bsb11197769`).
 
-A separate physical-copy catalogue likewise records an engraved frontispiece, engraved title with broad rocaille border, eighteen copperplates, six engraved vignettes and genealogical tables.
+A separate physical-copy catalogue likewise records an engraved frontispiece, engraved title with broad rocaille border, eighteen copperplates, six engraved vignettes and genealogical tables. Later physical-copy descriptions characterize the engravings as mainly by Martin Tyroff, though this does not by itself assign the frontispiece to him.
 
-Specific later scholarship identifies at least one Holzschuher plate (Table V) as a Martin Tyroff engraving. Thus Tyroff was certainly engraving for Gatterer in 1755.
+Araújo 2025 now gives a decisive iconographic control from Gatterer's own preface. Gatterer describes the frontispiece's central section as displaying the **older and newer insignia of the Holzschuher family**, accompanied by the toga, military cloak, sword and two ribbon-hung crosses that signify the family's knightly distinction. The frontispiece is therefore a highly **Holzschuher-specific threshold image**, not a generic genealogy/heraldry allegory.
 
-**Guard:** none of this establishes that Tyroff engraved the Holzschuher frontispiece, still less that it is the Clio composition. The value of this object is production-context evidence: Gatterer and Tyroff are directly linked through engraved historical-genealogical work in the exact year under investigation.
+This materially lowers one competing explanation for the 1762 `M. Turoff fec. 1755` frontispiece: it is very unlikely that the 1762 general handbook simply reused the Holzschuher frontispiece. A family-specific composition of this kind would be semantically inappropriate as the generic threshold to a handbook of European dynasties and heraldry unless accompanied by an otherwise undocumented recontextualization.
+
+Tyroff was certainly engraving for Gatterer's 1755 Holzschuher project. Nürnberg archival and later heraldic records identify multiple 1755 Tyroff plates for the work, including armorial and memorial material. But **Tyroff activity in the Holzschuher project and the 1762 dated frontispiece must remain separate plate identities until direct image comparison proves a relation.**
 
 ## 4. 1759 Gatterer handbook: Clio is explicitly present under the old Weigel-heirs imprint
 
@@ -80,6 +82,7 @@ This dated signature is now the highest-information unresolved plate-state clue 
 Possible sequence:
 
 `1726 visible Clio`
+→ `1739 directly catalogued G. Müller del. / M. Tyroff sc. Clio witness`
 → `1740 BM witness: Martin Tyroff after Gabriel Müller`
 → `1755 Tyroff re-engraving / new plate state`
 → `1759 Gatterer handbook: explicit Clio`
@@ -97,14 +100,19 @@ That outcome would also be historically important: Gatterer's handbook would hav
 
 Image inspection could show that `1755` or the name has been misread, or that the date belongs to another element. This remains possible until the plate itself is inspected.
 
+### H4 — direct reuse of the 1755 Holzschuher frontispiece
+
+**Strongly demoted.** Gatterer's own description shows that the Holzschuher frontispiece is organized around that family's old/new insignia and honorific attributes. It is therefore not a plausible generic threshold for the 1762 European genealogy/heraldry handbook. Do not use the coincidence of Gatterer + Tyroff + 1755 to collapse these two frontispieces.
+
 ## 7. Required image test
 
 Compare directly:
 
-1. 1740 British Museum Clio witness (`1910,0906.2`);
-2. complete 1755 Wappenkalender frontispiece;
-3. 1759 Gatterer pretitular Clio copper;
-4. 1762 Finnish National Library frontispiece signed/read `M. Turoff fec. 1755`.
+1. 1739 signed Müller/Tyroff calendar witness;
+2. 1740 British Museum Clio witness (`1910,0906.2`);
+3. complete 1755 Wappenkalender frontispiece;
+4. 1759 Gatterer pretitular Clio copper;
+5. 1762 Finnish National Library frontispiece signed/read `M. Turoff fec. 1755`.
 
 Record:
 - composition;
@@ -131,3 +139,7 @@ It is at minimum:
 → `1761/62 Raspe handbook, with a 1762 copy carrying a Tyroff frontispiece catalogued as dated 1755`.
 
 The plate history and the publisher-imprint transition therefore overlap rather than coincide cleanly.
+
+## 9. Historiographical control
+
+Araújo's 2025 article must be treated as direct prior art for the proposition that Gatterer's 1755 engravings and frontispiece participate in an evidentiary/medial system. The present project should use this case as a controlled comparator and production node, not claim novelty for the general statement that Gatterer used visual paratext or engraved reproductions epistemically.
