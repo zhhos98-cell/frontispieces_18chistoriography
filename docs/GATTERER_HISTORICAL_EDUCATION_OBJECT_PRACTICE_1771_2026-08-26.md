@@ -2,7 +2,7 @@
 
 ## Status
 
-**Primary carrier identified; substantive claims currently controlled through modern edition and secondary quotation. Direct inspection of the eight-page 1771 preface remains a bounded task.**
+**Primary carrier identified; material-practice claims controlled through modern edition and secondary quotation. Direct inspection of the eight-page 1771 preface remains a bounded task. A chronology guard now separates the 1771 pedagogy from Gatterer's explicit 1791 `Historisieren` taxonomy.**
 
 Johann Christoph Gatterer's `Von der historischen Erziehung` appeared as the preface to volume 35 of the German continuation of the *Allgemeine Welthistorie*:
 
@@ -38,48 +38,71 @@ The learner does not merely receive propositions about the past. The learner han
 
 ---
 
-## II. `Historisieren` as a practice applied to artifacts
+## II. Chronology guard: 1771 pedagogy ≠ 1791 explicit `Historisieren` taxonomy
 
-Gatterer's pedagogical discussion is especially useful because it clarifies what it means to `historisieren` an object such as a coat of arms.
+A potentially misleading compression must be avoided.
 
-The operation is not simply to identify or decode heraldic signs. It is to reconstruct an artifact's origin and changes through time: effectively, to give the object a historical trajectory.
+Peter N. Miller discusses Gatterer's 1771 historical pedagogy and then uses `historisieren` to characterize the larger Gattererian practice of giving an artifact such as a coat of arms a historical trajectory. However, the explicit practical-heraldic taxonomy is anchored in Gatterer's later *Praktische Heraldik* (Nürnberg, 1791), not safely in the 1771 preface.
 
-In that sense:
+In 1791 Gatterer divides practical heraldic work into four operations:
 
-`heraldic object`
-→ `classification / comparison`
-→ `origin + alteration through time`
-→ `historisieren`.
+`Blasonieren → Historisieren → Kritisieren → Aufreißen / Erfinden`.
 
-The auxiliary science is thereby absorbed into historical work without disappearing as a specialized skill.
+Later heraldic literature preserves the same distinction and defines `Historisieren` as recounting the origin, gradual development, enlargement and alteration of a coat of arms up to the observed state.
 
-This is a useful correction to any article architecture in which genealogy/heraldry/numismatics appear merely as static `Hilfswissenschaften` subordinate to narrative history.
+The safe chronology is therefore:
+
+### 1771
+
+**pedagogical handling / making / comparing**
+
+- objects and surrogates are used to train historical learning;
+- genealogy, heraldry and numismatics are coordinated through active exercises.
+
+### 1791
+
+**explicit operationalization of practical heraldry**
+
+- a heraldic object is formally subjected to blazoning, historical reconstruction, criticism and graphic production;
+- `Historisieren` becomes an explicit named procedure for reconstructing the object's transformations through time.
+
+This distinction is analytically useful. It permits a longitudinal question about how an object domain that was operationalized pedagogically in 1771 was later formalized methodologically without pretending that the entire later taxonomy was already explicit twenty years earlier.
 
 ---
 
-## III. Evidence classes and trained perception
+## III. Object trajectory as a later methodological clarification
 
-Modern reconstruction of the passage also notes a first-order evidentiary classification in which especially relevant materials include:
+The 1791 `Historisieren` concept clarifies a possibility latent in the earlier object pedagogy but should be cited at its own date.
 
-1. coats of arms and patents of nobility;
-2. seals;
-3. coins.
+The later operation is approximately:
 
-The important point for this repository is that Gatterer's educational programme joins **evidence taxonomy** to **material/visual exercise**.
+`visible heraldic object`
+→ `identify earliest secure occurrence / grant / seal / monument`
+→ `trace dated additions and alterations`
+→ `reconstruct the object's historical trajectory`.
 
-The sequence is approximately:
+This is more than decoding heraldic signs. It makes the artifact itself a temporally changing historical object.
+
+For the article, use the 1791 source when making claims about explicit `Historisieren`; use the 1771 source for claims about material/visual pedagogy.
+
+---
+
+## IV. Evidence classes and trained perception
+
+Modern reconstruction of Gatterer's broader discussion notes first-order sources including coats of arms and patents of nobility, seals and coins. The important point for this repository is that Gatterer's educational programme joins **material/visual exercise** to the learned handling of historical evidence.
+
+The 1771 pedagogical sequence can be kept modestly as:
 
 `object or surrogate`
 → `handling / colouring / copying / cataloguing`
-→ `recognition of formal differences`
-→ `classification`
-→ `historical use`.
+→ `recognition and comparison`
+→ `historical learning`.
 
-This gives a pedagogical analogue to the expert procedures reconstructed elsewhere in the corpus for diplomatics and the Quedlinburg gravestone.
+The stronger sequence involving formal `Historisieren` belongs to the later practical-heraldic method.
 
 ---
 
-## IV. Relation to the 1771 synchronistic tables
+## V. Relation to the 1771 synchronistic tables
 
 The same year Gatterer published the *Einleitung in die synchronistische Universalhistorie*.
 
@@ -94,8 +117,7 @@ They operate at different scales:
 - handling and making surrogates;
 - colouring and copying;
 - cataloguing;
-- learning genealogy/heraldry/numismatics through active exercises;
-- training the recognition and historical use of particular witnesses.
+- learning genealogy/heraldry/numismatics through active exercises.
 
 ### World-history overview
 
@@ -107,7 +129,7 @@ They operate at different scales:
 
 A provisional media division of labour is therefore:
 
-`object/surrogate practice → trained discrimination and classification`
+`object/surrogate practice → trained discrimination and comparison`
 
 `synchronistic table → trained overview and relational synthesis`.
 
@@ -115,38 +137,39 @@ This pairing is stronger than a loose claim that Gatterer was “visual.” It i
 
 ---
 
-## V. Relation to the inherited Clio frontispiece and Wappenkalender ecology
+## VI. Relation to the inherited Clio frontispiece and Wappenkalender ecology
 
-The educational passage also supplies a useful bridge back to the genealogy/heraldry calendar and handbook corpus.
+The educational passage supplies a useful bridge back to the genealogy/heraldry calendar and handbook corpus.
 
-The inherited Clio frontispiece places `Historia`, `Genealogia`, `Heraldica` and material/graphic witnesses together at the threshold of the book. Gatterer's 1771 pedagogical programme shows that, in his own mature practice, genealogy, heraldry, numismatics and their reproducible objects could indeed be made into coordinated exercises for historical education.
+The inherited Clio frontispiece places `Historia`, `Genealogia`, `Heraldica` and material/graphic witnesses together at the threshold of the book. Gatterer's 1771 pedagogical programme shows that, in his own mature practice, genealogy, heraldry, numismatics and their reproducible objects could indeed be coordinated in historical education.
 
 This does **not** prove that Gatterer designed the Clio image or that the earlier Weigel/Köhler calendar anticipated his 1771 programme.
 
 The safe relation is functional rather than genealogical:
 
-> An inherited visual ecology of disciplines and witnesses later occupied a publication world in which Gatterer explicitly coordinated those same object-based practices pedagogically.
+> An inherited visual ecology of disciplines and witnesses later occupied a publication world in which Gatterer explicitly coordinated related object-based practices pedagogically.
 
 That is a host-context transformation, not an influence claim.
 
 ---
 
-## VI. Strong article-level consequence
+## VII. Strong article-level consequence
 
-The article can now distinguish at least four Gattererian visual/material operations:
+The article can now distinguish at least five Gattererian visual/material operations:
 
 1. **witness reproduction** — charters, seals, inscriptions and artifacts converted into surrogates that support particular claims;
-2. **object pedagogy** — copying, colouring, cataloguing and handling used to train historical discrimination;
-3. **synoptic ordering** — tables used to coordinate political, chronological and historiographical relations at world-historical scale;
-4. **diagnostic comparison** — graphic traits used as expert tests in diplomatics, with reproduction accuracy itself becoming methodologically consequential.
+2. **object pedagogy (1771)** — copying, colouring, cataloguing and handling used to train historical discrimination;
+3. **synoptic ordering (1766–71)** — tables used to coordinate political, chronological and historiographical relations at world-historical scale;
+4. **diagnostic comparison** — graphic traits used as expert tests in diplomatics, with reproduction accuracy itself becoming methodologically consequential;
+5. **explicit artifact historicization (1791)** — practical heraldry reconstructs a coat of arms through its dated transformations.
 
-These are cooperating operations, not stages in a single linear development.
+These are cooperating and partially overlapping operations, not stages in a single linear development.
 
 ---
 
-## VII. Manual primary-control task
+## VIII. Manual primary-control task
 
-Open the Google Play carrier and inspect only the opening eight-page preface.
+Open the 1771 Google Play carrier and inspect only the opening eight-page preface.
 
 Target terms / passages:
 
@@ -156,23 +179,29 @@ Target terms / passages:
 - `Münzen` / `Numismatik`;
 - references to colouring / painting;
 - materials for copies such as plaster, tin, lead, glass;
-- `Spiel` or game-like instruction;
-- any wording around `historisieren`.
+- `Spiel` or game-like instruction.
 
-One screenshot covering the material-practice paragraph is sufficient to promote the operational claims to direct primary control.
+Do **not** treat absence/presence of `historisieren` in this preface as settled until the primary page has been checked. Explicit practical-heraldic `Historisieren` should meanwhile be cited to 1791.
+
+One screenshot covering the material-practice paragraph is sufficient to promote the 1771 operational claims to direct primary control.
 
 ---
 
-## VIII. Sources
+## IX. Sources
 
-Primary carrier:
+Primary 1771 carrier:
 
 - *Fortsetzung der Algemeinen Welthistorie ...*, vol. 35 (Halle: Johann Justinus Gebauer, 1771), prefatory `Von der historischen Erziehung`, opening eight pages. Google Play full view: `https://play.google.com/store/books/details?id=Fd49NE-c1cwC`.
 
-Modern edition:
+Modern 1771 edition:
 
 - Horst Walter Blanke and Dirk Fleischer, eds., *Theoretiker der deutschen Aufklärungshistorie*, vol. 2, `Von der historischen Erziehung (1771)`, 711–715.
 
-Secondary interpretive control:
+Later primary methodological anchor:
 
-- Peter N. Miller, *History and Its Objects: Antiquarianism and Material Culture since 1500*, discussion of Gatterer's 1771 pedagogy and the making/handling of heraldic, genealogical and numismatic surrogates.
+- Johann Christoph Gatterer, *Praktische Heraldik* (Nürnberg: Bauer- und Mann, 1791), opening methodological classification; [4] leaves, 150 pp., with 6 copper and 3 genealogical tables.
+
+Secondary controls:
+
+- Peter N. Miller, *History and Its Objects: Antiquarianism and Material Culture since 1500*, discussion of Gatterer's 1771 pedagogy and later `historisieren`.
+- Later practical-heraldic literature preserving the distinction among blazoning, historicizing, criticizing and drawing, useful only as a control on reception of Gatterer's 1791 terminology.
