@@ -22,9 +22,19 @@ Johann Christoph Weigel was Christoph d. Ä.'s younger brother. His wife was **B
 Authority control:
 - Nürnberg biographical record for Johann Christoph Weigel, including marriage and burial documentation.
 
+## Direct elder-line publication control: 1734 Weigel Wappenbuch
+
+A directly catalogued surviving copy of the 1734 *Das grosse und Vollständige ... nun aber Weigelische Wappen-Buch* gives the literal publication statement:
+
+`Nürnberg : verlegts Christoph Weigels des ältern seel. Wittwe, 1734 (Gedruckt bey Lorenz Bieling)`
+
+The institutional record explicitly identifies the publisher as **Magdalena Esther Weigel (1679–1748)**. The same copy records a copper-engraved frontispiece signed `G. C. Eimmart del. et sculp.`
+
+This is first-order bibliographic control that the formulation `Christoph Weigels des ältern seel. Wittwe` in the Weigel/Bieling heraldic publishing environment means Magdalena Esther, not Barbara Magdalena.
+
 ## Calendar evidence
 
-Physical-copy descriptions of the *Geschichts-, Geschlechts- und Wappen-Calender* repeatedly give the imprint in the form:
+Physical-copy descriptions of the *Geschichts-, Geschlechts- und Wappen-Calender* repeatedly give the imprint in the shorter form:
 
 `Nürnberg, L. Bieling für C. Weigels Witwe`
 
@@ -44,19 +54,25 @@ The reconstructed Christine Luise / K10plus catalogue assigns the 1731, 1732, 17
 Given:
 1. Christoph d. Ä. died in 1725;
 2. his widow Magdalena Esther demonstrably continued his firm to 1748;
-3. the physical-copy imprint repeatedly says only `C. Weigels Witwe`;
-4. the series was already being issued through `C. Weigels Witwe` immediately after 1725;
+3. the 1734 heraldic Wappenbuch explicitly spells out `Christoph Weigels des ältern seel. Wittwe` and resolves her as Magdalena Esther;
+4. physical calendar descriptions repeatedly use the corresponding shortened `C. Weigels Witwe` + Bieling imprint;
+5. this wording is already present immediately after 1725;
 
-the stronger current working identification is **the elder-line widow Magdalena Esther**, not Barbara Magdalena. However, the literal imprint must remain primary until title-page inspection is completed.
+the calendar series should be routed provisionally but strongly to the **elder-line Magdalena Esther firm** unless a directly inspected issue supplies contrary evidence.
 
 ## Corpus rule
 
-1. Preserve literal imprint wording (`C. Weigels Witwe`, `C. Weigels Erben`, etc.).
+1. Preserve literal imprint wording (`C. Weigels Witwe`, `Christoph Weigels des ältern seel. Wittwe`, `C. Weigels Erben`, etc.).
 2. Do **not** convert `C. Weigels Witwe` automatically to Barbara Magdalena.
-3. Where person-level normalization is required, use `Magdalena Esther Weigel / elder-line widow` as the current high-probability identification, explicitly marked as an authority resolution rather than literal imprint text.
-4. Keep HAB/K10plus `Barbara Magdalena` assignments as catalogue-level alternate authority mappings, not as publication facts.
-5. Reopen person-level attribution if a directly inspected title page, privilege, advertisement, account, or contemporary firm record explicitly identifies the younger Johann-Christoph branch.
+3. `Christoph Weigels des ältern seel. Wittwe` = **Magdalena Esther Weigel** at verified bibliographic level.
+4. For shortened calendar imprints `C. Weigels Witwe`, use `Magdalena Esther Weigel / elder-line widow` as the preferred person-level resolution, while keeping the literal form visible and the resolution explicitly inferential until a title page is directly inspected.
+5. Keep HAB/K10plus `Barbara Magdalena` assignments as catalogue-level alternate authority mappings, not as publication facts.
+6. Reopen person-level attribution only if a directly inspected title page, privilege, advertisement, account, or contemporary firm record explicitly identifies the younger Johann-Christoph branch.
 
 ## Analytical consequence
 
-This correction matters for plate provenance. The calendar's plate stock should not be routed into the younger Johann-Christoph/Barbara-Magdalena firm merely because a union catalogue has attached that authority identity. Until direct contrary evidence appears, the calendar is materially more consistent with the **Christoph d. Ä. → Magdalena Esther → elder-line heirs** succession.
+This correction matters for plate provenance. The calendar's plate stock should not be routed into the younger Johann-Christoph/Barbara-Magdalena firm merely because a union catalogue has attached that authority identity. The best-controlled present succession is:
+
+`Christoph Weigel d. Ä. → Magdalena Esther Weigel → elder-line heirs`
+
+That succession now has a directly spelled-out 1734 heraldic publication control rather than only biographical inference.
