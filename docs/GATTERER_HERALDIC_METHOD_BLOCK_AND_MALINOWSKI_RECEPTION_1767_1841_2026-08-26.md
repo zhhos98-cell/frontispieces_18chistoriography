@@ -1,168 +1,178 @@
-# Gatterer's 1767 heraldic-method block and Malinowski's 1841 reception
+# Gatterer's 1767 heraldic-method loci and Malinowski's 1841 reception
 
 ## Result
 
-The 1767 heraldic material in *Allgemeine historische Bibliothek* vol. 2 is now better understood as a **continuous methodological cluster**, not a single isolated review.
+The 1767 heraldic material in *Allgemeine historische Bibliothek* vol. 2 must now be separated into **three distinct loci**, not treated as one continuous textual block:
 
-Martin Gierl's bibliography independently places the unsigned review of Gatterer's *Abriß der Heraldik oder Wappenkunde* at **pp. 294–311**. Immediately after it, the same volume contains an anonymous contribution titled **`Beurtheilung des Plans in dem hochstiftlichen Bamberg-würzburgischen Wappen`**, **pp. 311–329**.
+1. **p. 38ff** — `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben`, currently controlled through a later citation/transcription attributed to Gatterer; this is the locus of the Rudolphi judgment distinguishing blazon from historical description.
+2. **pp. 294–311** — an unsigned review of Gatterer's *Abriß der Heraldik oder Wappenkunde*, securely catalogued by Martin Gierl.
+3. **pp. 311–329** — anonymous `Beurtheilung des Plans in dem hochstiftlichen Bamberg-würzburgischen Wappen`, also securely catalogued by Gierl.
 
-This produces a contiguous sequence:
+The last two are contiguous and form a demonstrable late-volume heraldic cluster. The p. 38ff methodological comparison is earlier in the volume and must remain bibliographically separate until direct page inspection.
 
-`review of a general heraldic manual, pp. 294–311`
-→ `assessment of the plan/composition of one concrete princely coat of arms, pp. 311–329`.
+This correction strengthens rather than weakens the method history. The same 1767 volume contains three different operations:
 
-The arrangement is methodologically important even before the exact prose of both pieces is recovered. It places **general heraldic rules** next to the **historical/compositional analysis of a particular armorial object** inside the same journal volume.
+`comparison of methods for historically describing arms`
+→ later `review of a general heraldic manual`
+→ later `assessment of the Plan of one concrete composite Wappen`.
 
-## I. Bibliographic control: pp. 294–329 form a heraldic cluster
+## I. Digital-object control
 
-Gierl's source bibliography gives:
+The volume itself is now controlled through two independent public digital locators:
 
-- unsigned review, `Joh. Christoph Gatterers ... Abriß der Heraldik oder Wappenkunde`, *Allgemeine historische Bibliothek* 2 (1767), pp. 294–311;
-- anonymous `Beurtheilung des Plans in dem hochstiftlichen Bamberg-würzburgischen Wappen`, same volume, pp. 311–329.
+- Google Play Books: *Allgemeine historische Bibliothek ... Zweyter Band*, Johann Christoph Gatterer, Halle: Johann Justinus Gebauer, 1767, **336 pages**, free ebook, object id **`1HhcAAAAcAAJ`**;
+- Göttingen resolver: **`PPN555506932_0002`**, recovered through the bibliographic citation environment and retained as an institutional object locator pending direct resolver/page access.
 
-The second contribution begins exactly where the first ends.
+The Google Play record confirms the exact volume, date, publisher, pagination and free full-text status. It does not by itself expose stable page-level text through the present retrieval layer.
 
-Do not infer common authorship from adjacency alone. The useful claim is editorial and methodological:
+## II. p. 38ff: methodological boundary between blazon and historical description
 
-> **the journal places a general heraldic-method review directly beside the analysis of the historical/compositional plan of a specific coat of arms.**
+A later heraldic transcription attributed to Gatterer preserves the Rudolphi judgment from `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben` and locates the piece at *AHB* vol. 2, **p. 38ff**.
 
-This strengthens the hypothesis that the 1767 environment was actively testing the transition from heraldic description to historically structured armorial analysis.
+The visible distinction is methodologically sharp:
 
-## II. Rudolphi remains a negative control inside this environment
+- Rudolphi blazons approximately like Spener;
+- only a handful of `historische Erläuterungen` occur;
+- there is no `Historie der Wappen`;
+- Rudolphi therefore belongs to the `Classe der Blasonisten`, not to the historical describers of arms.
 
-A later transcription attributed to Gatterer preserves the well-known Rudolphi judgment: Rudolphi blazons approximately like Spener, supplies only a few `historische Erläuterungen`, and gives no `Historie der Wappen`; he therefore belongs to the `Classe der Blasonisten`, not to the historical describers of arms.
-
-The value of the newly recovered journal architecture is that this distinction no longer floats by itself. It sits beside a concrete case concerned with the **Plan** of a composite Bamberg-Würzburg coat of arms.
-
-The emerging 1767 methodological contrast is therefore plausibly:
+The safe analytical sequence is:
 
 `formal blazon`
-→ `historical elucidation`
-→ `historical/compositional explanation of a concrete armorial plan`.
+≠ `historische Erläuterung`
+≠ `Historie der Wappen`.
 
-This remains a working reconstruction until the Band 2 pages are inspected directly.
+This means a work can be source-rich, antiquarian-looking and technically competent while still failing the threshold of historical heraldry.
 
-## III. Malinowski 1841 explicitly receives the p. 311 Bamberg-Würzburg piece as a model for historization
+The next direct-page target is therefore **p. 38ff**, with a specific extraction task: recover item 1, item 2 (Rudolphi), all subsequent numbered methods/authors, and the criteria used to classify each.
 
-Norbert Eugeniusz Malinowski's Polish heraldic manual *Heraldyka to jest nauka o herbach* (Warsaw, 1841) provides a major reception control.
+## III. pp. 294–329: general manual review directly followed by one Wappen-Plan case
 
-On p. 107, immediately before his chapter `O historyzowaniu herbów` (`On the historization of arms`), Malinowski points the reader to:
+Gierl's source bibliography securely gives:
+
+- unsigned review of Gatterer's *Abriß der Heraldik oder Wappenkunde*, *AHB* 2 (1767), **pp. 294–311**;
+- anonymous `Beurtheilung des Plans in dem hochstiftlichen Bamberg-würzburgischen Wappen`, **pp. 311–329**.
+
+The second begins exactly where the first ends.
+
+Adjacency does not establish common authorship, but the editorial sequence is still significant:
+
+`general heraldic rules/manual`
+→ `assessment of the plan of a concrete composite coat of arms`.
+
+This is a stronger and more precise claim than treating the Rudolphi passage as if it belonged to this late-volume cluster.
+
+## IV. Malinowski 1841 explicitly receives the p. 311 article at the threshold of historization
+
+Norbert Eugeniusz Malinowski's *Heraldyka to jest nauka o herbach* (Warsaw, 1841) provides a primary reception control.
+
+On p. 107, after describing the Bamberg-Würzburg arms, Malinowski cites:
 
 `J. Ch. Gatterers Allgem. Hist. Bibliothek Halle 1767 T. II pag. 311. Beurtheilung des Plans in dem Hochfürstlichen Bambergisch-Würzburgischen Wappen.`
 
-He therefore identifies the 1767 p. 311 article not simply as a descriptive curiosity but as relevant to the practical problem of historically explaining arms.
+Immediately afterward he begins chapter LXVI, `O historyzowaniu herbów` — on the historization of arms.
 
-The placement in Malinowski is striking:
+This placement gives a controlled reception sequence:
 
-`worked description of the Bamberg-Würzburg arms`
-→ citation to Gatterer, AHB II, p. 311
-→ `ROZDZIAŁ LXVI. O historyzowaniu herbów`
-→ definition of historization.
+`worked composite Wappen`
+→ `Gatterer/AHB II p. 311 Plan article`
+→ `chapter on historization`.
 
-## IV. Malinowski's definition makes the operation explicit
+It does not prove that Malinowski derives his entire definition from the 1767 article, but it shows that by 1841 the p. 311 case could function as a practical reference immediately before historization was defined.
 
-Malinowski defines `historyzowanie`, or historical description of arms, as consisting of **two parts**:
+## V. Malinowski's §149: criticism is internal to historization
+
+Malinowski defines `historyzowanie`, or historical description of arms, as consisting of two parts:
 
 1. the already-described **blazoning**;
 2. `właściwe historyzowanie` — historization proper.
 
-He then adds a critical requirement: after observing the rules of blazon, one must critically investigate the history of the coat of arms and describe its **origin and the changes it underwent** faithfully and clearly.
+His next move is crucial. After the formal rules of blazon have been observed, the researcher must **critically investigate the history of the coat of arms** and describe its origin and the changes it underwent faithfully and clearly. He warns that medieval writers often exaggerated the origins of territorial and family arms and that error must not be passed off as truth.
 
-He explicitly warns that medieval writers frequently exaggerated the origins of territorial and family arms, so the researcher must avoid passing error off as truth.
-
-This gives a compact nineteenth-century formulation:
+The resulting operation is:
 
 `accurate blazon`
-→ `critical historical investigation`
-→ `origin of the arms`
+→ `critical investigation of the Wappen's history`
+→ `origin`
 → `changes through time`
 → `historical description`.
 
-That is a much more precise operation than simply attaching contextual history to an emblem.
+This corrects an overly linear model in which `Kritisierung` always comes only after historization as a separate downstream step. In Malinowski's 1841 reception, **critical testing is embedded inside historization itself**.
 
-## V. Why this matters for Gatterer
+The project should therefore distinguish two possible relations:
 
-Malinowski is not a substitute for Gatterer's own 1767 wording. His importance is reception history.
+- **criticism as an independent practical operation** — the later four-operation taxonomy reported around Gatterer/Hefner;
+- **criticism as an internal requirement of historization** — testing origin/change claims while reconstructing the history of the object.
 
-By 1841, a heraldic author could cite the **1767 Bamberg-Würzburg article beginning on p. 311** immediately before defining historization as critical reconstruction of the origin and transformations of a coat of arms.
+These are compatible rather than mutually exclusive.
 
-This pushes the reception of Gattererian `Historisierung` earlier than the Hefner 1863 control already in the repository.
+## VI. Plan, composition, historization, state
 
-The controlled reception chronology is now:
+Until pp. 311–329 are read directly, `Plan` in the Bamberg-Würzburg title must not be equated with Gatterer's universal-historical `historischer Plan`.
 
-`1767 AHB vol. 2: general heraldic review + concrete Wappen-Plan analysis`
-→ `1841 Malinowski: p. 311 article cited at the threshold of a chapter defining historization as origin-and-change reconstruction`
-→ `1863 Hefner: Historisierung explicitly codified as reconstruction of the origin, development, augmentation and alteration of a given Wappen`.
+Still, four distinct questions are now visible:
 
-The continuity is methodological rather than necessarily textual. Malinowski and Hefner both make **object-state change through time** central to heraldic history.
+1. **Blazon:** what is formally present?
+2. **Plan/composition:** why are these fields, insignia and claims combined in this observed arrangement?
+3. **Historization:** how did that arrangement originate and change into the observed state?
+4. **Critical control:** which origin/change claims survive source comparison?
 
-## VI. A stronger distinction: plan, history, and state
+For a composite territorial Wappen these can be represented as:
 
-The word `Plan` in the 1767 Bamberg-Würzburg title should be kept separate from Gatterer's `historischer Plan` in universal historiography until the article itself is read.
+`formal inventory`
+≠ `structural explanation of combination`
+≠ `chronology of accumulation/transformation`
+≠ `critical adjudication of that chronology`.
 
-Still, three analytically distinct questions are now visible:
-
-1. **Blazon:** what is formally present in the arms?
-2. **Plan/composition:** how are the fields, insignia and claims combined in the observed armorial configuration?
-3. **Historization:** how did that configuration originate and change into its observed state?
-
-This matters especially for composite territorial arms. A large princely Wappen is not only a field to decode; its quarterings and superimpositions can encode a historical accumulation of titles, jurisdictions, dynastic claims and offices.
-
-The project should therefore distinguish:
-
-`formal inventory of components`
-≠ `structural explanation of their combination`
-≠ `chronology of how the combination came into being`.
+This four-part distinction maps unusually well onto the repository's plate ontology without collapsing historical vocabularies into modern ones.
 
 ## VII. Direct relevance to the frontispiece corpus
 
-The same three-level distinction can be tested on plates:
+The same distinction can be tested on engraved plates:
 
-- **formal description** — what figures, inscriptions and objects are present?
-- **composition/plan** — how are they arranged and related in this design?
-- **historization** — how did this design/state acquire, lose or recombine those elements across successive witnesses?
+- **formal description** — figures, inscriptions, objects;
+- **composition/plan** — spatial and semantic relations among them;
+- **historization** — emergence, substitution, recurrence and recombination across dated witnesses;
+- **criticism** — deciding whether apparent continuity is real at design, matrix, impression or copy level.
 
-This provides an eighteenth-/nineteenth-century methodological analogue for the repository's plate ontology without claiming direct borrowing.
+The crucial move is from a static visual object to a **historically generated and critically testable state**.
 
-The crucial move is from treating a visual configuration as a static representation to treating it as a **historically generated state**.
+This reinforces the project's rule:
 
-## VIII. Schertz 1699 now becomes a plausible prehistory comparator
+`programme identity ≠ composition identity ≠ matrix identity ≠ impression/copy identity`.
 
-Carl Ferdinand von Schertz's *Mährisches Landes-Wappen Aus der Historie Und Herolds-Kunst Illuminiret* (Nürnberg, 1699) predates Gatterer's 1767 method cluster by nearly seven decades and explicitly combines `Historie` and `Herolds-Kunst` in the title.
+## VIII. Schertz 1699 remains a strong prehistory comparator
 
-Current digital transcription shows that Schertz does more than blazon the Moravian eagle. He asks a sequence of historical questions about:
+Carl Ferdinand von Schertz's *Mährisches Landes-Wappen Aus der Historie Und Herolds-Kunst Illuminiret* (Nürnberg, 1699) predates the 1767 loci by nearly seven decades and explicitly joins `Historie` with `Herolds-Kunst` in the title.
 
-- the origin of the territorial arms;
-- the historical meaning attributed to its components and colours;
-- earlier historians' accounts and their errors;
-- use of the arms by rulers and estates;
-- seals, charters, standards and public/official occurrences;
-- related armorial forms and possible confusion in reproduction.
+Current transcription-level evidence indicates that Schertz asks about the origin and meaning of the Moravian arms, evaluates earlier historians, and follows use across seals, charters, standards and public/official armorial occurrences. That makes it a strong comparator for treating one Wappen as a historical object.
 
-The work is therefore a strong **prehistory comparator for historically describing a coat of arms**.
-
-Do not infer a Schertz → Gatterer influence line without citation or library-use evidence. The safe claim is genre/methodological prehistory: Nürnberg already had a printed example in 1699 of one territorial Wappen being treated through the combined lenses of history and heraldic art.
+Do not infer Schertz → Gatterer influence without citation, ownership or library-use evidence. Institutional scan control remains the next step before promoting detailed Schertz claims to primary status.
 
 ## Evidence guards
 
-1. Gierl securely controls the page sequence 294–311 and 311–329, but adjacency does not prove common authorship.
-2. The exact status and wording of the Rudolphi passage still require direct Band 2 inspection.
-3. Malinowski 1841 is reception evidence. His two-part definition of historization must not be retrojected as Gatterer's verbatim 1767 definition.
-4. Malinowski's citation to p. 311 strongly associates the Bamberg-Würzburg article with historization in later teaching, but it does not prove that every element of Malinowski's definition derives from that article.
-5. `Plan` in the Bamberg-Würzburg title should not yet be equated with Gatterer's universal-historical `Plan`.
-6. Schertz 1699 is a comparator, not a demonstrated source for Gatterer.
+1. **p. 38ff** and **pp. 294–329** are separate loci. Do not merge the Rudolphi method comparison into the late-volume review/Plan cluster.
+2. The p. 38ff locator and wording are currently controlled through later heraldic citation/transcription, not direct AHB page inspection.
+3. Gierl securely controls pp. 294–311 and pp. 311–329, but adjacency does not prove common authorship.
+4. Malinowski 1841 is reception evidence. His two-part definition must not be retrojected as Gatterer's verbatim 1767 definition.
+5. Malinowski's p. 311 citation strongly associates the Bamberg-Würzburg article with the practical environment of historization, but does not prove derivation of every procedural rule.
+6. `Plan` in the Wappen title remains unresolved until direct textual inspection.
+7. Schertz 1699 is a comparator, not a demonstrated source for Gatterer.
 
 ## Source controls
 
-- Martin Gierl, *Fundamenta Historica*, source bibliography: unsigned review of Gatterer's *Abriß der Heraldik*, *Allgemeine historische Bibliothek* 2 (1767), pp. 294–311; anonymous `Beurtheilung des Plans in dem hochstiftlichen Bamberg-würzburgischen Wappen`, pp. 311–329.
-- *Allgemeine historische Bibliothek*, vol. 2, ed. Johann Christoph Gatterer (Halle: Gebauer, 1767), 336 pp.; Google Play free-book metadata.
-- Norbert Eugeniusz Malinowski, *Heraldyka to jest nauka o herbach* (Warsaw, 1841), p. 107 and chapter LXVI §149, direct indexed PDF text; institutional metadata from PAN Biblioteka Kórnicka / Wielkopolska Biblioteka Cyfrowa.
-- Carl Ferdinand von Schertz, *Mährisches Landes-Wappen Aus der Historie Und Herolds-Kunst Illuminiret* (Nürnberg: Johann Zieger / Christian Sigmund Froberg, 1699); Deutsche Digitale Bibliothek authority record lists the work; current detailed text control comes from a transcription pointing to BSB, SLUB and Austrian National Library digitizations.
+- *Allgemeine historische Bibliothek von Mitgliedern des königlichen Instituts der historischen Wissenschaften zu Göttingen: Zweyter Band*, ed. Johann Christoph Gatterer (Halle: Johann Justinus Gebauer, 1767), **336 pp.**, Google Play free ebook, object id `1HhcAAAAcAAJ`.
+- Göttingen digital-object locator: `PPN555506932_0002`, pending stable page-level access.
+- Heraldik-Wiki, `Johann Anton Kroll von Freyen`, reproducing the Rudolphi judgment and citing Gatterer's `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben`, *AHB* 2, **p. 38ff**.
+- Martin Gierl, *Fundamenta Historica*, source bibliography: unsigned *Abriß der Heraldik* review, *AHB* 2 (1767), pp. 294–311; anonymous `Beurtheilung des Plans in dem hochstiftlichen Bamberg-würzburgischen Wappen`, pp. 311–329.
+- Norbert Eugeniusz Malinowski, *Heraldyka to jest nauka o herbach* (Warsaw, 1841), p. 107 and chapter LXVI §149; indexed institutional PDF text.
+- Carl Ferdinand von Schertz, *Mährisches Landes-Wappen Aus der Historie Und Herolds-Kunst Illuminiret* (Nürnberg, 1699), current transcription-level control pending institutional scan.
 
 ## Next high-information checks
 
-1. Recover *AHB* vol. 2 pp. 294–329 directly and determine whether the Rudolphi comparison belongs inside the review or another subsection.
-2. Read the full `Beurtheilung des Plans...` and record exactly what `Plan` means: compositional logic, historical accumulation, juridical hierarchy, graphic order, or some combination.
+1. Recover *AHB* 2 **p. 38ff** directly and enumerate every method/author in `Beurtheilung einiger fremden Methoden...`.
+2. Recover **pp. 311–329** and determine what `Plan` means: graphic composition, historical accumulation, juridical hierarchy, or a combination.
 3. Test whether the article dates individual fields/quarters and reconstructs their incorporation into the Bamberg-Würzburg arms.
-4. Collate Malinowski's §149 against the 1767 article to identify which procedural elements are inherited, reformulated or newly systematized.
-5. Obtain an institutional scan of Schertz 1699 and record its question structure, cited source types, and treatment of seals/official armorial occurrences before promoting individual claims to `verified_primary`.
+4. Recover **pp. 294–311** separately as reception of the 1766 *Abriß*.
+5. Collate Malinowski §149 with the 1767 p. 311 article to distinguish inherited procedure from nineteenth-century systematization.
+6. Obtain an institutional scan of Schertz 1699 and record the precise source types and occurrence logic used in the Moravian case.
