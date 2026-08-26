@@ -4,7 +4,7 @@
 
 A newly recovered 1767 control sharpens what it could mean for heraldry to become **historical** in Gatterer's methodological environment.
 
-A passage attributed to Gatterer and cited under the heading `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben` evaluates Johann Anton Kroll von Freyen / J. A. Rudolphi's *Heraldica Curiosa*. The passage does not treat accurate armorial description as sufficient historical work. Instead it distinguishes at least three levels that should remain analytically separate:
+A passage cited under the heading `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben` evaluates Johann Anton Kroll von Freyen / J. A. Rudolphi's *Heraldica Curiosa*. The passage does not treat accurate armorial description as sufficient historical work. Instead it distinguishes at least three levels that should remain analytically separate:
 
 1. **blazon / formal description** — describing the arms according to heraldic vocabulary and rules;
 2. **historische Erläuterungen** — historical elucidations attached to particular arms;
@@ -13,6 +13,25 @@ A passage attributed to Gatterer and cited under the heading `Beurtheilung einig
 In the Rudolphi case, Gatterer says that the author blazons in roughly the manner of Spener, offers only a handful of historical elucidations, and provides no history of the arms. He therefore assigns Rudolphi to the **`Classe der Blasonisten`**, not to the historical describers of arms.
 
 This is a high-information distinction for the repository. It means that the mere conjunction of a coat of arms with antiquarian or genealogical prose does not make the operation historical. The text can still remain at the level of formal description.
+
+## Major bibliographic correction: this is not the pp. 294–311 Abriß review
+
+A fresh control corrects the previous working hypothesis.
+
+Heraldik-Wiki's full footnote for the Rudolphi quotation cites:
+
+`Johann Christoph Gatterer: Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben. In: Allgemeine historische Bibliothek ... 2. Band ... S. 38 ff.`
+
+This means the methodological comparison belongs at **vol. 2, p. 38ff**, not at pp. 294–311.
+
+Martin Gierl's bibliography independently identifies **pp. 294–311** of the same volume as an unsigned review of Gatterer's *Abriß der Heraldik oder Wappenkunde*. Those must now be treated as **two separate textual units** unless direct inspection proves some unexpected relation.
+
+Current separation:
+
+- **p. 38ff** — `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben`; contains the numbered Rudolphi judgment and is the target for the historical-heraldry method sweep;
+- **pp. 294–311** — unsigned review of Gatterer's *Abriß der Heraldik* catalogued by Gierl; a separate target, potentially useful for reception of the 1766 manual but not the carrier of the Rudolphi passage.
+
+This correction materially improves the research path: the next direct-page target is **p. 38ff**, not pp. 294–311.
 
 ## Why this fills a real gap
 
@@ -32,8 +51,6 @@ The 1767 Rudolphi judgment gives a contemporary answer in operational form. Form
 
 ## Methodological crosswalk
 
-The current Gatterer sequence can now be decomposed more precisely.
-
 ### A. Source problem
 
 `Which witnesses warrant heraldic knowledge?`
@@ -44,7 +61,7 @@ The 1766 *Abriß* places `Quellen der Wappenkunde` at p. 7. A later controlled 1
 
 `How is the armorial form identified and verbalised?`
 
-This is the domain of blazon. Rudolphi can be competent enough to belong with Spener in descriptive practice while still failing Gatterer's historical threshold.
+This is the domain of blazon. Rudolphi can resemble Spener in descriptive practice while still failing Gatterer's historical threshold.
 
 ### C. Historical explanation problem
 
@@ -60,7 +77,7 @@ The visible phrase `Historie der Wappen` establishes that an armorial object can
 
 ### E. Critical problem
 
-By 1791 Gatterer's practical taxonomy includes `Kritisieren` alongside `Blasonieren` and `Historisieren`, making explicit that description, historical interpretation and criticism can be differentiated operations.
+By 1791 Gatterer's practical taxonomy is reported in later heraldic reception as including `Kritisieren` alongside `Blasonieren` and `Historisieren`. The exact 1791 wording still requires direct pp. 1ff control.
 
 The analytical chain is therefore not:
 
@@ -74,11 +91,9 @@ It is closer to:
 → `history of armorial form/use`
 → `critical judgment where required`.
 
-These operations can cooperate, but they should not be collapsed.
-
 ## Rudolphi as a negative control
 
-Rudolphi is especially useful because the judgment is negative rather than programmatic. Gatterer is not only saying what historical heraldry ideally should contain; he is drawing a boundary around a work that might superficially look historical.
+Rudolphi is especially useful because the judgment is negative rather than programmatic. Gatterer is drawing a boundary around a work that might superficially look historical.
 
 *Heraldica Curiosa* announces origin, growth, development, present German usage, descriptions found in armorial charters, old documents, flags, seals and authors, together with a large technical apparatus. That breadth is still insufficient for Gatterer's classification if the actual treatment remains overwhelmingly blazon plus only a few historical elucidations.
 
@@ -92,8 +107,6 @@ That distinction should be carried directly into the frontispiece project:
 - depiction of a coin ≠ historical argument from the coin;
 - coat of arms + genealogy ≠ history of the arms;
 - antiquarian source citation ≠ critical source operation.
-
-The question must always be what the represented or cited object **does inside the argument**.
 
 ## Relation to the 1766/1774 source hierarchy
 
@@ -120,7 +133,7 @@ This distinction is especially important for an image-centred corpus because eng
 
 ### Representation as lexical aid
 
-An image may simply teach how a partition, tincture, ordinary, charge, crest or combination should be recognized and named. Its function is formal and descriptive.
+An image may simply teach how a partition, tincture, ordinary, charge, crest or combination should be recognized and named.
 
 ### Representation as historical elucidation
 
@@ -136,38 +149,37 @@ A formal feature may be compared against charters, seals, coins, monuments or ot
 
 The repository should therefore annotate not just **what is pictured** but, where evidence permits, **what historical operation the picture performs**.
 
-## Bibliographic control and unresolved textual status
+## Bibliographic control
 
-Three independent controls presently intersect:
+The current controls now fit together without conflation:
 
 1. Google Play exposes *Allgemeine historische Bibliothek*, vol. 2, as a 1767 Halle/Gebauer volume of 336 pages edited by Johann Christoph Gatterer.
-2. Martin Gierl's bibliography in *Fundamenta Historica* identifies pp. 294–311 of vol. 2 as an unsigned review of Gatterer's *Abriß der Heraldik oder Wappenkunde*.
-3. Heraldik-Wiki cites the Rudolphi passage to Johann Christoph Gatterer under the title/heading `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben`, in the same vol. 2.
+2. Heraldik-Wiki reproduces the Rudolphi passage and gives the bibliographic locator **vol. 2, p. 38ff**, attributing the methodological comparison to Gatterer.
+3. Martin Gierl independently catalogs an **unsigned review of Gatterer's 1766 *Abriß der Heraldik*** at **vol. 2, pp. 294–311**.
 
-This convergence strongly locates the passage in the 1767 *Allgemeine historische Bibliothek* environment, but one textual question remains open: **is `Beurtheilung einiger fremden Methoden...` a standalone contribution, a subsection/heading within the pp. 294–311 review, or a label supplied by later citation practice?**
-
-Until the Band 2 scan is inspected directly, the repository should cite the passage as a recovered 1767 control and keep its exact heading/page extent/authorship status explicitly unresolved.
+The p. 38ff attribution is still secondary until direct page inspection, but its explicit locator removes the earlier reason to associate the Rudolphi passage with pp. 294–311.
 
 ## Evidence guards
 
-1. The Rudolphi wording is currently controlled through a later heraldic transcription/citation, not yet through direct inspection of the Band 2 scan.
-2. Use only the visible distinction supported by that passage: blazon, historical elucidation, and history of arms. Do not infer the complete architecture of the surrounding article from one example.
-3. The exact status of `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben` as title, subsection or later citation label remains unresolved.
-4. Gierl catalogs the pp. 294–311 review anonymously. Do not convert Gatterer's editorship of the journal into automatic proof that every unsigned review was personally authored by him.
+1. The Rudolphi wording is currently controlled through a later heraldic transcription/citation, not yet through direct inspection of vol. 2 p. 38ff.
+2. Use only the visible distinction supported by that passage: blazon, historical elucidation, and history of arms.
+3. Treat `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben` as located at **p. 38ff** by the current secondary citation. Exact page span and internal heading status remain to be verified.
+4. Keep the pp. 294–311 *Abriß* review separate. Gierl catalogs it anonymously; do not use it as authorship evidence for the p. 38ff article.
 5. The later 1791 four-operation taxonomy is a chronological comparison, not evidence that the same terms or boundaries were already fully stabilized in 1767.
 6. Do not infer a linear 1766 → 1767 → 1791 conceptual development until the relevant texts are compared directly.
 
 ## Source controls
 
-- *Allgemeine historische Bibliothek von Mitgliedern des königlichen Instituts der historischen Wissenschaften zu Göttingen*, vol. 2, ed. Johann Christoph Gatterer (Halle: Johann Justinus Gebauer, 1767), 336 pp. Google Play full-volume metadata; Gebauer-Schwetschke publisher bibliography independently confirms vol. 2 at 336 pp.
-- Martin Gierl, *Fundamenta Historica* bibliographic section: unsigned 1767 review of Gatterer's *Abriß der Heraldik oder Wappenkunde*, *Allgemeine historische Bibliothek* 2, pp. 294–311.
-- Heraldik-Wiki, `Johann Anton Kroll von Freyen`, reproducing and sourcing the Rudolphi evaluation to Gatterer, 1767, under `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben`.
+- *Allgemeine historische Bibliothek von Mitgliedern des königlichen Instituts der historischen Wissenschaften zu Göttingen*, vol. 2, ed. Johann Christoph Gatterer (Halle: Johann Justinus Gebauer, 1767), 336 pp. Google Play full-volume metadata.
+- Heraldik-Wiki, `Johann Anton Kroll von Freyen`, reproducing the Rudolphi evaluation and citing Johann Christoph Gatterer, `Beurtheilung einiger fremden Methoden, Wappen historisch zu beschreiben`, *Allgemeine historische Bibliothek* 2, **p. 38ff**.
+- Martin Gierl, *Fundamenta Historica*, bibliography: separate unsigned review of Gatterer's *Abriß der Heraldik oder Wappenkunde*, *Allgemeine historische Bibliothek* 2 (1767), **pp. 294–311**.
 
 ## Next high-information checks
 
-1. Inspect *Allgemeine historische Bibliothek* 2 (1767), **pp. 294–311**, directly.
-2. Identify whether `Beurtheilung einiger fremden Methoden...` is a heading inside that review and record its exact page span.
-3. Extract every numbered author/method evaluated in the section, not only Rudolphi, and record the criteria Gatterer uses to distinguish blazonists from historical describers.
-4. Test whether Spener is the positive comparative baseline and whether other authors occupy intermediate positions.
-5. Crosswalk those 1767 criteria against the 1791 `Blasonieren / Historisieren / Kritisieren / Erfinden` taxonomy.
-6. Add an operation-level field to relevant image/witness records only after the categories are textually controlled.
+1. Inspect *Allgemeine historische Bibliothek* 2 (1767), **p. 38ff**, directly.
+2. Establish the exact start/end page and whether `Beurtheilung einiger fremden Methoden...` is the printed heading.
+3. Extract every numbered author/method evaluated in that section, not only Rudolphi, and record the criteria used to distinguish blazonists from historical describers.
+4. Determine why Rudolphi is numbered `2.` and identify item `1.`; test the current hypothesis that Spener is the immediate comparator rather than assuming it.
+5. Separately inspect **pp. 294–311** as reception of the *Abriß der Heraldik*.
+6. Crosswalk the p. 38ff criteria against the 1791 `Blasonieren / Historisieren / Kritisieren / Erfinden` reception taxonomy.
+7. Add an operation-level field to relevant image/witness records only after the p. 38ff categories are textually controlled.
