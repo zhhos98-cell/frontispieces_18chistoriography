@@ -8,9 +8,9 @@ The inscription
 
 `Testes temporum et veritatis.`
 
-is a durable **serial/programmatic identifier**, not a unique image identifier. Direct and copy-level image controls now establish at least three visibly different frontispiece composition families carrying the same wording. A second pass further shows that those families do **not** form a simple A→B→C replacement sequence: older designs can recur after other designs have intervened and after the publishing host has changed.
+is a durable **serial/programmatic identifier**, not a unique image identifier. Direct and copy-level image controls establish at least three visibly different frontispiece composition families carrying the same wording. The controlled chronology also shows that those families do **not** form a simple A→B→C replacement sequence: older designs can recur after other designs have intervened and after the publishing host has changed.
 
-The required hierarchy is therefore:
+The required hierarchy is:
 
 `inscription/programme identity ≠ composition/design identity ≠ matrix/plate identity ≠ impression identity`.
 
@@ -23,14 +23,17 @@ For this corpus, “Clio” without a composition qualifier is too coarse for pl
 | 1726 | Auction House Imperia, auction 123 lot 1; photographed copy, image `https://www.auction-imperia.ru/i/booklot/PA231721-123.jpg` | **Type A — tree composition** | Photograph includes title page dated 1726 and the frontispiece. The frontispiece is the tree-dominated design later seen in ULB 1728/1733/1738. This moves the directly visible Type A boundary back to 1726. |
 | 1728 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621323`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8331193` | **Type A** | Winged Historia at upper left beneath/against a tree; Time/Chronos seated centrally with scythe; putti; armorial book and genealogical sheet. Full Latin programme visible. |
 | 1733 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621333`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8335026` | **Type A** | Same broad composition family as 1726/1728. |
+| 1737 | Detached formerly bound impression, Antiquariaat Arine van der Steur / AbeBooks inventory 30036579591; image `https://pictures.abebooks.com/inventory/30036579591.jpg` | **Type A** | Detached approximately 198 × 122 mm impression visibly carries Type A and the full Latin programme. Seller notes former binding traces. Exact original host remains to be secured independently. |
 | 1738 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621373`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8306365` | **Type A** | Same broad composition family; direct image-level persistence through 1738. |
 | 1744 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621634`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8331509` | **Type B — Müller–Tyroff architectural composition** | Clearly different architectural/interior design. Bottom signatures visibly read `G. Müller del.` and `M. Tyroff sc.`. |
 | 1748 | ULB Düsseldorf, `urn:nbn:de:hbz:061:1-621735`; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8301985` | **Type C — seated Historia / open-book composition** | Third distinct design: seated winged Historia with a large open book, Time at right, genealogical sheet at left. |
 | 1751 | ULB Düsseldorf; `https://digital.ulb.hhu.de/ihd/download/webcache/0/8306719` | **Type C** | Same broad seated-Historia/open-book composition family. Bottom-right wording appears to read `M. Tyroff fec.`; retain as image observation pending diplomatic enlargement. |
-| 1759 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*; photographed opening spread reproduced by von-stackelberg.de / indexed web image | **Type A** | The photographed title page is the 1759 Gatterer handbook, while the facing frontispiece returns to the Type A tree composition. This is the first strong evidence that Type A was re-hosted after Type B and Type C had already appeared. |
-| 1762 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*, Raspische Handlung | **Type C probable** | A cached ZVAB seller image associated with the 1762 Kümmerle listing shows the Type C seated-Historia/open-book design. Independently, the National Library of Finland/Finna copy catalogues the frontispiece signature as `M. Turoff fec. 1755`. Treat the composition assignment as a web-image control until direct copy linkage is diplomatically secured. If the pairing is correct, `fec. 1755` belongs within the Type C family rather than proving a new Type B state. |
-| 1763 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*; Flickr album explicitly sourced from Bayerische Staatsbibliothek, Nürnberg 1763 | **Type C** | The album’s opening frontispiece is visibly Type C. This independently extends the seated-Historia design family into the early Raspe/Gatterer handbook sequence. |
-| 1765 | *Wappen-Calender ... jährliches Handbuch der neuesten Genealogie und Heraldik*; photographed copies on OLX and Ricardo | **Type A** | Both market photographs show an opening spread with 1765 title page and Type A frontispiece. Type A therefore recurs again after the Type C handbook witnesses. |
+| **1755** | Jasper52 / Lot-Art photographed physical *Geschichts-, Geschlechts- und Wappen-Calender*; lot 0105, 6 Nov. 2024 | **Type C** | The photographed opening directly pairs the frontispiece with the title page for calendar year 1755. The image is visibly the Type C seated-Historia/open-book design, not Type A or Type B. The recurring Latin programme is legible beneath it. This closes the former composition-classification gap for 1755. |
+| 1759 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*; photographed opening spread reproduced by von-stackelberg.de / indexed web image | **Type A** | The photographed title page is the 1759 Gatterer handbook, while the facing frontispiece returns to Type A. This is direct evidence for nonlinear re-hosting after Type B and Type C had circulated. |
+| 1761 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*; photographed physical copy, ZVAB/AbeBooks inventory 30897664620 | **Type C** | Opening photograph pairs the 1761 title page with Type C. This gives a direct pre-1762 Type C control in the Gatterer/Raspe sequence. |
+| 1762 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*, Raspische Handlung | **Type C probable** | A cached ZVAB seller image associated with the 1762 Kümmerle listing appears Type C. Independently, the National Library of Finland/Finna copy catalogues the frontispiece signature as `M. Turoff fec. 1755`. Direct copy-level pairing remains desirable, but the 1755, 1761 and 1763 Type C controls make Type C the leading assignment. |
+| 1763 | Gatterer, *Handbuch der neuesten Genealogie und Heraldik*; Flickr album explicitly sourced from Bayerische Staatsbibliothek, Nürnberg 1763 | **Type C** | The album’s opening frontispiece is visibly Type C. |
+| 1765 | *Wappen-Calender ... jährliches Handbuch der neuesten Genealogie und Heraldik*; photographed copies on OLX and Ricardo | **Type A** | Market opening photographs pair the 1765 title page with Type A. Type A therefore recurs again after the Type C handbook witnesses. |
 
 The ULB contents navigation explicitly labels its opening images `Illustration Historia Genealogia Heraldica`, reinforcing the distinction between the recurring serial phrase and changing graphic designs.
 
@@ -38,55 +41,65 @@ The ULB contents navigation explicitly labels its opening images `Illustration H
 
 ### Type A — tree composition
 
-Direct/copy-level image controls: 1726, 1728, 1733, 1738, 1759, 1765.
+Direct/copy-level image controls: **1726, 1728, 1733, 1737, 1738, 1759, 1765**.
 
-The design places Historia, Time, heraldic/genealogical media and putti in a tree/outdoor arrangement. The striking result is **nonlinear recurrence**: Type A is visible in the Weigel calendar phase, disappears from the currently controlled mid-century samples, then returns in Gatterer/Raspe hosts.
+The design places Historia, Time, heraldic/genealogical media and putti in a tree/outdoor arrangement. The crucial result is **nonlinear recurrence**: Type A is visible in the early Weigel calendar phase, later coexists chronologically with the existence of Types B/C, and returns in Gatterer/Raspe hosts.
 
-This is design recurrence, not yet proof that one copperplate survived intact from 1726 to 1765. The same-matrix hypothesis is now high value because it would document exceptionally long-lived publisher-held plate stock crossing textual and firm regimes. It must be tested through dimensions, signature wording, frame, micro-defects, line retouching and wear.
+This is design recurrence, not yet proof that one copperplate survived intact from 1726 to 1765. The same-matrix hypothesis is high value because a positive result would document exceptionally long-lived publisher-held plate stock crossing textual and firm regimes. It requires dimensions, signature wording, frame, micro-defects, line retouching and wear.
 
 ### Type B — Müller–Tyroff architectural composition
 
-Directly verified in 1744 and signed `G. Müller del.` / `M. Tyroff sc.`. Catalogue controls from 1739 and the British Museum 1740 object likewise identify a Müller→Tyroff Historia/Genealogia/Heraldica frontispiece, making Type B the leading composition assignment for those witnesses.
+Directly verified in 1744 and signed `G. Müller del.` / `M. Tyroff sc.`. Catalogue controls from 1739 and the British Museum 1740 object identify a Müller→Tyroff Historia/Genealogia/Heraldica frontispiece, making Type B a strong hypothesis for those witnesses, but artist names alone do not substitute for direct composition comparison.
 
 Same-matrix identity among 1739/1740/1744 remains a separate question.
 
 ### Type C — seated Historia / open-book composition
 
-Directly verified in 1748 and 1751; independently visible again in the 1763 BSB-derived image set. The 1762 cached listing image also appears Type C, while Finna reads its production signature `M. Turoff fec. 1755`.
+Directly verified in **1748, 1751, 1755, 1761 and 1763**; 1762 is probable from a cached copy image and is bracketed by direct Type C controls.
 
-That combination opens a more precise hypothesis: Type C may itself exist in more than one physical matrix or state, with a Tyroff production/re-engraving event dated 1755. This would reconcile a Type C composition visible before 1755 with a later Type C impression signed `fec. 1755`. No same-matrix claim should be made until 1748/1751/1762/1763 are compared at plate-state level.
+The new 1755 classification materially sharpens the plate-state problem. Finna’s 1762 copy reads `M. Turoff fec. 1755`, and **Type C is now directly visible in a physical 1755 calendar copy**. The economical hypothesis is therefore no longer an abstract “Tyroff intervention sometime around 1755”; it is a specific within-Type-C production event that may be visible in the very year named by the later signature.
+
+Type C already exists in 1748 and 1751, so even if the 1762 signature is diplomatically confirmed, `fec. 1755` cannot by itself mean invention of the composition. It may mark a new/re-engraved Type C matrix, substantial renewal, copied state or another production intervention. Same composition is still not same matrix.
 
 ## The chronology is recurrent, not linear
 
-The direct composition sequence currently reads approximately:
+The current direct/probable composition sequence is:
 
-`1726 A → 1728 A → 1733 A → 1738 A → 1744 B → 1748 C → 1751 C → 1759 A → 1762 C? → 1763 C → 1765 A`.
+`1726 A → 1728 A → 1733 A → 1737 A → 1738 A → 1744 B → 1748 C → 1751 C → 1755 C → 1759 A → 1761 C → 1762 C? → 1763 C → 1765 A`.
 
-This is more consequential than a simple sequence of redesigns. The same verbal programme could be attached to different compositions, and older composition families could be **reactivated or re-hosted** after newer ones circulated.
+This is more consequential than a sequence of redesigns. The same verbal programme could be attached to different compositions, while older composition families could be **reactivated or re-hosted** after newer ones circulated.
 
-The working model should therefore shift from “frontispiece replacement” to a **repertoire / stock model**: publishers and editors had access to a set of visual thresholds whose verbal programme remained stable, while individual designs or matrices could be selected, revived, recopied or transferred according to host, stock, binding, ownership and production circumstances.
+The working model is therefore a **repertoire / stock model** rather than linear frontispiece replacement: publishers and editors had access to a set of threshold designs whose verbal programme remained stable, while individual matrices or copied designs could be selected, revived, remade or transferred according to stock, host, ownership, binding and production circumstances.
 
-This aligns directly with the separately documented `Verlagskupfer` phenomenon. The frontispiece evidence now gives a serial threshold analogue: a graphic programme can outlive particular hosts, and an older design may return after other designs have intervened.
+This aligns with the separately documented `Verlagskupfer` phenomenon. The frontispiece sequence gives a serial threshold analogue: a graphic programme outlives particular hosts, and an older design can return after other designs have intervened.
 
 ## Relation to firm and plate-stock history
 
-The return of Type A in 1759 and 1765 matters because these hosts sit after the original Christoph Weigel phase and in the Weigel/Raspe transition or Raspe environment. At composition level, this is compatible with at least three mechanisms:
+The return of Type A in 1759 and 1765 matters because these hosts sit in or beyond the Weigel→Raspe transition. At composition level, the recurrence is compatible with at least three mechanisms:
 
-1. transfer/custody of an old copperplate into a later publisher’s stock;
+1. transfer/custody of an old copperplate into later publisher stock;
 2. re-engraving of an older composition for a new stock-holder;
-3. reuse of an older impression or separately circulating plate in copy assembly.
+3. reuse of older impressions or separately circulating plates during copy assembly.
 
-The current evidence does not choose among them. It does make the firm-custody question empirically testable rather than merely contextual.
+The current evidence does not choose among them. It does make the firm-custody question empirically testable.
 
-## 1762: revised interpretation of `M. Turoff fec. 1755`
+A contextual side-control strengthens the plausibility of stock transfer as a business problem: Raspe’s mid-century publishing activity emerged through a changing firm environment, and later catalogue/book-trade evidence repeatedly treats title coppers and Wappenbuch plates as reusable production assets. This contextual evidence should remain subordinate to matrix-level image comparison.
 
-Earlier work treated the 1762 signature as potentially a 1755 re-engraving of the Müller–Tyroff Type B composition. The multi-composition control makes that inference unsafe.
+## 1755 and 1762: revised interpretation of `M. Turoff fec. 1755`
 
-The cached 1762 listing image appears to be Type C. If direct inspection confirms that pairing, the more economical question becomes whether Tyroff produced a **new Type C matrix in 1755**, copied from or closely following the Type C composition already present in 1748/1751. This is precisely the kind of distinction the corpus needs to preserve:
+The former hypothesis that the 1762 signature might identify a 1755 re-engraving of the 1744 Müller–Tyroff Type B composition is no longer the leading model.
 
-`same composition ≠ same matrix`.
+Now controlled:
 
-Direct 1762 opening-leaf inspection remains decisive for diplomatic signature, composition pairing and state comparison.
+- Type C is directly visible by 1748 and 1751;
+- a photographed physical 1755 calendar directly carries Type C;
+- 1761 directly carries Type C;
+- Finna records `M. Turoff fec. 1755` on the 1762 frontispiece;
+- 1763 directly carries Type C.
+
+If direct inspection confirms the cached 1762 image as Type C, the decisive question becomes whether a **Type C matrix made or renewed in 1755** is already the plate visible in the photographed 1755 calendar and then persists into 1761–1763.
+
+The next comparison therefore belongs entirely within Type C: 1748 → 1751 → **1755** → 1761 → 1762 → 1763.
 
 ## Provenance/circulation side-control: Gandersheim
 
@@ -100,14 +113,15 @@ Old catalogue: Staatsarchiv Coburg, LAA 5772.
 
 ## Immediate discriminating checks
 
-- inspect 1726 at higher resolution for signature and compare Type A frame/defects with 1728, 1733 and 1738;
-- inspect 1759 Type A signature and dimensions to test whether an early Weigel matrix survives into the Gatterer handbook;
-- classify the photographed 1755 witness and enlarge its signature;
-- pair the 1762 frontispiece directly with Finna’s `M. Turoff fec. 1755` note and compare it against 1748/1751 Type C;
-- compare 1763 Type C against 1762 and earlier Type C states;
-- compare 1765 Type A against 1726–1738 Type A for same-matrix evidence;
+- enlarge the 1755 Type C photograph and transcribe its bottom production signature;
+- compare 1748/1751 Type C against 1755 for frame, lettering and micro-defects to determine whether 1755 is a new matrix or an older plate/state;
+- pair the 1762 frontispiece directly with Finna’s `M. Turoff fec. 1755` note;
+- compare 1755/1761/1762/1763 Type C for one continuous post-1755 matrix versus multiple matrices;
+- inspect 1759 Type A signature and dimensions against 1726/1728/1733/1737/1738;
+- compare 1765 Type A against the early Type A controls for same-matrix evidence;
 - inspect 1764 and 1766 to map the rapid A/C alternation around the Raspe handbooks;
-- classify the 1767 Seyfart threshold to see which composition family survives the editorial transition.
+- classify the 1767 Seyfart threshold to see which composition family survives the editorial transition;
+- inspect 1725 and 1752, the two remaining high-value boundary years for initial adoption and the Gandersheim paired-volume problem.
 
 ## Evidentiary guardrail
 
