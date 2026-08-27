@@ -1,221 +1,168 @@
-# M028 Meiners 1792 — primary-direct results: causal rank, trait decoupling, and evidence threshold
+# M028 Meiners 1792 — primary-direct closure: colour, causal rank, observer instability, trait decoupling
 
 Date: 2026-08-27
+Status: **closed_primary_direct**
 
-## Status
+Christoph Meiners, `Ueber die Farben, und Schattierungen verschiedener Völker`, *Neues Göttingisches historisches Magazin* I/4 (1792), pp.611–672, is now directly controlled across the full high-value argument. The user first supplied a Google/Internet Archive scan; a second BSB/MDZ witness then supplied the locally defective/missing printed pp.611–613, 619 and 671.
 
-A user-supplied full Google/Internet Archive scan of *Neues Göttingisches historisches Magazin*, vol. 1 (1792), has now allowed direct inspection of the core of Christoph Meiners, `Ueber die Farben, und Schattierungen verschiedener Völker`, printed pp. 611–672.
+## 1. Opening research program, pp.611–613
 
-The supplied carrier is not textually continuous at every printed leaf. In the article sequence, printed pp. **611–613, 619, and 671** are not recoverable in the expected places from this scan; p.619 is replaced by an unrelated earlier leaf and the position expected for p.671 contains a repeated earlier page. These are carrier-level gaps, not claims that the pages are absent from every copy.
+The opening is stronger than the former derivative reconstruction.
 
-Core argument pages are nevertheless present and directly legible, including pp. 614–618, 628–632, 635–637, 665–670, and 672.
+Meiners explicitly makes colour a multi-question inquiry rather than a ready-made classificatory sign. He asks:
 
-Evidence status after this pass:
+- whether population colour depends more on climate/place or descent;
+- whether children's colour depends more on birthplace or parental blood;
+- whether, and to what extent, colour can serve as a reliable sign of `Racen und Abkunft`;
+- how many `Hauptfarben` should be admitted;
+- whether one or more of them are `Grundfarben`, from which the others arose but which, on current experience, cannot simply be transformed into one another by external causes.
 
-`core causal architecture = primary_direct`
+He closes the opening by saying these questions remain unresolved and deserve exact examination.
 
-`parental-blood priority = primary_direct`
+Operationally:
 
-`physiological modifiers / equifinality = primary_direct`
+`visible colour → causal discrimination → descent/race warrant → descriptive colour classes → origin-colour hypothesis`.
 
-`trait decoupling = primary_direct`
+This means `colour as race evidence` is itself an explicit problem to be tested, not a premise silently assumed.
 
-`light-colour equifinality = primary_direct`
+## 2. Observer vocabulary is itself an evidentiary problem, p.613
 
-`white + yellow as Urfarben / derived-colour hypothesis = primary_direct`
+P.613 is a major actor-explicit control for the repo's Wilson-informed legibility problem.
 
-`literal opening pp.611–613 + p.619 + literal four-Hauptfarben list on p.671 = alternate-carrier closure still needed`.
+Meiners states that ordinary colour vocabularies cannot precisely express the innumerable gradations of human colour. Terms such as white, yellow, brown, olive, `tanné`, black and related expressions are too broad and unstable. He notes that otherwise credible travellers can describe the same people with conflicting colour terms, partly because they choose different verbal categories and partly because their implicit comparison population differs.
 
-## 1. Verification matrix
+The observation is therefore not simply:
 
-| Test | Result | Primary locator | Consequence |
-|---|---|---|---|
-| Opening problem statement / colour as race-descent evidence | `unresolved_primary_due_carrier_gap` | pp.611–613 absent from supplied sequence | Keep Krünitz/secondary opening control, but do not call it primary-direct yet. |
-| External causal menu | `confirmed` | pp.614–618 | Heat/sun, cold, dry/moist air, winds, latitude, elevation, sea proximity, shade/forest etc. form a differentiated causal field. |
-| Cause vs modifier vs masking | `confirmed_and_sharpened` | p.615 | Lebensart/Beschäftigung may strengthen or weaken effects without being true co-causes; dirt can conceal rather than alter colour; counteracting causes are explicit. |
-| Parental blood has greatest default causal weight | `confirmed` | pp.628–631, especially p.631 | The derivative `am meisten von dem Blute der Eltern` formulation is genuinely Meiners's primary text. |
-| Internal physiological modifiers | `confirmed` | pp.628–632 | Colour change is also attributed to blood-mediated internal processes, wounds, illness, and strong affect. |
-| Complete intergenerational environmental conversion empirically established | `weakened / falsified as an empirical claim` | p.632 | Meiners explicitly says he lacks examples in which altered external causes wholly convert an innate population colour into another across generations/centuries. |
-| Trait decoupling in admixture | `confirmed` | pp.635–637, especially p.636 | Colour can darken across repeated mixture while body/facial formation remains more European; p.637 also shows pathway-specific recoupling. |
-| Old `p.679` locator | `falsified` | correct primary location pp.635–637 | `p.679` belongs to a derivative/secondary pagination history, not Meiners 1792 primary pagination. |
-| Light colour has more than one causal/genealogical route | `confirmed` | pp.665–667 | Light/white appearance may be read through European descent in one case yet explained without European admixture through local climate in another. |
-| Multi-trait corroboration | `confirmed` | pp.667–668 | Colour is juxtaposed with eyes, hair, bodily formation, mixture history, geography and descent. Equal weighting of all traits is not established. |
-| Four Hauptfarben / two Urfarben | `partly confirmed` | p.672; p.671 missing | p.672 directly names white and yellow as the two Urfarben among `diesen vier Hauptfarben` and derives other principal colours historically; the literal four-item enumeration remains to be recovered from p.671. |
+`body → colour word`.
 
-## 2. Primary-direct causal architecture, pp.614–618
+It is:
 
-Meiners's first section is explicitly devoted to the external causes of different human colours. The text does not treat all surrounding conditions as equivalent.
+`body/perceptual encounter × available vocabulary × observer precision × comparison frame → reported colour`.
 
-The primary pages distinguish at least four operational roles:
+P.613 then identifies the harder downstream task: after overcoming terminological contradictions, the investigator must distinguish similar visible effects produced by different causes, explicitly including climate and population mixture.
 
-1. **direct external causes** — especially sun/heat, but also cold, dry/moist air and winds;
-2. **geographical conditioning of those causes** — latitude, elevation, proximity to sea, forest/shade and related local circumstances;
-3. **modifiers** — `Lebensart und Beschäftigungen` may strengthen or weaken effects but are explicitly denied the status of `wahre Mitursachen` in the sentence controlled on p.615;
-4. **masking** — dirt/uncleanliness can obscure the true visible colour without producing the underlying colour itself.
+Thus:
 
-Meiners also states that the sun is the strongest among the listed external causes while using exceptions to reject a one-cause model. Other causes can reinforce or oppose its effect.
+`observer-description instability → report contradiction → source discrimination → causal discrimination`.
 
-The primary architecture is therefore stronger than the earlier generic formula `environment remains active`:
+This upgrades the repo's `observer_vocabulary_instability`, `comparison_frame`, and `retrostandardisability` concerns from modern methodological warnings to actor-explicit eighteenth-century problems.
+
+Stop rule: do not infer that Meiners possesses a successful standardisation solution merely because he diagnoses the problem.
+
+## 3. External causal architecture, pp.614–619
+
+The first section distinguishes:
+
+- direct external causes, especially sun/heat but also cold, dry/moist air and winds;
+- geographic conditions such as latitude, elevation, sea proximity and local exposure;
+- modifiers such as `Lebensart und Beschäftigungen`, which can strengthen or weaken effects without always counting as true co-causes;
+- masking, especially dirt/uncleanliness, which can conceal colour without producing it;
+- counteracting causes.
+
+P.619, now directly recovered, continues the wind/sea-coast comparison and reinforces rather than changes this architecture.
+
+Best coding:
 
 `direct cause + geographical condition + modifier + masking + counteracting cause`.
 
-## 3. Surface action versus internal blood-mediated action, pp.628–631
+## 4. Parental blood priority without causal exclusivity, pp.628–631
 
-The article then distinguishes more immediate external effects on exposed skin from colour changes arising internally through substances separated from blood.
+P.631 directly confirms the former Krünitz-controlled proposition that human colour depends `am meisten` on parental blood.
 
-This matters because the hereditary/descent claim is not introduced as a bare taxonomic assertion. It is embedded in a causal contrast between:
+Therefore by 1792:
 
-`outer surface action`
+`parental blood = highest/default causal weight`.
 
-and
-
-`inner blood-mediated production / inherited disposition`.
-
-On p.631 Meiners states that the regularity with which children of differently coloured parents take an intermediate or mixed colour across very different climates would be impossible if human colour did not depend **most** on parental blood.
-
-This directly upgrades the central reconstruction:
-
-`parental blood = highest/default causal weight by 1792`.
-
-But the same primary pages retain several non-hereditary causes. Hence:
-
-`highest default causal weight ≠ causal exclusivity`.
-
-## 4. Internal physiological equifinality, pp.631–632
-
-Meiners allows wounds/healing, serious illness and strong emotions to alter complexion; he interprets such changes through internal processes connected with blood and its secretions.
-
-The same visible dimension can therefore vary through:
-
-- inherited/descent route;
-- external environmental route;
-- admixture route;
-- internal physiological route.
-
-The primary text thus confirms causal underdetermination and phenotypic equifinality rather than merely the existence of many named causes.
-
-## 5. Major qualification: transformation hypothesis is not observed conversion, p.632
-
-The most important falsification in this pass concerns environmental reversibility.
-
-Meiners explicitly asks whether changed external causes can, over one or several generations or over centuries, not merely modify an innate colour but produce an entirely different one. His answer is that he knows of no such examples. He invokes reports that descendants of Africans in plantation societies remain black over successive generations and interprets cases of Africans becoming lighter in Europe through illness rather than climate alone.
-
-Therefore the repo must distinguish three evidentiary levels:
-
-`observed short-term / individual modification`
-
-`≠ observed complete multigenerational population-colour replacement`
-
-`≠ hypothesised historical/origin-level transformation`.
-
-The second is explicitly unsupported in the article at p.632, even though the third remains part of Meiners's natural-historical theory later in the essay.
-
-This is not a return to immutability. It is an **evidence-threshold distinction**.
-
-## 6. Trait decoupling is primary-direct, pp.635–637
-
-The old derivative locator `p.679` is now definitively unusable as Meiners primary pagination.
-
-The relevant original passage occurs at pp.635–637, most clearly p.636.
-
-Meiners argues that repeated unions between Europeans/European descendants and Black women can darken colour generation by generation until descendants are black or blackish, while bodily formation and especially facial formation can remain European or more European than what he calls `Negerartig`.
-
-On p.637 he extends the pattern to people described as of Arab descent who acquire black colour without losing Arab facial formation. The same page also allows cases in which children resemble Black fathers in both colour and formation.
-
-Thus the strongest safe primary claim is:
-
-`colour trajectory can decouple from morphology/facial-formation trajectory`.
-
-But:
-
-`decoupling is pathway-specific`;
-
-`linear_trait_persistence_hierarchy = not established`.
-
-The source does not warrant a universal scale in which colour always changes faster than morphology.
-
-## 7. Primary-direct equifinality in the American material, pp.665–667
-
-The American section supplies a particularly useful causal discrimination test.
-
-Meiners can interpret light/white colour together with other traits and historical reports as evidence of European/Norman descent in one population. Yet on p.667 he explains comparatively light colour in humid parts of Guiana/Paraguay **without European admixture**, attributing it to the bleaching/dissolving local climate.
+But the same primary pages retain genuine environmental, admixture and internal physiological routes.
 
 Therefore:
 
-`light colour ≠ European descent`.
+`highest default causal weight ≠ causal exclusivity`.
 
-More generally:
+## 5. Physiological equifinality and evidence threshold, pp.631–632
 
-`same or similar visible outcome ≠ same causal history`.
+Wounds/healing, serious illness and strong affect can alter complexion through internal blood-related processes.
 
-This is no longer a Krünitz-only reconstruction; it is primary-direct.
+Hence:
 
-## 8. Multi-trait bundle, pp.667–668
+`same visible dimension ← multiple causal routes`.
 
-The European discussion couples very white bodily colour with blue eyes and blond hair, then invokes mixture histories to explain departures from that bundle.
+More importantly, p.632 asks whether changed external conditions can transform an innate population colour completely into another across generations or centuries. Meiners says he lacks adequate examples of such complete conversion.
 
-This confirms that Meiners does not always operate with skin colour as a self-sufficient sign. He can triangulate:
+Required distinction:
 
-`colour × hair × eyes × body/face × geography × mixture/descent report`.
+`observed short-term / individual modification`
+`≠ demonstrated complete multigenerational population-colour replacement`
+`≠ hypothesised deep historical/origin transformation`.
 
-However, the primary text does not provide a stable mathematical or universal weighting rule. The repo should retain `weighted bundle` as an analytical reconstruction, not actor vocabulary.
+The third remains possible in his natural-historical reconstruction; the second is not empirically established.
 
-## 9. Hauptfarben versus Urfarben, p.672
+## 6. Trait decoupling, pp.635–637
 
-The supplied carrier loses printed p.671, but p.672 is directly available.
+The old `p.679` locator is false. The genuine primary passage is pp.635–637, especially p.636.
 
-Meiners states that among `these four Hauptfarben` he regards white and yellow as the `Urfarben`, from which the other principal colours and their shades arose. He then hypothesises that yellow was transformed into black in the Indian peninsula by heat and cooperating physical causes, and into red in the Americas by physical forces he says are still unknown.
+Meiners allows colour to darken generation by generation through repeated admixture while body/facial formation remains European or comparatively more European. P.637 also gives a route in which black colour is acquired without loss of Arab facial formation, while other pathways allow colour and formation to move together.
 
-Thus the structural distinction is primary-direct:
+Thus:
+
+`trait_decoupling = explicit`;
+
+`decoupling = pathway-specific`;
+
+`linear_trait_persistence_hierarchy = not established`.
+
+## 7. Light-colour equifinality and multi-trait corroboration, pp.665–668
+
+Light/white appearance can support a European-descent reading in one case but be explained without European admixture through local climate in another.
+
+Therefore:
+
+`light colour ≠ necessarily European descent`;
+
+`same visible outcome ≠ same causal history`.
+
+Meiners also combines skin colour with eyes, hair, body/face formation, geography and mixture/descent reports. The safe analytical model is:
+
+`trait bundle + provenance/history → causal/genealogical inference`.
+
+Do not convert this into a universal actor-explicit weighting function.
+
+## 8. Four Hauptfarben and two Urfarben, pp.671–672
+
+P.671 now directly supplies the literal four-part `Hauptfarben` scheme:
+
+- white: Europeans, western Asians, northwestern Africans;
+- yellow: northern, eastern and southern Asians and their descendants;
+- red: Americans;
+- black: populations Meiners groups in the Indian peninsula/Sunda islands and Africa.
+
+P.672 then distinguishes only white and yellow as `Urfarben`, treating the other principal colours and shades as historically derived through physical causes.
+
+Thus:
 
 `descriptive Hauptfarbe ≠ historical/origin Urfarbe`.
 
-But the literal list `white / yellow / red / black` remains derivative-controlled until p.671 is recovered from another carrier.
+P.632 and pp.671–672 must be read together:
 
-## 10. The internal tension is methodological, not contradictory
+`lack of demonstrated multigenerational environment-only conversion`
+`≠ prohibition on conjectural deep historical transformation`.
 
-P.632 and p.672 must be held together.
+## 9. Relation to the 1790 anti-single-trait rule
 
-P.632:
+The 1792 essay does not treat colour as a self-interpreting datum. P.613 diagnoses unstable observer vocabulary and comparison frames; later sections combine colour with provenance, geography, descent/migration reports, face/body, hair/eyes and admixture.
 
-`no adequate observed examples of complete environmental conversion of innate population colour across generations`.
+Safe result:
 
-P.672:
+`awareness of underdetermination + triangulation practices ≠ consistently adequate inference threshold`.
 
-`historical physical transformation of original colours remains a causal hypothesis`.
+Meiners still authorises broad racial, genealogical, evaluative and hierarchical conclusions from heterogeneous reports.
 
-Therefore Meiners operates with different evidentiary thresholds for different inferential tasks:
+## 10. Final Round-1 formulation
 
-`empirical demonstration of a causal conversion`
+> Meiners's 1792 colour essay is a ranked plural causal and evidentiary system. Parental blood receives the greatest default causal weight, while environmental, admixture and physiological processes remain active and can generate overlapping visible outcomes. The essay is unusually explicit that the evidentiary problem begins before causal interpretation: colour terms are unstable across observers, travellers use different comparison frames, and the same people can be described by conflicting colour categories. Colour therefore requires both source/observer discrimination and causal discrimination. The text also permits trait decoupling within one descent history, but does not establish a universal trait-persistence hierarchy. Finally, it applies unequal thresholds to different inferential tasks: complete environment-only population-colour conversion is not empirically demonstrated, even though deep historical transformations remain admissible as natural-historical hypotheses.
 
-versus
+## Closure
 
-`natural-historical reconstruction of an origin pathway`.
+`M028 = closed_primary_direct`
 
-The correct formulation is not `Meiners accepts environmental reversibility` simpliciter. It is:
-
-> Meiners assigns parental blood the greatest default causal weight, retains a plural set of external and internal causal mechanisms, and remains willing to hypothesise deep historical colour transformations while explicitly denying that complete environment-only population-colour conversion has been empirically demonstrated across generations.
-
-## 11. Relation to the 1790 anti-single-trait rule
-
-By 1790 Meiners had publicly objected to inference from one bodily part or isolated specimen to an entire people and insisted on provenance for skull evidence.
-
-The 1792 article is partly consistent with that threshold: it repeatedly combines colour with geography, descent/migration reports, face/body formation, hair/eyes, admixture and named travel evidence. It also explicitly demonstrates that colour alone can be causally ambiguous.
-
-Do not strengthen this into `Meiners consistently obeys his own rule`. The article still moves from heterogeneous reports to broad racial, genealogical, evaluative and hierarchical conclusions. The primary closure establishes **awareness of underdetermination and use of triangulation**, not methodological adequacy by modern standards or perfect internal consistency.
-
-## 12. Revised strong formulation
-
-> Meiners's 1792 colour essay is best reconstructed as a ranked plural causal system with an explicit evidentiary asymmetry. Parental blood receives the greatest default causal weight, but sun, heat, air, humidity, winds, admixture and internal physiological processes remain active and can produce overlapping visible outcomes. Colour therefore requires causal discrimination rather than direct reading. The primary article also allows colour and bodily/facial formation to move at different rates within a lineage, making trait decoupling actor-explicit. Yet Meiners draws a sharp practical boundary around proof of environmental transformation: he says that no adequate examples demonstrate complete environment-only conversion of an innate population colour across generations, even while he later hypothesises historical physical derivation of black and red from original colours. The central operation is consequently not heredity versus environment, but the ranking of causal routes together with unequal evidentiary thresholds for observed modification, genealogical inference and conjectural natural history.
-
-## 13. Residual primary closure only
-
-Do not reopen the whole article.
-
-Recover from an alternate 1792 carrier only:
-
-- printed pp. **611–613** — opening problem statement and exact colour/race sufficiency language;
-- printed p. **619** — one carrier gap inside the external-cause section;
-- printed p. **671** — literal four-Hauptfarben enumeration immediately before the p.672 Urfarben statement.
-
-Once those five printed pages are obtained, M028 can be marked fully closed.
+No additional page recovery or manual work is required for this item. Krünitz remains useful only as a derivative witness/history-of-reception control, not as the evidentiary base for the central claims.
