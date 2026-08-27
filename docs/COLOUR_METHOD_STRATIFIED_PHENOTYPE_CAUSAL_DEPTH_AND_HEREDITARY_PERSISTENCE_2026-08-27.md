@@ -60,7 +60,54 @@ The question is not merely what causes colour. It is what temporal or reproducti
 
 Later Kant physical-geography strata make the distributed phenotype still more explicit by juxtaposing colour, `Gestalt`, hair and descent. Because the Barth manuscript is composite and Rink's edition dates to 1802, those later formulations must be version-controlled rather than backdated wholesale to the 1760s.
 
-## 5. Meiners 1792: causal reprioritisation inside a stratified field
+## 5. Blumenbach 1795: actor-explicit causal pluralism and differential persistence
+
+Primary Latin text from the third edition of *De generis humani varietate nativa* now supplies a direct Blumenbach control between the early inheritance-conversion problem and the later 1797 necessary-inheritance gate.
+
+### §39: variable generational propagation
+
+Blumenbach asks whether artificial or accidental bodily modifications, especially when repeated through long series of generations, can in time become congenital conformation. He remains explicitly undecided. His counter-pressure against a categorical denial is that other `notae gentilitiae` — including forms of nose, lips and eyebrows — do propagate in families through **more or fewer generations** and with **greater or lesser constancy**.
+
+Thus 1795 has an explicit persistence scale:
+
+`character → generational propagation → variable duration / variable constancy`.
+
+Persistence is public and causal, but not yet a binary category gate.
+
+### §40, p.109: organ-specific susceptibility and causal underdetermination
+
+Blumenbach then warns that degeneration may involve several causes acting together, causes acting in contrary directions, and different `pronitas / renisus` of organic bodies or organs to degeneration. He also distinguishes causes according to whether their action is more immediate or mediated.
+
+This makes two components of the stratified model actor-explicit:
+
+`same causal field ≠ same organic susceptibility`
+
+and
+
+`same observed difference ≠ equally immediate causal route`.
+
+### §40, p.112: persistence is asymmetric and causal routes differ across characters
+
+The primary text gives a particularly useful comparison. Blumenbach proposes that dark skin contracted in the torrid zone may persist under another climate more strongly than northern whiteness does when its bearers are transferred southward. Persistence within the same visible trait is therefore not assumed to be symmetric across directions of environmental transfer.
+
+He immediately adds that stable `gentilitias et constantes craniorum formas` and `colores gentilitios oculorum` must probably be referred to more mediated causes that remain, to a large extent, unknown.
+
+This does **not** yet justify a single linear hierarchy such as `skin < eyes < skull`. The primary source supports the narrower and stronger historical point:
+
+- visible characters or population states can exhibit different persistence behaviour;
+- the same trait can respond asymmetrically under opposite environmental transfer;
+- skull form and eye colour can be assigned a more mediated causal status than the immediately climatic skin-colour example;
+- causal depth and persistence therefore need not move synchronically across the phenotype.
+
+Coding status:
+- `actor_causal_pluralism = explicit`;
+- `actor_organ_specific_susceptibility = explicit`;
+- `trait_or_state_specific_persistence = explicit`;
+- `linear_trait_persistence_hierarchy = not established`.
+
+This is a stronger Blumenbach-specific warrant for `stratified phenotype` than the previous downstream 1797 gate alone.
+
+## 6. Meiners 1792: causal reprioritisation inside a stratified field
 
 Meiners's colour argument can now be read more precisely. The current near-contemporary derivative reconstruction indicates that parental blood receives the highest default causal rank by 1792, while climate, local environment, mixture and internal physiology remain genuine causal channels. The admixture example in which colour darkens more quickly than facial/body form shows differential persistence among traits.
 
@@ -76,7 +123,9 @@ A genealogical inference therefore operates on a weighted bundle:
 
 This formula is analytical, not Meiners's mathematical language. It makes explicit what needs to be coded in the historical operation.
 
-## 6. Zimmermann 1778: geographical causal partition
+The 1790 p.639 control now adds an upstream constraint: Meiners allows climate, transplantation and `Zucht` / altered life-way to produce intergenerational bodily and mental change even without mixture, while descent can still retain high default weight. Therefore `hereditary ≠ immutable` and `highest causal weight ≠ causal exclusivity` in the Meiners field.
+
+## 7. Zimmermann 1778: geographical causal partition
 
 Zimmermann's *Geographische Geschichte des Menschen* supplies a pre-1792 natural-historical geography in which migration, reproduction and climate are joined into a history of human variation. Recent scholarship quotes p.115 as describing populations gradually adapting as humanity moved through different climates. Blumenbach's own colour discussion cites Zimmermann pp.94ff. in the debate over causes of human skin colour.
 
@@ -88,7 +137,7 @@ Zimmermann is therefore an important bridge between:
 
 Until pp.94–115 are directly recovered, however, the exact structure of his causal ranking remains unresolved.
 
-## 7. Meiners's anti-single-trait rule
+## 8. Meiners's anti-single-trait rule
 
 A recent critical volume quotes Meiners's *Grundriß der Geschichte der Menschheit*, p.23, stating that whole peoples and individuals cannot be judged from the formation of a single bodily part, nor can the characteristic formation of one part across a nation be inferred from isolated bones.
 
@@ -98,7 +147,7 @@ Once primary-direct verification is obtained, this should be treated as a genera
 
 This does not make Meiners's resulting racial or hierarchical claims methodologically sound. It identifies the evidentiary threshold he says must be crossed before collective inference is authorised.
 
-## 8. Downstream Girtanner/Blumenbach formalization
+## 9. Downstream Girtanner/Blumenbach formalization
 
 Girtanner's 1796 *Über das Kantische Princip für die Naturgeschichte* and Blumenbach's 1797 revision provide a later control on the conversion of variable character into `Rasse`. In Blumenbach's formulation, following the Kantian distinction and referring readers to Girtanner, a racial character is one produced through degeneration that necessarily reproduces through generation; a mere `Spielart` lacks that reproductive necessity.
 
@@ -110,9 +159,13 @@ rather than:
 
 `visible difference → race-status`.
 
+In light of the 1795 primary text, this should now be understood as a transformation of an already public variable-propagation problem into a stronger categorical threshold:
+
+`variable propagation / greater-or-lesser constancy → necessary reproductive persistence → category jurisdiction`.
+
 This should not be projected backward into Meiners 1792 without direct evidence, but it clarifies the broader problem-space in which persistence itself becomes an evidentiary operation.
 
-## 9. New coding architecture
+## 10. New coding architecture
 
 ### Trait layer
 - `trait_type`
@@ -126,13 +179,18 @@ This should not be projected backward into Meiners 1792 without direct evidence,
 - `actor_causal_depth = explicit / reconstructed / absent`
 - `surface_change_vs_structural_change`
 - `trait_specific_causal_susceptibility`
+- `organ_specific_pronitas_renisus`
+- `immediate_vs_mediate_causation`
 
 ### Temporal layer
 - `trait_response_time`
 - `trait_temporality`
 - `trait_hereditary_persistence`
+- `trait_or_state_specific_persistence`
+- `directional_persistence_asymmetry`
 - `inheritance_conversion_problem`
 - `stabilisation_timescale`
+- `propagation_constancy`
 
 ### Inference layer
 - `trait_specific_inference_weight`
@@ -142,8 +200,9 @@ This should not be projected backward into Meiners 1792 without direct evidence,
 - `genealogical_threshold`
 - `population_warrant`
 - `inference_ceiling`
+- `persistence_to_category_gate_transition`
 
-## 10. Methodological questions
+## 11. Methodological questions
 
 For any historical use of colour or other bodily difference, ask:
 
@@ -154,11 +213,13 @@ For any historical use of colour or other bodily difference, ask:
 5. When traits disagree, which one preserves genealogical authority?
 6. Does persistence across generation change the category from `variation` to `race`, `stock`, `descent`, or another historical classification?
 7. What evidence establishes persistence: direct generations, travel reports, analogy with animals, migration histories, specimens, or theoretical postulate?
-8. Is the scholar observing the trait itself, or a legacy description whose original observation cannot be retro-standardised?
+8. Is persistence assumed symmetric under opposite environmental transfers, or can direction matter?
+9. Does the actor distinguish immediate from mediated causes or different susceptibility/resistance among organs?
+10. Is the scholar observing the trait itself, or a legacy description whose original observation cannot be retro-standardised?
 
-## 11. Strong current thesis
+## 12. Strong current thesis
 
-> Late-Enlightenment colour classification cannot be reconstructed adequately as a taxonomy of visible shades. In a significant natural-historical and anthropological strand, visible bodily characters were distributed across a stratified causal-temporal architecture: some were treated as rapidly responsive and comparatively superficial, others as slower and more deeply formative, and still others as evidentially decisive only once their persistence through generation was established. Colour therefore operated not simply as a category but as a test of how contingent appearance could—or could not—be converted into durable historical descent.
+> Late-Enlightenment colour classification cannot be reconstructed adequately as a taxonomy of visible shades. In a significant natural-historical and anthropological strand, visible bodily characters were distributed across a stratified causal-temporal architecture: actors could assign different organs or character states different susceptibility, causal mediation, response behaviour and generational persistence. Blumenbach's 1795 text is especially important because it makes causal pluralism, variable constancy, organ-specific susceptibility and asymmetric persistence explicit before the 1797 edition promotes necessary reproductive persistence into a categorical race/variety gate. Colour therefore operated not simply as a category but as a test of how contingent appearance could — or could not — acquire durable historical depth.
 
 The Wilson-informed question can now be sharpened again:
 
@@ -168,11 +229,12 @@ and, where several traits disagree:
 
 > **Which difference is authorised to remember descent when another has already changed?**
 
-## 12. Pending closure
+## 13. Pending closure
 
 - direct Zimmermann 1778 pp.94–115;
 - primary Meiners *Grundriß* p.23;
-- exact Girtanner 1796 passages on colour/form/hair and reproductive necessity;
 - direct Meiners 1792 pp.611–672 scan;
+- exact primary Meiners 1793 p.60 Kant citation and 1785 p.39 → 1793 p.85 revision;
 - version-level reconstruction of when Kant's more explicit `Gestalt + Farbe + Haar` formulation enters the lecture tradition;
-- test whether Buffon's causal depth vocabulary is explicitly cited or merely structurally paralleled in Zimmermann, Kant, Blumenbach or Meiners.
+- test whether Buffon's causal depth vocabulary is explicitly cited or merely structurally paralleled in Zimmermann, Kant, Blumenbach or Meiners;
+- test whether Blumenbach's 1795 p.112 examples imply any stable evidentiary ranking among skin colour, cranial form and eye colour, rather than only different causal mediation/persistence behaviour.
