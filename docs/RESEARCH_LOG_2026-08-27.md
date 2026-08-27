@@ -149,3 +149,30 @@ Resume point for next round:
 2. code its evidence carriers and causal targets paragraph-by-paragraph;
 3. compare the 1785 → 1792 → 1793 sequence;
 4. only then decide whether the key transition is best described as `causal reprioritisation`, `evidence-regime change`, `observer-network change`, or some combination.
+
+## 08:50 UTC — New round restarted: stronger primary routes and correspondence controls
+
+New primary-access routes:
+- Deutsche Digitale Bibliothek now exposes the Bayerische Staatsbibliothek copy of *Neues göttingisches historisches Magazin*, vol. 1 (1792), shelfmark `H.misc. 201-1`, URN `urn:nbn:de:bvb:12-bsb10738733-5`. This provides an independent institutional route beyond the unstable Bielefeld viewer.
+- Google Books independently exposes a full-view copy of volume 1 (1792). Its indexed common terms include `Farbe`, `Ursachen`, `Neger`, `Mulatten`, `rothe`, `schwarzen`, `weissen`, etc., confirming that the target colour essay is in the indexed volume; however, page-level visual verification has not yet been recovered through the current tool path.
+- The BSB/DDB route is therefore upgraded to `primary volume located`, not yet `target pages visually verified`.
+
+Meiners posthumous library catalogue:
+- Blumenbach Online supplies a direct digitisation link for *Verzeichniß von nachgelassenen Büchern des Herrn Hofrath Meiners* (Göttingen: J. C. Baier, 1810), and the underlying PDF URL has been resolved as `https://blumenbach-online.de/PDF-Dateien/ChrMeiners_Verzeichnis_Nachlass_1810.pdf`.
+- Current fetch attempts return a cache miss, so the catalogue has **not** yet been searched internally for Prange / Lambert / Schäffer / colour works.
+- Status remains: `catalogue digital object resolved; ownership test pending`.
+
+Lavater–Meiners correspondence:
+- Zentralbibliothek Zürich / e-manuscripta explicitly holds seven letters from Johann Caspar Lavater to Christoph Meiners, dated 1784–1798, shelfmarks `FA Lav Ms 574.12–18`, DOI `10.7891/e-manuscripta-83497`; the record exposes a IIIF manifest and a downloadable 5.94 MB file.
+- A separate 23 July 1788 billet from Lavater to Christoph Meiners and Ludwig Timotheus Spittler is catalogued as `FA Lav Ms 589a.79`, DOI `10.7891/e-manuscripta-64233`.
+- This replaces the earlier vague lead of “Meiners → Lavater correspondence, 1782–1788” with a controlled holding on the reverse direction (Lavater → Meiners) plus a joint Lavater → Meiners/Spittler item. Contents still require inspection before any claim about physiognomy, colour or observer calibration.
+
+1792 derivative/quotation controls strengthened:
+- Krünitz's *Oekonomisch-technologische Encyclopädie*, entry `Leibes-Farbe der Menschen`, explicitly attributes its account to Meiners's 1792 essay and preserves the opening research programme: causal partition between climate and descent/parental blood; whether colour is a reliable sign of race/descent; number of principal colours; and whether some should be treated as ground-colours.
+- Secondary quotation controls identify specific Meiners pages 614–15 (environmental effects), 640–41 (mixture / generational lightening logic) and 672 (late-stage conclusion), but these remain secondary page controls until checked against the primary scan.
+
+Next actions:
+1. recover BSB/Google page-level access for pp. 611–672;
+2. use exact quoted strings to reconstruct the internal argumentative sequence while keeping quotation controls distinct from primary verification;
+3. retry the 1810 auction PDF through alternate mirrors/catalogue portals;
+4. inspect the Lavater letters for terms related to physiognomy, complexion, observation, witness reliability and comparison.
