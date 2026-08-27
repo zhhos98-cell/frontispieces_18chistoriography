@@ -4,10 +4,11 @@
 
 The colour branch has crossed an important threshold. The project no longer depends primarily on a modern analytical comparison between Gatterer's coloured tables and Schlözer's suspicion of `colouring` historical facts.
 
-Schlözer himself now supplies both sides of the boundary:
+Schlözer himself now supplies a three-part actor-level sequence:
 
-- 1772: colouring the `Facta` is placed on the suspect side of historical practice;
-- 1775: illumination / painted display is proposed as a legitimate means of making historical duration and synchronism visible and memorable.
+- **1772:** colouring the `Facta` is placed on the suspect side of historical practice;
+- **1773:** in his response to Herder, painted chronological display is defended as a possible means of fixing `Synchronismus` through `Association der Ideen`;
+- **1775:** a separate revised-edition passage is secondarily reported to recommend `Illumination der Tabelle` so that unequal historical duration becomes visible to the young eye.
 
 This makes **epistemic jurisdiction** an actor-level problem.
 
@@ -19,9 +20,11 @@ It is:
 
 > **what operation may colour legitimately perform, at which epistemic location, and under what warrant?**
 
-## 2. Schlözer supplies the negative and positive sides of the boundary
+The bibliographic distinction is essential: the 1773 painted-synchronism passage belongs to the **Herder controversy**, not to the separate Gatterer–Schlözer `Species Facti` quarrel and not to the 1775 revised edition.
 
-### 1772: fact layer
+## 2. Schlözer supplies negative and positive jurisdictions
+
+### A. 1772: fact layer
 
 The controlled first-edition method passage separates:
 
@@ -35,30 +38,82 @@ The `Voltaires` are mocked for making or at least colouring facts. The special m
 
 Thus `colour_at_fact_layer` can mean evidentiary corruption, rhetorical loading or unauthorized invention.
 
-### 1775: arrangement/display/memory layer
+### B. 1773: relation / display / memory layer
 
-The revised 1775 edition is openly preserved by ULB Sachsen-Anhalt (DOI `10.25673/95805`). A detailed modern study quotes Schlözer's discussion of `gemahlte chronologische Tabellen` and a proposal for `Illumination der Tabelle`.
+The positive painted-synchronism control belongs to *Vorstellung seiner Universal-Historie*, **part II (1773)**, Schlözer's response to Herder's review. ULB Sachsen-Anhalt identifies this part as Göttingen/Gotha: Dieterich, 1773, pp. [225]–416, DOI `10.25673/95815`, VD18 `90090861`.
 
-Two operations are reported:
+A detailed modern study quotes **p. 327**. Schlözer refuses simply to dismiss `gemahlte chronologische Tabellen` for the instruction of children. He imagines such objects as Solomon's temple, the Egyptian pyramids and Homer represented together on one painted sheet, so that the objects become vivid and their simultaneity (`Synchronismus`) remains fixed through `Association der Ideen`.
 
-1. painted co-presence of historical objects allows their simultaneity (`Synchronismus`) to become durable through `Association der Ideen`;
-2. illuminating a table divided according to the principal world-historical periods can make their unequal length and duration visible to the young eye.
+Operationally:
 
-The chromatic intervention therefore does not modify the facts. It modifies the **accessibility of the relation among already selected historical units**.
+`historical units already accepted`
+→ `painted co-presence`
+→ `association`
+→ `memorised synchronism`.
 
-This gives a same-actor contrast:
+The graphical intervention acts on the relation among historical units, not on their factual warrant.
 
-`Factum + colouring`
-→ suspect
+Current status:
 
-versus
+- bibliographic work, pagination and p. 327 locus: secure;
+- exact quoted wording: strong secondary quotation control pending direct inspection of institutional p. 327.
 
-`historical relation/duration + tabular illumination`
-→ potentially legitimate didactic display.
+### C. 1775: temporal / tabular illumination
 
-The 1775 wording remains secondary-quotation control until the institutional page image is directly inspected.
+A separate modern quotation attributes to the revised 1775 edition a proposal to divide world history into five principal periods and make their unequal `Länge und Dauer` visible to the young eye `durch Illumination der Tabelle`.
 
-## 3. Gatterer's heraldry supplies a source-warrant test
+This is not the same operation as the 1773 painted-object sheet.
+
+`periodisation + duration`
+→ `tabular spatialisation`
+→ `illumination`
+→ `temporal proportion made inspectable`.
+
+Provisional encoding:
+
+- `colour_role = relational_syntax`;
+- `colour_operation = mark_duration; discriminate; support_overview`;
+- `epistemic_location = arrangement_system; display_inspection; memory_pedagogy`.
+
+ULB Sachsen-Anhalt directly identifies the 1775 second revised edition, DOI `10.25673/95805`, VD18 `11056576`, but the surfaced secondary quotation does not supply a precise primary page locator. Keep this claim `secondary_scholarship / probable` until the scan is directly searched.
+
+## 3. The corrected same-actor contrast
+
+The same historian can therefore occupy three different chromatic/pictorial jurisdictions:
+
+### Illicit jurisdiction — 1772
+
+`source / monument`
+→ `Kritik`
+→ **Factum**
+→ historian colours Factum
+→ unsupported alteration / rhetorical loading.
+
+### Legitimate or defensible relation display — 1773
+
+`accepted historical units`
+→ painted co-presence
+→ synchronism made vivid and memorable.
+
+### Legitimate or defensible temporal display — 1775
+
+`periodisation + duration`
+→ table + illumination
+→ quantitative-temporal difference made visible.
+
+The governing proposition is:
+
+> **Colour or pictorialization is not legitimate or illegitimate in itself. Its status depends on what epistemic object it modifies.**
+
+Shortest form:
+
+> **What may colour do to history?**
+
+Alternative:
+
+> **Where may colour enter without colouring the fact?**
+
+## 4. Gatterer's heraldry supplies a source-warrant test
 
 Gatterer's *Abriß der Heraldik* exists in an authenticated 1773 Dieterich edition and an enlarged 1774 Raspe edition. BSB digitizations are identified for both.
 
@@ -67,7 +122,7 @@ A stable secondary transcription of the 1774 p. 12 passage reports that Gatterer
 - a sign for natural colour (`Naturfarbe`);
 - a sign for iron colour (`Eisenfarbe`).
 
-Gatterer reportedly judges the first superfluous but the second instructive because old German `Wappenbriefe` had taught him that heralds used iron-colour and white/silver terminology in a historically specific way. He then refers the reader to Köhler's programme on the origin of hatchings.
+Gatterer reportedly judges the first superfluous but the second instructive because old German `Wappenbriefe` had taught him that heralds used iron-colour and white/silver terminology in a historically specific way. He then refers the reader toward Köhler's programme on the origin of hatchings.
 
 If direct page control confirms this wording, the methodological structure is unusually strong:
 
@@ -85,11 +140,11 @@ Provisional ontology:
 
 Evidence guard: keep `probable` until p. 12 is directly inspected in the BSB/Google carrier.
 
-## 4. Gatterer's human-colour classification begins before the 1775 geography
+## 5. Gatterer's human-colour classification begins before the 1775 geography
 
 The earlier working question treated Gatterer's *Abriß der Geographie* (1775) as the beginning of the human-colour classifier branch. A modern study now points back to the first volume of *Einleitung in die synchronistische Universalhistorie* (1771).
 
-It explicitly reports bodily marks such as:
+It reports bodily marks such as:
 
 - `Statur`;
 - `Gestalt`;
@@ -106,33 +161,31 @@ This changes the chronology of the classificatory branch:
 → `1775 Geographie / Menschen- und Völkerkunde`
 → possible disciplinary formalization.
 
-The next question is not whether Gatterer was an antecedent of later racial taxonomy. That would be both anachronistic and too broad.
-
-The narrow operational question is:
+The next question is not whether Gatterer was an antecedent of later racial taxonomy. The narrow operational question is:
 
 > **What does `Farbe` allow Gatterer to distinguish, compare or place in his historical-geographical system, and what evidentiary status does that distinction possess?**
 
 Keep this classifier regime separate from heraldic tincture and table pigment unless actor-level evidence links them.
 
-## 5. The emerging jurisdiction matrix
+## 6. The emerging jurisdiction matrix
 
-| Epistemic location | Current actor/object | Colour operation | Legitimacy problem |
+| Epistemic location | Current actor/object | Colour / pictorial operation | Legitimacy problem |
 | --- | --- | --- | --- |
 | `source_object` | material/heraldic/body property | observe / describe | is colour itself evidentiary? |
 | `fact_proposition` | Schlözer 1772 | rhetorical colouring / alteration | unsupported factual loading |
 | `classification` | Gatterer 1771/1775 | discriminate / type / compare | what observations/categories license the partition? |
 | `surrogate_encoding` | heraldic hatching / key | encode / decode | can colour semantics survive monochrome translation? |
-| `surrogate_encoding` + source test | Gatterer Heraldik | verify sign/category against Wappenbriefe | does historical usage warrant the code? |
-| `arrangement_system` | Gatterer Synopsis | mark boundary / relation / change | does assigned pigment clarify an already warranted relation? |
+| `surrogate_encoding` + source test | Gatterer *Heraldik* | verify sign/category against Wappenbriefe | does historical usage warrant the code? |
+| `arrangement_system` | Gatterer *Synopsis* | mark boundary / relation / change | does assigned pigment clarify an already warranted relation? |
+| `memory_pedagogy` | Schlözer 1773 painted synchronism | association / memorise | does pictorial co-presence preserve synchronism without altering facts? |
 | `arrangement_system` | Schlözer 1775 proposed table | mark duration | can tabular illumination expose quantitative-historical structure? |
-| `memory_pedagogy` | Schlözer 1775 painted synchronism | association / memorise | does pictorial co-presence preserve synchronism without altering facts? |
 | `copy_finishing` | coloured impressions | material application | who coloured, when, and how invariant is the information? |
 
 This matrix is more useful than a generic history of `colour in historiography` because it generates falsifiable source questions.
 
-## 6. The methodological hinge is translation plus authorization
+## 7. The methodological hinge is translation plus authorization
 
-The colour corpus is beginning to show two problems that should be kept analytically linked but not collapsed.
+The colour corpus is beginning to show two problems that should be linked but not collapsed.
 
 ### Translation
 
@@ -154,7 +207,7 @@ Why is a chromatic intervention legitimate?
 
 Possible historical answers now include:
 
-- because the colour is observed on or reported for the object;
+- because colour is observed on or reported for the object;
 - because a disciplinary convention encodes it;
 - because historical documents warrant the category/sign;
 - because an explicit system assigns it to a relation;
@@ -163,26 +216,27 @@ Possible historical answers now include:
 
 The project-specific object is therefore not colour alone but **the governance of chromatic transformation**.
 
-## 7. Consequence for the Gatterer–Schlözer controversy
+## 8. Consequence for the Göttingen controversies
 
-The 1773 controversy should still not be renamed a `colour controversy`.
+Two 1773 controversies must remain separate.
 
-Current direct evidence shows that the dispute concerned:
+### Herder–Schlözer
 
-- teaching territory and student audiences;
-- priority/plagiarism;
-- `Plan` and Universalgeschichte;
-- selection and arrangement of historical material.
+Schlözer's p. 327 defence of painted chronological tables belongs inside his response to Herder's criticism of his Universalgeschichte. Here graphical/mnemonic historical method is directly controversial in a broad sense, even though the dispute is not reducible to colour.
 
-The new colour evidence changes how that dispute can be interrogated.
+### Gatterer–Schlözer
 
-Because Schlözer himself distinguishes factual colouring from graphical illumination of relations, colour is now an **actor-grounded stress test** of a broader methodological question:
+The separate `Species Facti` quarrel concerns teaching territory, priority/plagiarism, `Plan`, and the ownership of a method of Universalgeschichte. It is still not demonstrably a `colour controversy`.
 
-> **Which operations belong to criticism of facts, which belong to historical composition, and which can be delegated to material graphical instruments?**
+The new colour evidence changes how the latter can be interrogated. Because Schlözer himself accepts some graphical delegation, the question is no longer `textual Schlözer versus visual Gatterer`.
 
-Gatterer's tables materially instantiate such delegation. Schlözer's 1775 proposal shows that he too accepts at least some graphical/chromatic delegation. The likely difference, if any, must therefore be found in the depth, scope and warrant of that delegation, not in a simple visual/textual opposition.
+Instead:
 
-## 8. Prior-art boundary after this pass
+> **Which operations belong to criticism of facts, which to historical composition, and which may be delegated to material graphical instruments?**
+
+Any real Gatterer–Schlözer difference must be sought in the **scope, function, material realization and warrant** of that delegation.
+
+## 9. Prior-art boundary after this pass
 
 Do not claim novelty for:
 
@@ -197,15 +251,15 @@ The bounded opening is now narrower and stronger:
 
 > **a cross-domain history of the epistemic jurisdiction and authorization of colour inside the historical sciences: where colour enters, what operation it performs, how it is translated, and what evidence permits or prohibits that intervention.**
 
-## 9. Highest-value next controls
+## 10. Highest-value next controls
 
-1. Directly inspect Schlözer 1775 at the quoted `gemahlte chronologische Tabellen` and `Illumination der Tabelle` passages.
-2. Directly inspect Gatterer *Abriß der Heraldik* p. 12 and figures 19–20.
-3. Directly inspect Gatterer 1771 vol. 1 contents and relevant discussion around `Statur`, `Gestalt`, `Farbe`.
-4. Read the 48-page Gatterer *Antwort auf die Schlözersche Species Facti* (1773), open LMU carrier `urn:nbn:de:bvb:19-epub-11937-9`, for method/media vocabulary rather than only colour words.
-5. Read Schlözer's `Species Facti` against the same vocabulary and record whether either side treats tables, maps, images, overview or visual inspection as priority-bearing methodological property.
+1. Directly inspect Schlözer 1773 part II, p. 327, DOI `10.25673/95815`, and promote the painted-synchronism quotation to primary direct evidence.
+2. Locate the separate 1775 `Illumination der Tabelle` sentence in DOI `10.25673/95805`.
+3. Directly inspect Gatterer *Abriß der Heraldik* p. 12 and figures 19–20.
+4. Directly inspect Gatterer 1771 vol. 1 contents and relevant discussion around `Statur`, `Gestalt`, `Farbe`.
+5. Read Gatterer's 48-page *Antwort auf die Schlözersche Species Facti* (1773), LMU carrier `urn:nbn:de:bvb:19-epub-11937-9`, against Schlözer's `Species Facti` for `Tafel`, `Gemälde`, `Karte`, `Strich`, `Auge`, `sichtbar`, `Übersicht`, `Zusammenstellung`, `Plan`, `Methode`, `Synchronismus`, `Illumination`, `Farbe/färben`.
 
-## 10. Current strongest formulation
+## 11. Current strongest formulation
 
 > **The late-Enlightenment colour problem in historical method was a problem of jurisdiction: colour could be evidence, a classifier, a code, a relational syntax, a mnemonic aid or a copy finish, but its legitimacy depended on where it entered the chain from source to historical whole and on what authorized the transformation.**
 
