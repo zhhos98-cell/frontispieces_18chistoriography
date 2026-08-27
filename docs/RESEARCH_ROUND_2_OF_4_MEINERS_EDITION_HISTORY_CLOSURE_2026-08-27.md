@@ -56,7 +56,7 @@ Primary page comparison is still required before declaring verbatim continuity.
 
 A separate exact-page scholarly control now removes the larger chronology question even if the skull/body-part wording on first-edition p.23 remains pending.
 
-Mirella Ferrini's recent study of the early Kantian race debate cites Meiners, *Grundriß* 1785, §2, p.17, for the statement introduced by `Sonderbar scheint es mir` in which Meiners objects to choosing skin colour as the **single or principal** sign for determining similarity and difference among peoples.
+Cinzia Ferrini's recent study of the early Kantian race debate cites Meiners, *Grundriß* 1785, §2, p.17, for the statement introduced by `Sonderbar scheint es mir` in which Meiners objects to choosing skin colour as the **single or principal** sign for determining similarity and difference among peoples.
 
 This is not identical to the later skull/body-part formulation, and it should not be paraphrased as if it were. But it establishes at exact-page specialist level that by 1785 Meiners already rejected a one-visible-trait inference rule in the specific case of colour.
 
@@ -108,21 +108,55 @@ Bernasconi's notes fix the citation precisely:
 - note 104 = Meiners 1793, p.60;
 - note 106 = Meiners 1793, pp.47, 59–60.
 
-A separate recent history of Kantian race concepts reports, following Dougherty, that the 1793 second edition cites Kant and incorporates his definition of race, while Kant's earlier 1777 race essay is absent from the large bibliography appended to the first edition. This corroborates a publication-level change but still does not substitute for the p.60 leaf.
+Cinzia Ferrini, explicitly following Dougherty 1990, independently reports that in the 1793 second edition Meiners **cites Kant and incorporates Kant's definition of race**, while Kant's earlier race essay is absent from the large bibliography appended to the first edition. This provides a second scholarly control on the publication-level change.
+
+### New exact-text structural control for pp.59–60
+
+The 2023 Meiners specialist volume reproduces the relevant second-edition text across pp.59–60. The hierarchy remains Meiners's own established sequence:
+
+`one human species / Geschlecht`
+→ `two Stämme`
+→ `multiple Racen within each Stamm`
+→ `innumerable Varietäten within each Race`
+→ `Spielarten produced through mixture across Stämme/Racen`.
+
+The same p.60 locus retains the anti-single-colour sentence already present in the 1785 first edition: Meiners calls it strange to make colour the sole or principal sign for determining similarity and difference among peoples.
+
+This materially sharpens the interpretation of Kant uptake. Whatever Kantian definition is cited/incorporated at this locus, it does **not** replace:
+
+- Meiners's pre-existing Stamm/Race/Varietät/Spielart hierarchy;
+- his two-main-stem architecture;
+- his anti-single-colour evidence rule.
+
+The best current model is therefore modular/selective rather than wholesale adoption:
+
+`pre-existing Meiners taxonomy + pre-existing evidence rule`
+`+ locally incorporated Kantian race-definition module`
+`= 1793 revised classificatory architecture`.
+
+This is stronger than the generic phrase `Meiners engaged with Kant`, but still weaker than a direct reconstruction of the exact Kantian criterion until the primary p.59–60 leaf is inspected.
 
 Current status:
 
-`1793 p.60 Kant citation = exact-page specialist control + primary carrier fixed`
+`1793 pp.59–60 Meiners hierarchy = exact quotation + specialist page control`
 
-`publication-level new Kant reference by second edition = multiple scholarly controls`
+`1793 p.60 anti-single-colour rule = exact quotation + specialist page control`
 
-`literal primary wording = pending direct page inspection`
+`1793 p.60 Kant citation/incorporation = two independent specialist controls + primary carrier fixed`
 
-Interpretive stop rule:
+`literal form of the primary Kant citation / criterion = pending direct page inspection`
 
-`explicit Kant citation ≠ wholesale Kantian adoption`.
+Interpretive stop rules:
 
-The target is to establish what operation Meiners accepts, rejects or redescribes, not to infer doctrinal dependence from citation alone.
+`explicit Kant citation ≠ wholesale Kantian adoption`;
+
+`incorporated race definition ≠ replacement of Meiners's taxonomy`;
+
+`terminological convergence ≠ identity of causal or political inference`.
+
+The remaining primary question is now narrow:
+
+> Which exact Kantian operation does Meiners attach to `Race` on pp.59–60 — necessary hereditary persistence, common descent, or another definitional component — and how is it grammatically related to his existing Stamm/Race/Varietät/Spielart hierarchy?
 
 ## 3. 1785 p.39 ↔ 1793 p.85 — climate/descent revision status
 
@@ -151,6 +185,16 @@ not
 The 1790 and 1792 primary evidence already falsifies the stronger global-replacement model.
 
 A related 1790 primary-controlled formulation is already known: Meiners ranks `Abkunft` / parental or people-of-origin effects above the land or climate of birth in a specific argument about African-descended populations. This makes the 1793 deletion historically plausible but does not substitute for direct edition collation.
+
+Ferrini's close reading of the 1790 material makes the boundary especially clear. She reproduces Meiners's claim that the more one surveys the effects of `Abkunft` or blood, the more one recognises the `Wichtigkeit der Abstammung`; she also preserves the comparison that what comes from peoples and parents matters `infinitely more` than the lands and climates of birth, **while explicitly retaining a large influence for meteorological/geographical factors on individuals and generation**.
+
+Thus the causal architecture immediately prior to the 1793 revision is securely:
+
+`descent / blood = strongly prioritised`
+
+while
+
+`climate / geographic factors = still causally active`.
 
 A broader modern synthesis (Morgan Golf-French's dissertation and 2026 monograph trajectory) likewise characterises the second edition as tending to harden some racial assessments by shifting explanatory weight toward internal/heritable factors. Treat this only as contextual secondary control. The repo's own primary evidence requires passage-specific rather than global language.
 
@@ -191,6 +235,7 @@ Screenshots are sufficient; no OCR or full-volume download is required.
 ## 6. Current stop rules
 
 - `1793 citation of Kant ≠ total Kantianization`;
+- `incorporated definition ≠ replacement of Meiners's taxonomy`;
 - `specific climate deletion ≠ disappearance of environmental causation`;
 - `same page number across editions ≠ same wording`;
 - `secondary exact-page control ≠ primary-direct`;
