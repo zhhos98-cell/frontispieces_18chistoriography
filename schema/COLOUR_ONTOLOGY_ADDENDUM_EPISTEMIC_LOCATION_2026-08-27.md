@@ -5,9 +5,9 @@ Status: active extension; merge into `COLOUR_ONTOLOGY.md` after primary controls
 
 ## 1. Why an additional axis is required
 
-The first colour ontology distinguishes colour referent, carrier, role, operation and failure. Schlözer's 1772/1775 evidence shows that this remains insufficient.
+The first colour ontology distinguishes colour referent, carrier, role, operation and failure. Schlözer's 1772–1775 sequence shows that this remains insufficient.
 
-The same visible or metaphorical operation — `colouring` — can be methodologically legitimate or illegitimate depending on **where in the historical knowledge chain it acts**.
+The same visible or metaphorical operation — `colouring` or pictorialization — can be methodologically legitimate or illegitimate depending on **where in the historical knowledge chain it acts**.
 
 Therefore every mature `colour_claim` or `colour_operation` should carry an `epistemic_location`.
 
@@ -48,7 +48,7 @@ Keep separate from classification where possible.
 ### `arrangement_system`
 Colour marks relations among already selected/criticised units: duration, dominance, dependence, simultaneity, boundary, transition, revolution, sequence.
 
-Gatterer's synchronistic tables principally belong here.
+Gatterer's synchronistic tables principally belong here. Schlözer's separately reported 1775 `Illumination der Tabelle` also belongs here if primary control confirms the quotation.
 
 ### `display_inspection`
 Colour reduces visual search or makes an already defined relation more rapidly inspectable.
@@ -56,9 +56,9 @@ Colour reduces visual search or makes an already defined relation more rapidly i
 Question: does colour carry unique information or merely accelerate access to information also carried by line/text/position?
 
 ### `memory_pedagogy`
-Colour/pictorial arrangement is deliberately used to stabilize memory, association or teaching.
+Colour or pictorial arrangement is deliberately used to stabilize memory, association or teaching.
 
-Schlözer's 1775 painted synchronism and proposed `Illumination der Tabelle` belong here, pending direct primary-page control.
+Schlözer's **1773** discussion of `gemahlte chronologische Tabellen` and `Synchronismus` through `Association der Ideen` belongs here, pending direct inspection of part II, p. 327. The distinct **1775** `Illumination der Tabelle` claim may also carry a pedagogical function but must not be conflated with the 1773 passage.
 
 ### `copy_finishing`
 Pigment is applied to a particular impression/copy as material completion, enhancement or later intervention.
@@ -75,7 +75,7 @@ Recommended values:
 - `source_warranted` — colour/category/code is explicitly grounded in a historical source/object;
 - `convention_warranted` — a stable disciplinary code licenses the sign;
 - `system_assigned` — colour is arbitrarily but explicitly assigned to an analytical relation;
-- `pedagogically_assigned` — colour is assigned to increase recognition/memory;
+- `pedagogically_assigned` — colour/pictorial form is assigned to increase recognition/memory;
 - `copy_specific_unresolved` — pigment exists but authority/date is unresolved;
 - `rhetorically_suspect` — actor/source treats colouring as distortion or loading;
 - `unresolved`.
@@ -84,20 +84,30 @@ This axis prevents a false binary between `objective colour` and `subjective col
 
 ## 4. Current canonical examples
 
-### Schlözer 1772
+### Schlözer 1772 — fact colouring
 
 - carrier: metaphorical language of colouring;
 - operation: alteration/loading;
 - epistemic location: `fact_proposition`;
-- authorization: `rhetorically_suspect`.
+- authorization: `rhetorically_suspect`;
+- evidence status: established/direct primary at pp. 44–45.
 
-### Schlözer 1775
+### Schlözer 1773 — painted synchronism
 
-- carrier: proposed illumination / painted sheet;
-- operation: mark duration, make synchronism visible, support association/memory;
+- carrier: proposed painted chronological sheet/table;
+- operation: co-present historical objects, make synchronism vivid, support association/memory;
 - epistemic locations: `arrangement_system`, `display_inspection`, `memory_pedagogy`;
 - authorization: `pedagogically_assigned`;
-- evidence status: probable until primary pages directly inspected.
+- bibliographic locus: *Vorstellung*, part II (1773), p. 327, in Schlözer's response to Herder;
+- evidence status: probable until the institutional p. 327 page itself is directly inspected.
+
+### Schlözer 1775 — `Illumination der Tabelle`
+
+- carrier: proposed illumination of a period table;
+- operation: mark unequal historical length/duration and make temporal proportion visible;
+- epistemic locations: `arrangement_system`, `display_inspection`, possibly `memory_pedagogy`;
+- authorization: `pedagogically_assigned` / `system_assigned` unresolved;
+- evidence status: secondary quotation / probable; precise primary page locator still required.
 
 ### Gatterer `Synopsis`
 
@@ -112,7 +122,7 @@ This axis prevents a false binary between `objective colour` and `subjective col
 - operation: encode/decode tincture category;
 - epistemic location: `surrogate_encoding`;
 - possible authorization: `source_warranted` where Gatterer tests the category/sign against old Wappenbriefe;
-- evidence status: probable until direct p.12 inspection.
+- evidence status: probable until direct p. 12 inspection.
 
 ### Wappenkalender colour key
 
@@ -123,10 +133,11 @@ This axis prevents a false binary between `objective colour` and `subjective col
 
 ## 5. Revised method question
 
-The project should now ask two linked questions for every chromatic operation:
+The project should now ask three linked questions for every chromatic or colour-adjacent graphical operation:
 
 1. **What does colour do?**
-2. **Where is colour authorized to do it?**
+2. **Where does it act?**
+3. **What authorizes or prohibits that operation?**
 
 The strongest short formulation is:
 
@@ -134,7 +145,7 @@ The strongest short formulation is:
 
 A more technically precise formulation is:
 
-> **How did historical actors allocate chromatic operations across source, fact, code, classifier, arrangement, display and copy, and what kinds of warrant authorized or prohibited colour at each layer?**
+> **How did historical actors allocate chromatic operations across source, fact, code, classifier, arrangement, display, memory and copy, and what kinds of warrant authorized or prohibited colour at each layer?**
 
 ## 6. Guard against false unification
 
@@ -148,4 +159,8 @@ A cross-domain link requires at least one of:
 - same source-testing criterion;
 - same pedagogical or evidentiary operation demonstrably recognized by the actor.
 
-Until then, preserve distinct colour regimes and compare them structurally rather than genealogically.
+Also keep controversies distinct:
+- Schlözer's 1773 painted-synchronism passage belongs to the Herder controversy;
+- the separate Gatterer–Schlözer `Species Facti` dispute remains to be tested for media/method vocabulary.
+
+Until direct evidence links them, preserve distinct colour regimes and compare them structurally rather than genealogically.
