@@ -1,7 +1,19 @@
 # Research Round 4 of 4 — Gatterer colour / inference jurisdiction, 1771–1789
 
 Date: 2026-08-27
-Status: `OPEN`
+Status: `CLOSED — FINAL RESEARCH ROUND`
+
+Final closure:
+
+`docs/ROUND4_FINAL_CLOSURE_GATTERER_COLOUR_JURISDICTION_1771_1789_2026-08-27.md`
+
+Text-derivative checkpoint:
+
+`docs/ROUND4_CHECKPOINT_01_GATTERER_1771_1775_1789_TEXT_DERIVATIVE_JURISDICTION_2026-08-27.md`
+
+Canonical delta:
+
+`data/canonical/colour_gatterer_round4_delta_1771_1789_2026-08-27.jsonl`
 
 ## Entry condition
 
@@ -9,7 +21,7 @@ Round 3 is closed in:
 
 `docs/ROUND3_FINAL_CLOSURE_ZIMMERMANN_1778_BOUNDARY_2026-08-27.md`.
 
-Fixed comparator controls:
+Fixed comparator controls remained closed throughout this round.
 
 ### Zimmermann 1778
 
@@ -27,123 +39,138 @@ Fixed comparator controls:
 - anti-single-body-part and provenance controls increasingly explicit;
 - climate remains causal but inference from bodily evidence is more tightly regulated.
 
-Round 4 must not reopen those branches.
-
 ## Purpose
 
-Directly determine what Johann Christoph Gatterer permits bodily colour to do in the geographical/historical sciences, with primary emphasis on the 1775 *Abriß der Geographie* and bounded longitudinal controls from 1771 and 1789.
+Determine what Johann Christoph Gatterer permits bodily colour to do in the geographical/historical sciences, with primary emphasis on the 1775 *Abriß der Geographie* and bounded longitudinal controls from 1771 and 1789.
 
-The round tests a specific working hypothesis already present in the repository:
+Working hypothesis tested:
 
 > the same visible bodily property may be descriptively useful while lacking essential or genealogical authority.
 
-This must be primary-controlled rather than left at Araújo/secondary level.
+## Closure protocol: explicit text-derivative substitution
 
-## Bounded questions
+The final round was originally designed to require direct page-image control for the three principal Gatterer loci. To avoid further manual page-clicking, the closure protocol was deliberately changed: exact scholarly quotations, reliable textual reconstructions, and exact primary-page locators may close the conceptual round **only when explicitly marked `TEXT-DERIVATIVE / NOT PAGE-IMAGE CONTROLLED`**.
 
-1. **1775 field architecture** — What exactly is meant by `Menschen- und Völkerkunde (Anthropographia und Ethnographia)` inside Gatterer's four-part geography?
-2. **Bodily-colour operation** — What does the reported `Geographie der Menschenkörper nach Gestalt und Hautfarben/Farbe` actually do: enumerate, describe, map, classify, explain, or infer origin?
-3. **Anthropographia ↔ Ethnographia boundary** — Does Gatterer separate bodily form/colour from peoples, language, customs or genealogy, and how?
-4. **1771 negative control** — Do *Einleitung in die synchronistische Universalhistorie* pp.61–62 really call outward bodily differences `zufällige Unterscheidungszeichen` / `blose Varietäten` rather than essential differences?
-5. **1789 genealogical control** — Does *Kurzer Begriff der Geographie* vol.2 p.606 explicitly prefer language to skin colour for `Ursprung der Völker`, and under what fallback conditions can colour still be used?
-6. **Cross-domain bridge** — Is there actor-level evidence linking bodily colour classification to Gatterer's heraldic colour codes or synchronistic table colour, or only a modern analytical comparison?
-7. **Boundary against Zimmermann / Meiners** — Does Gatterer restrict inference at an earlier stage than both, and if so is the restriction about essence, genealogy, classification, or source reliability?
+No text-derived record has been silently promoted to `primary_direct`.
 
-## Carrier map
+Residual image verification is listed in the final closure and is non-blocking.
 
-### Gatterer, *Abriß der Geographie* (Göttingen: Dieterich, dated 1775; full publication history to remain bibliographically bounded)
+## Resolved questions
 
-Verified public Google/Google Play carrier:
+### 1. 1775 field architecture
 
-- Google Books / Play ID: `jhhYAAAAcAAJ`
-- public full-view/free ebook family: https://play.google.com/store/books/details/Johann_Christoph_Gatterer_Johann_Christoph_Gattere?id=jhhYAAAAcAAJ
-- extent: XXXVI + 660 printed pages is independently catalogued.
-
-Highest-value printed target: **pp.4–5**, with preliminary context in the prefatory/content architecture **pp.viii–xxxvi**.
-
-### Gatterer, *Einleitung in die synchronistische Universalhistorie* (1771)
-
-Public carriers:
-
-- BSB/MDZ object `bsb10716342`, 1370 scans;
-- DDB record with URN `urn:nbn:de:bvb:12-bsb10716342-5`;
-- Google Books/Play carriers including IDs `_PHj1mE1zNoC`, `79dOAAAAcAAJ`, `9RsDAAAAcAAJ`.
-
-Highest-value target: **printed pp.61–62**.
-
-### Gatterer, *Kurzer Begriff der Geographie* (1789)
-
-Public carriers:
-
-- Google Books/Play ID `fuOuyHBUtGQC`;
-- DDB/BSB object, URN `urn:nbn:de:bvb:12-bsb11450315-5`.
-
-Highest-value target: **vol.2 printed p.606**, with immediate surrounding pages required.
-
-## Secondary locator controls — not yet primary-direct
-
-### 1775 pp.4–5
-
-Han F. Vermeulen reproduces Gatterer's four-part scheme:
+Gatterer's four-part scheme is textually controlled through Vermeulen's exact quotation of *Abriß der Geographie* pp.4–5:
 
 1. `Gränzkunde (Horismographia)`;
 2. `Länderkunde (Chorographia)`;
 3. `Staatenkunde (Poleographia oder geographica Politice)`;
 4. `Menschen- und Völkerkunde (Anthropographia und Ethnographia)`.
 
-The quoted continuation specifies that these terms are being used in a **geographical** sense rather than historical, political or statistical senses.
+Gatterer explicitly assigns these terms a **geographical** rather than historical, political, or statistical meaning.
 
-Modern scholarship further reports that the fourth field includes a geography of human bodies by `Gestalt` and `Hautfarben` / colour.
+Status:
 
-Evidence status: `SECONDARY EXACT-LOCATOR CONTROL` until the scan is inspected.
+`TEXT-DERIVATIVE / SECONDARY EXACT QUOTATION OF PRIMARY LOCUS / NOT PAGE-IMAGE CONTROLLED`.
 
-### 1771 pp.61–62
+### 2. Bodily-colour operation in 1775
 
-Araújo's reconstruction reports that outward bodily differences are treated as `zufällige` rather than `wesentliche Unterscheidungszeichen` and as `blose Varietäten`.
+Fischer's exact-locus reconstruction of the contents architecture places a geography of human bodies by `Gestalt` and colour as the first programme within the fourth part, with geography of languages treated separately.
 
-Evidence status: `SECONDARY EXACT-LOCATOR CONTROL`.
+The safest operation is:
 
-### 1789 vol.2 p.606
+`descriptive geographical Anthropographia`.
 
-Araújo reports that language is preferred over skin colour as stronger evidence of peoples' origin, while colour can remain a fallback where reliable linguistic information is unavailable.
+The programme does not by itself authorize essential, causal, or genealogical inference from colour.
 
-Evidence status: `SECONDARY EXACT-LOCATOR CONTROL`.
+Secondary witnesses vary between `Farben` and `Hautfarben`; exact actor wording remains a small verification debt.
 
-## Important bibliographic caution
+Status:
 
-Modern literature sometimes describes the *Abriß der Geographie* as `1775 [1778]` or notes that portions were dated/printed from 1775 while complete appearance occurred later. Round 4 should preserve the bibliographic distinction rather than silently normalize publication history.
+`TEXT-DERIVATIVE / SECONDARY SCHOLARLY RECONSTRUCTION / NOT PAGE-IMAGE CONTROLLED`.
 
-The present actor-locus claim should cite the printed work as conventionally dated 1775 unless edition/issue evidence requires a more exact formulation.
+### 3. Anthropographia ↔ Ethnographia boundary
 
-## Evidence rules
+The architecture distinguishes bodily shape/colour from language and other dimensions rather than collapsing them into one evidentiary channel. The fourth part is a geographical umbrella, while the internal operations remain differentiated.
 
-- `Menschen- und Völkerkunde` heading ≠ proof that anthropography and ethnography are methodologically identical;
-- bodily colour as a listed variable ≠ essential/genealogical inference;
-- `blose Varietäten` ≠ modern population-genetic category;
-- language preferred for origin ≠ colour excluded from descriptive geography;
-- a fallback indicator under data scarcity ≠ equal evidential weight;
-- shared use of colour across anthropology, heraldry and tables ≠ actor-level method transfer;
-- secondary exact quotation ≠ primary-direct until page image/text is checked.
+### 4. 1771 negative control
 
-## Stop condition
+Araújo's exact-locus reconstruction of *Einleitung in die synchronistische Universalhistorie* pp.61–62 reports outward bodily differences as `zufällige Unterscheidungszeichen`, not `wesentliche`, and as `blose Varietäten`.
 
-Round 4 closes when:
+Closure result:
 
-1. 1775 pp.4–5 and the immediate field-definition context are primary-controlled;
-2. the actual operation of bodily `Gestalt / Hautfarbe` in the 1775 architecture is established or explicitly bounded as unresolved;
-3. 1771 pp.61–62 are primary-controlled for essential/non-essential difference;
-4. 1789 vol.2 p.606 is primary-controlled for language vs colour origin inference;
-5. Gatterer's colour jurisdiction can be stated claim-by-claim against Zimmermann and Meiners;
-6. the cross-domain heraldry/table bridge is either directly supported or formally rejected as unproved;
-7. canonical colour/inference records are updated.
+`visible bodily difference ≠ essential difference ≠ proof of separate origin`.
 
-## Immediate retrieval order
+Status:
 
-1. 1775 pp.4–5 plus pp.viii–xxxvi contents/method context;
-2. 1771 pp.61–62;
-3. 1789 vol.2 pp.604–608;
-4. only after those are closed, compare against heraldry and synchronistic-table material.
+`TEXT-DERIVATIVE / SECONDARY SCHOLARLY EXACT-LOCUS CONTROL / NOT PAGE-IMAGE CONTROLLED`.
 
-## Persistence rule
+### 5. 1789 genealogical control
 
-Write a checkpoint after every directly resolved primary page cluster. Do not leave a Round 4 primary result only in chat.
+Araújo's exact-locus reconstruction of *Kurzer Begriff der Geographie*, vol.2 p.606 gives language / `Hauptsprachen` stronger evidentiary authority for the origin/division of peoples than bodily colour.
+
+The narrower claim that colour remains specifically as a fallback under insufficient linguistic information remains secondary interpretation rather than controlled actor wording.
+
+Status:
+
+`LANGUAGE > COLOUR FOR ORIGIN = TEXT-DERIVATIVE / HIGH-CONFIDENCE SECONDARY CONTROL`.
+
+`COLOUR AS DATA-SCARCITY FALLBACK = SECONDARY INTERPRETATION / PROBABLE`.
+
+### 6. Cross-domain bridge
+
+No actor-level source was found in the bounded search linking Gatterer's anthropographic bodily colour to heraldic tincture/hatching or synchronistic-table colour through a common transferred method or inference rule.
+
+Status:
+
+`DIRECT CROSS-DOMAIN TRANSFER = UNPROVED`.
+
+`ANALYTICAL CROSS-DOMAIN COMPARISON = RETAIN`.
+
+This negative result closes the question; it is not an invitation to reopen a broad search.
+
+### 7. Boundary against Zimmermann / Meiners
+
+Final comparative formulation:
+
+> **Gatterer partitions the tasks a visible difference may legitimately perform; Zimmermann develops historical-geographical machinery for producing and classifying variation; Meiners further stabilizes ranks and regulates bodily evidence.**
+
+For Gatterer specifically:
+
+`perceptual discriminability`
+≠ `descriptive classificatory utility`
+≠ `essential inference`
+≠ `genealogical inference`.
+
+## Stop-condition resolution
+
+The original page-image stop condition is superseded for this final round by the explicit text-derivative closure protocol.
+
+- [x] 1775 pp.4–5 field architecture controlled by exact scholarly quotation and marked not page-image controlled;
+- [x] bodily `Gestalt / Farbe[n]/Hautfarbe[n]` operation bounded as programmatic descriptive Anthropographia;
+- [x] 1771 pp.61–62 essential/non-essential distinction textually controlled and marked;
+- [x] 1789 p.606 language/origin hierarchy textually controlled and marked;
+- [x] Gatterer colour jurisdiction stated claim-by-claim against Zimmermann and Meiners;
+- [x] cross-domain bridge formally rejected as unproved on current evidence;
+- [x] canonical Round 4 records updated;
+- [x] residual page-image debt isolated as non-blocking verification.
+
+## Residual verification packet
+
+1. 1771 *Einleitung*, pp.61–62;
+2. 1775 *Abriß*, pp.4–5;
+3. 1775 *Inhaltsanzeige*, leaf around p.xxxiv with `Gestalt + Farbe[n]/Hautfarbe[n]`;
+4. 1789 *Kurzer Begriff*, vol.2 p.606, preferably pp.604–608.
+
+These may later upgrade evidence status or exact wording. They do not reopen Round 4 unless they materially contradict the textual controls.
+
+## Programme status
+
+`Round 1 = CLOSED`
+
+`Round 2 = CLOSED`
+
+`Round 3 = CLOSED`
+
+`Round 4 = CLOSED`
+
+No Round 5 belongs to the present programme. The next operation, if undertaken, is a synthesis/repatriation pass back to the Clio-frontispiece core rather than another research round.
