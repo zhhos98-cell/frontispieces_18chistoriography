@@ -124,6 +124,32 @@ Therefore:
 
 Do not silently reconcile this with the Bernasconi-derived locator. Search the full 1793 carrier for the actual revised wording and then compare with 1785.
 
+## Comparator lead: CSMBR 2023 intensity school
+
+User flagged the CSMBR summer school on intensity as a useful conceptual comparator for the project's treatment of graded qualities.
+
+Verified event:
+
+- CSMBR Summer School, `Intensity and the Grades of Nature: Heat, Colour, and Sound in the Ordering of Pre-Modern Cosmos: 1200–1600`;
+- Pisa, 11–14 July 2023;
+- organised by Fabrizio Bigotti;
+- part of the DFG project `Measuring the World by Degrees. Intensity in Early Modern Medicine and Natural Philosophy 1400–1650` (project 461231785).
+
+The official framing is directly relevant to the repo's colour/intensity problem because it treats qualities such as heat, brightness, density/rarity, pitch, drug powers, purity and colour as varying within graded ranges rather than as merely binary properties. It also explicitly connects grades/shades to value hierarchies and to visual techniques for representing intensity.
+
+Use in this repo:
+
+`CSMBR / Bigotti intensity historiography = COMPARATOR, not evidence of direct influence on Meiners.`
+
+Potential payoff:
+
+- distinguish `classification by kind` from `ordering by degree`;
+- ask whether colour in Meiners functions only as a categorical marker or also as a graded/intensive variable;
+- track when `more/less`, strength, shade, degree, persistence and causal weight mediate between observation and taxonomy;
+- compare verbal gradation with visual/diagrammatic grading without projecting medieval/early-modern theories directly into late-eighteenth-century anthropology.
+
+This branch should remain bounded unless a specific Meiners/Göttingen source uses explicit `Grad`, `Stärke`, `Intensität`, `Abstufung`, `Schattierung`, `mehr/weniger`, or analogous language in a way that changes the current argument.
+
 ## Exact remaining work
 
 1. Extract 1785 pp.23–24 and determine what those pages actually contain.
@@ -143,4 +169,5 @@ Do not silently reconcile this with the Bernasconi-derived locator. Search the f
 - `secondary page locator ≠ primary page identity`;
 - `same printed page number across editions ≠ same wording`;
 - `anti-single-colour criterion ≠ anti-single-body-part formulation`;
-- preserve locator conflicts as evidence problems; do not normalize them away.
+- preserve locator conflicts as evidence problems; do not normalize them away;
+- `intensity comparator ≠ direct genealogy`.
