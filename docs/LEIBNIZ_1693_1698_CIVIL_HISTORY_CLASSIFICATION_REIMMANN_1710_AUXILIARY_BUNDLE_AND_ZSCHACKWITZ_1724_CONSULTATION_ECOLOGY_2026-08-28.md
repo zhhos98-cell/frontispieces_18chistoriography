@@ -1,192 +1,326 @@
-# Leibniz 1693–1698 → Reimmann 1710 → Zschackwitz 1724: classification prehistory, auxiliary-science bundling, and consultation ecology
+# Leibniz 1692–1698 → Reimmann 1694–1710 → Zschackwitz 1724: archival genealogy, civil-history classification, auxiliary bundling, and consultation ecology
 
 Date: 2026-08-28  
-Status: HIGH-VALUE TAXONOMIC PREHISTORY — LEIBNIZ DATING CONTROLLED BY AKADEMIEAUSGABE; EXACT CLASSIFICATION CONTROLLED IN 1768 PRIMARY PRINT; REIMMANN SIX-ITEM BUNDLE PRIMARY-TITLE CONTROLLED; ZSCHACKWITZ AUTHOR ECOLOGY PRIMARY-TRANSCRIPTION CONTROLLED
+Status: HIGH-VALUE TAXONOMIC + OPERATIONAL PREHISTORY — LEIBNIZ c.1693 `FUSIOR` GENEALOGICA/HERALDICA PLACEMENT NOW CONTROLLED IN PRIMARY PRINT; HOZIER 1692 ARCHIVAL-CERTAINTY EDGE CONTROLLED IN LEIBNIZ MANUSCRIPT CATALOGUE; REIMMANN SIX-ITEM BUNDLE PRIMARY-TITLE CONTROLLED; ZSCHACKWITZ CONSULTATION ECOLOGY PRIMARY-TRANSCRIPTION CONTROLLED
 
 ## Result
 
-The newly controlled Reimmann 1710 classification of the auxiliary sciences of `Historia Civilis` is **not** the beginning of the association between civil history, geography, genealogy and heraldry.
+A previous version of this checkpoint left the genealogy/heraldry wording in Leibniz's c.1693 `fusior` unresolved and treated the later `contractior` (1695–spring 1698?) as the earliest controlled occurrence.
 
-A deeper classificatory layer is now controlled in Gottfried Wilhelm Leibniz's library-ordering papers of the 1690s.
+That boundary is now corrected.
 
-In the short classification later printed as:
+The Akademieausgabe dates:
 
-`Idea Leibnitiana bibliothecae ordinandae contractior`,
+`Idea Leibnitiana bibliothecae publicae secundum classes scientiarum ordinandae, fusior`
 
-Leibniz places:
+to:
+
+`Um 1693 (?)`.
+
+The primary printed tradition directly gives the relevant hierarchy:
 
 `Historia civilis`
 → `Universalis`
-→ `Geographia`
-→ `Huc Genealogica, & Heraldica`
+→ `Geographia. Huc Genealogica, & Heraldica.`
 → Greek/Roman history with antiquities
 → medieval history
 → contemporary history
 → histories of peoples
 → histories of particular matters/lives.
 
-The modern Akademieausgabe dates this short scheme to:
+Therefore **Genealogica and Heraldica were already embedded in Leibniz's civil-history classification by c.1693**, before Jacob Friedrich Reimmann's 1694 *De fatis studii genealogici*.
 
-`1695 bis Frühjahr 1698 (?)`.
+This closes an earlier speculative route:
 
-A related, longer library classification — `Idea Leibnitiana bibliothecae publicae secundum classes scientiarum ordinandae, fusior` — is dated by the Akademieausgabe to `Um 1693 (?)`, but the present sweep has **not yet primary-controlled the exact Genealogica/Heraldica placement in that longer version**. Do not silently transfer wording from the later short scheme into the c.1693 text.
+`Reimmann 1694 → insertion of Genealogica/Heraldica into Leibniz's later schema`
 
-Reimmann's Tomus V of 1710 therefore looks less like an origin than an **explicit expansion and bundling operation**. It names six `Neben-Wissenschafften` of `Historia Civilis`:
+is no longer chronologically needed and is unsupported.
+
+A second, more important control now supplies the operational context. On 14 August 1692 Charles-René d'Hozier sent Leibniz a substantial genealogical memorandum for the *Origines Estenses*. D'Hozier criticized modern German and Italian pedigrees for inadequate precaution, false filiations and failure to consult abbey archives; he argued that many great-family genealogies become securely fixable only around 1200. Leibniz later extracted precisely this passage onto a separate autograph note catalogued under:
+
+`Genealogica ("Genealog. varia")`.
+
+Thus the classification should not be read only as an abstract library tree. Immediately before and during its formation, genealogy was functioning for Leibniz as an **archive-dependent historical proof problem** inside dynastic research.
+
+Reimmann then develops a parallel genealogy-critical and bibliographic programme from 1694 onward, and in 1710 explicitly bundles six `Neben-Wissenschafften` of `Historia Civilis`:
 
 `Chronologia / Geographia / Genealogia / Heraldica / Numismatica / Antiquaria`.
 
-A second follow-on control changes the social meaning of this taxonomy. In Johann Ehrenfried Zschackwitz's *Historisch-Genealogischer Schau-Platz* (1724), the printed list of authors used in the work places Reichshistorie, public law, genealogy, heraldry, chronology, geography and diplomatic/historical materials inside one consultation corpus. It specifically includes:
+Zschackwitz 1724 finally shows those kinds of materials operating together as a mixed consultation corpus.
 
-- `Gladovvs Reichs-Historie`;
-- Gundling's `Entwurff zur Reichs-Historie`;
-- `Hahns, Reichs-Historie`;
-- Henninges, *Theatrum Genealogicum*;
-- Hübner's *Tabulae Genealogicae*;
-- works on genealogy and coats of arms;
-- Leibniz's *Codex juris Gentium diplomaticus* and *Scriptores Brunsvicenses*;
-- chronology and geography works.
+Revised sequence:
 
-This yields a three-stage working model:
+`dynastic/archive proof practice (Leibniz–Hozier, 1692)`
+→ `civil-history library classification (Leibniz, c.1693)`
+→ `genealogy historicized/bibliographized (Reimmann, 1694ff.)`
+→ `genealogical scepticism (Reimmann, 1705)`
+→ `explicit six-field auxiliary bundle (Reimmann, 1710)`
+→ `mixed historical-genealogical source consultation (Zschackwitz, 1724)`
+→ `visual selective compression: HISTORIA / GENEALOGIA / HERALDICA (1726)`.
 
-`library/science classification`
-→ `explicit auxiliary-science bundle`
-→ `mixed working consultation corpus`.
-
-The later 1726 `HISTORIA / GENEALOGIA / HERALDICA / TESTES TEMPORUM ET VERITATIS` plate should now be tested against all three levels rather than treated as the first appearance of the disciplinary relationship.
+This remains an ecology of organizational forms, not one proven transmission chain.
 
 ---
 
-## 1. Leibniz: the short library classification is securely earlier than Reimmann
+## 1. Corrected early boundary: the c.1693 `fusior` already contains Genealogica and Heraldica
 
-The Berlin-Brandenburg Academy Leibniz edition, Reihe IV, Band 6, places item 72:
-
-`Idea Leibnitiana bibliothecae ordinandae contractior`
-
-at pp. 504 ff. and dates it:
-
-`1695 bis Frühjahr 1698 (?)`.
-
-The dating remains editorial/probabilistic, not a dated autograph inscription.
-
-Evidence status:
-
-`CRITICAL-EDITION DATING CONTROLLED`.
-
-The first posthumous print appeared in Joachim Friedrich Feller's *Otium Hanoveranum* (Leipzig, 1718), where modern bibliographic scholarship locates the short classification at pp. 136–138.
-
-The same material was reprinted in Dutens's *Gothofredi Guillelmi Leibnitii Opera omnia* (Geneva, 1768), Opera Philologica, immediately before the following letter on the imperial librarian's office.
-
-Evidence status:
-
-`PRINT-HISTORY CONTROLLED`.
-
----
-
-## 2. Primary printed wording: Genealogy and Heraldry are internal to `Historia civilis`
-
-The 1768 Dutens print provides directly searchable primary text. Its classification reads, in the relevant sequence:
-
-`Historia civilis.`
-
-followed by:
-
-- `Universalis.`
-- `Geographia. Huc Genealogica, & Heraldica.`
-- `Historia Graeca, & Romana cum antiquitatibus.`
-- `Historia medii aevi ...`
-- `Historia nostri temporis ...`
-- `Historiae gentium.`
-- `Historia variarum rerum ...`
-
-and then moves to:
-
-`Historia literaria, & res Bibliothecaria.`
-
-This matters for the repo because the relation is not generic adjacency in a miscellaneous bibliography.
-
-The hierarchy is explicit:
-
-`Historia civilis`
-→ `Geographia`
-→ `Genealogica & Heraldica`.
-
-Current evidence status:
-
-`PRIMARY-DIRECT PRINT TEXT CONTROLLED`.
-
-Caveat:
-
-The present research round attempted to open/screenshot the e-rara PDF segment containing the page, but the remote PDF cache failed. The searchable e-rara PDF result nevertheless exposes the primary printed text directly. Do not label the typography/layout as visually inspected until a stable page-image carrier is opened.
-
----
-
-## 3. What Leibniz does **not** yet give us
-
-The short Leibniz scheme does **not** present the exact Reimmann six-item auxiliary bundle.
-
-It clearly controls:
-
-- civil history;
-- universal history;
-- geography;
-- genealogy;
-- heraldry;
-- antiquities in relation to Greek/Roman history.
-
-But the current controlled passage does not place:
-
-- chronology;
-- numismatics
-
-alongside Genealogy and Heraldry as a single named set of `Neben-Wissenschafften`.
-
-Therefore the correct relation is:
-
-`Leibniz = earlier classificatory embedding`
-
-not:
-
-`Leibniz = already the complete Reimmann bundle`.
-
-This distinction is essential if the article is going to make a historical claim about **compression, expansion and selection of disciplinary sets**.
-
----
-
-## 4. The c.1693 `fusior` is earlier, but wording must not be imported into it
-
-The Akademieausgabe, Reihe IV, Band 5, dates:
+The Akademieausgabe, Reihe IV, Band 5, item 81, dates:
 
 `Idea Leibnitiana bibliothecae publicae secundum classes scientiarum ordinandae, fusior`
 
-to:
+to `Um 1693 (?)`, pp. 649–658.
 
-`Um 1693 (?)`, pp. 649–658.
+The relevant primary printed page is exposed in the 1768 Dutens edition of Leibniz's *Opera omnia*, Opera Philologica, printed p. 314. It reads in sequence:
 
-This gives an earlier related classification project.
+`Historia civilis.`
 
-However, the present sweep has not yet directly controlled whether the `fusior` contains the exact phrase:
+`Universalis.`
 
 `Geographia. Huc Genealogica, & Heraldica.`
 
-or an equivalent hierarchical placement.
+followed by Greek/Roman history with antiquities and later historical categories.
 
-Status:
+Evidence status:
 
-`EARLIER RELATED SCHEMA CONTROLLED; SPECIFIC GENEALOGY/HERALDRY WORDING UNRESOLVED`.
+`PRIMARY-DIRECT PRINT TEXT CONTROLLED + CRITICAL-EDITION DATING CONTROLLED`.
 
-Repository rule:
+A screenshot request against the e-rara PDF carrier failed because the remote image cache missed; the parsed primary PDF text exposes the printed page and wording directly. Visual/diplomatic typography remains one step below page-image inspection.
 
-Do not quote the short 1695–98 wording as if it were already present in the c.1693 `fusior` until the Akademieausgabe pp. 649–658 are directly checked.
+### Correction to earlier checkpoint state
+
+Previous state:
+
+`c.1693 fusior specific genealogy/heraldry wording unresolved`.
+
+Current state:
+
+`c.1693 fusior specific genealogy/heraldry wording controlled`.
+
+The repository should no longer say that the 1695–98 `contractior` supplies the earliest controlled occurrence.
 
 ---
 
-## 5. Reimmann 1710 is now best described as explicit six-item bundling
+## 2. The later `contractior` confirms persistence, not first insertion
 
-Reimmann's Tomus V / vol. 3,3 title directly states:
+The shorter:
+
+`Idea Leibnitiana bibliothecae ordinandae contractior`
+
+is dated by the Akademieausgabe to:
+
+`1695 bis Frühjahr 1698 (?)`.
+
+Its printed tradition repeats the same basic placement of genealogy and heraldry within the civil-history / geography environment.
+
+The relation between the two schemes is therefore:
+
+`c.1693 fusior = already contains Genealogica & Heraldica`
+→ `1695–98? contractior = persistence / compression of the arrangement`.
+
+This removes the former temptation to explain the appearance of genealogy/heraldry by a post-1693 external intervention.
+
+Evidence status:
+
+`CRITICAL-EDITION DATING + PRIMARY PRINT TRADITION CONTROLLED`.
+
+---
+
+## 3. 14 August 1692: d'Hozier turns genealogy into an archival certainty problem
+
+The Leibniz manuscript catalogue identifies:
+
+`Ms 23, 181, 1, 1 Bl. 69–74`
+
+as a substantial document from **Charles-René d'Hozier for Leibniz**, Paris, 14 August 1692.
+
+Physical/documentary description:
+
+- draft/fair copy sent to Leibniz;
+- 8.2 pages/columns;
+- Hozier autograph signature;
+- marginal remarks by Leibniz;
+- filed under `Origines Estenses ("Orig. Est.")`;
+- Akademieausgabe I,8, p.224ff.
+
+D'Hozier's argument, as preserved in the official critical-edition/catalogue tradition, attacks modern genealogical compilation for:
+
+- insufficient precaution;
+- false / badly organized pedigrees;
+- confusing fathers and sons;
+- reliance on what genealogists have merely written or imagined;
+- Italian failure to consult abbey archives;
+- the resulting difficulty of establishing great-family genealogies before roughly 1200 with certainty.
+
+Evidence status:
+
+`PRIMARY MANUSCRIPT RELATION + CRITICAL-EDITION TEXT CONTROLLED`.
+
+The point is methodological rather than merely biographical:
+
+`genealogical statement`
+→ `check archival survival`
+→ `identify filiations`
+→ `set a certainty threshold`.
+
+This is a major prehistory for the later repository vocabulary of genealogical error, testimony and evidence.
+
+---
+
+## 4. Leibniz extracted the methodological core into a separate `Genealogica` note
+
+The strongest evidence that the 1692 passage mattered as reusable knowledge is not the incoming letter alone.
+
+The Leibniz catalogue records an autograph excerpt:
+
+`Ms 23, 250 Bl. 118`
+
+with date/reference `1692-08-14`, Akademieausgabe V, `1650.036`, and the ordering mark:
+
+`Genealogica ("Genealog. varia")`.
+
+Leibniz extracted the passage about:
+
+- German genealogists' errors;
+- false filiations;
+- Italian neglect of abbey archives;
+- genealogies becoming fixable with certainty only at a later chronological depth.
+
+Current significance:
+
+> **Leibniz did not merely receive d'Hozier's criticism inside the *Origines Estenses* dossier. He abstracted the source-critical passage into his own `Genealogica` working notes.**
+
+This is `PRIMARY-DIRECT KNOWLEDGE EXTRACTION`, not merely correspondence proximity.
+
+---
+
+## 5. *Origines Estenses*: genealogy operated through sources, excerpts and cross-checking
+
+The Hozier correspondence belongs to a much larger *Origines Estenses* working ecology.
+
+The Leibniz catalogue controls, among other materials:
+
+- Hozier's 1693 correspondence with Leibniz about historical sources;
+- Hozier genealogies sent to Leibniz and later referenced in Leibniz's notes;
+- Leibniz excerpts from Falletti, Pigna, Ughelli and other historical writers;
+- archive testimony and diplomatic evidence used to assess competing genealogical constructions;
+- Leibniz's note that he had himself copied a Vangadizza diploma;
+- later references to Hozier's genealogical material across `Origines Estenses` and Welf-related files.
+
+One especially useful Leibniz excerpt from Falletti/Pigna explicitly weighs narrative authorities against `testimonium ... Archivi Estensis` and mentions privileges/diplomas.
+
+Evidence status:
+
+`PRIMARY MANUSCRIPT-CATALOGUE TEXT CONTROLLED`.
+
+This gives the operational sequence:
+
+`printed historical genealogy`
+→ `conflicting authorities`
+→ `archival testimony / privilege / diploma`
+→ `copy/excerpt`
+→ `genealogical judgment`.
+
+---
+
+## 6. Sachsen-Lauenburg: genealogy, heraldry and archive copies coexist inside territorial succession work
+
+A separate contemporary control comes from the Sachsen-Lauenburg succession question following the death of Julius Franz in 1689.
+
+The Niedersachsen Landesarchiv describes the historical-genealogical work used by the Welf house to support the acquisition/succession claim. The relevant dossier `NLA HA Celle Br. 104b Nr. 111/5` includes:
+
+- correspondence and collections from multiple princely and urban archives;
+- copies of charters/documents;
+- a genealogical table connecting Braunschweig, Denmark and Saxony;
+- remarks concerning the leopards in the Welf coat of arms;
+- historical/documentary extracts from Werden, Trier, Corvey, Paderborn, Osnabrück, Iburg and other archives;
+- Leibniz's own written analyses.
+
+The Landesarchiv's contextual account explicitly states that historical-genealogical research was used in the Welf acquisition of Sachsen-Lauenburg after 1689.
+
+Evidence status:
+
+`ARCHIVAL METADATA + INSTITUTIONAL CONTEXT CONTROLLED`.
+
+This is not evidence that every item in the dossier was produced by Leibniz. It is evidence that the working succession archive placed:
+
+`territory`
++
+`genealogy`
++
+`arms`
++
+`charter copies`
++
+`archive extraction`
++
+`historical argument`
+
+inside one claim-making infrastructure.
+
+---
+
+## 7. Why `Geographia. Huc Genealogica, & Heraldica` should remain a problem, not be overexplained
+
+The c.1693 classification gives an unusual syntactic placement:
+
+`Historia civilis`
+→ `Geographia`
+→ `huc Genealogica & Heraldica`.
+
+The current evidence makes one interpretation more plausible but does not yet prove it.
+
+At the level of Leibniz's contemporary work, geography/territory, dynastic descent, arms and documentary rights often interacted in the same political-historical problems. The Sachsen-Lauenburg materials make this combination materially visible.
+
+But the repository has **not yet controlled a Leibniz statement explaining why** Genealogy and Heraldry are subordinated under Geography in the library scheme.
+
+Therefore retain:
+
+`PLACEMENT RATIONALE = UNRESOLVED`.
+
+Safe analytical formulation:
+
+> **The classification is consistent with an operational world in which territories, dynasties, arms and documentary claims were coordinated; the exact conceptual reason for the `Geographia → Genealogica & Heraldica` nesting remains to be established.**
+
+Do not transform contextual fit into authorial explanation.
+
+---
+
+## 8. Reimmann 1694 no longer sits inside an influence window for the Leibniz insertion
+
+The corrected Reimmann chronology remains important:
+
+- 1694: *De fatis studii genealogici* / genealogical study becomes a historical-literary object;
+- 1701/02: expanded/new version enters Leibniz–Eckhart's planned recension workflow;
+- 1705: `De necessitate Scepticismi in studio Genealogico` appears in the Halle *Observationes Selectae*;
+- 1710: larger genealogical bibliography organizes common/rare, printed/manuscript, published/unpublished works and reincorporates scepticism.
+
+But because the Leibniz `fusior` already contains Genealogica/Heraldica at c.1693, the relation must be revised.
+
+Old hypothesis:
+
+`Reimmann 1694 possibly helps explain the later Leibniz insertion`.
+
+Current status:
+
+`CHRONOLOGICALLY CLOSED / UNSUPPORTED`.
+
+Reimmann remains a **parallel and later elaboration of genealogy as a critically organized learned field**.
+
+Direct relation later becomes real at the review-infrastructure level: Leibniz's 1 November 1701 letter to Johann Georg Eckhart places `Reimanni de fatis Genealog. studii` in a recension context.
+
+See:
+
+`docs/REIMMANN_1694_1702_1705_1710_GENEALOGICAL_HISTORIA_LITERARIA_SCEPTICISM_AND_LEIBNIZ_REVIEW_PIPELINE_2026-08-28.md`.
+
+---
+
+## 9. Reimmann 1710: from nested classification to explicit six-item bundle
+
+Reimmann's Tomus V / vol. 3,3 directly names:
 
 `Historiæ Civilis und derer dazu gehörigen Neben-Wissenschafften`
 
-and names:
+as:
 
 1. `Chronologiæ`;
 2. `Geographiæ`;
@@ -195,192 +329,83 @@ and names:
 5. `Numismaticæ`;
 6. `Antiquariæ`.
 
-The ULB Sachsen-Anhalt digital-object record reproduces this title directly and identifies the 1710 volume and copy.
-
 Evidence status:
 
-`PRIMARY-TITLE DIRECT / INSTITUTIONAL DIGITAL OBJECT CONTROLLED`.
+`PRIMARY-TITLE / INSTITUTIONAL DIGITAL OBJECT CONTROLLED`.
 
-The current web sweep has **not found an earlier exact six-item formulation**.
+The current repository has not found an earlier exact six-item formulation.
 
-That is a bounded research result, not a first-occurrence claim.
+That remains a bounded negative result, not a first-occurrence claim.
 
-Safe wording:
+The organizational difference is now:
 
-> **Reimmann 1710 is the earliest exact six-item bundle currently controlled in this repository. Earlier classificatory predecessors exist, most clearly Leibniz, but an earlier occurrence of the complete set has not yet been found.**
-
----
-
-## 6. Classification genealogy: from nesting to bundle
-
-The two controlled schemes have different architectures.
-
-### Leibniz 1695–98 (?)
+### Leibniz c.1693
 
 `Historia civilis`
-→ `Universalis`
+→ nested subject architecture
 → `Geographia`
-→ `Genealogica & Heraldica`
-
-with antiquities entering under Greek/Roman history.
-
-This is primarily a **hierarchical library/science ordering**.
+→ `Genealogica & Heraldica`.
 
 ### Reimmann 1710
 
 `Historia Civilis`
-→ six co-named `Neben-Wissenschafften`:
-`Chronologia + Geographia + Genealogia + Heraldica + Numismatica + Antiquaria`.
+→ six explicitly co-named `Neben-Wissenschafften`.
 
-This is a more **explicitly bundled auxiliary configuration**.
+So the historical operation is better described as:
 
-The historical problem therefore changes from:
-
-`when did auxiliary sciences exist?`
-
-to:
-
-> **When, where and for what practical purposes were previously nested or dispersed fields recoded as a named bundle around civil history?**
-
-That formulation is much closer to the frontispiece project's material evidence.
+`nesting / classificatory neighborhood`
+→ `explicit auxiliary bundle`.
 
 ---
 
-## 7. A useful later control: the bundle becomes library/catalogue infrastructure
+## 10. Zschackwitz 1724: the bundle becomes a working consultation ecology
 
-Later eighteenth-century catalogues show very similar subject neighborhoods being used as practical bibliographic compartments.
+The HAB full-text transcription of Zschackwitz's *Historisch-Genealogischer Schau-Platz* gives a printed author/source environment mixing:
 
-Examples located in the current sweep include catalogues with sequences such as:
+- Gladov, Hahn, Gundling and other Reichshistorie works;
+- public law and imperial constitutional literature;
+- genealogy and heraldry;
+- chronology and geography;
+- antiquities;
+- Leibniz's *Codex juris Gentium diplomaticus* and *Scriptores Brunsvicenses*;
+- documentary/source collections.
 
-`Geographia / Chronologia / Genealogia / Heraldica / Res Antiquaria et Numaria / Historia Ecclesiastica et Civilis`.
-
-These later cases are not evidence for direct descent from Reimmann.
-
-They do show that the disciplinary neighborhood eventually functioned as **book-ordering infrastructure**, not only as a theoretical classification.
-
-Status:
-
-`LATER PRACTICAL CLASSIFICATION CONTROL; TRANSMISSION UNPROVED`.
-
-A dedicated catalogue sweep should distinguish:
-
-- printed science classifications;
-- private-library catalogues;
-- auction catalogues;
-- university/library shelf taxonomies;
-- handbooks and teaching programmes.
-
----
-
-## 8. Zschackwitz 1724 gives a consultation corpus rather than a neat taxonomy
-
-The HAB full-text transcription of Johann Ehrenfried Zschackwitz's *Historisch-Genealogischer Schau-Platz* contains a section headed:
-
-`Verzeichniß / derer in diesem Werckgen befindlichen Autoren`
-
-and explains that authors marked with an asterisk also receive notice in the preface.
-
-This is important. The list is not a modern bibliography reconstructed around the book; it is the work's own printed map of authors/materials contained in or used by the work.
+More importantly, the body text directly evaluates Gladov and Hahn. Gladov is criticized as assembled from different `Discursen`, with errors; Hahn is praised for `allegata`, source-grounded passages and testimonies. Zschackwitz instructs students to return to `Autores und fontes`, and uses `Documenta`, `Deductiones` and older genealogical tables to confirm, illuminate and correct historical-genealogical claims.
 
 Evidence status:
 
-`PRIMARY-DIRECT FULL-TEXT TRANSCRIPTION CONTROLLED`.
+`PRIMARY FULL-TEXT TRANSCRIPTION CONTROLLED`.
+
+This is no longer merely a science taxonomy. It is an operational consultation apparatus.
 
 ---
 
-## 9. The Zschackwitz author list mixes the supposedly separate traditions
+## 11. Consequence for the 1726 Type-A frontispiece
 
-The list contains, among many others:
+The 1726 Type-A plate should now be read against at least four earlier arrangements:
 
-### Reichshistorie / public-law environment
+### A. Archival certainty — Leibniz/Hozier 1692
 
-- `Gladovvs Reichs-Historie`;
-- Gundling, `Entwurff zur Reichs-Historie`;
-- `Hahns, Reichs-Historie`;
-- Bunau, `Entwurff einer vollständigen Reichs-Historie`;
-- Cocceji, `Juris Prudentia Publica`;
-- Limnaeus, `Jus Publicum`;
-- Furstenerus, `de jure Suprematus`.
+`genealogical assertion`
+→ `archive checking`
+→ `certainty threshold`.
 
-### Genealogy / heraldry
+### B. Library/science nesting — Leibniz c.1693
 
-- `Genealogische Fragen`;
-- Diephold, `Genealogiae Principum, Electorum, Regum`;
-- Henninges, *Theatrum Genealogic*;
-- Hoene, `Geschlechts- und Wapen-Untersuchung`;
-- Hopp, genealogy of Cleve;
-- Hübner, `Tabulae Genealogicae`;
-- Hübner, `hohe Häuser von Europa`;
-- Layritz, `Genealogischer Palm Wald`;
-- Lohmayer, `Genealogische Tabellen`.
+`Historia civilis`
+→ `Geographia`
+→ `Genealogica & Heraldica`.
 
-### Chronology / geography / antiquities / source apparatus
+### C. Auxiliary bundle — Reimmann 1710
 
-- Aethicus, `Principia Geographica`;
-- Beckmann, *Historia orbis terrarum Geographica*;
-- Brusch, `Chronologia Monasteriorum Germaniae`;
-- Calvisius, `opus Chronologicum`;
-- Cellarius, `notitia orbis antiqui`;
-- Knauth, *Antiquitates Anhaltinae*;
-- Leibniz, *Codex juris Gentium diplomaticus*;
-- Leibniz, *Scriptores Brunsvicenses*.
+`Historia Civilis`
+→ `Chronologia / Geographia / Genealogia / Heraldica / Numismatica / Antiquaria`.
 
-This gives a different kind of evidence from Leibniz and Reimmann.
+### D. Working consultation ecology — Zschackwitz 1724
 
-It is not a clean science taxonomy.
+`Reichshistorie + public law + genealogy + heraldry + chronology + geography + diplomacy + documentary proof`.
 
-It is a **working historical-genealogical consultation ecology** in which legal, imperial, genealogical, heraldic, chronological, geographical, diplomatic and antiquarian books are used together.
-
----
-
-## 10. Gladov–Hahn does not disappear after the 1718–19 controversy
-
-The Gladov checkpoint established:
-
-`Halle Reichshistorie teaching`
-→ `Gladov 1717 publication`
-→ `Hahn plagiarism/priority accusation 1718`
-→ `publisher/common-property defense`
-→ `extended 1718–19 polemics`.
-
-Zschackwitz 1724 now supplies a later reception/control point.
-
-Both:
-
-- Gladov's Reichshistorie; and
-- Hahn's Reichshistorie
-
-appear in the printed author corpus of a historical-genealogical work, while Gundling's Reichshistorie outline is there as well.
-
-Therefore the controversy did not leave these books outside ordinary scholarly consultation.
-
-The safe claim is:
-
-> **By 1724, rival products of the Halle Reichshistorie controversy could coexist as usable authorities inside the same historical-genealogical consultation apparatus.**
-
-Do not infer that Zschackwitz adjudicated the plagiarism controversy unless a relevant passage is located.
-
----
-
-## 11. This sharpens the meaning of the 1726 Clio programme
-
-The repo can now place the 1726 Type-A plate against three already-existing arrangements:
-
-### A. Classification hierarchy — Leibniz, 1690s
-
-`Historia civilis → Geographia → Genealogica & Heraldica`.
-
-### B. Auxiliary bundle — Reimmann, 1710
-
-`Historia Civilis → Chronologia / Geographia / Genealogia / Heraldica / Numismatica / Antiquaria`.
-
-### C. Consultation ecology — Zschackwitz, 1724
-
-mixed use of:
-
-`Reichshistorie + genealogy + heraldry + geography + chronology + antiquities + diplomacy + public law`.
-
-Then the Weigel/Köhler plate makes a **visual selection/compression**:
+Then the frontispiece performs a selective visual operation:
 
 `HISTORIA`
 +
@@ -390,38 +415,42 @@ Then the Weigel/Köhler plate makes a **visual selection/compression**:
 +
 `TESTES TEMPORUM ET VERITATIS`.
 
-The research question is now sharper:
+Direct Type-A image controls currently show genealogical/heraldic media clearly, but do not yet justify claiming that coins, seals, antiquities or maps are covertly present as the omitted members of Reimmann's six-item bundle.
 
-> **Why were Genealogy and Heraldry selected for personification beside Historia when the usable disciplinary ecology was visibly larger?**
+Current best description:
 
-Potential answers must be tested materially and bibliographically rather than assumed from general auxiliary-science history.
+`SELECTIVE VISUAL COMPRESSION OF A LARGER EXISTING KNOWLEDGE ECOLOGY`.
+
+Transmission into the plate remains unproved.
 
 ---
 
-## 12. From taxonomy to visual compression to later re-expansion
+## 12. Revised prehistory architecture
 
-A strong provisional architecture is now:
+The strongest controlled architecture is now:
 
-`late-17c library/science nesting`
-→ `1710 explicit auxiliary bundle`
-→ `1724 mixed consultation ecology`
-→ `1726 visual compression into Historia/Genealogia/Heraldica + witnesses`
-→ `Gatterer 1750s–60s re-expansion across chronology, geography, genealogy, heraldry, numismatics, diplomatics, material witnesses, tables and collections`
-→ `1767 institutional conflict over how far history's jurisdiction may extend`.
+`1692 archival-genealogical certainty problem`
+→ `c.1693 civil-history classification`
+→ `1694ff genealogy as historia-literaria / sceptical field`
+→ `1710 explicit auxiliary-science bundle`
+→ `1724 source-critical mixed consultation corpus`
+→ `1726 Historia/Genealogia/Heraldica visual compression`
+→ `Gatterer 1750s–60s re-expansion across genealogy, heraldry, geography, chronology, numismatics, diplomatics, tables, maps, material witnesses and collections`
+→ `1767 conflict over historical jurisdiction`.
 
-This sequence is **not yet a transmission chain**.
+This sequence is **not a direct descent line**.
 
-It is a series of controlled organizational forms.
+Its value is that the same broad problem — how to coordinate heterogeneous historical knowledge and evidence — appears in several materially different organizational forms:
 
-The article payoff is exactly in keeping them distinct:
-
+- archival dossier;
+- autograph excerpt;
 - library classification;
-- science taxonomy;
-- working bibliography;
-- frontispiece personification;
-- handbook apparatus;
-- institute/cabinet infrastructure;
-- jurisdictional controversy.
+- historia-literaria bibliography;
+- auxiliary-science taxonomy;
+- consultation handbook;
+- frontispiece;
+- handbook/institute apparatus;
+- institutional controversy.
 
 ---
 
@@ -429,76 +458,81 @@ The article payoff is exactly in keeping them distinct:
 
 | Node | Relation | Status | Meaning |
 |---|---|---|---|
-| Leibniz short `Idea` ↔ 1695–spring 1698 | editorial dating | `CRITICAL_EDITION_CONTROLLED` | probable date, not dated autograph proof |
-| Leibniz ↔ Historia civilis / Genealogica / Heraldica | hierarchical classification | `PRIMARY_PRINT_TEXT_CONTROLLED` | genealogy + heraldry explicitly nested under geography within civil history |
-| Leibniz c.1693 `fusior` ↔ same exact wording | unresolved | `RELATED_SCHEMA_ONLY` | inspect A IV 5, 649–658 before promotion |
-| Reimmann 1710 ↔ six auxiliary sciences | explicit bundle | `PRIMARY_TITLE_CONTROLLED` | earliest exact six-item set currently controlled in repo |
-| Leibniz ↔ Reimmann | classificatory prehistory | `STRUCTURAL_COMPARISON` | direct reception/influence unproved |
-| Zschackwitz 1724 ↔ listed authors | working consultation corpus | `PRIMARY_TRANSCRIPTION_CONTROLLED` | mixed historical/genealogical/legal/source ecology |
-| Gladov + Hahn + Gundling ↔ Zschackwitz | later co-consultation | `PRIMARY_LIST_CONTROLLED` | rival Reichshistorie products remain usable authorities |
-| Reimmann bundle ↔ 1726 plate | prior disciplinary configuration | `STRONG_COMPARISON / TRANSMISSION_UNPROVED` | visual plate selects from larger field |
+| Hozier → Leibniz, 14 Aug. 1692 | genealogical source-critical memorandum | `PRIMARY MANUSCRIPT RELATION CONTROLLED` | errors, abbey archives, certainty threshold |
+| Leibniz → Hozier passage | excerpt / reuse | `PRIMARY AUTOGRAPH EXTRACTION CONTROLLED` | filed under `Genealogica` |
+| Leibniz `fusior` ↔ c.1693 | editorial dating | `CRITICAL_EDITION_CONTROLLED` | probable date |
+| Leibniz `fusior` ↔ Genealogica/Heraldica | hierarchical classification | `PRIMARY PRINT TEXT CONTROLLED` | already present c.1693 |
+| Leibniz `contractior` ↔ 1695–98? | later persistence | `CRITICAL_EDITION + PRINT CONTROLLED` | not first insertion |
+| Reimmann 1694 ↔ Leibniz insertion | causal influence hypothesis | `CLOSED / UNSUPPORTED` | Leibniz placement already earlier |
+| Reimmann 1701/02 ↔ Leibniz/Eckhart | planned recension | `PRIMARY CORRESPONDENCE CONTROLLED` | later direct reception infrastructure |
+| Reimmann 1710 ↔ six auxiliary sciences | explicit bundle | `PRIMARY TITLE CONTROLLED` | earliest exact six-item set currently controlled |
+| Sachsen-Lauenburg dossier ↔ genealogy/heraldry/archive | political-historical working ecology | `ARCHIVAL METADATA CONTROLLED` | territory + descent + arms + documents |
+| Zschackwitz 1724 ↔ mixed authors/sources | consultation corpus | `PRIMARY TRANSCRIPTION CONTROLLED` | source-critical historical-genealogical apparatus |
+| pre-1726 ecology ↔ Type-A frontispiece | structural comparison | `STRONG COMPARISON / TRANSMISSION UNPROVED` | selective visual compression |
 
 ---
 
 ## 14. Immediate queue
 
-### Priority A — earlier Leibniz schemas
+### Priority A — explain the Leibniz placement without guessing
 
-1. Directly inspect Akademieausgabe IV.5, pp. 649–658, `Idea ... fusior` (c.1693?).
-2. Search IV.5 `De ordinanda bibliotheca`, `Tabula de ordinanda bibliotheca`, and `Tabula de ordine bibliothecae` for Genealogia, Heraldica, Chronologia, Numismatica, Antiquaria.
-3. Determine the earliest Leibniz manuscript in which genealogy/heraldry are explicitly nested inside civil history.
-4. Separate manuscript date, first posthumous print (1718) and later reprint circulation (1768).
+1. Search the surrounding c.1693 library papers (`De ordinanda bibliotheca`, `Tabula de ordinanda bibliotheca`, `Tabula de ordine bibliothecae`) for genealogy/heraldry placement variants.
+2. Determine whether any Leibniz draft explicitly explains why `Genealogica & Heraldica` fall under `Geographia`.
+3. Compare contemporary library classifications without treating later catalogue sequence as evidence for Leibniz's rationale.
 
-### Priority B — pre-Reimmann six-item bundle
+### Priority B — deepen the Hozier/Leibniz operational bridge
 
-5. Search 1650–1710 library classifications, historia-literaria handbooks and historical method texts for the exact or near-exact six-item set.
-6. Distinguish `all six named together` from partial neighborhoods.
-7. Check Morhof, Struve, Becmann/Beckmann, Hübner, Gundling and Halle teaching texts without assuming they use the same hierarchy.
+4. Primary-control Akademieausgabe I,8, the 14 Aug. 1692 Hozier memorandum around the genealogy passage.
+5. Track Leibniz's marginal remarks on the Hozier document if transcribed.
+6. Search *Origines Estenses* for arms, seals, monuments and graphical stemmata alongside the diplomatic/archive material.
+7. Distinguish Hozier's professional genealogical method from Leibniz's own explicit methodological statements.
 
-### Priority C — Zschackwitz reception network
+### Priority C — Sachsen-Lauenburg
 
-8. Search the 1724 *Schau-Platz* body text for actual Gladov, Hahn and Gundling citations, not merely the author list.
-9. Identify what propositions each Reichshistorie title supports.
-10. Determine whether Zschackwitz compares/corrects rival Reichshistorie authorities.
-11. Add the Gladov/Hahn/Gundling → Zschackwitz edge to the earlier controversy checkpoint if body-text use is controlled.
+8. Isolate Leibniz-authored pieces inside `Celle Br. 104b Nr.111/5`.
+9. Determine whether Leibniz personally uses the Welf leopard arms as evidence or whether that item belongs to the surrounding dossier only.
+10. Track the Stammtafel and charter-copy chain as a single proof assemblage if copy-level metadata permits.
 
-### Priority D — visual selection problem
+### Priority D — frontispiece comparison
 
-12. Compare the 1710 six-item bundle with objects actually staged in the 1726 Type-A plate.
-13. Ask whether numismatic/antiquarian media are visually present even when `NUMISMATICA / ANTIQUARIA` are not personified by name.
-14. Test whether `TESTES TEMPORUM ET VERITATIS` functions as a visual umbrella for the omitted evidentiary disciplines.
-15. Compare this compression with Gatterer's later explicit re-expansion of historical auxiliary sciences.
+11. Keep `TESTES TEMPORUM ET VERITATIS` separate from any unproved identification with all omitted auxiliary sciences.
+12. Compare Type-A media with the earlier archive/diplomatic/genealogical proof practices.
+13. Search Weigel/Köhler textual materials for explicit source hierarchy linking genealogy/heraldry to archives, diplomas, seals or coins.
 
 ---
 
 ## 15. Current strongest article-level proposition
 
-> **The 1726 Historia–Genealogia–Heraldica frontispiece did not invent the disciplinary adjacency it depicts. By the later 1690s Leibniz had already nested Genealogy and Heraldry inside a library classification of civil history; in 1710 Reimmann explicitly named Chronology, Geography, Genealogy, Heraldry, Numismatics and Antiquities as the auxiliary sciences of Historia Civilis; and by 1724 Zschackwitz's working author corpus mixed Reichshistorie, public law, genealogy, heraldry, chronology, geography and diplomatic source collections in actual historical-genealogical consultation. The frontispiece is therefore better understood as a selective visual compression of a larger existing knowledge ecology — one that Gatterer's later apparatus would re-expand and institutionalize.**
+> **The 1726 Historia–Genealogia–Heraldica frontispiece belongs to an evidentiary ecology already mature before its appearance. In 1692 d'Hozier and Leibniz were treating genealogy as an archive-dependent problem of false filiations and certainty; by c.1693 Leibniz had already placed Genealogica and Heraldica within his classification of civil history; Reimmann subsequently historicized genealogy as a learned field and in 1710 bundled six auxiliary sciences around Historia Civilis; by 1724 Zschackwitz was using Reichshistorie, genealogy, heraldry, documents and source citations together as a critical consultation apparatus. The plate is therefore better approached as a selective visualization of an existing historical-evidentiary ecology than as the invention of the Historia–Genealogia–Heraldica relationship.**
 
-The proposition is structural. No direct Leibniz → Reimmann → Weigel/Köhler → Gatterer transmission chain has yet been demonstrated.
+The proposition is structural. No direct Leibniz/Hozier → Reimmann → Weigel/Köhler transmission chain has been demonstrated.
 
 ## Evidence controls / carriers
 
-### Leibniz
+### Leibniz classification
 
-- Gottfried Wilhelm Leibniz, *Sämtliche Schriften und Briefe*, Reihe IV, Band 6, table of contents: no. 72, `Idea Leibnitiana bibliothecae ordinandae contractior`, `1695 bis Frühjahr 1698 (?)`, p. 504 ff.
-- Leibniz, *Sämtliche Schriften und Briefe*, Reihe IV, Band 5: no. 81, `Idea Leibnitiana bibliothecae publicae secundum classes scientiarum ordinandae, fusior`, `Um 1693 (?)`, pp. 649–658.
-- *Gothofredi Guillelmi Leibnitii Opera omnia* (Geneva, 1768), Opera Philologica, primary printed classification exposed by e-rara: `Historia civilis ... Geographia. Huc Genealogica, & Heraldica.`
-- Joachim Friedrich Feller, ed., *Otium Hanoveranum* (Leipzig, 1718), pp. 128–138 for the library-ordering pieces; short classification pp. 136–138 according to modern bibliographic control.
+- Gottfried Wilhelm Leibniz, *Sämtliche Schriften und Briefe*, Reihe IV, Band 5, item 81, `Idea Leibnitiana bibliothecae publicae secundum classes scientiarum ordinandae, fusior`, `Um 1693 (?)`, pp. 649–658.
+- Leibniz, *Opera omnia* (Geneva, 1768), Opera Philologica, printed p.314, e-rara/ETH carrier: `Historia civilis ... Geographia. Huc Genealogica, & Heraldica.`
+- `Idea ... contractior`, critical-edition date `1695 bis Frühjahr 1698 (?)`, for persistence of the classification.
 
-### Reimmann
+### Hozier / Origines Estenses
 
-- ULB Sachsen-Anhalt, Reimmann, Tomus V / vol. 3,3 (1710), DOI `10.25673/116758`, full title naming the six `Neben-Wissenschafften`.
+- Leibniz catalogue ID 4705 / Kat.-Nr. 7950, `Ms 23, 181, 1, 1 Bl. 69–74`, Charles René d'Hozier for Leibniz, Paris, 14 Aug. 1692; `Origines Estenses`; Akademieausgabe I,8.
+- Leibniz catalogue ID 65372, `Ms 23, 250 Bl. 118`, Leibniz autograph excerpt from the 14 Aug. 1692 Hozier material; filing mark `Genealogica ("Genealog. varia")`; Akademieausgabe V, `1650.036`.
+- Leibniz catalogue `Origines Estenses` records for Hozier correspondence, historical excerpts and documentary material.
+
+### Sachsen-Lauenburg
+
+- Niedersächsisches Landesarchiv, `NLA HA Celle Br. 104b Nr. 111/5`, succession dossier: archival correspondence/collections, charter copies, Stammtafel, Welf arms/leopard remarks, documentary extracts and Leibniz writings.
+- NLA contextual note, `Leibniz als Hofhistoriograf der Welfen (1690)`, on historical-genealogical research in the Welf acquisition of Sachsen-Lauenburg.
+
+### Reimmann / Zschackwitz
+
+- `docs/REIMMANN_1694_1702_1705_1710_GENEALOGICAL_HISTORIA_LITERARIA_SCEPTICISM_AND_LEIBNIZ_REVIEW_PIPELINE_2026-08-28.md`.
 - `docs/REIMMANN_1710_HISTORIA_LITERARIA_FRONTISPIECE_TEMPORAL_PROGRAM_AND_AUXILIARY_SCIENCES_2026-08-28.md`.
+- `docs/ZSCHACKWITZ_1724_GLADOV_HAHN_REICHSHISTORIE_ADJUDICATION_GENEALOGY_SOURCE_CRITICISM_2026-08-28.md`.
+- HAB digital transcription of Zschackwitz 1724.
 
-### Zschackwitz
+### Frontispiece
 
-- HAB digital full-text transcription, Johann Ehrenfried Zschackwitz, *Historisch-Genealogischer Schau-Platz* (1724), section `Verzeichniß / derer in diesem Werckgen befindlichen Autoren`.
-- Controlled entries include `Gladovvs Reichs-Historie`, Gundling's `Entwurff zur Reichs-Historie`, `Hahns, Reichs-Historie`, Henninges, Hübner, Leibniz and other relevant materials.
-
-### Cross-references
-
-- `docs/GLADOV_1717_REICHSHISTORIE_FRONTISPIECE_JURIDICAL_SECT_AND_PLAGIARISM_CONTROVERSY_2026-08-28.md`
-- `docs/REIMMANN_1710_HISTORIA_LITERARIA_FRONTISPIECE_TEMPORAL_PROGRAM_AND_AUXILIARY_SCIENCES_2026-08-28.md`
-- `docs/HISTORIA_GENEALOGIA_HERALDICA_COMPOSITION_FAMILIES_1726_1765_2026-08-26.md`
-- `data/contemporary_reception_records.jsonl`
+- `docs/HISTORIA_GENEALOGIA_HERALDICA_COMPOSITION_FAMILIES_1726_1765_2026-08-26.md`.
