@@ -1,7 +1,7 @@
 # Research round 2 of 4 — Meiners edition/history closure
 
 Date: 2026-08-27
-Status: `in_progress`
+Status: `paused_archived`
 
 ## Scope
 
@@ -91,7 +91,7 @@ Automated routes were tested through:
 - Halle and alternate catalogue routes;
 - Kulturerbe Niedersachsen / Göttingen-linked digitisation routes.
 
-The public carriers are fixed, but the current automated environment cannot reliably fetch the required single page images/OCR derivatives. This is an access-layer blockage, not a bibliographic uncertainty.
+The public carriers are fixed, but the current automated environment cannot reliably fetch the required single page images/OCR derivatives. Direct attempts at Internet Archive OCR/PDF derivatives likewise failed at the retrieval layer. This is an access-layer blockage, not a bibliographic uncertainty.
 
 The problem is therefore now a bounded edition collation rather than an exploratory conceptual search.
 
@@ -215,22 +215,23 @@ A broader modern synthesis (Morgan Golf-French's dissertation and 2026 monograph
 
 Both are public-domain image carriers.
 
-## 5. Immediate next action
+## 5. Archived restart packet
 
-Primary-close in this order:
+No further automated retrieval should be attempted before re-entry unless a genuinely new carrier or direct page route is available.
 
-1. 1785 printed pp.23–24 and 1793 printed p.23;
-2. 1793 printed pp.59–60;
-3. 1785 printed p.39 and 1793 printed p.85.
+Smallest useful primary packet remains exactly six printed-page targets:
 
-Automated single-page access is now sufficiently tested to justify a bounded manual request if necessary.
-
-Smallest useful manual packet:
-
-- 1785: pp.23–24, p.39;
-- 1793: p.23, pp.59–60, p.85.
+- **1785:** pp.23–24 and p.39;
+- **1793:** p.23, pp.59–60 and p.85.
 
 Screenshots are sufficient; no OCR or full-volume download is required.
+
+Restart order:
+
+1. collate 1785 pp.23–24 against 1793 p.23 only to settle formulation continuity;
+2. inspect 1793 pp.59–60 to determine the literal Kantian race-definition module;
+3. collate 1785 p.39 against 1793 p.85 to identify the exact climate clause deleted/rewritten;
+4. close Round 2 immediately after those page-level checks; do not reopen broad Kant/Meiners bibliography.
 
 ## 6. Current stop rules
 
@@ -242,3 +243,15 @@ Screenshots are sufficient; no OCR or full-volume download is required.
 - `edition retention ≠ first appearance`;
 - `anti-single-colour criterion ≠ universal methodological adequacy`;
 - do not reopen M028 or global comparator lines during Round 2.
+
+## 7. Archive state
+
+`Round 1 = fully closed`
+
+`Round 2 conceptual structure = substantially closed`
+
+`Round 2 remaining work = bounded six-page primary collation`
+
+`Round 3 and Round 4 = not yet opened`
+
+`research status at archive = PAUSED; safe restart from Section 5 only`.
