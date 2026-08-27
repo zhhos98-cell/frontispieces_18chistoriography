@@ -1,104 +1,124 @@
-# Meiners anti-single-trait rule: edition control and primary-target correction
+# Meiners anti-single-trait rule: chronology and edition control
 
 Date: 2026-08-27
 
 ## Status
 
-This note corrects an edition attribution in the current primary-closure queue.
+This note supersedes the earlier provisional framing that treated the anti-single-trait rule as securely controlled only in the 1793 second edition of Christoph Meiners's *Grundriß der Geschichte der Menschheit*.
 
-The repository previously treated the rule
+New contemporary evidence closes the rule **by 1790**.
 
-`single bodily part / isolated bone → insufficient warrant for whole person / people / national morphology`
+The rule is:
 
-as an exact-page quotation from the **1785 first edition** of Christoph Meiners's *Grundriß der Geschichte der Menschheit*, p.23.
+`single bodily part / isolated bone → insufficient warrant for whole person / whole people / national morphology`.
 
-The source currently supplying the full German quotation does **not** cite the 1785 edition. The 2023 specialist volume *Christoph Meiners (1747–1810): Anthropologie und Geschichtsphilosophie in der Spätaufklärung* cites:
+The remaining edition question is now narrower:
 
-- Christoph Meiners, *Grundriß der Geschichte der Menschheit*, Lemgo **1793**;
-- p.23 for the anti-single-body-part sentence.
+> Was this rule already printed in the 1785 first edition of the *Grundriß*, or did it enter Meiners's public methodological repertoire sometime between 1785 and 1790?
 
-Therefore the safe evidence statement is now:
+## 1. Contemporary primary control — Blumenbach 1790 reproduces Meiners
 
-`1793 p.23 = exact-page secondary quotation control`.
+Johann Friedrich Blumenbach's *Beyträge zur Naturgeschichte*, first part (Göttingen, 1790), pp.62ff., explicitly introduces a set of remarks by Meiners and says he reproduces them as Meiners had printed them in a note to an essay in the *Göttingisches historisches Magazin*, vol. VI, part 3, pp.406–408.
 
-Whether the same sentence already appears at 1785 p.23 remains an open edition-comparison question.
+Blumenbach then prints Meiners's methodological warning that:
 
-## 1. Controlled quotation content
+- whole peoples can no more be judged from the formation of one single bodily part than individual persons can;
+- the characteristic formation of one bodily part in whole nations cannot be judged from individual bones;
+- a few skulls cannot securely establish the varieties of a population or even of its heads without provenance information.
 
-The 2023 volume quotes Meiners arguing against Blumenbach that:
+The same reproduced passage demands provenance distinctions for skulls described as Turkish or Black/African, including place of birth and geographical origin.
 
-- whole peoples cannot be judged from the formation of one bodily part any more than individual persons can;
-- the characteristic formation of one bodily part across whole nations cannot be inferred from individual bones.
+Evidence status:
 
-Operationally:
+`1790 = contemporary printed re-publication of Meiners's own published note`.
 
-`one bodily part ≠ whole-person / whole-people warrant`
+This is stronger chronological control than the later 1793 *Grundriß* quotation alone.
 
-and
+## 2. Operational content is broader than an anti-skull slogan
 
-`isolated bone ≠ national morphological warrant`.
+The 1790 passage supports at least three rules:
 
-This remains a strong methodological control, but its chronology must be edition-safe.
+`one body part ≠ whole-person / whole-people warrant`;
 
-## 2. Why the edition matters
+`isolated specimen ≠ national morphological warrant`;
 
-The 1793 second edition is not a neutral reprint of 1785. Current exact-page scholarship already identifies revisions in the same edition that:
+`specimen without provenance ≠ secure population inference`.
 
-- explicitly cite Kant's 1785 race essay at p.60;
-- strengthen `Abstammung` relative to climate in the 1785 p.39 → 1793 p.85 revision;
-- reorganize the human groupings and terminology in other passages.
+This is important for the repo because the rule is not merely against Blumenbach's preference for skulls. It is an argument about the **inference ceiling of a single trait and an under-provenanced specimen**.
 
-Therefore an anti-single-trait rule securely documented only in 1793 cannot be projected backward into 1785 without checking the first edition.
+The surrounding Blumenbach response also preserves Meiners's insistence that population division based on a single bodily mark is less secure than an approach considering multiple distinguishing marks of the external and internal human being. Blumenbach agrees with much of this warning while contesting Meiners's use of it against his own collections.
 
-This creates a genuine chronological falsification question:
+## 3. Relationship to the 1793 *Grundriß*
 
-> Was the anti-single-trait / anti-isolated-bone rule already present in 1785, or was it added/reworded during the same revision phase in which Meiners increased the weight of descent and selectively incorporated Kantian resources?
+The 2023 specialist volume quotes substantially the same sentence and cites:
 
-## 3. Revised evidence status
+- Meiners, *Grundriß der Geschichte der Menschheit*, second edition, Lemgo 1793, p.23.
 
-### Closed
+Therefore the rule is now controlled at two chronological points:
 
-- `1793 p.23`: full German sentence is controlled through a recent specialist exact quotation with explicit primary page reference.
-- 1793 primary carrier is fixed: Lemgo, Meyersche Buchhandlung, second improved edition, 384 pp.; Google Books ID `B0PWEZYUBEcC`; Internet Archive identifier `grundrissderges01meingoog`; Halle open-access carrier DOI `10.25673/56435`, URN `urn:nbn:de:gbv:3:1-454120`.
+`1790 contemporary publication/reprint` → `1793 Grundriß p.23`.
 
-### Open
+This changes the earlier falsification question. It is no longer plausible to treat the rule as a possible innovation specific to the 1793 revision phase.
 
-- whether 1785 p.23 contains the identical or substantially equivalent rule;
-- whether wording/scope changed between editions;
-- whether the 1793 rule is connected to the other 1785→1793 methodological revisions.
+What remains open is whether the 1793 *Grundriß*:
+- simply repeats a pre-existing rule;
+- revises its wording or scope;
+- integrates it more tightly into the book's broader anthropology.
 
-## 4. Manual target correction
+## 4. The 1785 question remains genuinely open
 
-The current queue item `M029` should no longer be understood as a simple verification of `1785 p.23`.
+The repository previously attributed the sentence directly to `1785 p.23`. That attribution is still unverified.
 
-Cheapest proper comparison:
+Current safe chronology:
 
-1. inspect **1793 p.23** and capture the quoted rule;
-2. inspect **1785 p.23** at the corresponding location;
-3. return both pages or report that the first-edition page does not contain the passage.
+- `1785 p.23`: presence / absence / wording unresolved;
+- `1790`: rule securely public through Meiners's GHM note as contemporaneously reproduced by Blumenbach;
+- `1793 p.23`: exact-page secondary quotation control plus primary carrier fixed.
 
-Expected upgrade:
+Thus the manual target remains useful, but its purpose is now:
 
-`1793 exact-page secondary quotation → 1793 primary_direct`
+`1785 p.23 ↔ 1793 p.23 edition comparison`,
 
-plus
+with the 1790 publication as an independent chronological anchor.
 
-`1785 presence/absence/rewording → edition-comparison closure`.
+## 5. Consequence for the Meiners 1792 colour project
 
-This is more informative than verifying either page in isolation.
+The anti-single-trait rule **predates** the 1792 colour essay.
 
-## 5. Stop rules
+Therefore the 1792 reconstruction should be tested under the expectation that Meiners already had a publicly stated methodological prohibition against:
 
-- Do not cite the anti-single-trait sentence as `Meiners 1785, p.23` until the first edition is directly inspected.
-- Do not infer absence from 1785 merely because the recent secondary source cites 1793.
-- Do not infer that a 1793 addition, if confirmed, was caused by Kant without transfer/argument evidence.
-- Do not let the edition correction weaken the content claim for 1793: the exact quotation and page reference are strong secondary controls.
+`single trait → whole-population inference`.
 
-## 6. Source controls
+This makes the M028 primary question sharper:
 
-- Stefan Klingner and Gideon Stiening, eds., *Christoph Meiners (1747–1810): Anthropologie und Geschichtsphilosophie in der Spätaufklärung* (De Gruyter, 2023), introductory discussion quoting the anti-single-body-part rule and citing Meiners, *Grundriß der Geschichte der Menschheit* (Lemgo 1793), p.23.
-- Frank W. P. Dougherty, `Christoph Meiners und Johann Friedrich Blumenbach im Streit um den Begriff der Menschenrasse`, used by the 2023 volume as historical control on the dispute.
+> Does the 1792 colour essay actually obey that rule by requiring provenance, associated traits and causal discrimination before colour can support descent/population inference, or does Meiners violate his own stated methodological standard when the argument becomes racial/hierarchical?
 
-## 7. Strong current formulation
+This is a primary-text question, not a reason to expand theory before M028 closes.
 
-> The anti-single-trait rule is securely controlled for Meiners's 1793 second edition, not yet for the 1785 first edition. This matters because the second edition contains other demonstrable revisions in the weighting of descent and the reception of Kant. The rule should therefore be treated as a 1793 methodological statement until edition comparison establishes whether it was already present in 1785. The primary task is now comparative rather than merely confirmatory: p.23 against p.23 across the two editions.
+## 6. Evidence hierarchy
+
+### Strong / contemporary
+
+- Blumenbach, *Beyträge zur Naturgeschichte* (1790), pp.62–76: contemporary republication and response to Meiners's GHM note, including the anti-single-part, anti-isolated-bone and provenance rules.
+- Blumenbach identifies the source as Meiners's note in *Göttingisches historisches Magazin* VI/3, pp.406–408.
+
+### Strong secondary exact-page control
+
+- Stefan Klingner and Gideon Stiening, eds., *Christoph Meiners (1747–1810): Anthropologie und Geschichtsphilosophie in der Spätaufklärung* (2023), quoting the rule and citing *Grundriß* 1793, p.23.
+
+### Still open
+
+- direct 1785 p.23 comparison;
+- direct 1793 p.23 page image/text;
+- direct GHM VI/3 pp.406–408 if a clean digital carrier becomes available.
+
+## 7. Stop rules
+
+- Do not cite the sentence as `Meiners 1785 p.23` until the first edition is directly inspected.
+- Do not describe the anti-single-trait rule as a 1793 innovation: it is securely public by 1790.
+- Do not infer that the rule made Meiners's population inferences methodologically sound; test whether he applied it consistently.
+- Do not equate `multiple traits considered` with `valid causal inference`.
+
+## 8. Strong current formulation
+
+> Meiners's warning against inferring whole peoples from a single bodily part or national morphology from isolated bones was publicly available by 1790, when Blumenbach reprinted Meiners's own GHM note and responded to it in the *Beyträge zur Naturgeschichte*. The 1793 *Grundriß* therefore preserves an already established methodological rule rather than securely marking its first appearance. The unresolved chronology is now only whether the rule was already present in the 1785 first edition. For the 1792 colour essay, the key test becomes one of consistency: whether Meiners actually subjects skin colour to the provenance, multi-trait and population-warrant standards he had already articulated elsewhere.
