@@ -52,6 +52,35 @@ The likely chronology is now:
 
 Primary page comparison is still required before declaring verbatim continuity.
 
+### New conceptual closure independent of p.23 collation: 1785 p.17
+
+A separate exact-page scholarly control now removes the larger chronology question even if the skull/body-part wording on first-edition p.23 remains pending.
+
+Mirella Ferrini's recent study of the early Kantian race debate cites Meiners, *Grundriß* 1785, §2, p.17, for the statement introduced by `Sonderbar scheint es mir` in which Meiners objects to choosing skin colour as the **single or principal** sign for determining similarity and difference among peoples.
+
+This is not identical to the later skull/body-part formulation, and it should not be paraphrased as if it were. But it establishes at exact-page specialist level that by 1785 Meiners already rejected a one-visible-trait inference rule in the specific case of colour.
+
+Therefore the broader chronology is now closed at the conceptual level:
+
+`1785 anti-single/principal-colour criterion`
+→ `1790 anti-single-body-part + specimen-provenance rule`
+→ `1792 colour essay: explicit causal underdetermination + multi-trait/provenance triangulation`
+→ `1793 anti-single-body-part formulation retained/recast`.
+
+The remaining p.23 collation is now a **formulation-history** question, not a question about first emergence of anti-single-trait epistemology.
+
+Evidence status:
+
+`1785 anti-single/principal-colour rule = exact-page scholarly control, p.17`
+
+`1785 p.23 skull/body-part wording = still pending primary collation`
+
+Stop rule:
+
+`anti-single-colour criterion ≠ universal methodological adequacy`.
+
+Meiners may reject one-trait sufficiency and still make broad hierarchical claims from heterogeneous evidence.
+
 ### Live access status
 
 Automated routes were tested through:
@@ -59,9 +88,10 @@ Automated routes were tested through:
 - Internet Archive 1785 item `grundrissdergesc00mein` (342 scans; OCR derivatives and PDF are listed publicly);
 - the Google-derived 1786 first-edition-family carrier `grundrissderges00meingoog` / Google Books `hX0EAAAAIAAJ`;
 - the 1793 Google/Internet Archive carrier `grundrissderges01meingoog` / Google Books `vBsFAAAAYAAJ`;
-- Halle and alternate catalogue routes.
+- Halle and alternate catalogue routes;
+- Kulturerbe Niedersachsen / Göttingen-linked digitisation routes.
 
-The public carriers are fixed, but the current automated environment cannot reliably fetch the single page images/OCR derivatives. This is an access-layer blockage, not a bibliographic uncertainty.
+The public carriers are fixed, but the current automated environment cannot reliably fetch the required single page images/OCR derivatives. This is an access-layer blockage, not a bibliographic uncertainty.
 
 The problem is therefore now a bounded edition collation rather than an exploratory conceptual search.
 
@@ -73,9 +103,18 @@ Robert Bernasconi's 2025 chapter in *Colonialism and Enlightenment* gives exact-
 - Bernasconi reads the passage as implying that at least some difference between Meiners and Kant was terminological;
 - pp.47 and 59–60 support the related proposition that original unity of the human species could be combined with essential racial difference.
 
+Bernasconi's notes fix the citation precisely:
+
+- note 104 = Meiners 1793, p.60;
+- note 106 = Meiners 1793, pp.47, 59–60.
+
+A separate recent history of Kantian race concepts reports, following Dougherty, that the 1793 second edition cites Kant and incorporates his definition of race, while Kant's earlier 1777 race essay is absent from the large bibliography appended to the first edition. This corroborates a publication-level change but still does not substitute for the p.60 leaf.
+
 Current status:
 
 `1793 p.60 Kant citation = exact-page specialist control + primary carrier fixed`
+
+`publication-level new Kant reference by second edition = multiple scholarly controls`
 
 `literal primary wording = pending direct page inspection`
 
@@ -92,6 +131,8 @@ Bernasconi gives exact-page comparison:
 - 1785 first edition p.39;
 - 1793 second edition p.85;
 - the later edition deletes a climate reference in order to foreground `Abstammung`.
+
+Bernasconi's note 105 fixes both page loci explicitly: `1785 p.39; 1793 p.85`.
 
 Current status:
 
@@ -111,13 +152,16 @@ The 1790 and 1792 primary evidence already falsifies the stronger global-replace
 
 A related 1790 primary-controlled formulation is already known: Meiners ranks `Abkunft` / parental or people-of-origin effects above the land or climate of birth in a specific argument about African-descended populations. This makes the 1793 deletion historically plausible but does not substitute for direct edition collation.
 
+A broader modern synthesis (Morgan Golf-French's dissertation and 2026 monograph trajectory) likewise characterises the second edition as tending to harden some racial assessments by shifting explanatory weight toward internal/heritable factors. Treat this only as contextual secondary control. The repo's own primary evidence requires passage-specific rather than global language.
+
 ## 4. Carrier map
 
 ### 1785 first edition
 
 - Halle ULB: DOI `10.25673/60781`, URN `urn:nbn:de:gbv:3:1-636379`;
 - Internet Archive: `grundrissdergesc00mein`;
-- Open Library confirms the 1785 Meyersche Buchhandlung edition and IA identifier.
+- Open Library confirms the 1785 Meyersche Buchhandlung edition and IA identifier;
+- Kulturerbe Niedersachsen provides another open digitisation with page-level image/PDF export.
 
 ### 1793 second edition
 
@@ -151,4 +195,5 @@ Screenshots are sufficient; no OCR or full-volume download is required.
 - `same page number across editions ≠ same wording`;
 - `secondary exact-page control ≠ primary-direct`;
 - `edition retention ≠ first appearance`;
+- `anti-single-colour criterion ≠ universal methodological adequacy`;
 - do not reopen M028 or global comparator lines during Round 2.
