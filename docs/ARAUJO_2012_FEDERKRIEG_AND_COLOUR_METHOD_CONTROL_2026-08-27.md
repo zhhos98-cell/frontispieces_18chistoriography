@@ -1,4 +1,4 @@
-# Araújo 2012 control: Federkrieg, method-property, and the demotion of skin colour as an ordering principle
+# Araújo 2012 control: Federkrieg, method-property, and colour jurisdiction
 
 Date: 2026-08-27
 Status: active secondary-scholarly control
@@ -10,17 +10,15 @@ Source: André de Melo Araújo, *Weltgeschichte in Göttingen. Eine Studie über
 Araújo's monograph directly controls two branches that had so far been reconstructed separately:
 
 1. the Gatterer–Schlözer `Federkrieg` as a conflict over the epistemological organisation and presentation of Universalgeschichte; and
-2. Gatterer's use, then demotion, of bodily colour as an organising/classificatory principle.
+2. the epistemic status of visible bodily colour as description, classification, causal sign and possible organising principle.
 
 This does not replace primary-source inspection. It sharply identifies the primary loci and supplies a mature historiographical interpretation against which the colour-method project must position itself.
 
 ## 2. Federkrieg: not merely students, money, fame or plagiarism
 
-Araújo, pp. 89–95, explicitly argues against reducing the 1773 Federkrieg to personal vanity, student competition, pecuniary advantage, applause or fame. He accepts these institutional motives but states that the quarrel also reveals two late-Enlightenment perspectives on the most suitable epistemological access to the whole world and on the representation of parts in relation.
+Araújo, pp. 89–95, explicitly refuses to reduce the 1773 Federkrieg to personal vanity, student competition, pecuniary advantage, applause or fame. These institutional motives matter, but the polemic also exposes competing `epistemologisch gültige Zugänge` to the representation of universal-historical events in relation.
 
-He cites Horst Walter Blanke's formulation that the core concerned the `geeignetsten universalhistorischen Darstellungsmethode`, while arguing that this problem had not been sufficiently reconstructed historiographically.
-
-The quarrel is therefore a direct prior-art control for any claim that the project has newly discovered method as the substantive content beneath the priority dispute.
+The quarrel is therefore a direct prior-art control for any claim that this project has newly discovered substantive methodological content beneath the priority dispute.
 
 What remains open is narrower:
 
@@ -28,10 +26,10 @@ What remains open is narrower:
 
 ## 3. Method-property: primary loci now sharply bounded
 
-Araújo, pp. 90–91, gives the key loci.
+Araújo, pp. 89–91, gives the key loci.
 
-Schlözer, *Species Facti* (1773), pp. 414–415:
-- frames the issue as whether he used Gatterer's inventions or Gatterer adopted some of his changes;
+Schlözer, `Species Facti` (1773), pp. 414–415:
+- frames the issue as whether he used Gatterer's `Erfindungen` or Gatterer adopted some of his `Aenderungen`;
 - uses the vocabulary of `Plündernde` and `Geplünderte`.
 
 Gatterer, *Antwort auf die Schlözersche Species Facti* (1773), pp. 37–38:
@@ -39,9 +37,13 @@ Gatterer, *Antwort auf die Schlözersche Species Facti* (1773), pp. 37–38:
 - explicitly names `meinen ganzen Plan der Universalhistorie, meine ganze universalhistorische Denkungsart, Methode, Entdeckungen u.s.f.`.
 
 Gatterer, *Antwort*, p. 5:
-- ironically speaks of the `Vorstellung` of his defence as `Plan und Probe`.
+- ironically describes the `Vorstellung` of his defence as `Plan und Probe`.
 
-These passages establish that `Plan`, `Denkungsart`, `Methode` and `Entdeckungen` were treated as potentially appropriable intellectual property. Direct primary inspection must now test whether material/graphical implementation appears within that claimed property bundle.
+Gatterer, *Antwort*, p. 12:
+- retrospectively says that in his first Göttingen teaching he read the principal parts from his own `Entwurf` and used Cellarius so that he would not have to dictate too much;
+- Araújo connects this with Gatterer's claim that the 1761 *Handbuch* was undertaken `nach einem ganz neuen Plan` for his academic lectures.
+
+This last point matters: `Plan` was not only an abstract proposition. It was embedded in lecture organisation, dictation economy and textbook architecture. Direct primary inspection must still determine whether tables or other material implementations belonged to the specific property bundle contested in 1773.
 
 ## 4. Araújo's substantive distinction: Beschäftigung versus Methode
 
@@ -54,137 +56,183 @@ Gatterer:
 
 Schlözer:
 - defines four `Methoden von Weltgeschichte`: chronographic, technographic, geographic and ethnographic;
-- treats these as different principles of `Zusammenstellung`;
-- aims at the operationalisation of a principle by which parts can be explained in relation.
+- treats them as operational principles by which parts can be explained in relation.
 
 Araújo's strongest formulation is that method appears first as the central mark of Weltgeschichtsschreibung in Schlözer, whereas the empirical object of research is more central in Gatterer.
 
-This is essential prior art. The colour-method project must not claim novelty for identifying a generic opposition between Gattererian empiricism and Schlözerian method.
+This is essential prior art. The colour-method project must not claim novelty for a generic Gattererian-empiricism versus Schlözerian-method opposition.
 
-The remaining project-specific problem is instead:
+## 5. The Plan–table–teaching bridge in Gatterer
 
-> how material operators such as table, line, colour, hatching and pictorial co-presence enter these different regimes of historical organisation and what authorises them.
+Araújo, pp. 74–75, supplies a stronger bridge than previously recognised.
 
-## 5. Gatterer, tables, and overview before the 1773 quarrel
+The 1761 *Handbuch der Universalhistorie* was explicitly produced for Gatterer's Göttingen lectures `nach einem ganz neuen Plan`. The plan is organised through four `Beschäftigungen`.
 
-Araújo, p. 75, reconstructs Gatterer's early method from the *Handbuch der Universalhistorie*.
+Within the same reconstruction, Gatterer gives two rules for universal history:
+- narrate the notable events of each people/state chronologically so that `Staatsveränderungen` can be grasped;
+- narrate all simultaneously flourishing kingdoms and states in a `synchronistischen Zusammenhänge`.
 
-Two rules coexist:
-- events of each people/state should be narrated chronologically so that `Staatsveränderungen` become intelligible;
-- all simultaneously flourishing kingdoms and states should be narrated in a `synchronistischen Zusammenhänge`.
+Araújo then states that Köhler's synchronistic tables remained useful for making the `Zusammenhang und die Verbindung gleichzeitiger Völker und Reiche` clear and that this was, `nach seinem Plan`, indispensable especially for the narration of recent universal-historical facts. Primary locus supplied by Araújo: Gatterer, *Handbuch der Universalhistorie* (1761), pp. 60–62.
 
-Köhler's synchronistic tables remain useful for making the `Zusammenhang und die Verbindung gleichzeitiger Völker und Reiche` clear.
+A later teaching-practice control comes from Pütter, *Versuch einer academischen Gelehrten-Geschichte ...*, vol. 2 (1788), §239, pp. 343–344. Pütter reports that Gatterer brought genealogical country tables, synchronistic tables and planiglobes to his Universalgeschichte lectures `zu besserer Uebersicht des Ganzen`.
 
-Araújo also quotes Pütter (1788), p. 44 of the monograph, reporting that Gatterer brought genealogical country tables, synchronistic tables and planiglobes to his Universalgeschichte lectures `zu besserer Uebersicht des Ganzen`.
+The controlled bridge is therefore:
 
-This is a strong control that graphical/tabular media belonged to Gatterer's pedagogical infrastructure and overview practice. It still does not prove that they were part of the specific property disputed in 1773.
+`new Plan`
+→ `lecture/textbook architecture`
+→ `chronological + synchronistic rule`
+→ `synchronistic tables as an overview instrument`
+→ later routine lecture use of tables/planiglobes.
 
-## 6. The major colour-method result: colour proposed, then epistemically demoted
+This does **not** yet establish:
 
-Araújo, pp. 141–145, gives a much stronger trajectory than our previous secondary controls.
+`table = object explicitly claimed as plagiarised in 1773`.
 
-### 1775 proposed Anthropographie
+But it makes it increasingly untenable to treat graphical/tabular implementation as wholly external to Gatterer's Plan.
 
-In *Abriß der Geographie* (1775), Gatterer projected an `Anthropographie und Ethnographia`.
+## 6. Critical correction: Gatterer's colour history is not a simple adoption–demotion sequence
 
-Araújo, p. 142, describes the planned fourth part as a geography of human bodies organised by `Gestalt und Hautfarben`, supplemented by a geography of languages so as to show similarities and differences among peoples.
+The previous project formulation was too linear. Araújo's primary loci show that Gatterer already distinguished the ontological/causal status of visible bodily differences **before** his 1775 Anthropographie proposal.
 
-Primary locus supplied by Araújo:
-- Gatterer, *Abriß der Geographie* (1775), pp. 4–5.
+### 1771 — bodily difference is visible but not essential
 
-This places bodily colour directly at the level of an intended classificatory/organisational principle.
+Araújo, p. 153, quotes Gatterer, *Einleitung in die synchronische Universalhistorie* (1771), pp. 61–62.
 
-### Later rejection/subordination
+Gatterer warns that outward human differences can tempt observers toward multiple human origins, but calls these differences not `wesentliche` but `zufällige Unterscheidungszeichen`; in natural-historical language they are `blose Varietäten`.
 
-Araújo, pp. 143–144, argues that the physical differentiating marks of human nature did not prove to be a sufficiently accurate organisational or methodological principle for Gatterer's world history.
+Thus by 1771:
 
-In Gatterer's *Kurzer Begriff der Geographie* (1789), peoples are instead divided decisively by language because language, not skin colour, is treated as a `solider Beweis des Ursprungs der Völker`.
+`visible bodily difference`
+≠
+`essential difference`
+≠
+`proof of separate origin`.
 
-Primary locus supplied by Araújo:
-- Gatterer, *Kurzer Begriff der Geographie*, vol. 2 (1789), p. 606.
+### 1775 — colour can nevertheless classify descriptively
 
-When skin colour is still used to divide a people, Araújo states that this functions less as a valid criterion of the historical auxiliary sciences than as a fallback caused by missing reliable information about languages.
+Araújo, p. 142, identifies Gatterer's projected fourth part of the *Abriß der Geographie* (1775), pp. 4–5, as `Anthropographie und Ethnographia`.
 
-### Causal reason for demotion
+It would include a `Geographie der Menschenkörper nach Gestalt und Hautfarben`, supplemented by a geography of languages to display similarities and differences among peoples.
 
-Araújo, p. 153, ties this change to Gatterer's earlier monogenetic argument in *Einleitung in die synchronische Universalhistorie* (1771), pp. 61–62:
-- outward human differences are not `wesentliche` but `zufällige Unterscheidungszeichen`;
-- in natural-historical vocabulary they are merely `Varietäten`.
+This is not evidence that Gatterer forgot the 1771 warning. It shows instead that a property already known to be accidental could still be used for **descriptive differentiation**.
 
-Araújo explicitly says that the 1775 programme using `Gestalt und Hautfarbe` was abandoned in subsequent years because skin colour *per se* was not essential but accidental.
+### 1789 — colour loses authority for genealogical/origin inference
 
-On p. 178 he states the conclusion in methodological terms: Gatterer renounced introducing accidental differentiating marks of humans — here skin colour — as an `organisatorisches Prinzip` of his geographical and historical writings.
+Araújo, pp. 143–144, cites Gatterer, *Kurzer Begriff der Geographie*, vol. 2 (1789), p. 606.
 
-## 7. Why this is unusually important for the colour ontology
+Peoples are now divided decisively by language because language rather than skin colour is treated as stronger evidence of origin. African peoples, for example, are divided `in Rücksicht auf die Hauptsprachen, welche sie reden`.
 
-This provides the first strong control in the project for **rejected colour jurisdiction** at the classification/organisation layer.
+Where a people is still divided by skin colour, Araújo interprets the practice as a fallback caused by the absence of `genauen und zuverlässigen Nachrichten` about language.
 
-The trajectory can be encoded as:
+The best reconstruction is therefore not:
 
-`observable bodily colour`
-→ `candidate classificatory criterion`
-→ `tested against origin/causal warrant`
-→ `judged accidental rather than essential`
-→ `demoted as historical-geographical ordering principle`
-→ `language preferred where available as stronger evidence of origin`.
+`colour proposed → discovered to be accidental → colour abandoned`.
 
-This is different from Schlözer's 1772 prohibition on `Facta färben`.
+It is:
 
-Schlözer negative control:
-- colour is illegitimate when it alters the factual proposition.
+`colour known to be accidental (1771)`
+→ `colour permitted for descriptive Anthropographie (1775)`
+→ `colour insufficient for genealogical/origin warrant where better linguistic evidence exists (1789)`.
 
-Gatterer negative control:
-- literal bodily colour may be empirically observable yet still fail as an organising/classificatory principle because it does not carry the required causal or genealogical warrant.
+The same visible property has different legitimacy under different inferential tasks.
 
-Thus the project now has at least two distinct actor-grounded failure modes:
+## 7. Colour jurisdiction by task
 
-1. **rhetorical alteration failure** — colour intervenes at the fact layer;
-2. **classification-warrant failure** — colour is a visible difference but an inadequate basis for historical ordering.
+The Gatterer evidence now supports a more precise distinction:
 
-## 8. Stronger project formulation after Araújo
+### Descriptive classification
+`Hautfarbe` may discriminate visible bodily varieties.
 
-The question is no longer simply `What may colour do to history?`
+### Essential/causal inference
+The same difference does not by itself establish `wesentliche` difference.
 
-It can now be decomposed further:
+### Genealogical/origin inference
+The same difference is weaker than language as evidence of common origin and may survive only where better information is unavailable.
 
-> **When is a visible difference allowed to become a historical difference?**
+This gives the project a strong actor-grounded rule:
 
-and:
+> **A visible difference can be descriptively usable without being causally or genealogically authorised.**
 
-> **What additional warrant is required before perceptual distinction may serve as an organising principle?**
-
-The Gatterer case is especially strong because the colour is literal and observable. Its visibility is not disputed. What is disputed is the inferential move from visible difference to classificatory/historical significance.
-
-That gives a clean distinction:
+Therefore:
 
 `perceptual discriminability`
 ≠
-`classificatory warrant`
+`descriptive classificatory utility`
 ≠
-`causal/essential warrant`.
+`essential/causal warrant`
+≠
+`genealogical warrant`.
 
-## 9. Immediate primary-source targets generated by this book
+This is stronger than the earlier generic language of `demotion`.
 
-Highest priority:
+## 8. Contrast with Schlözer's negative colour jurisdiction
 
-1. Gatterer, *Abriß der Geographie* (1775), pp. 3–5 — direct control of the Anthropographie/Ethnographia plan and `Gestalt/Hautfarben`.
-2. Gatterer, *Kurzer Begriff der Geographie*, vol. 2 (1789), p. 606 — direct control of language versus colour as evidence of peoples' origin and of colour as fallback under information scarcity.
-3. Gatterer, *Einleitung in die synchronische Universalhistorie* (1771), pp. 61–62 — direct control of `wesentliche / zufällige Unterscheidungszeichen` and `Varietäten`.
-4. Gatterer, *Antwort auf die Schlözersche Species Facti* (1773), pp. 5 and 37–38 — direct control of `Plan`, `Denkungsart`, `Methode`, `Entdeckungen` as contested intellectual property.
-5. Schlözer, *Species Facti* (1773), pp. 404–415, especially pp. 414–415 — direct control of invention/change/plundering vocabulary.
-6. Compare those passages with Gatterer's synchronistic tables and teaching apparatus to determine whether graphical implementation belonged to the contested method-property.
+Schlözer 1772:
+- `Facta färben` is suspect because colour/rhetoric alters the factual proposition.
 
-## 10. Novelty guard
+Gatterer 1771–1789:
+- literal bodily colour is not false and need not be rhetorically imposed;
+- the problem is what inference may legitimately be drawn from the visible difference.
+
+The project therefore has at least two different negative controls:
+
+1. **fact-alteration failure** — the operation changes the proposition;
+2. **inferential-overreach failure** — the observation is genuine but is asked to support a stronger classification, causal or genealogical conclusion than it warrants.
+
+## 9. Heeren as a later resolution-limit control
+
+Araújo, p. 209, adds a valuable later comparison from Heeren's Völkerkunde lecture notes.
+
+Heeren says an exact classification of all peoples or kinds cannot be made from physical colour because there are too many `Nuancen von Farben` and because `wir kennen sie zu wenig`; at most principal peoples can be grouped by dominant colours.
+
+Primary/archival route supplied by Araújo through Becker-Schaum's edition of Heeren's lecture notes, p. 311.
+
+This adds another failure mode:
+
+`continuous/nuanced chromatic variation + insufficient observation`
+→ `unstable discrete categories`.
+
+It maps closely onto project ontology fields such as:
+- `category_instability`;
+- `scale_limit`;
+- `standardisation_failure`;
+- `insufficient_observation`.
+
+This is a later comparative control, not evidence for Gatterer's own reasoning.
+
+## 10. Stronger project formulation after the second sweep
+
+The question is now:
+
+> **When is a visible difference allowed to become a historical difference, and how strong an inference may a chromatic distinction legitimately bear?**
+
+This makes colour useful as a stress test across domains:
+- in heraldry, the semantic category may remain stable while its carrier changes;
+- in synchronistic tables, colour marks already constructed relations;
+- in human classification, literal bodily colour may describe variation but fail to warrant origin or essence;
+- in Schlözer's fact-layer warning, colouring can become illegitimate because it alters the proposition itself.
+
+## 11. Highest-value primary controls now
+
+1. Gatterer, *Einleitung in die synchronische Universalhistorie* (1771), pp. 61–62 — direct control of `wesentliche / zufällige Unterscheidungszeichen / Varietäten`.
+2. Gatterer, *Abriß der Geographie* (1775), pp. 4–5 — direct control of `Geographie der Menschenkörper nach Gestalt und Hautfarben`.
+3. Gatterer, *Kurzer Begriff der Geographie*, vol. 2 (1789), p. 606 — direct control of language versus colour as origin evidence and the information-scarcity fallback.
+4. Gatterer, *Handbuch der Universalhistorie* (1761), pp. 60–62 — direct control of the Plan, synchronistic rule and tables as instruments of Zusammenhang.
+5. Gatterer, *Antwort auf die Schlözersche Species Facti* (1773), pp. 5, 12, 37–38 — direct control of Plan as lecture/textbook architecture and as contested intellectual property.
+6. Schlözer, *Species Facti* (1773), pp. 414–415 — direct control of Erfindungen/Aenderungen/Plünderung.
+7. Pütter 1788, §239, pp. 343–344 — direct control of tables and planiglobes in Gatterer's actual lectures.
+8. Heeren Völkerkunde lecture notes / Becker-Schaum p. 311 — control colour nuance and classification-resolution failure.
+
+## 12. Novelty guard
 
 Araújo already establishes:
 - substantive epistemological stakes of the Federkrieg;
 - Gatterer versus Schlözer as differing approaches to Universalhistorie;
 - the contrast between Gatterer's `Beschäftigungen` and Schlözer's `Methoden`;
-- Gatterer's 1775 bodily-colour classification proposal;
-- its later abandonment/subordination in favour of language as an origin criterion.
+- Gatterer's planned bodily-colour classification and later preference for language as origin evidence.
 
-Therefore none of those claims should be presented as new.
+Therefore those claims are prior art.
 
 The bounded opening is now sharper:
 
-> **a cross-domain history of the jurisdiction of colour as an operator: how literal or coded colour could be accepted for decoding, display, mnemonic relation or copy finishing, yet rejected when it modified factual propositions or when perceptual difference lacked sufficient classificatory/causal warrant to organise historical knowledge.**
+> **a cross-domain history of chromatic jurisdiction: not whether colour was present, but what kind of proposition or inference colour was allowed to carry at each stage of historical knowledge production, and how its visible clarity related—or failed to relate—to the warrant of the underlying claim.**
