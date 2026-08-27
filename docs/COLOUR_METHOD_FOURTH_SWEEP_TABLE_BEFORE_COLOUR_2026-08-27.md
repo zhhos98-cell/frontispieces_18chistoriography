@@ -203,7 +203,56 @@ A method may increase perceptual evidence without increasing epistemic warrant.
 
 This distinction is central to the project because Gatterer's `Synopsis`, Wappenkalender hatching and Schlözer's proposed illumination all increase inspectability through different material operations.
 
-## 9. Heraldry becomes the clean control experiment
+## 9. Gatterer 1767 makes this distinction historically grounded
+
+The distinction between warrant and perceptual Evidenz is not only a modern analytical convenience.
+
+In the 1767 *Vorrede von der Evidenz in der Geschichtskunde*, Gatterer distinguishes two ways in which historical knowledge can produce Evidenz. Modern scholarship reconstructs them as combinable rather than mutually exclusive:
+
+1. the historian exposes the principles / sources on which factual claims rest;
+2. the historian narrates so `lebhaft und anschauend` that the reader becomes, as it were, a `Zuschauer` of the events.
+
+The first concerns the evidentiary grounding of factuality. The second produces ideal presence and perceptual conviction.
+
+Thus an actor-level distinction already exists between something close to:
+
+`source_warrant`
+≠
+`presentational_Evidenz`.
+
+Gatterer can combine them, but one is not reducible to the other.
+
+This is the strongest conceptual hinge yet found for the colour project.
+
+Colour, hatching, table geometry or graphical disposition can contribute to the second side — making relations available to the eye — while the historical categories and claims remain accountable to the first side.
+
+A dangerous case is therefore:
+
+`low source/relational warrant`
++
+`high perceptual Evidenz`
+→ apparent certainty.
+
+A strong method instead seeks:
+
+`source warrant`
++
+`controlled arrangement`
++
+`perceptual Evidenz`
+without confusing the three.
+
+## 10. Historiographical guard on Gatterer's Evidenz
+
+This conceptual distinction is itself prior art. Daniel Fulda and subsequent scholarship have already analysed Gatterer's 1767 theory of Evidenz, including its combination of source demonstration and vivid, eyewitness-like presentation.
+
+Therefore novelty cannot be claimed for discovering that Gatterer distinguishes proof and vividness.
+
+The project-specific opening is narrower:
+
+> **to use this actor-level distinction to follow how colour and colour-surrogates move between source warrant, encoding, historical system, perceptual Evidenz and material copy state across connected historical and auxiliary-historical practices.**
+
+## 11. Heraldry becomes the clean control experiment
 
 The heraldic branch is unusually useful because the semantic colour relation can be held relatively stable while its carrier changes:
 
@@ -223,7 +272,7 @@ This permits an experimental question unavailable in the universal-history table
 
 That makes heraldry a methodological control for the more difficult case in which Gatterer's synchronistic colours do not merely transmit literal object colour but mark abstract historical relations.
 
-## 10. Historiographical boundary
+## 12. Historiographical boundary
 
 Existing historiography already covers:
 - Herder's critique of Schlözer's tables/synopsis/progress;
@@ -231,15 +280,16 @@ Existing historiography already covers:
 - the 1773 painted chronological tables;
 - the 1775 illumination proposal;
 - historical images as pedagogical instruments;
-- Gatterer's colour as visual historical semantics.
+- Gatterer's colour as visual historical semantics;
+- Gatterer's dual theory of source-grounded and presentational Evidenz.
 
-Therefore novelty cannot sit at the level of `tables and images mattered` or `colour helped cognition`.
+Therefore novelty cannot sit at the level of `tables and images mattered`, `colour helped cognition`, or `Gatterer theorized vividness`.
 
 The bounded opening after this sweep is:
 
 > **a history of how successive operators transformed historical difference, how each operator acquired a distinct warrant, and how chromatic clarity could amplify the output of earlier acts of commensuration, classification and tabulation without automatically inheriting their epistemic justification.**
 
-## 11. Relation to Gatterer–Schlözer
+## 13. Relation to Gatterer–Schlözer
 
 The `Species Facti` quarrel remains the decisive missing bridge.
 
@@ -251,19 +301,20 @@ If yes, the colour project can connect representational operations to profession
 
 If no, the two controversy surfaces should remain analytically connected but historically distinct.
 
-## 12. New research questions
+## 14. New research questions
 
 1. Does `Species Facti` distinguish an abstract `Plan` from its pedagogical/material implementation?
 2. Does Gatterer's *Antwort* defend priority in tables, synchronistic structure, teaching sequence or only conceptual content?
 3. Does Schlözer's `Plan` vocabulary treat graphical disposition as evidence of intellectual ownership?
 4. When do Gatterer or Schlözer call an arrangement `natürlich`, `künstlich`, `deutlich`, `anschaulich`, `übersichtlich` or equivalent?
 5. Can colour be shown to participate in the naturalisation of a system rather than merely its illustration?
+6. When colour increases `Evidenz`, what source or system warrant remains separately available to police the chromatic assignment?
 
-## 13. Current formulation
+## 15. Current formulation
 
 Long form:
 
-> **The historical problem of colour begins before pigment: categories, measures and tables first make heterogeneous pasts commensurable; colour then redistributes salience, inspectability and memory within that constructed field. The methodological question is therefore how each transformation was warranted, and when perceptual clarity exceeded evidentiary justification.**
+> **The historical problem of colour begins before pigment: categories, measures and tables first make heterogeneous pasts commensurable; colour then redistributes salience, inspectability and memory within that constructed field. Gatterer's own distinction between source-grounded and presentational Evidenz shows why perceptual clarity cannot substitute for historical warrant. The methodological question is how each transformation was authorized and controlled.**
 
 Short form:
 
