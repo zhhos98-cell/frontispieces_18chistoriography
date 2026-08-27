@@ -1,52 +1,130 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/zhhos98-cell/frontispieces_18chistoriography/schema/record.schema.json",
-  "title": "Frontispiece Historiography Corpus Record",
+  "title": "Frontispiece Historiography Corpus Record v2",
+  "description": "Canonical record schema aligned with schema/ONTOLOGY.md. Legacy discovery/control files are governed by data/dataset_manifest.csv and are not required to validate against this schema.",
   "type": "object",
-  "required": ["id", "record_type", "label", "evidence_status", "sources"],
+  "required": ["id", "record_type", "label", "lifecycle_status"],
   "properties": {
-    "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$"},
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._:-]+$"
+    },
     "record_type": {
-      "enum": ["plate_series", "witness_cluster", "witness", "copy", "agent", "feature", "source_evidence", "relationship", "bibliographic_lead"]
+      "enum": [
+        "programme",
+        "design",
+        "matrix",
+        "matrix_state",
+        "impression",
+        "host_work",
+        "host_issue",
+        "copy",
+        "witness",
+        "agent",
+        "source",
+        "assertion",
+        "historiography_claim",
+        "lead"
+      ]
     },
     "label": {"type": "string", "minLength": 1},
+    "lifecycle_status": {
+      "enum": ["canonical", "active", "frozen", "quarantined", "superseded"]
+    },
+    "evidence_basis": {
+      "enum": [
+        "primary_direct",
+        "primary_derivative",
+        "institutional_catalogue",
+        "market_catalogue",
+        "correspondence",
+        "secondary_scholarship",
+        "research_derived",
+        "mixed"
+      ]
+    },
+    "assertion_status": {
+      "enum": ["established", "probable", "possible", "unresolved", "bounded_negative", "disconfirmed"]
+    },
+    "confidence": {
+      "enum": ["high", "medium", "low", "unassessed"]
+    },
+    "claim_scope": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "programme_identity",
+          "design_identity",
+          "matrix_identity",
+          "matrix_state_identity",
+          "impression_identity",
+          "host_pairing",
+          "copy_state",
+          "agent_identity",
+          "imprint_resolution",
+          "production_relation",
+          "custody_relation",
+          "publication_transition",
+          "historiographical_prior_art",
+          "historiographical_gap"
+        ]
+      }
+    },
     "date": {"type": ["string", "null"]},
-    "date_note": {"type": ["string", "null"]},
+    "date_range": {"type": ["string", "null"]},
+    "host_year": {"type": ["integer", "string", "null"]},
+    "imprint_year": {"type": ["integer", "string", "null"]},
     "place": {"type": ["string", "null"]},
+    "preferred_name": {"type": ["string", "null"]},
+    "literal": {"type": ["string", "null"]},
+    "programme_id": {"type": ["string", "null"]},
+    "design_id": {"type": ["string", "null"]},
+    "matrix_id": {"type": ["string", "null"]},
+    "matrix_state_id": {"type": ["string", "null"]},
+    "impression_id": {"type": ["string", "null"]},
+    "host_work_id": {"type": ["string", "null"]},
+    "host_issue_id": {"type": ["string", "null"]},
+    "copy_id": {"type": ["string", "null"]},
+    "authority_id": {"type": ["string", "null"]},
     "publication": {
       "type": ["object", "null"],
       "properties": {
         "title": {"type": ["string", "null"]},
         "format": {"type": ["string", "null"]},
+        "host_year": {"type": ["integer", "string", "null"]},
+        "imprint_year": {"type": ["integer", "string", "null"]},
         "imprint_literal": {"type": ["string", "null"]},
-        "signature": {"type": ["string", "null"]},
-        "institution": {"type": ["string", "null"]}
+        "institution": {"type": ["string", "null"]},
+        "shelfmark_or_object_id": {"type": ["string", "null"]}
       },
       "additionalProperties": true
     },
-    "agents": {
+    "roles": {
       "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["name_literal", "role"],
-        "properties": {
-          "authority_id": {"type": ["string", "null"]},
-          "name_literal": {"type": "string"},
-          "role": {"type": "string"},
-          "identity_status": {"enum": ["resolved", "provisional", "unresolved"]}
-        }
-      }
+      "items": {"type": "string"}
     },
-    "features": {
+    "observations": {
       "type": "array",
       "items": {
         "type": "object",
         "required": ["type", "value"],
         "properties": {
           "type": {"type": "string"},
-          "value": {"type": "string"},
-          "normalised": {"type": ["string", "null"]}
-        }
+          "value": {},
+          "normalised": {},
+          "assertion_status": {
+            "enum": ["established", "probable", "possible", "unresolved", "bounded_negative", "disconfirmed"]
+          },
+          "confidence": {"enum": ["high", "medium", "low", "unassessed"]},
+          "claim_scope": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "note": {"type": ["string", "null"]}
+        },
+        "additionalProperties": true
       }
     },
     "relations": {
@@ -55,21 +133,31 @@
         "type": "object",
         "required": ["predicate", "target"],
         "properties": {
-          "predicate": {
-            "enum": ["same_plate_as", "variant_of", "derived_from", "probable_relation", "appears_in", "designed_by", "engraved_by", "issued_by", "printed_by", "published_by", "successor_to", "predecessor_to", "reported_in", "evidenced_by"]
+          "predicate": {"type": "string", "minLength": 1},
+          "target": {"type": "string", "minLength": 1},
+          "assertion_status": {
+            "enum": ["established", "probable", "possible", "unresolved", "bounded_negative", "disconfirmed"]
           },
-          "target": {"type": "string"},
           "confidence": {"enum": ["high", "medium", "low", "unassessed"]},
+          "claim_scope": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
           "note": {"type": ["string", "null"]}
-        }
+        },
+        "additionalProperties": true
       }
     },
-    "evidence_status": {
-      "enum": ["verified_primary", "verified_catalogue", "reported_correspondence", "research_inference", "unresolved"]
-    },
+    "subject": {"type": ["string", "null"]},
+    "predicate": {"type": ["string", "null"]},
+    "object": {},
+    "source_type": {"type": ["string", "null"]},
     "sources": {
       "type": "array",
-      "minItems": 1,
       "items": {
         "type": "object",
         "required": ["source_id", "source_type"],
@@ -77,13 +165,45 @@
           "source_id": {"type": "string"},
           "source_type": {"type": "string"},
           "citation": {"type": ["string", "null"]},
-          "access": {"enum": ["public", "private_mailbox", "local_file", "institutional_catalogue", "unknown"]},
+          "institution": {"type": ["string", "null"]},
+          "url": {"type": ["string", "null"]},
+          "identifier": {"type": ["string", "null"]},
+          "access": {
+            "enum": ["public", "private_mailbox", "local_file", "institutional", "market", "unknown"]
+          },
           "note": {"type": ["string", "null"]}
-        }
+        },
+        "additionalProperties": true
       }
     },
     "notes": {"type": ["string", "null"]},
-    "todo": {"type": "array", "items": {"type": "string"}}
+    "claim_limit": {"type": ["string", "null"]},
+    "reopen_rule": {"type": ["string", "null"]},
+    "supersedes": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "superseded_by": {"type": ["string", "null"]}
   },
+  "allOf": [
+    {
+      "if": {"properties": {"record_type": {"const": "witness"}}},
+      "then": {
+        "required": ["evidence_basis", "assertion_status", "sources"]
+      }
+    },
+    {
+      "if": {"properties": {"record_type": {"const": "assertion"}}},
+      "then": {
+        "required": ["subject", "predicate", "object", "evidence_basis", "assertion_status", "sources"]
+      }
+    },
+    {
+      "if": {"properties": {"record_type": {"const": "source"}}},
+      "then": {
+        "required": ["source_type", "evidence_basis"]
+      }
+    }
+  ],
   "additionalProperties": true
 }
