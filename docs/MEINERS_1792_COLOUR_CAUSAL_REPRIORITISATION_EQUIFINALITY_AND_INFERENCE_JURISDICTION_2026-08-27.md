@@ -4,276 +4,189 @@ Date: 2026-08-27
 
 ## Status and source discipline
 
-This note reconstructs a provisional methodological reading of Christoph Meiners, “Ueber die Farben, und Schattierungen verschiedener Völker,” *Neues Göttingisches historisches Magazin* I/4 (1792), pp. 611–672.
+This note is now **primary-controlled for the core argument** of Christoph Meiners, `Ueber die Farben, und Schattierungen verschiedener Völker`, *Neues Göttingisches historisches Magazin* I/4 (1792), pp.611–672.
 
-The original 1792 volume has been located in at least two independent full-view institutional/digital routes (Bayerische Staatsbibliothek via Deutsche Digitale Bibliothek; Google Books). However, direct page-image verification of pp. 611–672 has not yet been completed in the current retrieval environment.
+A full Google/Internet Archive scan supplied during the M028 closure round permits direct inspection of the major causal and inferential passages. The carrier is defective or misordered at printed pp.611–613, 619 and 671, so those five pages still require an alternate copy. All other claims below are labelled according to their actual evidence status.
 
-The paragraph-level reconstruction below therefore rests primarily on the near-contemporary derivative witness in Krünitz’s *Oekonomisch-technologische Encyclopädie*, entry “Leibes-Farbe der Menschen,” explicitly introduced as “Ueber die Farben und Schattirungen verschiedener Völker, nach Hrn. Hofr. Meiners” and footnoted to the 1792 article. The Krünitz text preserves the internal sequence, citations and extensive first-person formulations, but it is **not** treated as identical to the original article. Claims remain `derivative_near_contemporary` until checked against the primary scan.
+See the primary-result note:
+- `docs/M028_MEINERS_1792_PRIMARY_DIRECT_RESULTS_CAUSAL_RANK_TRAIT_DECOUPLING_AND_EVIDENCE_THRESHOLD.md`.
 
-Control links:
-- Krünitz / e-rara PDF: https://www.e-rara.ch/download/pdf/12168908.pdf
-- DDB / BSB volume: *Neues göttingisches historisches Magazin*, vol. 1 (1792), shelfmark `H.misc. 201-1`, URN `urn:nbn:de:bvb:12-bsb10738733-5`
-- Secondary quotation control: Andreas Schwarz, “Haut & Haar – Denkwürdiger Rückblick,” https://dr-andreas-schwarz.de/haut-und-haar-denkwuerdiger-rueckblick.html
+Primary carriers:
+- Internet Archive `neuesgttingisch00meingoog`;
+- Google Books `3F4FAAAAIAAJ`;
+- BSB `H.misc. 201-1`, URN `urn:nbn:de:bvb:12-bsb10738733-5`;
+- MPIWG `3GRRWV93`.
 
-## 1. Main revision: not heredity replacing climate, but causal reprioritisation
+Krünitz remains useful as a near-contemporary derivative control, but the central claims below no longer depend on it.
 
-The earlier working model was too binary:
+## 1. Main result: causal reprioritisation inside a plural field
 
-`1785 climate-first → 1793 heredity-first`
+The old binary model
 
-Araújo’s controlled comparison remains important: in Meiners’s 1785 *Grundriß der Geschichte der Menschheit*, climate is named the principal cause of colour, with descent following after climate has acted; in the 1793 edition, parental blood is named first and climate second.
+`climate → heredity`
 
-The 1792 derivative witness now supplies the missing intermediate structure. It preserves the proposition that colour would not operate so uniformly even in opposed climates “wenn nicht die Farbe aller Menschen am meisten von dem Blute der Eltern abhinge.” Thus parental blood is already ranked as the strongest cause by 1792. Yet the same reconstruction repeatedly gives genuine causal force to climate, humidity, sea winds, soil, migration, mixture, disease, wounds, emotional states, pregnancy and age.
+is wrong.
 
-The transition should therefore be coded as:
-
-`causal reprioritisation within a plural causal model`
-
-rather than:
-
-`climate removed → heredity installed`.
-
-This distinction matters because Meiners is not making colour immutable. He is changing the **rank and jurisdiction of causes**.
-
-## 2. Origin-level causes versus modifier-level causes
-
-The 1792 model appears to distribute explanatory work across different causal levels.
-
-### Origin / descent level
-
-- parental blood has the greatest default causal weight;
-- mixture with “foreign blood” generates intermediate or changing colours across generations;
-- principal colours can be connected to genealogical/original-colour claims;
-- associated bodily traits, linguistic affiliation, migration narratives and reported descent can reinforce a genealogical reading.
-
-### Environmental modifier / transformation level
-
-- heat does not operate uniformly across places;
-- humidity, sea air, winds, altitude and local geography can weaken or reverse expected effects of solar heat;
-- transplanted populations serve as comparative cases for judging climatic influence;
-- an alleged earlier yellow/yellow-brown colour can be transformed into black under particular physical conditions;
-- American red is likewise construed as a transformation produced by physical forces, although Meiners admits those forces are not yet known.
-
-### Internal physiological modifier level
-
-- wounds, illness, emotional states, pregnancy and age can alter skin colour;
-- Meiners interprets some of these changes through secretions or alterations associated with blood;
-- opposite visible results can therefore emerge within one person or one descent line without changing genealogy.
-
-The proposed field is:
-
-`modifier_vs_origin_cause = {origin, inherited_default, environmental_modifier, admixture_modifier, physiological_modifier, unknown_physical_transform}`
-
-## 3. Phenotypic equifinality: same colour, different causal route
-
-A central methodological result of the 1792 reconstruction is **phenotypic equifinality**:
-
-> the same or closely similar visible colour can be generated by more than one historical/physical causal pathway.
-
-The Krünitz witness gives a particularly strong control in the American material. Light or white skin accompanied by other features such as blond hair, blue eyes and particular bodily form may be interpreted genealogically as evidence of European or Norman descent. But comparatively light skin in other American populations can be explained without European admixture, by local climate acting as a bleaching or moderating cause.
+The primary article confirms a ranked plural system. On p.631 Meiners says the regularity of colour in children of differently coloured parents across opposed climates would be impossible if human colour did not depend **most strongly on parental blood**.
 
 Therefore:
 
-`light colour ≠ necessarily European descent`
+`parental blood = highest/default causal weight by 1792`.
 
-and more generally:
-
-`same visible outcome ≠ same causal history`.
-
-This converts colour from a self-interpreting sign into a causally ambiguous observation.
-
-A new coding field is needed:
-
-`phenotypic_equifinality = low / medium / high / explicit`
-
-where `explicit` applies when the historical author himself offers multiple causal routes to the same or closely similar visible result.
-
-## 4. Trait decoupling and differential persistence
-
-A further passage preserved by the Krünitz derivative makes the phenotype itself internally non-unitary. In a hypothetical sequence of repeated unions between Europeans or their descendants and Black women, Meiners allows skin colour to darken over successive generations until descendants may become fully black or blackish. Yet he simultaneously claims that bodily formation, especially facial form, can remain European or at least more European than what he calls `Neger-artig`.
-
-The important methodological point is not the racial doctrine itself but the structure of the inference:
-
-`colour change rate ≠ morphology change rate`
-
-and therefore:
-
-`one descent line → partially decoupled visible traits with different temporal persistence`.
-
-Colour, face, body form, hair and other characters cannot be assumed to carry genealogy with equal weight or to respond at the same speed to mixture and environment. Meiners’s own causal architecture therefore prevents `phenotype` from being treated as a single integrated sign.
-
-This requires a second distinction beyond phenotypic equifinality:
-
-- **equifinality**: one visible trait/outcome can arise from several causes;
-- **trait decoupling**: several visible traits within the same body or descent line can follow different causal and temporal trajectories.
-
-Proposed fields:
-
-- `trait_decoupling`
-- `trait_persistence_rate`
-- `trait_temporality`
-- `cross_trait_concordance`
-- `trait_specific_inference_weight`
-- `trait_specific_causal_susceptibility`
-
-This gives a stronger model of genealogical evidence:
-
-`genealogical signal = weighted bundle of partially decoupled traits + provenance/history`
-
-rather than:
-
-`genealogical signal = colour`.
-
-A useful analytic question is therefore:
-
-> Which visible character is allowed to persist as evidence of descent when another character has already changed?
-
-This is a direct extension of inference jurisdiction into **cross-trait jurisdiction**.
-
-## 5. Causal underdetermination and the triangulation requirement
-
-Because colour can arise from descent, environment, mixture and internal physiological change, colour alone cannot uniquely identify its cause. This is **causal underdetermination**.
-
-Meiners attempts to resolve it by bringing additional variables into the inference:
-
-`colour observation × associated bodily traits × geography/provenance × migration/descent report × linguistic affiliation × witness credibility × comparison → causal attribution`
-
-Only after that attribution can colour be made to support:
-
-`population classification / descent / mixture history / hierarchy / causal history`.
-
-The p.679 trait-decoupling case sharpens this further. Associated traits cannot simply be added as equivalent corroborators: they may possess different persistence rates and causal susceptibilities. Triangulation therefore requires weighting, not mere accumulation.
-
-A more exact chain is:
-
-`trait bundle × trait-specific persistence × provenance × geography × witness/report × comparison → causal discrimination → genealogical inference`
-
-New fields:
-
-- `cause_identifiability`
-- `triangulation_requirement`
-- `associated_traits_required`
-- `provenance_dependency`
-- `genealogical_threshold`
-- `cross_trait_weighting`
-
-The `genealogical_threshold` asks: **what additional evidence must accompany a visible difference before the author allows it to count as evidence of descent?**
-
-## 6. Hauptfarben are not Urfarben
-
-The derivative witness’s Section VIII distinguishes four `Haupt-Farben` from two `Ur-Farben`.
-
-Four principal colours are assigned at continental scale:
-- white;
-- yellow;
-- red;
-- black.
-
-But only white and yellow are treated as `Ur-Farben`. Red and black are construed as transformations of yellow under different physical conditions. Intermediate brownish, yellow-brown/greenish and blackish colours are classified as shades of principal colours.
-
-This gives colour classification two non-equivalent layers:
-
-`phenomenal principal colour` ≠ `genealogical/original colour`.
-
-That distinction is especially important for the project’s broader method. A visible category can be stable at the level of description while being secondary at the level of historical causation.
-
-Proposed fields:
-
-- `descriptive_rank`
-- `genealogical_rank`
-- `origin_status`
-- `derived_colour_hypothesis`
-
-## 7. Continuum plus categories: discretisation does not erase gradation
-
-The Asian discussion explicitly describes innumerable shades approaching and merging into one another while still retaining a finite set of principal colour categories. This is not a contradiction. It is an operational distinction between:
-
-- continuous visual variation;
-- selected categorical anchors;
-- causal/genealogical hypotheses imposed across those anchors.
+At the same time pp.614–618 and 628–632 retain genuine causal roles for sun/heat, cold, dry/moist air, winds, geography, admixture and internal physiological processes.
 
 Hence:
 
-`continuity of appearance` does not imply `absence of classification`.
+`highest default causal weight ≠ causal exclusivity`.
 
-Nor does categorical classification imply that the observer believes every instance has a sharp natural boundary.
+## 2. Cause, modifier, masking and counteraction are actor-distinguished
 
-The relevant question becomes:
+Pp.614–618 do more than list environmental variables.
 
-**What work does a coarse category perform over a visibly continuous field?**
+Meiners distinguishes:
+- direct external causes, especially sun/heat but also air, humidity, winds and cold;
+- geographical conditions that alter their force;
+- `Lebensart und Beschäftigungen` as factors that can strengthen or weaken effects while not being `wahre Mitursachen` of skin colour in the controlled p.615 formulation;
+- dirt/uncleanliness as something that can conceal true colour rather than produce it;
+- other causes that can oppose or counteract the strongest external cause.
 
-This links directly back to Prange/Widenmann. A useful epistemic system may compress a continuous field rather than exhaust it. But Meiners’s compression is not primarily a measurement protocol; it is a causal and genealogical sorting protocol.
+The causal field should therefore be coded as:
 
-## 8. Comparison as causal experiment without experimental control
+`cause + geographical condition + modifier + masking + counteracting cause`.
 
-The geographical cases reveal a quasi-experimental comparative logic. Meiners repeatedly compares:
+This is more precise than `climate remains active`.
 
-- populations presented as sharing an origin but living in different environments;
-- populations in similar heat but different humidity/sea exposure;
-- neighbouring groups with different reported descent or mixture histories;
-- present-day appearance against migration and travel narratives.
+## 3. External surface action versus internal blood-mediated action
 
-He thereby tries to isolate causal contributions without laboratory manipulation.
+Pp.628–631 distinguish effects acting more immediately on exposed skin from colour production arising internally through blood and substances separated from it.
 
-Provisional schema:
+The descent claim is thus embedded in a causal architecture:
 
-`reported common origin + environmental difference → estimate environmental effect`
+`outer/surface action`
 
-`reported environmental similarity + colour difference → increase weight of descent/mixture or unobserved causes`
+versus
 
-This should be coded as a distinct operation:
+`inner blood-mediated production / inherited disposition`.
 
-`comparative_causal_partitioning`
+The historical source itself therefore differentiates causal routes rather than merely naming a hereditary category.
 
-rather than generic `comparison`.
+## 4. Phenotypic equifinality is primary-direct
 
-## 9. Evidence carriers remain upstream of causal rank
+Pp.631–632 allow colour to change through wounds, illness, strong affect and other internal physiological processes. Pp.665–667 provide the clearer population-level case.
 
-The causal sophistication of the argument does not solve the evidentiary problem. Most of the population observations are mediated through travel narratives and inherited descriptions. Thus the causal model operates downstream of an observer network whose colour vocabulary is not standardised in the Prange/Walter sense.
+Meiners can interpret light/white colour together with other traits and historical reports as evidence of European or Norman descent in one population, yet on p.667 explain comparatively light colour in humid Guiana/Paraguay **without European admixture**, through local climatic action.
 
-The full chain is therefore:
+Therefore:
 
-`historical observer → verbal/visual capture → report circulation → Meiners’s source criticism and aggregation → colour category → comparative causal partition → genealogical/classificatory inference`
+`light colour ≠ necessarily European descent`;
 
-A later colour chart at Göttingen cannot retroactively standardise the original sight event once the body is absent and only a verbal description survives.
+`same/similar visible outcome ≠ same causal history`.
 
-Thus `retrostandardisability` remains essential even after the causal model has been refined.
+Colour is not a self-interpreting genealogical sign.
 
-## 10. Stronger inference-jurisdiction formulation
+## 5. Major qualification: environmental transformation hypothesis ≠ observed multigenerational conversion
 
-The earlier question was:
+P.632 forces a significant tightening of the earlier reconstruction.
 
-> When may a visible difference become a historical difference?
+Meiners asks whether changed external causes can, across generations or centuries, wholly transform an innate population colour into another. He says he has no adequate examples demonstrating this. Reported lightening of Africans in Europe is attributed to illness rather than climate alone, while reports of descendants remaining black across generations are used against easy environment-only conversion.
 
-The 1792 case allows a more exact version:
+Thus three levels must be separated:
 
-> Under what evidentiary and causal conditions may the **same visible difference** be authorised to mean different historical things?
+`observed individual / short-term modification`
 
-The trait-decoupling case adds a second question:
+`≠ observed complete multigenerational population-colour replacement`
 
-> When several visible differences in the same body disagree, which one receives authority to preserve genealogy?
+`≠ hypothesised historical/origin-level transformation`.
 
-Colour’s jurisdiction changes with its evidentiary companions and with the historical weighting assigned to other traits.
+The second is explicitly unsupported in the 1792 article.
 
-A light or dark colour may function as:
-- immediate description;
-- climatic effect;
-- physiological state;
-- admixture trace;
-- genealogical indicator;
-- classificatory marker;
-- hierarchical sign.
+This means the repo must not write `Meiners accepts environmental reversibility` without qualification.
 
-The visible datum is therefore not the inference. It is an input whose historical meaning is produced by a causal discrimination apparatus operating across a **distributed phenotype**.
+## 6. Trait decoupling is primary-direct; old p.679 locator is false
+
+The relevant primary passage is **pp.635–637, especially p.636**, not `p.679`.
+
+Meiners argues that repeated mixture between European descendants and Black women can darken colour generation by generation while bodily and especially facial formation remains European or more European than what he calls `Negerartig`. On p.637 he also describes Arab-descended groups acquiring black colour without losing Arab facial formation.
+
+But the same p.637 allows pathways in which colour and formation move together.
+
+Therefore:
+
+`colour trajectory can decouple from morphology/facial-formation trajectory`.
+
+But:
+
+`decoupling is pathway-specific`;
+
+`linear_trait_persistence_hierarchy = not established`.
+
+The older `p.679 trait-decoupling case` must never again be cited as Meiners primary pagination. It is a derivative-locator error.
+
+## 7. Multi-trait and provenance-sensitive inference
+
+The article repeatedly brings colour into relation with:
+- body/facial formation;
+- hair and eye colour;
+- geography;
+- reported descent and migration;
+- admixture history;
+- travel reports and named witnesses.
+
+Pp.667–668 are especially clear about colour/eyes/hair bundles in the European material.
+
+This supports the analytical model:
+
+`trait bundle × provenance/history × geography × source report → causal discrimination → genealogical inference`.
+
+But `weighted bundle` remains the historian's reconstruction. The source does not supply a universal explicit weighting function.
+
+## 8. Hauptfarben are not Urfarben
+
+Printed p.671 is missing from the supplied carrier, so the literal four-item enumeration remains derivative-controlled.
+
+P.672 is primary-direct. Meiners states that among `these four Hauptfarben`, white and yellow are the `Urfarben`, from which the other principal colours and their shades arose. He hypothesises yellow transformed into black in the Indian peninsula through heat and cooperating physical causes and into red in the Americas through still-unknown physical forces.
+
+Thus:
+
+`phenomenal/descriptive Hauptfarbe ≠ historical/origin Urfarbe`.
+
+The exact four-item list `white / yellow / red / black` should remain `derivative + p.672 structural primary control` until p.671 is recovered.
+
+## 9. Empirical threshold versus natural-historical conjecture
+
+P.632 and p.672 are not to be collapsed.
+
+P.632:
+
+`no adequate empirical demonstration of complete environment-only colour conversion across generations`.
+
+P.672:
+
+`historical physical transformation remains an origin hypothesis`.
+
+This yields a more important methodological result than a simple heredity/environment opposition:
+
+`evidence required to demonstrate a causal conversion ≠ evidence tolerated for conjectural natural-history reconstruction`.
+
+Meiners can be skeptical at the observational level while still licensing a larger historical causal hypothesis.
+
+## 10. Relation to the 1790 anti-single-trait rule
+
+By 1790 Meiners had publicly rejected inference from one bodily part or isolated specimen to a whole people and demanded provenance for skull evidence.
+
+The 1792 colour essay partly follows this logic. It repeatedly triangulates colour with other traits, provenance, geography, descent/mixture narratives and witnesses, and it explicitly demonstrates that colour can be causally ambiguous.
+
+Do not overstate this as perfect methodological consistency. The article still authorises broad racial, genealogical, evaluative and hierarchical conclusions from heterogeneous reports.
+
+The safe claim is narrower:
+
+`awareness of underdetermination + repeated triangulation ≠ adequate or consistently enforced inference threshold`.
 
 ## 11. Revised coding architecture
-
-For each colour claim, record at minimum:
 
 ### Observation layer
 - `colour_term`
 - `shade_or_principal_colour`
-- `continuous_variation_acknowledged`
 - `associated_visible_traits`
 - `trait_decoupling`
 - `cross_trait_concordance`
@@ -281,22 +194,22 @@ For each colour claim, record at minimum:
 ### Evidence layer
 - `evidence_carrier`
 - `named_observer_or_traveller`
-- `observer_metadata_present`
 - `provenance_control`
 - `capture_time_relation`
-- `material_persistence`
 - `retrostandardisability`
+- `empirical_conversion_evidence`
 
 ### Causal layer
 - `causal_candidates`
 - `causal_rank`
-- `causal_partition`
-- `modifier_vs_origin_cause`
-- `cause_identifiability`
+- `direct_vs_indirect_cause`
+- `modifier_vs_cause`
+- `masking_vs_change`
+- `counteracting_causes`
+- `internal_vs_external_route`
 - `phenotypic_equifinality`
-- `comparative_causal_partitioning`
-- `trait_persistence_rate`
 - `trait_specific_causal_susceptibility`
+- `observed_modification_vs_hypothesized_transformation`
 
 ### Inference layer
 - `triangulation_requirement`
@@ -307,21 +220,17 @@ For each colour claim, record at minimum:
 - `inference_ceiling`
 - `inference_jurisdiction`
 
-## 12. Provisional thesis
+## 12. Strong current thesis
 
-The strongest current formulation is:
+> Meiners's 1792 colour argument is a ranked plural causal system rather than a replacement of climate by heredity. Parental blood receives the greatest default causal weight, while external and internal causes remain active and can generate overlapping visible outcomes. Colour is therefore causally underdetermined and must be interpreted alongside other bodily traits, geography, provenance and descent reports. The primary text also allows colour and facial/body formation to change at different rates within a lineage. Yet Meiners simultaneously draws an evidentiary boundary: he denies having adequate observations of complete environment-only conversion of an innate population colour across generations while still hypothesising deep historical transformations among original and derived colours. The decisive operation is therefore causal ranking combined with unequal evidentiary thresholds for observation, genealogical attribution and conjectural natural history.
 
-> Meiners’s 1792 colour argument does not turn skin colour into a simple hereditary label. It reorganises a plural causal field by granting parental blood the highest default causal rank while retaining environment, migration, mixture and internal physiology as genuine routes of colour production and transformation. Because these routes can produce overlapping visible outcomes, colour is causally underdetermined and must be triangulated with provenance, geography, language, witness reports and other bodily traits. Those other traits, however, are themselves not interchangeable: colour and morphology can be allowed to change at different rates within the same lineage. The epistemic operation is therefore not merely classification by colour but **causal discrimination across a distributed phenotype whose component traits possess different temporal persistence and different genealogical weight**.
+## 13. Residual closure only
 
-This makes the 1792 essay unusually useful for the Wilson-informed project. Colour exposes not only how differences are discretised, but how a discipline decides what additional evidence is necessary before a visible distinction can bear historical causality—and what happens when several visible distinctions disagree.
+Do not reopen broad exploration.
 
-## 13. Pending closures
+Recover from an alternate carrier only:
+1. printed pp.611–613;
+2. printed p.619;
+3. printed p.671.
 
-Do not upgrade beyond this note until:
-1. pp. 611–672 of the 1792 original are directly checked against the Krünitz derivative;
-2. exact original section structure and wording are verified;
-3. the 1810 Meiners library auction catalogue is searched for Prange/Lambert/Schäffer and related colour works;
-4. the Lavater→Meiners correspondence is inspected for observation/physiognomy/complexion language;
-5. evidence carriers in the 1792 article are coded paragraph-by-paragraph;
-6. the p.679 admixture/trait-decoupling passage is verified against the original scan;
-7. contemporary physical-geography controls are compared to determine whether differential persistence of colour, facial form and hair was a broader evidentiary grammar rather than a Meiners-specific invention.
+Everything else in the core M028 causal / equifinality / trait-decoupling argument is now primary-controlled.
