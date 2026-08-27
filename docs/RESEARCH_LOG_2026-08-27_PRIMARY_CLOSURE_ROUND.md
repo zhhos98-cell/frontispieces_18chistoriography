@@ -72,8 +72,39 @@ Girtanner evidence status:
 
 Do **not** project this 1796–97 persistence criterion backward into Meiners 1792 without transfer evidence.
 
+## Pre-1792 falsification closed — Blumenbach 1788 private working copy
+
+Write-back commit: `3a09a7d7f7465ddf146e4a7a8227afd5c1fe0e0e`.
+
+File:
+- `docs/BLUMENBACH_1788_PRIVATE_PERSISTENCE_GATE_AND_PUBLIC_ADOPTION_LAG.md`
+
+Hard chronological revision:
+- Blumenbach's private hand-copy of the third-edition *Handbuch der Naturgeschichte* (1788), SUB Göttingen `Cod. Ms. Blumenbach XVII`, already contains handwritten notes summarising the Kantian distinction between necessarily inherited race-characters and non-necessarily inherited varieties.
+- Opposite printed p.22, Blumenbach records the `necessary inheritance → Race / non-necessary → Varietät` distinction.
+- Opposite printed p.60, he records `Race` as a radical peculiarity indicating common descent and again notes the formula that a class difference within one stem counts as race insofar as it is unavoidably hereditary; the same working note also contains a Forster/Cook reference.
+- The digital manuscript object is identified through Blumenbach Online (`ID 00036 / 00036.pdf`), but direct facsimile retrieval failed in the current web environment. Current status is therefore `primary object identified + scholarly transcription control`, not `primary_direct_facsimile`.
+
+Consequence:
+
+`concept publicly available ≠ private uptake ≠ published adoption ≠ cross-disciplinary uptake`.
+
+The persistence gate was conceptually and locally available in Göttingen before Meiners's 1792 colour essay. Therefore the contrast between Blumenbach and Meiners cannot be explained by chronological non-availability alone.
+
+New core question:
+
+> Why did co-located scholars authorize different operations on visible human difference even when some of the relevant conceptual tools were already available in the same intellectual environment?
+
+Possible dimensions to test, not assume:
+- source corpus / evidence carrier;
+- private vs public knowledge state;
+- genre;
+- inference target;
+- interpersonal transfer;
+- disciplinary jurisdiction.
+
 ## Next automatically tractable targets
 
-1. Test whether Girtanner's persistence gate changes only nomenclature (`Rasse` / `Spielart`) or the causal narratives allowed for human history.
-2. Search pre-1792 Göttingen materials for an explicit persistence threshold, especially Blumenbach's handwritten 1788 Kant notes, without assuming publication-level circulation.
-3. Continue apparatus/network work on sources that do not depend on the manual queue.
+1. Test whether the 1788 Blumenbach hand-copy annotations can be tied to subsequent published changes before 1797, without backdating later wording.
+2. Search Meiners's own methodological / reading practices for evidence that he encountered Kant's 1788 persistence criterion independently of Blumenbach.
+3. Continue apparatus/network work while manual queue M028–M031 remains pending.
