@@ -32,13 +32,15 @@ Two independent modern controls explicitly point to the **1785 first edition, pp
 - Bruce Buchan and Linda Andersson Burnett, `Specimens for the “science of man”: Skulls, race, and instructions in James Prichard’s Enlightenment ethnology` (History of Science, 2025), note 85, cites Meiners, *Grundriss der Geschichte der Menschheit* (1785), pp.23–24 in its discussion of the bodily/racial evidentiary tradition inherited by Robert Jameson.
 - The 2023 Meiners specialist volume independently uses *Grundriß* material at pp.23–24 for Meiners's programmatic definition of the history of humankind; this confirms the first-edition page locus is real and structurally central, although it does not by itself reproduce the exact anti-single-trait sentence.
 
+The 2023 specialist volume does supply the exact later wording from 1793 p.23. Meiners states against Blumenbach, in substance, that whole peoples can no more be judged from the formation of one single bodily part than the characteristic formation of a bodily part in whole nations can be judged from isolated bones.
+
 Current status:
 
 `1785 p.23–24 relevance = exact-page modern control`
 
 `1785 exact anti-single-trait wording = not yet primary-direct`
 
-`1793 p.23 exact wording = specialist quotation control`
+`1793 p.23 exact wording = exact quotation + specialist page control`
 
 Do **not** retain the old working assumption `anti-single-trait rule may first appear in 1793`.
 
@@ -49,6 +51,19 @@ The likely chronology is now:
 → `retained/recast in 1793 second edition`.
 
 Primary page comparison is still required before declaring verbatim continuity.
+
+### Live access status
+
+Automated routes were tested through:
+
+- Internet Archive 1785 item `grundrissdergesc00mein` (342 scans; OCR derivatives and PDF are listed publicly);
+- the Google-derived 1786 first-edition-family carrier `grundrissderges00meingoog` / Google Books `hX0EAAAAIAAJ`;
+- the 1793 Google/Internet Archive carrier `grundrissderges01meingoog` / Google Books `vBsFAAAAYAAJ`;
+- Halle and alternate catalogue routes.
+
+The public carriers are fixed, but the current automated environment cannot reliably fetch the single page images/OCR derivatives. This is an access-layer blockage, not a bibliographic uncertainty.
+
+The problem is therefore now a bounded edition collation rather than an exploratory conceptual search.
 
 ## 2. 1793 p.60 — Kant uptake status
 
@@ -94,6 +109,8 @@ not
 
 The 1790 and 1792 primary evidence already falsifies the stronger global-replacement model.
 
+A related 1790 primary-controlled formulation is already known: Meiners ranks `Abkunft` / parental or people-of-origin effects above the land or climate of birth in a specific argument about African-descended populations. This makes the 1793 deletion historically plausible but does not substitute for direct edition collation.
+
 ## 4. Carrier map
 
 ### 1785 first edition
@@ -105,7 +122,8 @@ The 1790 and 1792 primary evidence already falsifies the stronger global-replace
 ### 1793 second edition
 
 - Halle ULB: DOI `10.25673/56435`, URN `urn:nbn:de:gbv:3:1-454120`, shelfmark `Na 1156`;
-- Google Books: `B0PWEZYUBEcC`.
+- Google Books: `B0PWEZYUBEcC`;
+- alternate Google/IA family: Google Books `vBsFAAAAYAAJ`, IA `grundrissderges01meingoog`.
 
 Both are public-domain image carriers.
 
@@ -117,7 +135,14 @@ Primary-close in this order:
 2. 1793 printed pp.59–60;
 3. 1785 printed p.39 and 1793 printed p.85.
 
-If automated access again fails at single-page image level, issue one bounded manual request containing only these pages. Do not ask for full books unless no other route exists.
+Automated single-page access is now sufficiently tested to justify a bounded manual request if necessary.
+
+Smallest useful manual packet:
+
+- 1785: pp.23–24, p.39;
+- 1793: p.23, pp.59–60, p.85.
+
+Screenshots are sufficient; no OCR or full-volume download is required.
 
 ## 6. Current stop rules
 
