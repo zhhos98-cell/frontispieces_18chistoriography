@@ -1,7 +1,7 @@
-# Round 3 checkpoint 06 — Zimmermann 1778 pp.50–59: causal preparation, Abartung/Varietät vocabulary, graded variation, and locator correction
+# Round 3 checkpoint 06 — Zimmermann 1778 pp.50–60: causal preparation, Abartung/Varietät vocabulary, graded variation, and locator correction
 
 Date: 2026-08-27
-Status: `PRIMARY PAGE-IMAGE CONTROLLED — PP.50–59; P.59 SENTENCE CARRIES TO P.60`
+Status: `PRIMARY PAGE-IMAGE CONTROLLED — PP.50–60 COMPLETE`
 
 Parent round:
 
@@ -15,7 +15,7 @@ Previous checkpoints:
 
 ## Evidence basis
 
-User-supplied full-page images of printed pp.50–59 in Zimmermann, *Geographische Geschichte des Menschen ...*, vol. I (1778), were visually inspected. The sequence preserves the end of the first human section and the opening causal programme of the second section.
+User-supplied full-page images of printed pp.50–60 in Zimmermann, *Geographische Geschichte des Menschen ...*, vol. I (1778), were visually inspected. The p.60 image completes the sentence carried from p.59 and confirms that no additional qualification reverses the p.59 reading.
 
 Primary public carrier remains ETH-Bibliothek / e-rara, volume record `6943987`.
 
@@ -27,11 +27,9 @@ A modern Blumenbach-research PDF attributes the sentence
 
 to Zimmermann 1778 p.51.
 
-The primary page image shows that this sentence is on **printed p.59**, not p.51.
+Primary page images show that this sentence is on **printed p.59**, not p.51.
 
-The secondary source is therefore useful for terminology but contains a page-locator error. The repo should henceforth cite **Zimmermann 1778, p.59** for this sentence.
-
-This is a primary-controlled bibliographic correction.
+The secondary source remains useful for terminology but contains a page-locator error. The repo should henceforth cite **Zimmermann 1778, p.59**.
 
 ## pp.53–54 — from environmental tolerance to transformation
 
@@ -39,112 +37,96 @@ At the transition headed `Zweite Abtheilung`, Zimmermann summarizes the first se
 
 > `der Mensch hält außerordentliche, ja fast unbegreifliche Veränderungen von Klima und Nahrung aus.`
 
-He then immediately turns tolerance into a transformation problem. The human bodily `Maschine` is described as `biegsam, eindrucksfähig`; Zimmermann asks how far it is deflected from its `Originalgestalt` under such changes and whether
+He then turns tolerance into a transformation problem. The human bodily `Maschine` is described as `biegsam, eindrucksfähig`; Zimmermann asks how far it is deflected from its `Originalgestalt` under such changes and whether
 
 > `eine und eben dieselbe Menschengattung, durch diese Veränderungen, in alle die Gestalten und Ausartungen übergehen`
 
 could pass into the forms and `Ausartungen` currently observed in humankind.
 
-### Evidence status
+Evidence status: `PRIMARY-DIRECT — CAUSAL PROGRAMME / INTERROGATIVE`.
 
-`PRIMARY-DIRECT — CAUSAL PROGRAMME / INTERROGATIVE`
-
-The point is stronger than generic environmentalism. Zimmermann explicitly frames one-and-the-same human `Gattung` as potentially transformable into presently observed forms through environmental change. Yet the sentence remains an inquiry at this point, not a declaration of mathematically certain historical fact.
+The point is stronger than generic environmentalism. Zimmermann explicitly frames one-and-the-same human `Gattung` as potentially transformable into presently observed forms through environmental change. The sentence remains an inquiry at this stage, not a declaration of mathematically certain historical fact.
 
 ## pp.54–59 — historical comparison as causal preparation
 
-Zimmermann announces a `merkwürdige Thatsache` as preparation and chooses the historical-natural history of the Germans as a controlled comparison: present Germans versus their alleged ancient ancestors, present versus ancient German climate, and present versus ancient ways of life.
+Zimmermann chooses the historical-natural history of Germans as a near-field comparison: present Germans versus alleged ancient ancestors, present versus ancient German climate, and present versus ancient ways of life.
 
-Across pp.55–59 he accumulates changes in:
+Across pp.55–59 he accumulates changes in climate, diet, drink, reproduction, bodily exercise/hardening, disease, sedentary life, mental labour and practices associated with `Luxus` and altered `Lebensart`.
 
-- climate;
-- meat versus plant-based diet;
-- drink;
-- sexual/reproductive timing;
-- bodily exercise and hardening;
-- disease;
-- sedentary life;
-- mental labour;
-- other practices associated with `Luxus` and changing Lebensart.
-
-The pages culminate in the claim that such causes, through sustained action, can transform bodily size and constitution:
+The sequence culminates:
 
 > `Sie verwandeln durch anhaltende Wirkung den Kolossen in einen ohnmächtigen Zwerg; und dies beweist hier die Erfahrung unleugbar.`
 
-Whatever one makes of Zimmermann's ancient-German comparison historically, its inferential role inside the book is clear: he constructs a near-historical demonstration that bodily form is plastic under long-duration environmental and customary causes before moving to the larger question of human varieties.
-
-### Evidence status
-
-`PRIMARY-DIRECT — ACTOR-SIDE CAUSAL WARRANT`
-
-The truth of Zimmermann's historical claims about ancient Germans is not adopted. What is established is how he uses them as evidence.
+Whatever the historical accuracy of his ancient-German claims, their inferential role inside the volume is clear: Zimmermann constructs a local historical warrant for long-duration bodily plasticity before moving to the larger varieties of humankind.
 
 ## p.59 — explicit transition to `Abartungen oder Varietäten`
 
-The transition sentence is primary-direct:
+The transition is primary-direct:
 
 > `Nach dieser Vorbereitung gehe ich nunmehro schon mit weniger Furchtsamkeit zu den Abartungen oder Varietäten des Menschengeschlechts.`
 
-This resolves the earlier vocabulary question more strongly than a secondary paraphrase could.
+At this locus Zimmermann coordinates `Abartungen` and `Varietäten` with `oder`. The safest actor-level representation is **near-equivalence / alternative naming at the point of entry**, not two ranks in a demonstrated fixed hierarchy.
 
-At this locus Zimmermann himself coordinates `Abartungen` and `Varietäten` with `oder`. The relation should therefore be represented as **actor-side near-equivalence / alternative naming at this transition**, not as two ranks in a demonstrated stable hierarchy.
+This does not establish perfect synonymy everywhere in the volume. It does block retrospective projection of Meiners's later explicit hierarchy onto this passage.
 
-This does not establish that the terms are perfectly synonymous everywhere in the volume. It does establish that a later rigid hierarchy must not be projected back onto this p.59 usage.
+## pp.59–60 — selective description, graded variation, and completed causal inference
 
-## p.59 — selective description and graded variation
+Zimmermann states that he will not enumerate every `Gesichtsbildung oder kleine Verschiedenheit`, because such detail is available in Buffon, Schreber, Haller and others and because facial forms can vary substantially within families and individuals.
 
-Zimmermann then states that he will not enumerate every `Gesichtsbildung oder kleine Verschiedenheit`; such detail is available in Buffon, Schreber, Haller and others. He specifically treats changing or changeable facial formations as relatively unremarkable because families and individuals already vary strongly.
-
-Most importantly, he states:
+He then selects the largest cases:
 
 > `wenn ich hier die größten Varietäten des Menschen, durch Klima und Nahrung möglicher Weise hervorgebracht, zeige, so wird jeder billige Beurtheiler die mindern oder untern Grade der Ausartungen sich noch leicht-`
 
-The sentence continues onto printed p.60, which is not yet page-image controlled in this checkpoint.
+Printed p.60 completes the sentence:
 
-Even without the carryover, p.59 directly establishes several operations:
+> `leichter durch eben diese Ursachen entstanden denken.`
 
-1. Zimmermann selects the **largest varieties** as analytic cases rather than cataloguing every small difference;
-2. their production by climate and nourishment is marked `möglicher Weise`, preserving modal caution;
-3. lesser differences are explicitly ordered as `mindern oder untern Grade der Ausartungen`.
+Zimmermann immediately proceeds:
 
-### Consequence for Round 3 intensity question
+> `Ich fange mit der Figur des Menschen zuerst an.`
 
-The project now has three actor-side intensity/gradation loci in Zimmermann 1778:
+### Primary-direct consequences
+
+1. Zimmermann analytically selects the **largest varieties**, not every small bodily difference.
+2. Their production by climate and nourishment is marked `möglicher Weise`, preserving causal modality.
+3. Lesser differences are explicitly ordered as `mindern oder untern Grade der Ausartungen`.
+4. p.60 confirms that those lower grades are to be understood as even more readily producible by the **same causes**.
+5. The carryover contains no reversal or new restriction; it closes the p.59 argument and launches the substantive catalogue with bodily `Figur`.
+
+## Consequence for the intensity question
+
+Round 3 now has three distinct actor-side intensity regimes:
 
 - pp.31–34: `Grade der Hitze und Kälte` — measured environmental intensity;
-- pp.106–108: colour `Nüancen`, `Stufenfolge`, temporal accumulation of `Schwärze` — phenotypic gradation and rate;
-- p.59: `mindern oder untern Grade der Ausartungen` — graded magnitude of human variation itself.
+- p.59–60: `mindern oder untern Grade der Ausartungen` — graded magnitude of human variation;
+- pp.106–108: colour `Nüancen`, `Stufenfolge`, and hypothetical temporal increase of `Schwärze` — phenotypic gradation and rate.
 
-These are connected by the causal argument but must remain semantically distinct. The word/operation `Grad` does not have one single technical meaning across all three contexts.
+They belong to one causal architecture but should not be collapsed into one technical scale.
 
-## What pp.50–59 do to the Round 3 model
+## What pp.50–60 do to the Round 3 model
 
-The volume's architecture is now unusually clear:
+The architecture is now primary-controlled as follows:
 
-1. **pp.31–34:** establish and quantify the environmental range humans can endure;
-2. **pp.53–59:** convert tolerance into a question of bodily plasticity and build a historical analogue intended to show long-duration transformation;
-3. **p.59:** enter `Abartungen oder Varietäten` explicitly, selecting the largest varieties while positing lower grades beneath them;
-4. **pp.100–108:** show how family traits, isolation/endogamy, colour gradation, migration and mixture can generate, stabilize or blur population forms;
-5. **pp.108–111:** ask how humankind should be divided into `Racen`, explicitly recommending greater attention to climate;
-6. **pp.114–115:** reconstruct a conjectural common-origin migration through climates producing geographically differentiated forms.
+1. **pp.31–34** — establish and quantify the environmental range humans can endure;
+2. **pp.53–59** — convert tolerance into a question of bodily plasticity and build a historical analogue for long-duration transformation;
+3. **pp.59–60** — enter `Abartungen oder Varietäten`, select the largest varieties, grade lesser `Ausartungen`, and preserve the causal claim as `möglicher Weise`;
+4. **pp.100–108** — show how family traits, isolation/endogamy, colour gradation, migration and mixture can generate, stabilize or blur population forms;
+5. **pp.108–111** — ask how humankind should be divided into `Racen`, explicitly recommending greater attention to climate;
+6. **pp.114–115** — reconstruct conjectural common-origin migration through climates producing geographically differentiated forms.
 
-This is not simply `climate causes race`. It is an inferential architecture moving from environmental measurement, through historical-body plasticity, graded variation and classificatory choice, to conjectural migration history.
+This is not simply `climate causes race`. It is an inferential architecture moving from environmental measurement, through bodily plasticity and graded variation, to classificatory choice and conjectural migration history.
 
 ## Zimmermann vocabulary after primary control
 
-### Directly controlled relations
+Directly controlled relations include:
 
-- `Abartungen oder Varietäten` — explicitly coordinated at p.59;
-- `größten Varietäten` versus `mindern oder untern Grade der Ausartungen` — scalar relation at p.59;
-- `Race` / `Racen` / `Hauptracen` — explicit classificatory vocabulary at pp.100–111;
-- `Menschengattung` — used at pp.54, 101, 107 in contexts that do not yield a clean fixed rank hierarchy;
-- `Stamm` / `Menschenstamm` — common-origin and descent vocabulary at pp.101, 105, 114–115.
+- `Abartungen oder Varietäten` — coordinated at p.59;
+- `größten Varietäten` versus `mindern oder untern Grade der Ausartungen` — scalar relation across pp.59–60;
+- `Race / Racen / Hauptracen` — explicit classificatory vocabulary at pp.100–111;
+- `Menschengattung` — used at pp.54, 101, 107 without yielding a clean fixed rank hierarchy;
+- `Stamm / Menschenstamm` — common-origin and descent vocabulary at pp.101, 105, 114–115.
 
-### Current inference
-
-Zimmermann's terminology is **operationally mobile rather than demonstrably hierarchical**. Different terms organize different problems: transformation, magnitude of variation, common descent, classificatory partition, or historical population formation. This is no longer adequately described as mere terminological sloppiness.
-
-The mobile vocabulary itself reflects the fact that the relevant inferential levels have not yet been stabilized into the more explicit rank architecture visible in Meiners 1785/1793.
+Zimmermann's terminology is therefore **operationally mobile rather than demonstrably hierarchical**. Different terms organize transformation, magnitude of variation, common descent, classificatory partition and historical population formation.
 
 ## Sharpened Zimmermann ↔ Meiners boundary
 
@@ -152,7 +134,7 @@ The mobile vocabulary itself reflects the fact that the relevant inferential lev
 
 - begins with environmental range and measurable climatic intensity;
 - uses historical comparison to warrant long-duration bodily plasticity;
-- explicitly coordinates `Abartung` and `Varietät` and grades lesser `Ausartungen` beneath the largest varieties;
+- coordinates `Abartung` and `Varietät` and grades lesser `Ausartungen` beneath the largest varieties;
 - allows family traits plus isolation/endogamy to generate a new `Menschenrace`;
 - treats migration and mixture as forces complicating race partitions;
 - promotes climate into the classificatory operation itself;
@@ -167,29 +149,18 @@ The mobile vocabulary itself reflects the fact that the relevant inferential lev
 
 ### Boundary claim
 
-The strongest current boundary is therefore:
-
 > **Zimmermann 1778 already possesses a historical-geographical machinery for producing, grading and classifying human variation, but its vocabulary and evidential levels remain mobile; Meiners subsequently makes rank relations and admissible bodily inference more explicit and more regulated.**
-
-This formulation avoids portraying Meiners as the inventor of environmental classification or Zimmermann as lacking taxonomy. The shift is one of **inferential regulation and rank stabilization**, not the appearance of race/climate ex nihilo.
 
 ## Historiographical correction to preserve
 
-The modern Blumenbach-research source that cites the `Abartungen oder Varietäten` sentence as p.51 should be treated as a locator-error witness. Primary page-image control establishes p.59.
+The modern Blumenbach-research source citing the `Abartungen oder Varietäten` sentence as p.51 should be retained as a terminology lead but corrected to **p.59** on primary-page evidence.
 
-This correction is particularly important because the same modern discussion is otherwise useful for Zimmermann/Buffon terminology. Preserve the source but correct the page.
-
-## Remaining small open item
-
-Printed p.60 should be visually inspected only to complete the carried sentence after `die mindern oder untern Grade der Ausartungen sich noch leicht-` and to determine whether the continuation adds a new inferential restriction.
-
-The core p.59 claims are already primary-direct.
-
-## Stop-condition status after checkpoint 06
+## Stop-condition status after p.60 completion
 
 - [x] pp.114–115 common-origin / climate locus primary-controlled;
 - [x] primary locus establishes colour/taxonomy jurisdiction;
-- [x] Zimmermann ↔ Meiners boundary can now be stated claim-by-claim;
-- [ ] canonical colour/inference records updated with the Zimmermann primary-direct row;
+- [x] intensity / graded-variation loci primary-controlled;
+- [x] Zimmermann ↔ Meiners boundary stated claim-by-claim;
+- [x] canonical colour/inference records updated in `data/canonical/colour_zimmermann_round3_delta_1778_2026-08-27.jsonl`.
 
-Round 3 can close after the canonical update. p.60 completion is a desirable textual cleanup, not a dependency for the main boundary claim unless it materially reverses the p.59 reading.
+Round 3 is fully closable. No residual Zimmermann page packet remains.
