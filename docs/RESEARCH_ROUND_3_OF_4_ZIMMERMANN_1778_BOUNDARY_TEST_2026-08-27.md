@@ -1,7 +1,15 @@
 # Research Round 3 of 4 — Zimmermann 1778 boundary test
 
 Date: 2026-08-27
-Status: `OPEN`
+Status: `CLOSED`
+
+Closure:
+
+`docs/ROUND3_FINAL_CLOSURE_ZIMMERMANN_1778_BOUNDARY_2026-08-27.md`
+
+Canonical delta:
+
+`data/canonical/colour_zimmermann_round3_delta_1778_2026-08-27.jsonl`
 
 ## Purpose
 
@@ -15,7 +23,7 @@ Round 2 is closed in:
 
 `docs/ROUND2_FINAL_CLOSURE_MEINERS_EDITION_HISTORY_2026-08-27.md`.
 
-Closed Meiners controls to hold fixed:
+Closed Meiners controls held fixed:
 
 - 1785 p.17: colour explicitly rejected as sole/principal sign despite use inside a Stamm/Race/Varietät/Spielart hierarchy;
 - 1790 *Beyträge* pp.63–64: anti-single-body-part and isolated-bone rule plus specimen-provenance restriction;
@@ -30,27 +38,26 @@ Closed Meiners controls to hold fixed:
 4. **Intensity / degree** — Does primary actor language use `Grad`, `Maß`, `mehr/weniger`, shade/degree or analogous intensive operators in the relevant causal/classificatory argument?
 5. **Boundary against Meiners** — Which operations visible in Meiners 1785/1793 are already present in Zimmermann 1778, and where does Meiners increase inferential entitlement rather than merely inherit a climate/geography model?
 
-## Initial carrier map to verify
+## Carrier control
 
-Expected 1778 first-volume public carriers:
+Primary institutional carrier used for closure:
+
+- ETH-Bibliothek / e-rara, volume record `6943987`.
+
+Additional public carrier family retained:
 
 - Google Books full-view family;
-- Internet Archive / Open Library identifier reported as `geographischege00zimmgoog`;
-- BSB/other institutional digitisation if needed for page-image control.
+- Internet Archive / Open Library identifier `geographischege00zimmgoog`;
+- BSB/MDZ object `bsb10309400`.
 
-Expected high-value locus from modern scholarship:
+## Primary-controlled clusters
 
-- approximately printed pp.114–115 for Caucasus/common-origin → migration across climates → transformation/adaptation sequence.
+- pp.31–34 — climatic degrees / thermometric programme;
+- pp.50–60 — plasticity preparation, `Abartungen oder Varietäten`, lower `Grade der Ausartungen`;
+- pp.100–111 — race formation, common `Stamm`, colour gradation, migration/mixture, climate as classificatory principle;
+- pp.114–115 — common-origin / migration / climatic-transformation synthesis.
 
-Treat this only as a locator lead until the primary page is inspected.
-
-## Search terms
-
-Primary German:
-
-`Farbe; Hautfarbe; Klima; Clima; Racen; Race; Varietäten; Stamm; Geschlecht; Art; Grad; Grade; Maß; Stärke; schwarz; weiß; Kaukasus/Caucasus; Neger; Eskimo; ausarten; Abart; Verschiedenheit; Menschen`.
-
-## Evidence rules
+## Evidence rules retained at closure
 
 - modern page locator ≠ primary-direct until the page is inspected;
 - migration + climate transformation ≠ hereditary immutability;
@@ -60,15 +67,22 @@ Primary German:
 - intensity vocabulary ≠ direct genealogy from pre-modern intensity theory;
 - Zimmermann as comparator ≠ proof of direct influence on Meiners unless citation/contact is found.
 
-## Stop condition
+## Stop condition — final status
 
-Round 3 closes when:
+1. [x] pp.114–115 common-origin/climate locus primary-controlled;
+2. [x] primary colour/taxonomy jurisdiction established;
+3. [x] Zimmermann ↔ Meiners boundary stated claim-by-claim;
+4. [x] canonical colour/inference records updated;
+5. [x] p.60 carryover completed.
 
-1. the pp.114–115 common-origin/climate locus is primary-controlled;
-2. at least one primary locus establishes Zimmermann's colour/taxonomy jurisdiction;
-3. the Zimmermann ↔ Meiners boundary can be stated claim-by-claim without a broad literature expansion;
-4. canonical colour/inference records are updated if the boundary materially changes the current matrix.
+## Closed result
+
+Canonical boundary:
+
+> **Zimmermann 1778 already possesses a historical-geographical machinery for producing, grading and classifying human variation, but its vocabulary and evidential levels remain mobile; Meiners subsequently makes rank relations and admissible bodily inference more explicit and more regulated.**
+
+No broad Zimmermann search should be reopened from this round.
 
 ## Persistence rule
 
-Write a repo checkpoint after every resolved primary page cluster or consequential correction. Do not leave substantive intermediate results only in chat.
+All substantive results are now persisted in checkpoints 02–06, the canonical delta, and the final closure document.
