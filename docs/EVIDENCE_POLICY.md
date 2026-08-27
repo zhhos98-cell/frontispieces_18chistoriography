@@ -162,3 +162,44 @@ A question is frozen when additional generic searching is unlikely to change the
 - a historiographical comparator whose purpose is to delimit prior art rather than to enlarge the core corpus.
 
 Frozen does not mean “certain forever”. It means the project has specified what evidence would justify reopening the branch.
+
+## 11. Manual-escalation / keep-moving rule
+
+The project must not spend disproportionate research time fighting a digital front end, viewer cache, blocked PDF route, OCR endpoint, page-number mapper or other technical access problem when the remaining historical question is narrow and a human can close it cheaply.
+
+The single operational queue for these cases is [`docs/MANUAL_DOWNLOAD_AND_INSPECTION_LOG.md`](MANUAL_DOWNLOAD_AND_INSPECTION_LOG.md). Do not create parallel ad hoc lists in chat or other notes.
+
+Escalate a source to the manual queue when **all** of the following are true:
+
+1. the historical target is already sharply bounded (specific page, plate, paragraph, keyword set or small page range);
+2. automated access has become materially more expensive than the historical reasoning itself;
+3. a user action such as one click, one download, a small OCR pass, or a few screenshots is likely to close the gap;
+4. failure to perform that manual action does not prevent productive work on other branches.
+
+For every escalation, record:
+
+`source + stable carrier/ID + exact target + smallest useful user action + expected evidentiary upgrade + status`.
+
+Examples of acceptable requests:
+
+- `download this one PDF and OCR pp. 611–672`;
+- `open p. 23 and screenshot the paragraph beginning X`;
+- `search this auction catalogue for Prange / Lambert / Schäffer and return hit pages only`;
+- `capture the bottom 20% of this plate to resolve the engraver signature`.
+
+Avoid requests such as `read this whole book`, `browse the archive`, or `see if anything interesting appears` unless discovery genuinely cannot be bounded further.
+
+### Research-behaviour rule
+
+Once a manual escalation has been logged:
+
+- **do not stall the main sweep waiting for it**;
+- do not repeatedly retry the same hostile viewer unless a genuinely new automated route appears;
+- continue with the highest-value branches that can be advanced automatically;
+- preserve the unresolved claim at its current evidence status;
+- when the user later supplies the page/OCR/image, promote only the claims actually closed by that material and mark the queue item `done_user`;
+- if automation later closes it first, mark `resolved_no_manual_needed` and remove the burden from the user.
+
+Operational principle:
+
+> **Escalate cheap human closure; automate everything else; keep the research moving.**
