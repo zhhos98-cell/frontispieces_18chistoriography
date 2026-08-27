@@ -124,3 +124,28 @@ for each claim or paragraph, record:
 - Do not infer broader genealogical/causal warrant from improved descriptive precision.
 - Do not treat near-contemporary derivative witnesses as equivalent to the original 1792 article.
 - Log all unresolved retrieval failures instead of silently converting them into negative evidence.
+
+## 08:46 UTC — Temporary closure before next research round
+
+Status: **temporarily closed; no further inferential upgrades until the next sweep.**
+
+Additional closure from Library re-check:
+- Araújo's 2012 study directly juxtaposes Meiners's 1785 and 1793 formulations on human colour. In 1785, Meiners gives causal priority to climate and only secondarily to descent; in 1793, the order is reversed, with parental blood first and climate second. This is now treated as a controlled temporal change, not a retrospective summary.
+- The 1792 colour essay therefore sits at a potentially decisive transition point between an environment-first and heredity-first causal architecture. This makes direct recovery of pp. 611–672 especially important.
+- Araújo's reconstruction also confirms that Meiners's history of humanity is explicitly comparative and world-encompassing, and that his evidentiary practice is heavily text- and report-mediated rather than reducible to direct specimen inspection.
+- A separate 1788 Meiners argument already claims that relocation to milder climates does not alter certain national/natural traits; this supplies a pre-1792 bridge toward increased causal weight for inherited constitution, but does **not** by itself establish the exact argument of the 1792 colour essay.
+- Araújo further notes that the 1793 second edition added 188 titles, 115 of them published after 1785, and that Meiners himself highlighted additions from newer travel literature. This strengthens the model in which causal revision may be driven through a changing witness/report corpus rather than through adoption of a colour-standard apparatus.
+- Blumenbach's 1790 response remains an important control: he accepts the need for broad, reliable eyewitness testimony while rejecting overextended inference from isolated bodily parts to moral/mental disposition. The issue is therefore not direct observation versus testimony in a simple binary, but competing evidence hierarchies and inference ceilings.
+
+Unresolved at closure:
+- direct primary-text reconstruction of Meiners 1792 pp. 611–672;
+- whether the 1792 essay itself explicitly performs the causal-priority shift later visible in 1793;
+- Meiners's personal access to / ownership of Prange, Lambert, Schäffer or related colour standards;
+- contents of the 1788 Meiners–Beckmann letter;
+- direct page-image verification for the Gatterer / ethnographica negative-side control.
+
+Resume point for next round:
+1. recover the 1792 primary text or a trustworthy page-level surrogate;
+2. code its evidence carriers and causal targets paragraph-by-paragraph;
+3. compare the 1785 → 1792 → 1793 sequence;
+4. only then decide whether the key transition is best described as `causal reprioritisation`, `evidence-regime change`, `observer-network change`, or some combination.
