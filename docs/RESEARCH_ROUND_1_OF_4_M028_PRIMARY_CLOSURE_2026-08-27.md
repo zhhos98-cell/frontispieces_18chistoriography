@@ -1,177 +1,115 @@
 # Research round 1 of 4 — M028 Meiners 1792 primary closure
 
 Date: 2026-08-27
+Status: **closed**
 
 ## Scope
 
-This is the first of the four planned closure rounds. It is deliberately restricted to Christoph Meiners, `Ueber die Farben, und Schattierungen verschiedener Völker`, *Neues Göttingisches historisches Magazin* I/4 (1792), pp.611–672 (`M028`).
+Round 1 was deliberately restricted to Christoph Meiners, `Ueber die Farben, und Schattierungen verschiedener Völker`, *Neues Göttingisches historisches Magazin* I/4 (1792), pp.611–672 (`M028`). No new comparator branch was opened.
 
-No new comparator branch is opened in this round.
+## Primary closure
 
-## User-supplied primary carrier received
+The user supplied:
 
-The user supplied the full Google/Internet Archive scan `neuesgttingisch00meingoog.pdf`.
+1. a full Google/Internet Archive scan of the 1792 volume;
+2. BSB/MDZ screenshots of the five printed pages locally defective/missing in that carrier: pp.611–613, 619 and 671.
 
-This resolves the former broad manual request. Direct inspection now covers the core article, but the supplied carrier contains local article-sequence defects: printed pp.611–613, 619 and 671 are not recoverable from their expected positions. These are carrier defects/gaps, not evidence that the printed leaves do not exist in other copies.
+M028 is therefore fully primary-direct for every high-value claim in the verification matrix.
 
-Primary-direct result note:
+Primary result note:
 - `docs/M028_MEINERS_1792_PRIMARY_DIRECT_RESULTS_CAUSAL_RANK_TRAIT_DECOUPLING_AND_EVIDENCE_THRESHOLD.md`
-- commit `06609502e03057f8d3dc92ba12ee83ca85d87d29`.
+- full-closure commit: `7a3041524302fbfc03abd2a864d1f6c92e0e62ad`.
 
-Central method note promoted to primary-safe status:
-- `docs/MEINERS_1792_COLOUR_CAUSAL_REPRIORITISATION_EQUIFINALITY_AND_INFERENCE_JURISDICTION_2026-08-27.md`
-- commit `f6b678996ce4f2497f02a50fc6588a8f3a196171`.
+## Hard results
 
-## Matrix results
+### A. The opening makes colour's inferential jurisdiction an explicit research problem
 
-### 1. External causal architecture — confirmed and sharpened
-
-Printed pp.614–618 are primary-direct.
-
-Meiners distinguishes:
-- external causes such as sun/heat, cold, dry/moist air and winds;
-- geographical conditions that alter their force;
-- lifestyle/occupation as strengthening or weakening effects without being true co-causes in the controlled p.615 formulation;
-- dirt as masking true colour rather than producing it;
-- other causes capable of counteracting the strongest external cause.
-
-The appropriate coding is now:
-
-`cause + geographical condition + modifier + masking + counteracting cause`.
-
-### 2. Parental blood priority — confirmed primary-direct
-
-Printed pp.628–631 distinguish external/surface action from internal blood-mediated colour production.
-
-P.631 directly confirms the proposition formerly known only through Krünitz: human colour depends `am meisten` on parental blood.
-
-Therefore:
-
-`parental blood = highest/default causal weight by 1792`.
-
-But non-hereditary causal routes remain active:
-
-`highest default causal weight ≠ causal exclusivity`.
-
-### 3. Physiological modifiers and equifinality — confirmed primary-direct
-
-Pp.631–632 discuss colour alteration associated with wounds, illness, strong affect and internal blood-related processes.
-
-This confirms:
-
-`same visible dimension can arise/change through multiple causal routes`.
-
-### 4. Environmental multigenerational reversibility — materially weakened
-
-P.632 asks whether changed external causes can fully transform innate population colour into another across generations or centuries.
-
-Meiners says he lacks adequate examples of such complete conversion.
-
-This falsifies any strong formulation that the 1792 article empirically demonstrates environment-only intergenerational replacement of inherited colour.
-
-Required distinction:
-
-`observed modification`
-`≠ observed complete multigenerational replacement`
-`≠ hypothesised historical/origin transformation`.
-
-### 5. Trait decoupling — confirmed primary-direct; locator repaired
-
-The old `p.679` primary locator is false because the article ends at p.672.
-
-The genuine passage is printed pp.635–637, especially p.636.
-
-Repeated admixture can darken colour across generations while body/facial formation is still described as European or more European; p.637 also supplies a case of black colour without loss of Arab facial formation.
-
-But p.637 also allows pathways in which colour and formation move together.
+Pp.611–612 ask whether colour depends more on climate/place or descent, whether children's colour depends more on birthplace or parental blood, whether colour is a reliable sign of `Racen und Abkunft`, how many `Hauptfarben` exist, and which can count as `Grundfarben`.
 
 Thus:
 
-`trait decoupling = explicit`
+`colour as racial/genealogical evidence = question to be tested`,
 
-while
+not an unexamined premise.
 
-`linear trait-persistence hierarchy = not established`.
+### B. Observer vocabulary instability is actor-explicit
 
-### 6. Light-colour equifinality — confirmed primary-direct
-
-Pp.665–667 demonstrate that light/white appearance can be interpreted genealogically in some cases but climatically and without European admixture in another.
+P.613 states that ordinary colour vocabularies cannot precisely express innumerable gradations. Travellers use broad and unstable terms, credible observers can contradict one another, and colour judgment changes with the comparison population implicitly held in mind.
 
 Therefore:
 
-`light colour ≠ necessarily European descent`.
+`body/perceptual encounter × vocabulary × observer precision × comparison frame → reported colour`.
 
-### 7. Multi-trait triangulation — confirmed
+The same page then identifies the downstream problem of discriminating similar visible effects produced by different causes, including climate and population mixture.
 
-Pp.667–668 combine colour with eyes, hair, bodily/face formation, geography and descent/mixture history.
+This upgrades the Wilson-informed `conditions_of_legibility`, `observer_vocabulary_instability`, `comparison_frame`, and `retrostandardisability` problems to actor-explicit eighteenth-century controls.
 
-This supports the analytical `trait bundle + provenance/history` model while not proving a universal actor-explicit weighting function.
+### C. Ranked plural causal field survives primary falsification
 
-### 8. Hauptfarben / Urfarben — structural result primary-direct, literal list still pending
+Pp.614–619 distinguish direct external causes, geographical conditioning, modifiers, masking, and counteracting causes.
 
-Printed p.672 is present and directly states that among `these four Hauptfarben`, white and yellow are the `Urfarben`, from which the other principal colours and shades arose.
+P.631 directly confirms:
 
-The literal enumeration of all four Hauptfarben lies on the missing p.671 and therefore remains derivative-controlled until an alternate carrier is inspected.
+`parental blood = highest/default causal weight by 1792`.
 
-### 9. Krünitz control
+But environment, admixture and internal physiology remain active:
 
-On the high-value passages tested, Krünitz preserves the substantive architecture closely enough to explain why the derivative reconstruction was productive. Do not generalise this into a claim of word-for-word identity or complete fidelity across the whole article.
+`highest default causal weight ≠ causal exclusivity`.
 
-## Main falsification result of Round 1
+### D. Environmental transformation requires an evidence-threshold distinction
 
-The earlier reconstruction survives, but in a stricter form.
+P.632 says adequate examples are lacking for complete environment-only conversion of an innate population colour across generations/centuries.
 
-Retain:
+Therefore:
 
-`ranked plural causal field`
+`observed modification`
+`≠ demonstrated multigenerational replacement`
+`≠ conjectural historical/origin transformation`.
 
-`parental blood highest/default weight`
+### E. Trait decoupling is primary-direct
 
-`phenotypic equifinality`
+The old `p.679` locator is false. The original passage lies at pp.635–637, especially p.636.
 
-`trait decoupling`
+Colour and body/facial formation can follow different trajectories within one descent history, but:
 
-`multi-trait / provenance-sensitive causal discrimination`.
+`linear_trait_persistence_hierarchy = not established`.
 
-Add the crucial evidentiary boundary:
+### F. Phenotypic equifinality and multi-trait inference survive
 
-`Meiners can hypothesise deep historical physical transformations without claiming that complete environment-only population-colour conversion has been empirically observed across generations`.
+Pp.665–668 directly confirm that similar light colour can receive different causal/genealogical explanations and that colour is read together with other bodily traits, geography and descent/mixture reports.
 
-This yields:
+### G. Hauptfarben / Urfarben distinction is fully primary-direct
 
-`causal possibility / origin hypothesis ≠ demonstrated conversion`.
+P.671 directly enumerates four `Hauptfarben`: white, yellow, red, black.
 
-## Relation to the 1790 anti-single-trait rule
+P.672 identifies only white and yellow as `Urfarben` and treats other principal colours as historically derived.
 
-The 1792 article does use colour together with body/face, hair/eyes, geography, mixture/descent reports and travel evidence. It therefore shows real awareness that a single visible trait is causally underdetermined.
+Thus:
 
-Do not infer perfect consistency. Broad racial/evaluative inference remains present. The safe result is:
+`descriptive colour category ≠ origin/history category`.
 
-`awareness of underdetermination + triangulation practices ≠ consistently adequate inference threshold`.
+## Round-1 main revision
 
-## Round-1 residual manual closure
+The earlier derivative reconstruction substantially survives, but the primary text makes the epistemic sequence sharper:
 
-The former request for the whole article is complete.
+`unstable observation/report`
+`→ source and comparison-frame discrimination`
+`→ causal discrimination`
+`→ trait/provenance triangulation`
+`→ racial/genealogical/natural-historical inference`.
 
-Do **not** ask the user to redownload or OCR the volume.
+The key falsification is that causal pluralism must not be equated with empirically demonstrated environmental reversibility.
 
-Only five printed pages remain useful from an alternate carrier:
+## Stop rule and handoff
 
-- pp.611–613;
-- p.619;
-- p.671.
+`M028 = closed_primary_direct`.
 
-Preferred alternate carrier:
-- BSB/MDZ object `bsb10738733`.
+Do not spend further user time on this article.
 
-Smallest user action:
+Proceed to Round 2 from the pre-agreed closure order:
 
-> Open the BSB/MDZ copy and send screenshots or exports of printed pp.611, 612, 613, 619 and 671 only. No adjacent pages are needed unless one of these is also defective.
+1. 1785 p.23 ↔ 1793 p.23 edition comparison;
+2. 1793 p.60 Kant citation;
+3. 1785 p.39 ↔ 1793 p.85 climate/descent revision.
 
-## Round-closure status
-
-`substantive_core = closed_primary_direct`
-
-`diplomatic_leaf_completion = five_pages_pending`
-
-Round 1 should not reopen any additional comparator or theory branch. Once the five residual leaves are supplied—or if an automated alternate carrier closes them first—mark M028 fully closed and move to Round 2.
+The emerging historiographical bridge to Vermeulen / premodern critical race studies / Wilson is important, but it should be treated as a framing layer rather than as permission to reopen Round 1.
