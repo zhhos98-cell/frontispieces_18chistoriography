@@ -212,3 +212,25 @@ Provisional operational chain:
 `colour observation × associated traits × geography/provenance × witness report × comparison → causal attribution → genealogical/classificatory inference`
 
 This replaces the too-simple model `colour → ancestry`.
+
+## 09:06 UTC — Trait decoupling / differential persistence added
+
+Evidence status: **near-contemporary derivative witness (Krünitz), original p.679 still pending direct scan verification.**
+
+New closure:
+- the Krünitz reconstruction preserves a Meiners argument in which repeated unions between Europeans or their descendants and Black women can progressively darken descendants until the third/fourth generation becomes black or blackish, while bodily formation—especially facial form—is still described as European or at least more European than `Neger-artig`;
+- the same genealogical line can therefore carry traits that change at different rates: `colour change rate ≠ morphology change rate`;
+- phenotype cannot be treated as a single integrated marker even within Meiners's own argument. Colour, facial/body form, hair and other traits require separate temporal and causal coding.
+
+Interpretive upgrade:
+- add **trait decoupling** to **phenotypic equifinality**. Equifinality concerns one outcome produced by several causes; trait decoupling concerns several traits within one body/lineage following different causal-temporal trajectories;
+- genealogical inference becomes a weighted cross-trait operation rather than accumulation of equivalent corroborating signs;
+- proposed formula: `genealogical signal = weighted bundle of partially decoupled traits + provenance/history`;
+- new fields: `trait_decoupling`, `trait_persistence_rate`, `trait_temporality`, `cross_trait_concordance`, `trait_specific_inference_weight`, `trait_specific_causal_susceptibility`, `cross_trait_weighting`.
+
+Repo write-back:
+- methodology file updated in commit `a9431f4521cf6397b45bc3e1aecdab50ee735f57`:
+  `docs/MEINERS_1792_COLOUR_CAUSAL_REPRIORITISATION_EQUIFINALITY_AND_INFERENCE_JURISDICTION_2026-08-27.md`
+
+Next comparative test:
+- determine whether this separation of skin colour, facial/body form and hair is specific to Meiners or part of a broader late-Enlightenment physical-geography / anthropology evidentiary grammar.
