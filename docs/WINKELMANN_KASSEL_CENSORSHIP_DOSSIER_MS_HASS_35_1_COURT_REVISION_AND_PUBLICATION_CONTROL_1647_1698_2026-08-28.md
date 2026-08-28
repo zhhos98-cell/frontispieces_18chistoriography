@@ -1,7 +1,7 @@
-# Winkelmann Kassel censorship dossier `2° Ms. Hass. 35/1`: court revision and publication control, c.1647–1698
+# Winkelmann Kassel censorship dossier `2° Ms. Hass. 35[1.2` / Fuchs `35/1`: court revision and publication control, c.1647–1698
 
 Date: 2026-08-28  
-Status: HIGH-VALUE PRODUCTION / CENSORSHIP CHECKPOINT — EXACT KASSEL SHELFMARK CONTROLLED THROUGH FUCHS CITATION; LONG COURT-REVISION CHAIN CONTROLLED THROUGH MODERN SCHOLARSHIP; ITEM-LEVEL MODERN CATALOGUE DESCRIPTION AND EXACT CENSORED PASSAGES STILL PENDING
+Status: HIGH-VALUE PRODUCTION / CENSORSHIP CHECKPOINT — OFFICIAL KASSEL HOLDINGS LIST NOW CONTROLS THE MANUSCRIPT GROUP AS `2° Ms. Hass. 35[1.2`; FUCHS CITES `2° Ms. Hass. 35/1` FOR THE WINCKELMANN ZENSURAKTEN; MODERN CATALOGUE PRESENCE IS CONTROLLED, DIGITAL SURROGATE IS NOT LISTED, ITEM-LEVEL DESCRIPTION AND EXACT CENSORED PASSAGES REMAIN PENDING
 
 ## Result
 
@@ -9,7 +9,7 @@ The production history of Johann Just Winkelmann's Hessian chronicle can now be 
 
 1. **authorial manuscript apparatus** — Oldenburg `Cim I 204`, an autograph / authorially revised Latin chronicle witness with inserted leaves and multiple revision states;
 2. **rolling court / archive source supply** — Darmstadt `HStAD D 4, 214/4`, including a 1697–98 request to transmit Landgrave Ernst Ludwig's `Lebenslauf` to the historiographer Winkelmann in Bremen `zur Abfassung einer Chronik`;
-3. **court revision / censorship / publication control** — Kassel `2° Ms. Hass. 35/1`, explicitly cited by Thomas Fuchs as `Zensurakten` for Winkelmann's *Gründliche und wahrhafte Beschreibung der Fürstenthümer Hessen und Hersfeld*.
+3. **court revision / censorship / publication control** — Kassel manuscript group `2° Ms. Hass. 35[1.2`, with Thomas Fuchs specifically citing `2° Ms. Hass. 35/1` as `Zensurakten` for Winkelmann's *Gründliche und wahrhafte Beschreibung der Fürstenthümer Hessen und Hersfeld*.
 
 This substantially revises the production model.
 
@@ -34,39 +34,80 @@ This gives a political-institutional layer beneath the later taxonomic and visua
 
 ---
 
-## 1. Shelfmark correction: Fuchs cites `2° Ms. Hass. 35/1`
+## 1. Shelfmark concordance: official Kassel list `35[1.2`, Fuchs `35/1`
 
 Thomas Fuchs, in his 2003 article on criticism of church and religion in Enlightenment historiography, cites Winkelmann's *Gründliche und wahrhafte Beschreibung ...* and identifies the relevant archival evidence as:
 
 `Aus den Zensurakten: Gesamthochschulbibliothek Kassel, 2° Ms. Hass. 35/1`.
 
-This corrects an earlier working shorthand in the research session that had compressed the shelfmark as `35[1.2`.
+A newly inspected official UB Kassel holdings-control PDF now changes the shelfmark interpretation. The library's:
 
-Repository rule:
+`Liste der vorhandenen Katalogisate und Digitalisate des Hassiaca-Bestandes`, Stand 26.06.2012,
 
-> Use `2° Ms. Hass. 35/1` as the currently controlled Fuchs shelfmark. Do not silently convert it to `35[1.2` or to `4° Ms. Hass. 35`.
+lists the manuscript group as:
 
-The folio/`2°` distinction is important. A different Kassel manuscript `4° Ms. Hass. 35` belongs to another historical miscellany and must not be conflated with the Winkelmann censorship dossier.
+`2° Ms. Hass. 35[1.2    x`
 
-Source:
+where the document explicitly defines:
 
-- Thomas Fuchs, “Das Ringen mit der Tradition: Die Kritik an Kirche und Religion in der Historiographie der Aufklärungsepoche,” *Zeitschrift für Religions- und Geistesgeschichte* 55.2 (2003), 121–137, DOI `10.1163/157007303764777808`; indexed snippet exposes the `2° Ms. Hass. 35/1` citation.
+`x = im Katalog der Hassiaca`
+
+and
+
+`o = moderne Kurzaufnahme für ORKA`.
+
+No `o` marker and no `Digitalisat:` URL are printed on the `35[1.2` row.
+
+This corrects the previous repository rule that treated `35[1.2` as an erroneous shorthand.
+
+### Current shelfmark rule
+
+Use two evidence levels rather than normalising one into the other:
+
+- `2° Ms. Hass. 35[1.2` = **official UB Kassel holdings-list form for the manuscript group**, catalogued in the Hassiaca catalogue as of 26 June 2012;
+- `2° Ms. Hass. 35/1` = **Fuchs's scholarly citation to the Winckelmann censorship material**, plausibly referring to the first subdivision/item within that group, but the exact relation of slash notation to bracket notation still requires the catalogue entry itself.
+
+Do not convert either form silently into `4° Ms. Hass. 35`.
+
+The folio/`2°` distinction remains essential. The same official list separately contains `4° Ms. Hass. 35`, demonstrating that this is a distinct manuscript shelfmark and cannot be conflated with the Winckelmann dossier.
+
+Sources:
+
+- Thomas Fuchs, “Das Ringen mit der Tradition: Die Kritik an Kirche und Religion in der Historiographie der Aufklärungsepoche,” *Zeitschrift für Religions- und Geistesgeschichte* 55.2 (2003), 121–137, DOI `10.1163/157007303764777808`;
+- UB Kassel, `Liste der vorhandenen Katalogisate und Digitalisate des Hassiaca-Bestandes`, Stand 26.06.2012, row `2° Ms. Hass. 35[1.2`.
 
 Evidence status:
 
-`SCHOLARLY DIRECT ARCHIVAL CITATION CONTROLLED`.
+`OFFICIAL HOLDINGS / CATALOGUE-PRESENCE CONTROL + SCHOLARLY DIRECT ARCHIVAL CITATION CONTROLLED`.
 
 ### Guardrail
 
-The exact modern catalogue title, physical extent, internal subdivision and present consultation status of `2° Ms. Hass. 35/1` have not yet been directly controlled in an item-level Kassel catalogue record during the current sweep.
+The new official list controls more than the earlier Fuchs citation but less than a full catalogue record.
 
-Therefore retain:
+It establishes:
 
-`KASSEL CENSORSHIP DOSSIER SHELFMARK = CONTROLLED THROUGH SCHOLARLY USE`
+- the manuscript group existed in the UB Kassel Hassiaca control system in 2012;
+- it was represented in the Hassiaca catalogue (`x`);
+- the row does not advertise an ORKA short record (`o`);
+- the row does not advertise a digital surrogate.
 
-but
+It does **not** yet establish:
 
-`MODERN ITEM-LEVEL DESCRIPTION / SURVIVAL STATUS = PENDING DIRECT CONTROL`.
+- exact title;
+- date span;
+- physical extent;
+- internal contents of `[1` and `[2`;
+- whether Fuchs's `/1` maps exactly to `[1`;
+- present-day consultation status;
+- whether a digitisation has been added after the 2012 list.
+
+Current formulation:
+
+`MANUSCRIPT GROUP + CATALOGUE PRESENCE = CONTROLLED`
+
+`FUCHS CENSORSHIP SUBUNIT = CONTROLLED THROUGH SCHOLARLY USE`
+
+`SUBDIVISION CONCORDANCE + ITEMIZATION = PENDING`.
 
 ---
 
@@ -180,9 +221,9 @@ Working label:
 
 ---
 
-## 6. Kassel `2° Ms. Hass. 35/1`: a third layer, governmental revision / censorship
+## 6. Kassel censorship group: a third layer, governmental revision / censorship
 
-The Fuchs citation now adds a distinct archive object:
+Fuchs's citation adds a distinct archive object within the officially controlled `2° Ms. Hass. 35[1.2` group:
 
 `2° Ms. Hass. 35/1`
 
@@ -205,7 +246,7 @@ The three archival loci therefore expose three different document-producing inst
 |---|---|---|
 | authorial composition | Oldenburg `Cim I 204` | drafting, insertion, revision, versioning |
 | source acquisition | Darmstadt `HStAD D 4, 214/4` | official supply of biographical/historical material |
-| review / jurisdiction | Kassel `2° Ms. Hass. 35/1` | censorship and governmental revision |
+| review / jurisdiction | Kassel `2° Ms. Hass. 35[1.2`, especially Fuchs `35/1` | censorship and governmental revision |
 
 This tripartite structure is currently one of the strongest material-production controls in the repository.
 
@@ -234,7 +275,7 @@ That may include:
 - negotiation between Hessen-Darmstadt and Hessen-Kassel;
 - authorization or delay of printing.
 
-Which of these operations are directly documented in `35/1` remains to be reconstructed from the dossier itself or Fuchs's detailed archival analysis.
+Which of these operations are directly documented in the first subunit of `35[1.2` remains to be reconstructed from the catalogue/dossier itself or Fuchs's detailed archival analysis.
 
 ---
 
@@ -328,26 +369,22 @@ No direct causal path from Winkelmann's censorship history to the 1726 frontispi
 
 ## 11. Immediate queue
 
-### Priority A — identify the exact Kassel item description
-
-Recover an item-level catalogue description for:
-
-`2° Ms. Hass. 35/1`
+### Priority A — recover the full Hassiaca catalogue entry for `2° Ms. Hass. 35[1.2`
 
 Target fields:
 
-- exact title;
+- exact title(s);
 - date span;
 - foliation / extent;
-- internal subdivisions (`35/1`, possible `35/2` etc.);
+- content of `[1` versus `[2`;
+- relation between Fuchs `/1` and official `[1` notation;
 - provenance;
-- war-loss / survival note;
-- present consultation status;
-- digital surrogate, if any.
+- survival / consultation note;
+- any post-2012 digital surrogate.
 
 ### Priority B — reconstruct the actual censorship operations
 
-Read Fuchs 2002 pp. 246–305 and/or `2° Ms. Hass. 35/1` for:
+Read Fuchs 2002 pp. 246–305 and/or the first subunit of `2° Ms. Hass. 35[1.2` for:
 
 - who reviewed the chronicle;
 - which court / government acted at each stage;
@@ -372,4 +409,4 @@ align its reported publication chronology with the surviving Kassel censorship/r
 
 ## Working proposition
 
-> **Winkelmann's Hessian chronicle was not merely a historian's manuscript later subjected to a final censor. Its production was distributed across court commission, privileged archive access, a heavily revised authorial manuscript apparatus, continuing official source supply, and repeated governmental revision. Kassel `2° Ms. Hass. 35/1`, cited by Fuchs as the censorship dossier, supplies a specific archival locus for this jurisdictional layer. The 1697 print should therefore be treated as one output state within a long, institutionally governed and materially versioned historical-information system.**
+> **Winkelmann's Hessian chronicle was not merely a historian's manuscript later subjected to a final censor. Its production was distributed across court commission, privileged archive access, a heavily revised authorial manuscript apparatus, continuing official source supply, and repeated governmental revision. UB Kassel officially controls the relevant manuscript group as `2° Ms. Hass. 35[1.2`; Fuchs cites `2° Ms. Hass. 35/1` as the censorship file he used. The 1697 print should therefore be treated as one output state within a long, institutionally governed and materially versioned historical-information system.**
