@@ -1,159 +1,155 @@
-# Winckelmann 1664: Staden original woodblock reuse, matrix-state anomalies, and provenance-claim collapse
+# Winckelmann 1664: Staden woodblock reuse, matrix-state anomalies, and provenance-claim collapse
 
 Date: 2026-08-28  
-Status: HIGH-VALUE VISUAL-PRODUCTION CHECKPOINT — 32 STADEN ILLUSTRATIONS CONTROLLED AS IMPRESSIONS FROM ORIGINAL 1557 MARBURG WOODBLOCKS; TWO 1664 IMPRESSIONS REPORTED WITH ORIGINAL NAMES ELIMINATED; TWO FURTHER BLOCKS ARE NOT FROM STADEN DESPITE WINCKELMANN'S 34-BLOCK ORIGIN CLAIM; DIRECT P.168/P.179 MATRIX-STATE IMAGE COMPARISON REMAINS OPEN
+Status: HIGH-VALUE VISUAL-PRODUCTION CHECKPOINT — JCB/OPEN LIBRARY CATALOGUES 32 STADEN-SECTION ILLUSTRATIONS AS IMPRESSIONS FROM ORIGINAL 1557 MARBURG WOODBLOCKS, BUT OBERMEIER'S SCHOLARLY RECONSTRUCTION DESCRIBES ONLY SOME/PART OF THE ORIGINAL BLOCK STOCK AS SURVIVING; THIRTY-TWO-FOLD SAME-MATRIX IDENTITY IS THEREFORE DOWNGRADED PENDING MATRIX-BY-MATRIX COMPARISON; TWO 1664 IMPRESSIONS ARE REPORTED WITH ORIGINAL NAMES ELIMINATED; TWO FURTHER BLOCKS ARE NOT FROM STADEN DESPITE WINCKELMANN'S 34-BLOCK ORIGIN CLAIM
 
 ## Result
 
 Johann Just Winckelmann's 1664 *Der americanischen Neuen Welt Beschreibung* supplies a direct seventeenth-century control for the repository distinction:
 
 `programme/origin claim`
+≠ `composition identity`
 ≠ `matrix identity`
 ≠ `matrix state`
 ≠ `impression identity`
 ≠ `host-publication identity`.
 
-The John Carter Brown Library / Internet Archive bibliographic record states that the thirty-two text illustrations accompanying the Hans Staden narrative were **printed from the original Marburg 1557 woodblocks**, rediscovered by Winckelmann.
+The John Carter Brown Library / Internet Archive-derived bibliographic record states that the thirty-two text illustrations accompanying the Hans Staden narrative were **printed from the original Marburg 1557 woodblocks**, rediscovered by Winckelmann. A JCB individual-image record for 1664 p.142, *[Fishing among the Tupinamba]*, independently says that the illustration was reprinted from the original woodcut used in Staden's 1557 *Warhaftige Historia*.
 
-The same record identifies two state anomalies:
+However, Franz Obermeier's iconographic/bibliographic reconstructions use materially narrower language. His 2014 overview describes the 1664 illustrations as deriving only `teilweise` from the princeps and says `wohl nur ein Teil der originalen Druckstöcke erhalten`; another discussion describes Winckelmann's edition as using `einigen der originalen Holzstöcke`.
 
-- 1664 p.168 — names present on the original woodcut have been eliminated;
-- 1664 p.179 — names present on the original woodcut have been eliminated.
+These formulations cannot presently be normalized into one thirty-two-fold physical-matrix conclusion.
 
-It separately states that two additional text illustrations, on 1664 pp.18 and 74, are **definitely not from Staden's original work**, although Winckelmann claims on p.136 that all thirty-four woodcuts had been made at Staden's instigation.
+Current evidence rule:
 
-The 1664 book also contains a separate folded added illustrated title page, about 16 × 22 cm, commemorating the life of Christopher Columbus. This threshold plate belongs to a different production layer from the reused Staden text blocks.
+`JCB CATALOGUE ATTRIBUTION: 32 original-block impressions`
 
-Primary/catalogue controls:
+alongside
 
-- John Carter Brown Library copy / Internet Archive `deramericanische00winc`;
-- Open Library edition record `OL33153163M`;
-- JCB Archive of Early American Images, call number `J664 W761a oblong`;
-- JCB individual image record `01512-5`, *[Fishing among the Tupinamba]*, 1664 p.142, explicitly noted as reprinted from the original Staden woodcut.
+`OBERMEIER SCHOLARLY RECONSTRUCTION: only some / a portion of original block stock securely available`.
 
-Useful public records:
+Therefore:
 
-- https://openlibrary.org/books/OL33153163M/Der_americanischen_Neuen_Welt_Beschreibung
-- https://commons.wikimedia.org/wiki/File:Der_americanischen_Neuen_Welt_Beschreibung,_-_darinnen_deren_Erfindung,_Lager,_Natur,_Eigenschaft,_Sitten,_Barbarey,_und_unerh%C3%B6rte_Grausamkeit_der_Einwohner,_Thier,_V%C3%B6gel_(IA_deramericanische00winc).pdf
-- https://jcb.lunaimaging.com/luna/servlet/detail/JCB~1~1~4830~7600003%3A-Fishing-among-the-Tupinamba-
+`32 × SAME_MATRIX_AS 1557 = NOT YET PROMOTED`.
+
+Composition-level derivation from Staden remains broad and strong; physical matrix identity must now be established occurrence by occurrence through defects, dimensions, lettering, frame, cuts, wear and state comparison.
+
+Sources / controls:
+
+- Open Library edition `OL33153163M` / JCB-derived edition notes;
+- JCB Archive of Early American Images, call number `J664 W761a oblong`, record `01512-5`, *[Fishing among the Tupinamba]*, 1664 p.142;
+- Franz Obermeier, `Deutsche Reiseliteratur über Südamerika im 16. Jahrhundert`, *kunsttexte.de* 3/2014;
+- Franz Obermeier, later discussion of colonial travel-report illustration and Staden reception.
 
 ---
 
-## 1. Same physical matrix, new host publication
+## 1. What is securely controlled about reuse
 
-The strongest controlled visual relation is not merely iconographic similarity.
+At minimum, actual reuse of original Staden woodblocks is beyond a generic iconographic-copy hypothesis.
 
-For thirty-two Staden illustrations:
-
-`1557 Marburg woodblock`
-→ `1664 Oldenburg impression from the same original block`.
+JCB p.142 directly records one image as reprinted from the original 1557 woodcut, while Obermeier independently states that original Staden printing blocks were indeed available to Winckelmann and used in 1664.
 
 Thus:
 
-`same composition`
-+
-`same matrix`
-+
-`different publication context`
-+
-`different textual sequencing / interpretation`.
+`ORIGINAL 1557 BLOCK STOCK REUSE IN 1664 = CONTROLLED`.
 
-This is an unusually strong early-modern `same_matrix_as` case for the repository.
+What remains open is its exact numerical extent.
 
-The later host does not merely copy the image. It reactivates surviving graphic stock more than a century after the matrix's first use.
+The previous repository formulation:
 
-Secondary discussion by Franz Obermeier independently characterizes the 1664 reuse as impressions from at least part of the original printing blocks and stresses that Winckelmann deploys them illustratively without preserving the original text-image alignment.
+`32 SAME-MATRIX REUSE OCCURRENCES`
+
+is superseded by:
+
+`32 CATALOGUED AS ORIGINAL-BLOCK IMPRESSIONS BY JCB`
++
+`AT LEAST SOME ORIGINAL-BLOCK REUSE INDEPENDENTLY CONTROLLED`
++
+`32-FOLD PHYSICAL SAME-MATRIX CENSUS REQUIRES DIRECT CONCORDANCE`.
+
+This correction matters because the project explicitly distinguishes composition lineage from matrix lineage.
 
 ---
 
-## 2. P.168 and p.179 are matrix-state problems, not merely caption differences
+## 2. P.168 and p.179 are reported state anomalies, but even their matrix identity should be visually re-proved
 
-The JCB/Open Library bibliographic note says that names present on the original woodcuts have been `eliminated` in the 1664 impressions at pp.168 and 179.
+The JCB/Open Library edition note says that in two instances, 1664 pp.168 and 179, names present on the original woodcuts have been `eliminated`.
 
-This establishes a reported visual-state difference within an otherwise same-matrix reuse sequence.
+This strongly implies comparison with corresponding 1557 designs and a perceived state difference.
 
-Current safe statement:
+Safe current formulation:
 
-`1557 original matrix/state with names`
-→ `1664 impression lacking those names`.
+`1557 corresponding image contains names`
+→ `1664 corresponding image lacks those names`.
 
-What is **not yet controlled** is the physical operation that produced the difference.
+Two questions remain separate:
 
-Possible mechanisms to test visually:
+1. **matrix identity** — is each 1664 image demonstrably an impression from the same physical 1557 block rather than a close recut/copy?
+2. **state mechanism** — if same matrix, how were the names removed or suppressed?
 
-- cutting/paring away lettered relief from the block;
-- plugging or recutting the block;
-- localized damage/wear subsequently regularized;
-- masking / selective inking at press;
-- loss of a separate typographic or inserted component if the names were not integral to the block;
-- catalogue-level misdescription.
+Possible state mechanisms to test only after image recovery:
 
-Do not promote `retouched block`, `recut block`, or `censored names` before direct image comparison.
+- cutting/paring away lettered relief;
+- plugging/reworking;
+- localized damage or loss;
+- selective inking/masking;
+- separate lettering component rather than integral carving;
+- catalogue-level overstatement.
 
-Current status:
+Do not promote `retouched block`, `recut block`, `censored names`, or even `same physical block` for these two occurrences until the direct pairwise comparison is in hand.
 
-`STATE DIFFERENCE = VERIFIED CATALOGUE`
+Current statuses:
 
-`PHYSICAL MECHANISM = OPEN`.
+`NAME DIFFERENCE = VERIFIED CATALOGUE REPORT`
 
-Immediate target:
+`SAME PHYSICAL MATRIX = STRONG HYPOTHESIS / UNVERIFIED AT ITEM LEVEL`
 
-`1557 corresponding impression`
-↔ `1664 p.168`
-
-and
-
-`1557 corresponding impression`
-↔ `1664 p.179`.
+`PHYSICAL ALTERATION MECHANISM = OPEN`.
 
 ---
 
-## 3. The 34-block origin claim collapses distinct provenance classes
+## 3. The 34-block origin claim still collapses distinct provenance classes
 
-The same bibliographic record states that illustrations on 1664 pp.18 and 74 are definitely **not** from Staden's original work.
+The JCB-derived bibliographic record states that illustrations on 1664 pp.18 and 74 are definitely **not** from Staden's original work.
 
 Yet Winckelmann states on p.136 that all thirty-four woodcuts were made at Staden's instigation.
 
-This produces a historically valuable discrepancy:
+This remains a strong historically internal discrepancy regardless of the exact number of surviving original matrices:
 
 `AUTHORIAL PROGRAMME / PROVENANCE CLAIM: 34 Staden-origin blocks`
 
-while
+versus
 
-`MATRIX PROVENANCE CONTROL: 32 original Staden blocks + 2 non-Staden blocks`.
+`MODERN PROVENANCE CONTROL: at least 2 blocks are not Staden-original`.
 
-The analytical lesson is important for the larger corpus:
+The analytical lesson is therefore preserved but sharpened:
 
-> early-modern statements that a visual apparatus is one inherited set can themselves be acts of retrospective collection-making.
-
-A host publication can normalize matrices with different provenances under one asserted origin story.
+> a seventeenth-century host publication can retrospectively normalize visual matrices or compositions of different provenances under one asserted inherited origin story.
 
 Working label:
 
-`RETROSPECTIVE MATRIX-PROVENANCE COMPRESSION`.
+`RETROSPECTIVE MATRIX/IMAGE-PROVENANCE COMPRESSION`.
 
 ---
 
-## 4. Image order and text relation are also unstable
+## 4. Image order and text relation are unstable even where old blocks survive
 
-The 1664 reuse did not preserve the 1557 image-text ecology automatically.
+Obermeier stresses that Winckelmann uses the surviving Staden material illustratively and without preserving the princeps's careful text-image alignment. The original edition itself was apparently not the textual model available to him.
 
-Secondary scholarship notes that the old blocks are used illustratively rather than in consistently correct content alignment.
+Thus:
 
-This creates a further distinction:
-
-`matrix survival`
+`matrix or composition survival`
 ≠ `original image-text relationship survival`.
 
-An image can retain its physical woodblock identity while losing:
+An old image can retain physical or compositional continuity while losing:
 
 - original narrative position;
 - original explanatory function;
 - original labels;
 - original sequence;
-- original epistemic status.
+- original authenticity argument.
 
-That is especially important for the repository because matrix continuity can coexist with strong semantic recontextualization.
+This is independently important even before all matrix identities are resolved.
 
 ---
 
@@ -164,95 +160,92 @@ The JCB copy contains an added folded illustrated title page:
 - approximately 16 × 22 cm;
 - separately produced threshold image;
 - scenes from the life of Christopher Columbus;
-- navigational / geographic motifs including instruments, ships, compass and western-hemisphere mapping imagery.
+- navigational/geographic iconography.
 
-JCB image record `01512-1` catalogues this as a fold-out added engraved/illustrated title page.
+JCB image record `01512-1` catalogues this as a fold-out added illustrated title page.
 
-This must remain separate from the Staden woodblock-stock lineage.
+This should remain separate from the Staden woodblock-stock lineage.
 
-Therefore the same 1664 book combines at least:
+The same 1664 book therefore combines:
 
 1. `new/separate threshold apparatus`;
-2. `reused 1557 woodblock stock`;
-3. `reported modified-state old matrices`;
-4. `non-Staden blocks retrospectively folded into a Staden-origin programme`.
+2. `at least some genuine old Staden matrices`;
+3. `Staden-derived compositions whose exact matrix status needs pairwise verification`;
+4. `reported altered-name image states`;
+5. `non-Staden images retrospectively folded into a Staden-origin programme`.
 
-The book is therefore already a mixed visual production ecology rather than one homogeneous illustration cycle.
+The book is a mixed visual production ecology, not one homogeneous inherited plate/block set.
 
 ---
 
 ## 6. Relation to Winckelmann's wider visual production history
 
-The 1664 case should now be compared with:
+The 1664 case should be compared with:
 
 ### 1671 Oldenburg Chronicle
 
-A large newly produced copperplate apparatus:
+A large copperplate apparatus controlled at edition level:
 
 - engraved title;
 - 24 portrait engravings;
 - 15 further copperplate illustrations;
 - 2 engraved maps;
-- multiple identified draughtsmen/engravers.
+- multiple named production participants.
 
 ### Hessian Chronicle
 
-A later project whose early plan reportedly included maps and illustrations but whose visual expansion was abandoned after Darmstadt court participation cooled.
+A later project whose early plan reportedly included maps and illustrations but whose visual expansion was abandoned as Darmstadt court participation cooled.
 
-Thus an author-level sequence becomes testable:
+Thus an author-level sequence remains testable:
 
-`OLD MATRIX STOCK REACTIVATION`
-→ `NEW COURT-HISTORICAL COPPERPLATE APPARATUS`
+`INHERITED / REDISCOVERED MATRIX STOCK + IMAGE-PROVENANCE RECOMPOSITION`
+→ `LARGE COORDINATED COURT-HISTORICAL COPPERPLATE APPARATUS`
 → `PLANNED BUT REDUCED/CANCELLED VISUAL APPARATUS`.
-
-This offers a production-history route directly back to the central frontispiece question.
 
 ---
 
-## 7. Immediate queue
+## 7. Revised immediate queue
 
-### Priority A — p.168 / p.179 direct matrix-state comparison
+### Priority A — full 1557→1664 composition/matrix concordance
 
-Need:
-
-- 1664 page image;
-- corresponding 1557 Marburg image;
-- exact name/lettering location;
-- edge/frame continuity;
-- cuts/voids/plugging traces;
-- other stable defects proving same physical block;
-- comparison with surviving 1664 copies if possible.
-
-### Priority B — identify pp.18 and 74 block provenance
-
-Test whether these two blocks derive from:
-
-- another New World publication;
-- Oldenburg/local printer stock;
-- generic ethnographic/natural-history stock;
-- copied rather than reused Staden-adjacent blocks.
-
-### Priority C — build a full 1557→1664 matrix concordance
-
-Fields:
+For every Staden-section illustration record:
 
 - 1557 image/folio/chapter;
 - 1664 page;
-- JCB image record;
+- JCB record if available;
 - composition identity;
-- same-matrix status;
+- dimensions;
+- integral lettering;
+- frame/cut-line geometry;
+- stable defects;
+- wear/breaks/scratches;
+- same-matrix status (`verified / probable / composition-only / different matrix`);
 - state difference;
-- label difference;
-- sequencing difference;
-- text-image relation difference;
-- visible damage/wear.
+- changed text-image placement.
 
-Goal:
+### Priority B — p.168 / p.179
 
-`32 SAME-MATRIX REUSE OCCURRENCES`
-+
-`2 NON-STADEN PROVENANCE EXCEPTIONS`
-+
-`2 REPORTED MATRIX-STATE ANOMALIES`.
+Recover exact image pairs and answer in this order:
 
-Until direct image inspection is complete, the p.168/p.179 physical alteration mechanism remains unresolved.
+1. same composition?
+2. same physical block?
+3. exactly what names/letters disappear?
+4. is the removal integral to the block state or only the impression?
+5. do other 1664 copies show the same state?
+
+### Priority C — pp.18 and 74 provenance
+
+Identify source/publication/matrix ancestry rather than simply tagging them non-Staden.
+
+### Priority D — resolve JCB vs Obermeier numerical discrepancy
+
+Trace JCB's catalogue note to its cited bibliographic authorities:
+
+- JCB pre-1675 catalogue;
+- Moraes;
+- Wegner;
+- Fouquet.
+
+Determine whether `32 original blocks` is based on direct block/impression comparison, inherited bibliographic tradition, or shorthand for `32 illustrations after/from Staden`.
+
+Until this is resolved, **no corpus row should assign thirty-two same-matrix identities in bulk**.
