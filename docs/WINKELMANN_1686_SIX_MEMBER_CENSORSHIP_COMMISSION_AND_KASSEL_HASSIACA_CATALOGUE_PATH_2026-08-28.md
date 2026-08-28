@@ -1,340 +1,312 @@
-# Winkelmann 1686: six-member censorship commission, epistemic revision, and the Kassel Hassiaca catalogue path
+# Winkelmann 1686: six-member censorship commission, epistemic revision, and Kassel `2° Ms. Hass. 35[1.2`
 
 Date: 2026-08-28  
-Status: HIGH-VALUE REVISION-REGIME CHECKPOINT — 1686 COMMISSION STRUCTURE AND FUNCTION NOW CONTROLLED THROUGH FUCHS'S OWN 2002 SYNTHESIS; KASSEL `2° Ms. Hass. 35/1` ITEMIZATION REMAINS OPEN, BUT THE CORRECT OFFICIAL CATALOGUE ROUTE IS NOW IDENTIFIED
+Status: HIGH-VALUE REVISION-REGIME CHECKPOINT — 1686 COMMISSION STRUCTURE AND FUNCTION CONTROLLED THROUGH FUCHS'S OWN SYNTHESIS; OFFICIAL KASSEL MANUSCRIPT-GROUP NOTATION AND CATALOGUE PRESENCE NOW CONTROLLED; SUBUNIT CONTENTS, SIX NAMES, AND ITEM-LEVEL REVISION MEMORANDA REMAIN OPEN
 
 ## Result
 
-The previously broad category `joint court review / censorship` can now be resolved into a specific major revision episode.
+The broad category `joint court review / censorship` can now be resolved into a specific major revision episode and tied to a substantially better-controlled Kassel manuscript group.
 
-Thomas Fuchs's own 2002 public synthesis of *Traditionsstiftung und Erinnerungspolitik* states that in **1686** a censorship commission sat for **several months** and consisted of **six members: three professors from Marburg and three from Gießen**. Its work was not described as a terminal permission check. Fuchs states that the commission **fundamentally revised** Winckelmann's chronicle in accordance with the interests of the Hessian landgraves.
+Thomas Fuchs's own 2002 public synthesis of *Traditionsstiftung und Erinnerungspolitik* states that in **1686** a censorship commission sat for **several months** and consisted of **six members: three professors from Marburg and three from Gießen**. The commission did not merely issue a terminal printing decision. Fuchs says it **fundamentally revised** Winckelmann's chronicle in the interests of the Hessian landgraves.
 
-Fuchs simultaneously interprets the review as an epistemic conflict. Winckelmann's older humanistic-baroque historical conception confronted younger censors whose standards were shaped by early-Enlightenment modes of knowledge. The methodological vocabulary Fuchs uses for the emerging alternative is:
+Fuchs simultaneously interprets the confrontation as epistemic. Winckelmann's older humanistic-baroque conception of history confronted younger censors shaped by early-Enlightenment standards of knowledge. The methodological vocabulary Fuchs uses for the emerging alternative is:
 
-`Kritik`
-+
-`Urkundenforschung`
-+
-`Pragmatik`.
+`Kritik + Urkundenforschung + Pragmatik`.
 
-This sharply strengthens the repository's working category:
-
-`PREPUBLICATION GOVERNMENTAL TEXTUAL JURISDICTION`
-
-and gives it an explicit epistemic dimension:
+The strongest current model is therefore:
 
 `dynastic commission`
 +
 `inter-university expert panel`
 +
-`extended textual revision`
+`multi-month textual revision`
 +
 `methodological/source-critical adjudication`
-→ `later print stabilization`.
+→ `continued revision`
+→ `1697 temporary print stabilization`.
 
-The Kassel catalogue problem is also better bounded. UB Kassel's own catalogue guide states that the modern *Manuscripta Hassiaca* project does **not** provide modern catalogue records for every Hassiaca manuscript and is **not online as a complete catalogue**. The library directs researchers to the still-used handwritten manuscript catalogues; for Hassiaca the relevant object is **Bandkatalog der Handschriften Bd. III**, begun around 1790 and digitised in ORKA at its 2014 state. UB Kassel further warns that additional Hassiaca entries have been made in the originals since 2014 and are not documented on that web page.
+The Kassel catalogue question has also advanced. UB Kassel's official 2012 holdings-control list identifies the relevant manuscript group as:
 
-Therefore the current failure of ordinary web search to surface an item-level record for `2° Ms. Hass. 35/1` is a catalogue-access problem, not evidence of loss or non-survival.
+`2° Ms. Hass. 35[1.2`
+
+and marks it `x`, which the same document defines as `im Katalog der Hassiaca`. The row carries neither the `o` marker for an ORKA modern short record nor a listed digital-surrogate URL. Thomas Fuchs separately cites:
+
+`Gesamthochschulbibliothek Kassel, 2° Ms. Hass. 35/1`
+
+as `Zensurakten` for the Winckelmann chronicle.
+
+A direct notation analogue is now controlled: UB Kassel/DDB treats official group `2° Ms. Hass. 47[1.2` as two distinct band records, `47[1` and `47[2`, each with its own extent. This demonstrates that the bracket syntax is a real subdivision system rather than a typographical corruption.
+
+Current relation:
+
+`official group 35[1.2`
+→ probable subunits `35[1` + `35[2`
+
+and
+
+`Fuchs 35/1`
+≈ **strong probable concordance with official first subunit `35[1`**
+
+but the equality is not yet promoted to verified until the actual `35[1.2` Hassiaca catalogue entry is inspected.
 
 ---
 
-## 1. 1686 is now a controlled major revision event
+## 1. 1686 is a controlled major revision event
 
-Fuchs's synthesis gives four structural facts that were not previously fixed at this level of precision:
+Fuchs's synthesis fixes four structural facts:
 
 1. **date** — 1686;
 2. **duration** — several months;
-3. **composition** — six censors, split evenly between Marburg and Gießen professors;
-4. **operation** — fundamental revision of the chronicle in the interests of the landgraves.
+3. **composition** — six censors, three Marburg professors and three Gießen professors;
+4. **operation** — fundamental revision of the chronicle in the landgraves' interest.
 
 Evidence status:
 
 `SCHOLARLY AUTHOR-DIRECT SYNTHESIS OF THE AUTHOR'S OWN ARCHIVAL MONOGRAPH`.
 
-This is stronger than a later report summarising Fuchs because Fuchs himself is describing the result of the study.
-
 Source:
 
-- Thomas Fuchs, short presentation of *Traditionsstiftung und Erinnerungspolitik* (Verein für hessische Geschichte und Landeskunde, 28 Nov. 2002):  
-  `https://www.vhghessen.de/inhalt/vortrag_fuchs_traditionsstiftung.htm`
+- Thomas Fuchs, presentation of *Traditionsstiftung und Erinnerungspolitik*, Verein für hessische Geschichte und Landeskunde, 28 Nov. 2002: `https://www.vhghessen.de/inhalt/vortrag_fuchs_traditionsstiftung.htm`.
 
-### Guardrail
+### Personnel guardrail
 
-The six individual names are **not yet controlled** in the current sweep. Do not infer them merely from 1686 university personnel lists.
-
-The next personnel task is therefore:
+The six individual names remain unresolved. No professor is to be promoted from a 1686 faculty roster merely because he was then in office.
 
 `3 Marburg names + 3 Gießen names = OPEN`.
 
 ---
 
-## 2. The commission was an expert revision body, not merely a gatekeeper
+## 2. The commission was an expert revision body, not merely a print gate
 
-Fuchs's wording materially changes what can safely be meant by `Zensur` in this case.
+A commission that sat for months and `grundlegend` revised the chronicle must be treated as an extended textual operation.
 
-The commission sat for months and performed a fundamental revision. That implies an extended textual operation rather than a final binary decision about permission to print.
+Safe sequence:
 
-Current safe model:
-
-`draft / submitted chronicle state`
+`submitted chronicle state`
 → `six-member inter-university commission`
 → `multi-month examination`
 → `fundamental revision`
-→ `further long production history`
+→ `further production history`
 → `1697 five-part print state`.
 
-This does **not** yet identify which passages were added, deleted, rewritten, or defended. Those transformations remain item-level questions for `2° Ms. Hass. 35/1`, Fuchs pp. 246–305, and the author-side extracts in Oldenburg `Cim I 204`, fols. 543r–552v.
+Still unresolved:
+
+- exact passages added, removed, or rewritten;
+- exact memoranda;
+- requested alterations;
+- authorial replies;
+- language and physical form of the reviewed textual state;
+- relation of surviving Oldenburg manuscript corrections to censorial intervention.
+
+Those require the Kassel subunit, Fuchs pp. 246–305, and Oldenburg `Cim I 204`, fols. 543r–552v.
 
 ---
 
-## 3. The epistemic jurisdiction is now explicit
+## 3. Epistemic jurisdiction is explicit
 
-Fuchs frames the 1686 encounter as a conflict between two historiographical knowledge regimes.
+Fuchs frames the encounter as a conflict between two historiographical knowledge regimes.
 
-On the Winckelmann side:
+Winckelmann side:
 
 `traditional humanistic-baroque historical conception`.
 
-On the censorial side:
+Censorial side:
 
-`younger professors`
-+
-`early-Enlightenment knowledge standards`.
+`younger professors + early-Enlightenment standards`.
 
-Fuchs then characterises the replacement ideal through `Kritik`, `Urkundenforschung`, and `Pragmatik`: history should be rewritten from immediate sources rather than reproduced primarily through compilation and glossing of inherited Protestant historical tradition.
+Fuchs's methodological contrast is organized around `Kritik`, `Urkundenforschung`, and `Pragmatik`, with greater weight on immediate documentary sources rather than inherited confessional-historical compilation.
 
-This means the review process can now be analysed as an **epistemic tribunal** as well as a dynastic/governmental tribunal.
-
-A stronger matrix of jurisdiction is:
+The commission therefore exercised several jurisdictions at once:
 
 | Jurisdiction | Controlled function |
 |---|---|
-| dynastic/governmental | revision undertaken in the landgraves' interest |
-| institutional | Marburg + Gießen professors jointly constitute the review body |
-| epistemic | older historical conception tested against newer source-critical standards |
-| textual | the chronicle is fundamentally revised over a multi-month process |
-| publication | the revision episode belongs to the long prehistory of the eventual 1697 print |
+| dynastic/governmental | revision in the landgraves' interest |
+| institutional | Marburg + Gießen professors constitute the expert body |
+| epistemic | older historiography tested against newer source-critical standards |
+| textual | fundamental revision over a multi-month process |
+| publication | one major stage in the long prehistory of the 1697 print |
 
-Confessional objections are controlled elsewhere in the repository through later scholarly summaries of Fuchs's archival findings, but the 2002 short presentation should not be made to carry every confessional detail unless the detailed monograph or dossier is inspected.
+Confessional objections are independently controlled in later scholarly summaries of Fuchs's work, but the 2002 presentation should not be made to carry every item-level confessional claim.
 
 ---
 
-## 4. Court sponsorship and censorship belong to the same production infrastructure
+## 4. Sponsorship, censorship, printing, and distribution belong to one infrastructure
 
-Fuchs's 2002 synthesis also states that:
+Fuchs's 2002 synthesis also states that Winckelmann was paid by both Kassel and Darmstadt, Landgrave Karl financed the printing, almost the entire edition went to Kassel for distribution, and Kassel eventually took a leading role in the project.
 
-- Winckelmann was paid by both Kassel and Darmstadt;
-- Landgrave Karl financed the printing;
-- almost the entire edition went to Kassel for distribution;
-- Kassel joined the Darmstadt project after its start and eventually took the leading role.
-
-This matters because the revision body was not external to the production economy.
-
-The same courtly system participated in:
+Thus the same courtly system participated in:
 
 `commissioning / salary`
 +
-`review and revision`
+`review / revision`
 +
 `printing finance`
 +
 `distribution`.
 
-Thus `patronage`, `censorship`, and `publication` are not analytically independent stages here. They are different operations inside one dynastically governed historical-production infrastructure.
+Patronage and censorship are therefore not cleanly separable external stages. They are operations within a dynastically governed historical-production infrastructure.
 
-Evidence status:
-
-`SCHOLARLY AUTHOR-DIRECT SYNTHESIS`.
-
-### Guardrail
-
-Do not convert this into a claim that every censorial intervention was politically dictated in detail. Fuchs's own account simultaneously identifies a genuine generational/methodological conflict over historical knowledge standards.
+This does not imply that every censorial objection was politically dictated. Fuchs simultaneously describes a real methodological/generational conflict over historical proof.
 
 ---
 
-## 5. Relationship to the printed evidentiary persona
+## 5. Official Kassel control: `35[1.2`, not merely Fuchs `/1`
 
-The repository already controls the 1697 title-page claim that the work was composed from the most credible documents and writers, while publishing only five of a projected six parts.
+UB Kassel's:
 
-The 1686 evidence now creates a much stronger chronological environment for that printed formula:
+`Liste der vorhandenen Katalogisate und Digitalisate des Hassiaca-Bestandes`, Stand 26.06.2012,
 
-`1686 source-critical / methodological adjudication`
+defines:
+
+- `x = im Katalog der Hassiaca`;
+- `o = moderne Kurzaufnahme für ORKA`.
+
+The relevant row is:
+
+`2° Ms. Hass. 35[1.2    x`.
+
+No `o` and no `Digitalisat:` URL are listed on that row.
+
+This establishes at the official holdings-control level:
+
+`MANUSCRIPT GROUP = CONTROLLED`
+
+`HASSIACA CATALOGUE PRESENCE IN 2012 = CONTROLLED`
+
+`2012-LISTED ORKA SHORT RECORD = ABSENT FROM ROW`
+
+`2012-LISTED DIGITAL SURROGATE = ABSENT FROM ROW`.
+
+The last two statements are historical properties of the 2012 list, not claims about the present-day digitisation state.
+
+Source:
+
+- UB Kassel, `Liste der vorhandenen Katalogisate und Digitalisate des Hassiaca-Bestandes`, Stand 26.06.2012: `https://www.uni-kassel.de/ub/files/UB/Landesbibliothek/Dokumente/Hass_Hss.pdf`.
+
+---
+
+## 6. Bracket notation is a real subunit syntax
+
+A close official analogue is `2° Ms. Hass. 47[1.2`, also listed as one group in the 2012 control PDF.
+
+Current Deutsche Digitale Bibliothek records supplied by UB Kassel separately expose:
+
+- `2° Ms. Hass. 47[1` — `[Band 1]: Chronik von Rotenburg`, IX leaves + 326 pages;
+- `2° Ms. Hass. 47[2` — `[Band 2]: Chronik von Rotenburg`, pp. 327–470 + leaves 470–568.
+
+Both records cite *Manuscripta Hassiaca*.
+
+This provides direct evidence for the syntax:
+
+`47[1.2` = grouped control notation
+
+while
+
+`47[1` and `47[2` = separately describable physical/catalogue subunits.
+
+By analogy, the safest current interpretation is:
+
+`35[1.2` = group containing at least first and second subunits.
+
+Fuchs's `/1` is therefore highly likely to refer to the first subunit, but this remains `PROBABLE CONCORDANCE`, not direct item-level verification.
+
+Sources:
+
+- DDB, `[Band 1]: Chronik von Rotenburg`, `2° Ms. Hass. 47[1`;
+- DDB, `[Band 2]: Chronik von Rotenburg`, `2° Ms. Hass. 47[2`.
+
+---
+
+## 7. Catalogue architecture and access boundary
+
+UB Kassel states that modern catalogue descriptions do not exist for every Hassiaca manuscript and that the complete catalogue is not online. The fallback remains the handwritten Hassiaca catalogue tradition, including Bandkatalog III. *Manuscripta Hassiaca* itself is a continuing/loose-leaf catalogue project.
+
+The problem is now narrower than before.
+
+It is no longer:
+
+`does 35/1 exist?`
+
+It is:
+
+`what exactly are 35[1 and 35[2, and how is Fuchs /1 concorded to the official first subunit?`.
+
+Target fields:
+
+- titles of `[1` and `[2`;
+- date span;
+- extent / foliation;
+- provenance;
+- internal itemization;
+- present consultation status;
+- current digital status;
+- any explicit `Zensurakten` wording;
+- names of reviewers and individual documents.
+
+---
+
+## 8. Relation to the printed evidentiary persona
+
+The repository already controls the 1697 title-page claim that the work was composed from the most credible documents and writers while publishing only five of a projected six parts.
+
+The chronological relation can now be stated more strongly:
+
+`1686 source-critical/methodological adjudication`
 → `continued revision and production`
 → `1697 public claim to documentary credibility`.
 
-Current safe proposition:
+Safe proposition:
 
-> The printed evidentiary persona emerged after a major source-critical revision episode in which the historical method and knowledge standards of the chronicle were actively adjudicated.
+> The printed evidentiary persona emerged after a major revision episode in which the chronicle's historical method and standards of proof had been externally adjudicated.
 
-Current unsafe proposition:
+Still unsafe:
 
-> The exact title formula `glaubwürdigsten Documenten und Scribenten` was dictated by, or directly answers, a particular 1686 censorial memorandum.
+> `glaubwürdigsten Documenten und Scribenten` directly reproduces or answers a particular censorial memorandum.
 
-That textual edge remains open.
-
----
-
-## 6. Kassel catalogue architecture: why `35/1` does not surface cleanly online
-
-UB Kassel's official manuscript-catalogue guide now supplies the missing catalogue-system control.
-
-For **Hassiaca** it lists:
-
-Peter Vogel, Angela Pietzsch, Roswitha Ruhnke, *Manuscripta Hassiaca*, Kassel 1986ff., volume 5 of the Kassel manuscript-catalogue series.
-
-The library explicitly states:
-
-- modern catalogue descriptions do **not** exist for every manuscript;
-- the complete catalogue is **not online**;
-- the handwritten catalogues remain in use.
-
-For the handwritten catalogues it identifies:
-
-`Bandkatalog der Handschriften Bd. III`
-
-as the volume for the subject group:
-
-`Hassiaca`.
-
-The web guide describes this as a catalogue begun around 1790, available in ORKA in its **2014** state, and notes that later Hassiaca additions made in the original catalogues since 2014 are not documented there.
-
-Official source:
-
-- UB Kassel, “Handschriftenkataloge Online: Kassel”:  
-  `https://www.uni-kassel.de/ub/landesbibliothek/sondersammlungen/handschriftenkataloge/kataloge-deutschland/kataloge-in-deutschland/kaarst-krefeld/kassel.html`
-
-The official ORKA target linked for Bandkatalog III is:
-
-`https://orka.bibliothek.uni-kassel.de/viewer/image/1402052594860/1/`
-
-Current environment note:
-
-- the UB page exposes the ORKA target;
-- direct automated retrieval of the ORKA viewer is currently blocked in this research environment;
-- therefore the relevant catalogue object is identified, but the `2° Ms. Hass. 35/1` entry itself has **not yet been visually inspected**.
-
-Evidence status:
-
-`OFFICIAL CATALOGUE-SYSTEM CONTROLLED; TARGET CATALOGUE ENTRY NOT YET INSPECTED`.
+That requires textual concordance.
 
 ---
 
-## 7. Consequence for the status of `2° Ms. Hass. 35/1`
+## 9. Version-history guardrail
 
-The repository should now distinguish three statements:
+The Oldenburg codex `Cim I 204` remains a secure authorial versioned witness, but the Latin/German dependency relation and the exact censorial target are unresolved.
 
-### Controlled
+Therefore:
 
-Fuchs cites `Gesamthochschulbibliothek Kassel, 2° Ms. Hass. 35/1` as `Zensurakten` connected with Winckelmann's Hessian Chronicle.
+`work identity`
+≠ `surviving manuscript-witness identity`
+≠ `censorial-target identity`
+≠ `1697 print-state identity`.
 
-### Newly controlled
-
-The official Hassiaca catalogue infrastructure is incomplete at the modern-online level, and the handwritten Bandkatalog III is the appropriate fallback catalogue for direct shelfmark control.
-
-### Still open
-
-- exact Bandkatalog entry wording;
-- date span;
-- foliation / physical extent;
-- internal subdivision;
-- six censor names;
-- individual memoranda;
-- item-level objection types;
-- requested textual changes;
-- present consultation / digitisation status of the dossier itself.
-
-Therefore retain:
-
-`35/1 = ARCHIVAL SHELFMARK CONTROLLED THROUGH FUCHS`
-
-and now add:
-
-`CATALOGUE ROUTE = CONTROLLED`
-
-while preserving:
-
-`ITEMIZATION = OPEN`.
-
----
-
-## 8. Seed revision matrix
-
-A separate machine-readable event matrix is created with this checkpoint:
-
-`data/winkelmann_revision_event_matrix_1654_1686_2026-08-28.csv`.
-
-It deliberately distinguishes:
-
-`event-level control`
-from
-`item-level control`.
-
-The 1686 commission can now be entered as a controlled event; its individual documentary items remain unresolved.
-
-This prevents broad scholarly reconstruction from being silently converted into invented archival granularity.
-
----
-
-## 9. Wider payoff for the frontispiece project
-
-This case now supplies a particularly clean production-history comparator for the repository's larger argument.
-
-A coherent historical work can be generated through:
-
-`distributed source access`
-→ `authorial compilation`
-→ `inter-institutional expert review`
-→ `epistemic adjudication`
-→ `fundamental revision`
-→ `court-financed printing and distribution`
-→ `public evidentiary self-presentation`.
-
-The important relation to the frontispiece corpus is structural rather than causal.
-
-Later visual programmes stabilize categories such as history, genealogy, heraldry, documents, seals, coins, and witnesses into a legible threshold image. The Winckelmann case shows that the textual knowledge entering print could itself already have been produced through distributed and competing jurisdictions of evidence.
-
-Working proposition:
-
-> **The stable public image of historical knowledge can sit downstream from a much less stable production regime in which courts, archives, authors, universities, reviewers, and printers negotiate both the content of history and the standards by which historical claims become acceptable.**
-
-No direct Winckelmann → Weigel/Köhler influence claim is added.
+Do not call `Cim I 204` “the manuscript censored in 1686” until an archival/textual concordance establishes that relation.
 
 ---
 
 ## 10. Immediate next moves
 
-### Priority A — inspect Bandkatalog III manually
+### Priority A — recover `35[1.2` catalogue description
 
-Target:
+The next decisive object is no longer a generic shelfmark search but the actual Hassiaca description of the two subunits.
 
-`2° Ms. Hass. 35`
+### Priority B — recover six censor names
 
-and any subdivisions such as:
+Search Fuchs pp. 246–305, later Fuchs treatment, and the first censorship subunit. Each recovered name must then be independently verified against Marburg/Gießen institutional records before discipline, confession, generation, or methodological role is assigned.
 
-`35/1`, `35/2`, or older bracket notation.
+### Priority C — convert event history to item history
 
-Record exact catalogue wording without normalization.
-
-### Priority B — recover the six names
-
-Search Fuchs 2002 pp. 246–305 and the censorship dossier for the 1686 commission roster.
-
-Then verify each person independently against Marburg/Gießen professor records before assigning discipline, age, confession, or methodological position.
-
-### Priority C — convert event matrix to item matrix
-
-For every surviving censorial memorandum or review act, extract:
+For every censorial record recover:
 
 - date;
-- author/reviewer;
+- reviewer;
 - institution;
 - recipient;
+- target language/text state;
 - chronicle section;
 - objection;
 - requested change;
 - confessional jurisdiction;
 - dynastic/political jurisdiction;
-- source-critical/epistemic jurisdiction;
+- epistemic/source-critical jurisdiction;
 - authorial response;
 - publication consequence;
 - shelfmark/folio.
@@ -342,4 +314,5 @@ For every surviving censorial memorandum or review act, extract:
 Goal:
 
 `EVENT-LEVEL CENSORSHIP HISTORY`
-→ `ITEM-LEVEL REVISION HISTORY`.
+→ `ITEM-LEVEL REVISION HISTORY`
+→ `VERSIONED TEXTUAL REVISION STEMMA`.
