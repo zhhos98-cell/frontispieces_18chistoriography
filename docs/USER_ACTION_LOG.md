@@ -12,9 +12,14 @@ Purpose: single authoritative place for anything that requires the user's direct
 
 ## Open actions
 
-None currently required.
+### UA-001 — Winckelmann 1664 JCB full scan for p.168 / p.179 matrix testing
 
-The current Winckelmann 1664 p.168 / p.179 image-recovery problem remains an assistant-side research task. Escalate it here only if direct page-image recovery cannot be completed through available public copies/mirrors and a user-supplied scan or manual institutional download becomes genuinely necessary.
+- **Status:** OPEN — user volunteered to handle direct download when faster than assistant-side page-image recovery.
+- **Object:** Johann Just Winckelmann, *Der americanischen Neuen Welt Beschreibung* (Oldenburg, 1664), John Carter Brown Library copy, call `J664 W761a`, Internet Archive identifier `deramericanische00winc`.
+- **Why user action is required:** assistant-side web access can read the IA OCR, catalogue metadata and item-level JCB records, but current fetch/render routes do not expose the full 31.99 MB PDF or sufficiently high-resolution direct rasters for printed pp.168 and 179. Those two pages are the decisive defect/linework test for whether the labelled 1557 Ubatuba and shipwreck matrices survive as altered states in 1664.
+- **Minimum action:** download the complete PDF and upload it into the chat when convenient. Direct file: `https://archive.org/download/deramericanische00winc/deramericanische00winc.pdf`.
+- **Completion criterion:** assistant receives a usable PDF or direct page images containing printed pp.168 and 179 (preferably also p.142 as positive control), renders them at high resolution, and records item-level matrix/state judgments against the controlled 1557 images.
+- **Do not substitute:** screenshots of catalogue descriptions alone; the test requires actual printed image linework.
 
 ## Completed actions
 
