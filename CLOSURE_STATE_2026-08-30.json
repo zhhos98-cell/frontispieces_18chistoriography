@@ -43,7 +43,7 @@
     "priority_6_ms309": "CLOSED for public-web research; archive-only"
   },
   "repository_hygiene": {
-    "stale_pr_2_web_sweep_2026_08_21": "SUPERSEDED BY MAIN; close without merge; retain branch only as historical provenance"
+    "pr_2_web_sweep_2026_08_21": "CLOSED_UNMERGED_2026-08-30; superseded by main; branch retained only as historical provenance"
   },
   "guardrails": [
     "Do not restore a bulk 32-fold same-matrix claim from the two pairwise direct-raster promotions",
