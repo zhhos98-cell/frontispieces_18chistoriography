@@ -1,37 +1,85 @@
 # Current handoff
 
-Current research-state closure:
+## Canonical state
 
-[`docs/ROUND_CLOSURE_AND_HANDOFF_WINCKELMANN_TEXTUAL_VISUAL_PRODUCTION_2026-08-28_1626.md`](docs/ROUND_CLOSURE_AND_HANDOFF_WINCKELMANN_TEXTUAL_VISUAL_PRODUCTION_2026-08-28_1626.md)
+**Bounded research programme closed — 2026-08-30.**
 
-Priority 1 is **in progress**. Completed current-turn checkpoints:
+Read first:
 
-1. [`docs/WINCKELMANN_1664_STADEN_PAIRWISE_CONCORDANCE_BATCH1_P142_P168_P179_2026-08-28.md`](docs/WINCKELMANN_1664_STADEN_PAIRWISE_CONCORDANCE_BATCH1_P142_P168_P179_2026-08-28.md)
-   - companion data: [`data/winckelmann_1664_staden_pairwise_matrix_control_batch1_2026-08-28.csv`](data/winckelmann_1664_staden_pairwise_matrix_control_batch1_2026-08-28.csv)
-2. [`docs/WINCKELMANN_1664_STADEN_PAIRWISE_SOURCE_CONTROL_BATCH2_P140_P143_P144_P155_P157_P158_2026-08-28.md`](docs/WINCKELMANN_1664_STADEN_PAIRWISE_SOURCE_CONTROL_BATCH2_P140_P143_P144_P155_P157_P158_2026-08-28.md)
-   - companion data: [`data/winckelmann_1664_staden_pairwise_source_control_batch2_2026-08-28.csv`](data/winckelmann_1664_staden_pairwise_source_control_batch2_2026-08-28.csv)
+1. [`FINAL_CLOSURE_2026-08-30.md`](FINAL_CLOSURE_2026-08-30.md)
+2. [`CLOSURE_STATE_2026-08-30.json`](CLOSURE_STATE_2026-08-30.json)
+3. [`docs/USER_ACTION_LOG.md`](docs/USER_ACTION_LOG.md)
 
-Resume from direct 1664 raster recovery for **p.168 and p.179**, using the now-identified JCB/Internet Archive, GDZ `PPN829199152`, and Münster `urn:nbn:de:hbz:6:1-15914` routes; use p.142 as a positive-control overlay. GDZ platform-level research confirms its digitized works expose IIIF manifests, but the target manifest has not yet been recovered through the current fetch layer. This remains an assistant-side retrieval problem, not a user-action item.
+Older dated checkpoints remain research provenance. If an older `CURRENT`, `Priority`, `OPEN`, `next round`, or handoff instruction conflicts with the files above, the 2026-08-30 closure state controls.
 
-If raster recovery remains blocked, continue source-side resolution for the remaining seed rows while preserving the same evidence hierarchy. Six further source-side rows are now tied to specific 1557 Brasiliana/BBM records:
+## Current operational status
 
-- p.140 → `Aldeia tupinambá fortificada`, ID `45.000.008.047.136`;
-- p.143 → `Mulheres tupinambá fabricando cauim`, ID `45.000.008.047.146`;
-- p.144 → `Dança ao redor da ibirapema`, ID `45.000.008.047.166`;
-- p.155 → `Execução do cativo`, ID `45.000.008.047.168`;
-- p.157 → `Esquartejamento do corpo do cativo executado`, ID `45.000.008.047.169`;
-- p.158 → `Mulheres e crianças tupinambás se alimentando das vísceras do cativo executado`, ID `45.000.008.047.170`.
+- **Public-web discovery:** CLOSED.
+- **Generic expansion:** STOP.
+- **Winckelmann Priority 1–6 queue:** closed or reduced to bounded direct-object/archive upgrades.
+- **Active user-assisted items:** exactly two, `UA-001` and `UA-002`.
+- **Archive/manuscript residuals:** dormant; known shelfmarks/folios only.
 
-Important current guardrail: do **not** restore the earlier bulk claim that all 32 Staden-section images in Winckelmann 1664 are verified impressions from the same 1557 matrices. The repository treats the JCB bulk attribution as conflicted by Obermeier's `some / portion` reconstruction and requires item-level matrix comparison. Neither Batch 1 nor Batch 2 has promoted any new `same_matrix` identity.
+No further broad research round is justified by the current evidence state.
 
-Current diagnostic gains from Batch 1:
+## UA-001 — 1664 Staden matrix/state test
 
-- p.142: JCB item-level record controls 1664 image dimensions `10.5 × 10.8 cm` and gives an original-woodcut catalogue attribution; direct defect concordance still pending.
-- p.168: the 1557 Ubatuba source image visibly carries `uwatibi`; JCB/IA reports names eliminated in 1664; matrix identity and removal mechanism remain open.
-- p.179: the 1557 shipwreck source visibly carries multiple geographic labels, including `S. vin` and `S. maro`; JCB/IA reports names eliminated in 1664; matrix identity and removal mechanism remain open.
+Object: Winckelmann, *Der americanischen Neuen Welt Beschreibung* (1664), JCB/Internet Archive copy.
 
-User-action rule: anything that genuinely requires the user's direct intervention must be logged centrally in [`docs/USER_ACTION_LOG.md`](docs/USER_ACTION_LOG.md). Do not scatter such requests across chat or research notes, and do not escalate an item to the user before normal assistant-side retrieval routes have been exhausted.
+Direct PDF:
 
-Short restart instruction for a new chat:
+`https://archive.org/download/deramericanische00winc/deramericanische00winc.pdf`
 
-`继续 frontispieces repo。先读 CURRENT_HANDOFF.md，再读它指向的 Batch 1/Batch 2 checkpoints；优先继续 p.168/p.179 的 1664 direct raster recovery，以 p.142 为 positive control；若 raster 路径继续受阻，就继续把剩余 seed rows 锁到具体 1557 source records；维持 32-fold same-matrix guardrail；进度随时同步 main；需要用户亲自处理的事项统一记入 docs/USER_ACTION_LOG.md。`
+When the file arrives:
+
+1. render printed p.142, p.168 and p.179 at high resolution;
+2. use p.142 as positive control;
+3. compare p.168 against the labelled 1557 Ubatuba / `uwatibi` state;
+4. compare p.179 against the labelled 1557 shipwreck state;
+5. establish matrix identity from non-letter geometry/defects before diagnosing label removal;
+6. update the pairwise matrix closure and mark `UA-001` DONE.
+
+Do **not** restore the bulk `32 same matrices` claim.
+
+## UA-002 — 1684 Oldenburg Horn carrier/image test
+
+Object: Winckelmann, *Des Oldenburgischen Wunder-Horns...* (1684), Landesbibliothek Oldenburg `GE IX B 70 A`.
+
+Direct PDF:
+
+`https://digital.lb-oldenburg.de/ihd/download/pdf/234884`
+
+When the file arrives:
+
+1. inventory the folded/image leaves;
+2. identify the catalogue-recorded 1912 Fr. Schohusen tracing after the original woodcut;
+3. keep that twentieth-century carrier separate from genuine 1684 impressions;
+4. isolate any genuine 1684 Horn image;
+5. compare it with the surviving Horn and Jacobaeus 1696 Tab. XVI;
+6. update the Horn closure and mark `UA-002` DONE.
+
+## Closed Winckelmann modules
+
+- p.136 provenance + pp.18/74 non-Staden source models: [`docs/WINCKELMANN_1664_P136_PROVENANCE_AND_P18_P74_SOURCE_MODEL_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_1664_P136_PROVENANCE_AND_P18_P74_SOURCE_MODEL_CLOSURE_2026-08-30.md)
+- 1671 two maps / cartographic ancestry: [`docs/WINCKELMANN_1671_TWO_MAPS_AND_CARTOGRAPHIC_SOURCE_ANCESTRY_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_1671_TWO_MAPS_AND_CARTOGRAPHIC_SOURCE_ANCESTRY_CLOSURE_2026-08-30.md)
+- 1684 Horn carrier firewall: [`docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md`](docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md)
+- Hessian planned visual apparatus: [`docs/WINCKELMANN_HESSIAN_PLANNED_VISUAL_APPARATUS_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_HESSIAN_PLANNED_VISUAL_APPARATUS_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md)
+- 1754 p.377 / Bernhard source boundary: [`docs/WINCKELMANN_1754_P377_DIRECT_OBJECT_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_1754_P377_DIRECT_OBJECT_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md)
+- Marburg `Ms.309`: [`docs/WINCKELMANN_MARBURG_MS309_OPEN_WEB_CLOSURE_AND_ARCHIVE_ONLY_STATUS_2026-08-30.md`](docs/WINCKELMANN_MARBURG_MS309_OPEN_WEB_CLOSURE_AND_ARCHIVE_ONLY_STATUS_2026-08-30.md)
+
+## Dormant archive/library upgrades
+
+Reopen only when the source itself becomes available:
+
+- LB Oldenburg `Cim I 204`, ff.543r–552v;
+- UB Marburg `Ms.309`, Kalliope `DE-611-HS-3888458`;
+- 1754 sixth part pp.376–378 if a direct seam check is desired;
+- direct Bernhard/Winkelmann manuscript alignment.
+
+These do not justify generic web discovery.
+
+## Restart rule
+
+For any future chat:
+
+`先读 FINAL_CLOSURE_2026-08-30.md 和 docs/USER_ACTION_LOG.md。除非 UA-001/UA-002 文件已经到达，或新的直接档案/一手材料出现，否则 frontispieces 当前研究保持 CLOSED，不恢复旧 Priority queue。`
