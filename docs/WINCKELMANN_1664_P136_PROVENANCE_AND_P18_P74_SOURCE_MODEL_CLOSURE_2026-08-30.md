@@ -1,137 +1,73 @@
 # Winckelmann 1664 — p.136 provenance wording and pp.18/74 non-Staden source-model closure
 
 Date: 2026-08-30  
-Status: **PRIMARY TEXT CLOSED FOR P.136; SOURCE-MODEL CLOSED FOR PP.18/74; PHYSICAL MATRIX OF PP.18/74 NOT YET DIRECTLY COMPARED**
+Revised after direct-raster closure: 2026-08-30  
+Status: **P.136 PRIMARY TEXT CLOSED; PP.18/74 SOURCE-MODEL CLOSED; FORMER P.168 BLOCKER CLOSED AND ITS SOURCE MAPPING CORRECTED.**
 
-## Result
+## Correction / supersession notice
 
-Three previously separate Priority-1 questions can now be sharply separated:
+The first version of this checkpoint repeated the then-current Batch-1 mapping of Winckelmann p.168 to Staden's Ubatuba attack image. Direct raster comparison on 2026-08-30 disproved that mapping.
 
-1. Winckelmann's own p.136 wording directly controls what he claimed about Staden's text and rediscovered image stock.
-2. The two catalogue-level exceptions on pp.18 and 74 can now be assigned to explicit non-Staden textual/visual source environments cited by Winckelmann himself: Levinus Hulsius's northern-voyage material.
-3. This strengthens the repository rule that `arrangement/source model` and `physical matrix source` must be separate fields.
+Correct p.168 source:
 
-The evidence now supports:
+`[Combate entre portugueses e índios caetés em Igarassu]`, Hans Staden 1557, Brasiliana / BBM ID `45000008047.28`.
 
-`NO CONTROLLED ACCESS TO THE 1557 PRINCEPS / ORIGINAL BIBLIOGRAPHIC CONTEXT`
+Definitive matrix/state checkpoint:
 
-+
+`docs/WINCKELMANN_1664_DIRECT_RASTER_MATRIX_STATE_CLOSURE_P142_P168_P179_2026-08-30.md`.
 
-`CLAIMED RECOVERY OF c.34 OLD STADEN-ASSOCIATED WOODCUTS AT KASSEL`
-
-+
-
-`A 1664 HOST THAT ALSO INSERTS NON-STADEN VISUAL MATERIAL FROM A DIFFERENT PRINT/TRAVEL SOURCE ECOLOGY`.
+Any earlier wording here about p.168 = Ubatuba / `uwatibi` is withdrawn.
 
 ---
 
 ## 1. p.136 — Winckelmann's own provenance statement
 
-Source: JCB/Internet Archive OCR of the 1664 copy, Internet Archive identifier `deramericanische00winc`, printed pp.135–136.
+Source: JCB / Internet Archive OCR of the 1664 copy, identifier `deramericanische00winc`, printed pp.135–136.
 
-Direct OCR-controlled wording around pp.135–136:
+Winckelmann says he had not been able to determine whether Staden's description had been printed together with the wood figures, identifies Gottfried's *Neue Welt Historien* as a later textual carrier, and then reports that roughly thirty-four old woodcuts had recently been found again at Kassel. He wished to rescue them from loss and use the old cut figures to ornament a renewed account of Staden's Brazilian voyage.
 
-> `Ob aber solche Beschreibung mit den Holzfiguren in Druck seye befördert worden / hab in keine Erfahrung bringen können ...`
+Primary-source routes:
 
-He then identifies a later carrier:
+- `https://archive.org/stream/deramericanische00winc/deramericanische00winc_djvu.txt`
+- `https://archive.org/details/deramericanische00winc`
 
-> `Diese Reise Beschreibung befindet sich auch in Johann Ludwigs Gottfriden neuer Welt Historien ...`
+Controlled consequence:
 
-and says that recently at Kassel:
-
-> `bey vier und dreissig Holzschnitt ... sich ungefehr wieder gefunden.`
-
-He continues that he wished:
-
-> `selbige von den Untergang erretten`
-
-and to renew Staden's Brazilian voyage account:
-
-> `mit den damaligen geschnittenen Holz Figuren auszieren`.
-
-OCR source route:
-
-- full text: `https://archive.org/stream/deramericanische00winc/deramericanische00winc_djvu.txt`
-- item: `https://archive.org/details/deramericanische00winc`
-
-### Evidentiary consequence
-
-Winckelmann does **not** say here that he possessed, read, or reproduced the Marburg 1557 princeps as a bibliographic object. On the contrary, he says he could not determine whether Staden's description with the wood figures had in fact been printed, while independently knowing a later Gottfried/Merian textual carrier.
-
-The safest controlled formulation is therefore:
-
-`claimed access to old physical image stock`
+`CLAIMED ACCESS TO OLD PHYSICAL IMAGE STOCK`
 
 ≠
 
-`demonstrated access to the original printed edition/context`.
+`DEMONSTRATED ACCESS TO THE MARBURG 1557 PRINCEPS AS A BIBLIOGRAPHIC OBJECT`.
 
-This directly strengthens the current dual-source architecture:
+The direct p.168/p.179 matrix tests now strengthen this formulation rather than weaken it: at least two 1664 occurrences can be promoted pairwise to high-confidence same-matrix relations with 1557, while the p.136 wording still does not establish that Winckelmann possessed or used the princeps as his textual/arrangement source.
 
-`TEXT / SEQUENCING ROUTE = later Gottfried/Merian-mediated environment`
+Thus:
 
-while
-
-`MATRIX ROUTE = at least some old Staden-associated Kassel woodblock stock`.
-
-It also provides primary support for the repository formulation:
-
-`ACCESS TO ORIGINAL MATRIX STOCK ≠ ACCESS TO ORIGINAL BIBLIOGRAPHIC CONTEXT`.
+`ACCESS TO ORIGINAL/OLD MATRIX STOCK ≠ ACCESS TO ORIGINAL BIBLIOGRAPHIC CONTEXT`.
 
 ---
 
-## 2. p.18 — Frobisher / northern-voyage image environment
+## 2. p.18 — Frobisher / Hulsius northern-voyage environment
 
-Printed p.18 does not belong to the Staden narrative. Winckelmann explicitly introduces the image through **Levinus Hulsius** and Martin Frobisher's 1577 northern voyage.
+Printed p.18 does not belong to the Staden narrative. Winckelmann explicitly introduces the figure through Levinus Hulsius and Martin Frobisher's northern voyage. The surrounding text describes the captured northern Indigenous figure, skin clothing, small boat, paddle and bow/arrow practice, and explicitly points the reader to the accompanying figure.
 
-OCR-controlled surrounding text:
-
-> `Es berichtet Levinus Hullius in der Warhaften Relation der dreyen neu-unerhörten selzamen Schifffahrten ...`
-
-He describes a captured northern Indigenous man:
-
-- dressed in fish/animal skins;
-- sitting in a very small boat for one person;
-- paddling with one hand;
-- holding an arrow in the other;
-- shooting birds with great agility.
-
-Immediately after the page break Winckelmann states:
-
-> `Schiffe trügen sie mit sich über Land / wo sie hin wolten / wie beygesetzte Figur für Augen stellet.`
-
-Thus the p.18 figure is textually attached by Winckelmann himself to the Frobisher/Hulsius northern-voyage account, not to Staden.
-
-### Source-model status
+Current status:
 
 `STADEN SOURCE = EXCLUDED`
 
-`HULSIUS / FROBISHER SOURCE ENVIRONMENT = PRIMARY-TEXT CONTROLLED`
+`HULSIUS / FROBISHER TEXTUAL-VISUAL SOURCE ENVIRONMENT = PRIMARY-TEXT CONTROLLED`
 
-`EXACT PRE-1664 IMAGE MODEL = HIGH-PROBABILITY NORTHERN-INUIT/KAYAK VISUAL TRADITION; DIRECT PAIRWISE IMAGE CONTROL STILL NEEDED`
+`EXACT PRE-1664 IMAGE/MATRIX GENEALOGY = BOUNDED DIRECT-IMAGE REFINEMENT ONLY`.
 
-A related earlier German Frobisher visual tradition survives in the well-known Inuit/kayak imagery associated with the 1580 Nuremberg *Beschreibung der Schiffart des Haubtmans Martini Forbissher*; Hulsius later recirculated Frobisher/northern-voyage visual material. Do not yet collapse those carriers into one physical matrix genealogy.
+No same-matrix relation to a Staden woodblock should be asserted.
 
 ---
 
-## 3. p.74 — Samoyed figure explicitly routed through Hulsius
+## 3. p.74 — Samoyed figure routed through Hulsius / De Veer
 
-Printed p.74 is even more explicit. Winckelmann writes:
+Printed p.74 explicitly cites Levinus Hulsius's northern-voyage relation and the Samoyed (`Samjuten`) figure around fol./page 33. The Hulsius / Gerrit de Veer visual corpus contains the `SAMIVTI` image of Samoyed figures with bows and arrows.
 
-> `Levinus Hulsius beschreibt in seiner warhaftigen Relation der dreyen neuen unerhörten selzamen Schiffahrten gegen Mitternacht am 33. Blat der Samjuten Gestalt und Sitten ...`
-
-The page then describes the `Samjuten` / Samoyeds:
-
-- short stature;
-- long braided hair;
-- broad flat faces;
-- skin garments;
-- bows and arrows;
-- long polar day/night conditions and religious practices.
-
-The cited Hulsius visual corpus independently contains a plate labelled **`SAMIVTI`** at fol./page 33 showing Samoyed figures with bows and arrows. Rijksmuseum-derived public-domain reproductions preserve this image and the associated 1595/1598 Hulsius/Gerrit de Veer publication environment.
-
-### Source-model status
+Current status:
 
 `STADEN SOURCE = EXCLUDED`
 
@@ -139,41 +75,25 @@ The cited Hulsius visual corpus independently contains a plate labelled **`SAMIV
 
 `SAME PHYSICAL MATRIX AS HULSIUS = NOT CLAIMED`.
 
-The medium distinction is important: the Hulsius Samoyed visual is an engraved plate; Winckelmann's 1664 image sits in a book whose Staden sequence is a woodcut/text-block ecology. Direct p.74 inspection is still needed before specifying the 1664 technique at object level, but a literal same-matrix relation to a copperplate source would be impossible if the 1664 occurrence is confirmed as relief woodcut. The current safe category is `derived_from / source-model`, not `same_matrix_as`.
+The relevant distinction remains:
 
-Useful public visual control:
-
-- Rijksmuseum / public-domain Samoyed imagery from the 1595/1598 northern-voyage corpus, e.g. `SAMIVTI`, associated with Gerrit de Veer / Levinus Hulsius.
+`iconographic/source model`
+≠
+`physical matrix source`.
 
 ---
 
-## 4. Revised interpretation of the JCB catalogue exception
+## 4. Revised interpretation of the 34-image provenance problem
 
-The JCB/Internet Archive edition record says:
+The 1664 host contains at least three visual-source regimes:
 
-- 32 Staden-section text illustrations were printed from original Marburg 1557 blocks;
-- two additional illustrations, pp.18 and 74, are definitely not from Staden;
-- this conflicts with Winckelmann's p.136 tendency to fold all 34 rediscovered figures into a Staden-origin narrative.
-
-The new primary-text pass explains the anomaly more precisely.
-
-The two exceptions are not random foreign images accidentally bound into the book. They are **actively mobilized inside Winckelmann's own comparative argument** from a different northern-voyage print tradition which he explicitly cites.
-
-The host therefore contains at least three visual-source regimes:
-
-1. `Staden-associated old block stock` — the 32-image catalogue claim, still subject to pairwise matrix verification;
+1. `Staden-associated old matrix stock` — with pp.168 and 179 now directly promoted pairwise to high-confidence same-matrix relations with 1557; other members of the reported 32-image group still require pairwise proof before individual promotion;
 2. `Hulsius/Frobisher/De Veer northern-voyage visual models` — pp.18 and 74;
-3. `separate 1664 threshold/title apparatus` — Columbus/navigation programme.
+3. `separate threshold/title apparatus` — Columbus/navigation programme.
 
-This is stronger than the earlier generic formulation `two images are not Staden`.
+This is deliberate cross-corpus visual assembly, not one homogeneous image genealogy.
 
-It shows deliberate **cross-corpus visual assembly** inside one historical/geographical book.
-
----
-
-## 5. Matrix/source fields to keep separate
-
-For the 1664 concordance, use at least:
+The repository must continue to distinguish:
 
 - `host_page`;
 - `host_text_context`;
@@ -184,35 +104,29 @@ For the 1664 concordance, use at least:
 - `matrix_state_status`;
 - `copy/impression_status`.
 
-For pp.18/74 the current values are approximately:
-
-| page | host context | arrangement / textual source | iconographic source model | physical matrix |
-|---|---|---|---|---|
-| 18 | navigation / northern peoples | Hulsius, Frobisher northern voyage | Inuit/kayak/Frobisher visual tradition | unknown 1664 matrix; not Staden |
-| 74 | origin/peoples of northern America | Hulsius / Gerrit de Veer northern voyages | `SAMIVTI` Samoyed visual | unknown 1664 matrix; not Staden; same copper matrix should not be assumed |
-
 ---
 
-## 6. Remaining Priority-1 blocker
+## 5. Former Priority-1 blocker — now closed
 
-The only genuinely decisive unresolved part of the current p.142/p.168/p.179 matrix test is now **direct raster comparison**.
+The previous version of this document identified pp.142/168/179 direct raster comparison as the remaining decisive blocker and logged it under `UA-001`.
 
-A user-assisted JCB PDF retrieval has therefore been logged as `UA-001` in `docs/USER_ACTION_LOG.md`:
+That task is now complete.
 
-`https://archive.org/download/deramericanische00winc/deramericanische00winc.pdf`
+Direct 1664 page images were supplied for pp.142, 168 and 179. The direct pairwise results are:
 
-When the PDF is available locally, test in this order:
+- p.168: correct source = Igarassu battle; same physical matrix as the 1557 source supported at high confidence by distributed non-letter linework concordance; selective lettering difference directly observed;
+- p.179: same physical matrix as the 1557 Itanhaém shipwreck source supported at high confidence; selective lettering difference directly observed;
+- p.142: direct 1664 raster recovered; source occurrence and positive-control function secure.
 
-1. printed p.142 — positive-control matrix overlay;
-2. p.168 — Ubatuba / `uwatibi` label-elimination case;
-3. p.179 — shipwreck / multiple-place-label elimination case;
-4. if p.18 and p.74 rasters are convenient, use them to control their exact 1664 technique and derivation from Hulsius visual models.
+The exact mechanical cause of missing lettering at pp.168/179 remains unspecified. Münster second-copy comparison is a confirmatory refinement, not a blocker.
 
-Do not reopen generic web discovery before that object-level pass.
+`UA-001` is therefore marked `DONE` in `docs/USER_ACTION_LOG.md`.
 
 ## Closure judgment
 
 **p.136 provenance wording: CLOSED at primary-text level.**  
 **pp.18/74 non-Staden source environment: CLOSED at source-model level.**  
-**pp.18/74 physical matrix genealogy: bounded direct-image refinement only.**  
-**p.168/p.179 same-matrix/state question: remains the single high-value direct-raster test.**
+**pp.18/74 exact physical genealogy: BOUNDED / NON-BLOCKING.**  
+**p.168 source occurrence: CORRECTED TO IGARASSU.**  
+**p.168/p.179 pairwise matrix question: CLOSED at high-confidence direct-raster level.**  
+**lettering-change mechanism: UNSPECIFIED, NON-BLOCKING REFINEMENT.**
