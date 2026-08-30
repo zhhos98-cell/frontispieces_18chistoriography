@@ -228,7 +228,13 @@ None justifies generic web discovery.
 
 ---
 
-## 11. Reopening criteria
+## 11. Repository hygiene
+
+The stale pull request `#2 Web sweep 2026 08 21` belongs to an early discovery branch that diverged before the completed corpus, canonicalization and closure work on `main`. It is superseded by the present main-branch state and should remain closed rather than merged. The historical branch may remain as provenance.
+
+---
+
+## 12. Reopening criteria
 
 Reopen a branch only if one of the following occurs:
 
@@ -251,7 +257,7 @@ Dated files are provenance, not current instructions.
 
 ---
 
-## 12. Final conceptual state
+## 13. Final conceptual state
 
 The corpus supports the following controlled distinctions:
 
