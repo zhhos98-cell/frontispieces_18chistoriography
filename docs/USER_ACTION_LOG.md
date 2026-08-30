@@ -26,14 +26,20 @@ Purpose: single authoritative place for anything that requires the user's direct
 - **Definitive checkpoint:** `docs/WINCKELMANN_1664_DIRECT_RASTER_MATRIX_STATE_CLOSURE_P142_P168_P179_2026-08-30.md`.
 - **Former download route:** `https://archive.org/download/deramericanische00winc/deramericanische00winc.pdf`.
 
-## Parked non-blocking refinements
-
 ### UA-002 — Winckelmann 1684 Oldenburg Horn full scan for carrier/image-chain control
 
-- **Status:** PARKED — NON-BLOCKING REFINEMENT.
+- **Status:** DONE — 2026-08-30.
 - **Object:** Johann Just Winckelmann, *Des Oldenburgischen Wunder-Horns Ursprung/ Herkunft/ Materie/ Form/ Gestalt/ Figuren und Hieroglyphische Auslegung* (Bremen, 1684), Landesbibliothek Oldenburg, shelfmark `GE IX B 70 A`, URN `urn:nbn:de:gbv:45:1-3959`.
-- **Why it was logged:** the official digital object mixes historical material with a catalogue-noted 1912 Schohusen tracing after an original woodcut. Full local collation would allow exact carrier identification before comparing the 1684 representation with Jacobaeus 1696 and the surviving object.
-- **Current research status:** broad Horn research is closed. Object-access/source-criticism chain, digital carrier warning, 1696 Tab. XVI presence, and long-range reuse are already controlled. The full scan can refine the direct image genealogy but is not required for repository closure.
-- **Optional minimum action if this branch is deliberately reopened:** download and upload `https://digital.lb-oldenburg.de/ihd/download/pdf/234884`.
-- **Reopen condition:** only if direct 1684 carrier identity or the exact `1696 derived_from 1684` image relation becomes necessary for a publication claim.
-- **Closure checkpoint:** `docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md`.
+- **User contribution:** the complete Landesbibliothek Oldenburg PDF was supplied locally.
+- **Completion result:** full-scan carrier inventory completed. Digital PDF pp.25–27 are the main Wunderhorn foldout sequence; p.26 is explicitly labelled `Nach dem Originalholzschnitt durchgezeichnet von Fr. Schohusen 1912.` The principal Wunderhorn image in this digitized copy is therefore a 1912 tracing after the lost/unavailable original woodcut, not a genuine 1684 impression.
+- **Other apparatus:** historical comparative horn imagery, integral woodcuts and the map remain in the volume, but none restores the missing original 1684 main Wunderhorn impression.
+- **1696 result:** Jacobaeus 1696 Tab. XVI shows strong broad visual concordance with the Schohusen tracing and belongs to the same visual tradition, but `1696 derived_from 1684 print` is not promoted to direct proof because the 1684 image available here is second-order and Jacobaeus also had object access.
+- **Heraldic guardrail:** the reported heraldic discrepancy remains controlled at scholarly/transmission level; this carrier cannot establish it by direct observation of an extant 1684 main Horn impression.
+- **Definitive checkpoint:** `docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md`.
+- **Former download route:** `https://digital.lb-oldenburg.de/ihd/download/pdf/234884`.
+
+## Parked non-blocking refinements
+
+**None currently tied to a user action.**
+
+Repository-level dormant archive/direct-object upgrades remain listed in the canonical closure files and do not require user action unless deliberately reopened for a load-bearing publication need.
