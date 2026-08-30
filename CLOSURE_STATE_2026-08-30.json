@@ -1,22 +1,31 @@
 {
   "repository": "zhhos98-cell/frontispieces_18chistoriography",
   "date": "2026-08-30",
-  "status": "CLOSED_WITH_TWO_DIRECT_IMAGE_UPGRADES",
+  "status": "CLOSED",
   "public_web_discovery": "CLOSED",
   "generic_expansion": "STOP",
   "canonical_closure": "FINAL_CLOSURE_2026-08-30.md",
-  "active_user_actions": [
+  "canonical_research_questions": "FROZEN",
+  "canonical_colour_questions": "FROZEN",
+  "active_user_actions": [],
+  "completed_user_actions": [
     {
       "id": "UA-001",
-      "object": "Winckelmann 1664 JCB full scan",
-      "purpose": "p142/p168/p179 direct matrix-state comparison",
-      "blocking_scope": "only item-level same-matrix/state claims for those images"
-    },
+      "object": "Winckelmann 1664 JCB p142/p168/p179 direct images",
+      "result": "DONE 2026-08-30: p168 source corrected to the 1557 Igarassu battle plate; p168 and p179 promoted to high-confidence direct-raster same-matrix relations; selective lettering-state differences directly observed; exact physical alteration mechanism remains unresolved"
+    }
+  ],
+  "parked_nonblocking_refinements": [
     {
       "id": "UA-002",
       "object": "Winckelmann 1684 Oldenburg Horn LB Oldenburg full scan",
-      "purpose": "carrier classification and 1684-1696-surviving-object image comparison",
-      "blocking_scope": "only direct carrier/derivation and discrepancy-mechanism claims"
+      "purpose": "carrier classification and exact 1684-1696-surviving-object image comparison",
+      "reopen_condition": "only if a publication claim requires direct carrier/derivation or discrepancy-mechanism control"
+    },
+    {
+      "object": "Muenster ULB 1664 second copy",
+      "purpose": "confirm whether p168/p179 lettering omissions are stable across 1664 copies",
+      "reopen_condition": "only if stable matrix-state versus impression-level treatment becomes load-bearing"
     }
   ],
   "dormant_direct_upgrades": [
@@ -26,18 +35,24 @@
     "direct Bernhard/Winkelmann manuscript alignment"
   ],
   "closed_priority_queue": {
-    "priority_1_1664_staden": "closed except UA-001 direct raster test",
-    "priority_2_1671_maps": "closed",
-    "priority_3_1684_horn": "closed except UA-002 direct carrier test",
-    "priority_4_hessian_visual_plan": "closed at source-survival boundary",
-    "priority_5_1754_p377": "closed; direct seam optional",
-    "priority_6_ms309": "closed for public-web research; archive-only"
+    "priority_1_1664_staden": "CLOSED at direct-raster level; p168 corrected to Igarassu; p168/p179 same-matrix relations high-confidence direct-raster; exact lettering-removal mechanism unresolved but non-blocking",
+    "priority_2_1671_maps": "CLOSED",
+    "priority_3_1684_horn": "CLOSED for broad research; direct carrier audit parked as non-blocking refinement",
+    "priority_4_hessian_visual_plan": "CLOSED at source-survival boundary",
+    "priority_5_1754_p377": "CLOSED at direct-object/source boundary; direct seam optional",
+    "priority_6_ms309": "CLOSED for public-web research; archive-only"
   },
+  "guardrails": [
+    "Do not restore a bulk 32-fold same-matrix claim from the two pairwise direct-raster promotions",
+    "Unresolved assertion does not equal active research obligation",
+    "Do not specify cutting, plugging, masking, selective inking or another lettering-removal mechanism without stronger copy/state evidence",
+    "Older dated OPEN/Priority/next-round wording is provenance, not a live instruction"
+  ],
   "reopen_only_for": [
     "new direct image/object capable of proving or falsifying a retained matrix/state relation",
     "bounded manuscript/archive source from a known shelfmark/folio route",
     "new primary source contradicting a retained first-order claim",
-    "load-bearing citation gap arising during writing",
+    "load-bearing citation/source gap arising during writing",
     "deliberately scoped new project using the corpus"
   ]
 }
