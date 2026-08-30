@@ -22,6 +22,7 @@ Purpose: single authoritative place for anything that requires the user's direct
 - **Object:** Johann Just Winckelmann, *Der americanischen Neuen Welt Beschreibung* (Oldenburg, 1664), John Carter Brown Library copy, call `J664 W761a`, Internet Archive identifier `deramericanische00winc`.
 - **User contribution:** direct page images for printed pp.168 and 179 were supplied, together with p.142 as positive control and 1557 Brasiliana comparison material.
 - **Completion result:** p.168 source occurrence corrected from the previously misassigned Ubatuba plate to the 1557 Igarassu battle plate; direct whole-field image concordance promotes pp.168 and 179 to high-confidence same-matrix relations and directly controls selective lettering-state differences.
+- **Mechanism guardrail:** the exact physical cause of the lettering differences remains unresolved; do not specify cutting, plugging, masking, selective inking, damage, or another intervention without stronger copy/state evidence.
 - **Definitive checkpoint:** `docs/WINCKELMANN_1664_DIRECT_RASTER_MATRIX_STATE_CLOSURE_P142_P168_P179_2026-08-30.md`.
 - **Former download route:** `https://archive.org/download/deramericanische00winc/deramericanische00winc.pdf`.
 
