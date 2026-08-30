@@ -42,6 +42,9 @@
     "priority_5_1754_p377": "CLOSED at direct-object/source boundary; direct seam optional",
     "priority_6_ms309": "CLOSED for public-web research; archive-only"
   },
+  "repository_hygiene": {
+    "stale_pr_2_web_sweep_2026_08_21": "TO_CLOSE_AS_SUPERSEDED; retain branch only as historical provenance; do not merge"
+  },
   "guardrails": [
     "Do not restore a bulk 32-fold same-matrix claim from the two pairwise direct-raster promotions",
     "Unresolved assertion does not equal active research obligation",
