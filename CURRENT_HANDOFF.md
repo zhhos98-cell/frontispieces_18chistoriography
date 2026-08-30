@@ -22,6 +22,7 @@ Older dated checkpoints remain research provenance. If an older `CURRENT`, `Prio
 - **Canonical core research queue:** FROZEN.
 - **Canonical colour research queue:** FROZEN.
 - **Archive/direct-object residuals:** bounded, dormant, source-triggered only.
+- **Stale discovery PRs:** none should remain open; historical branches may remain as provenance.
 
 No further broad research round is justified by the current evidence state.
 
