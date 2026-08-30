@@ -21,6 +21,15 @@ Purpose: single authoritative place for anything that requires the user's direct
 - **Completion criterion:** assistant receives a usable PDF or direct page images containing printed pp.168 and 179 (preferably also p.142 as positive control), renders them at high resolution, and records item-level matrix/state judgments against the controlled 1557 images.
 - **Do not substitute:** screenshots of catalogue descriptions alone; the test requires actual printed image linework.
 
+### UA-002 — Winckelmann 1684 Oldenburg Horn full scan for carrier/image-chain control
+
+- **Status:** OPEN — user volunteered to handle direct downloads when faster than assistant-side page traversal.
+- **Object:** Johann Just Winckelmann, *Des Oldenburgischen Wunder-Horns Ursprung/ Herkunft/ Materie/ Form/ Gestalt/ Figuren und Hieroglyphische Auslegung* (Bremen, 1684), Landesbibliothek Oldenburg digital copy, shelfmark `GE IX B 70 A`, URN `urn:nbn:de:gbv:45:1-3959`.
+- **Why user action is required:** the official viewer exposes individual pages but the 31.79 MB complete PDF exceeds the current fetch layer. Direct carrier control is needed because the catalogue explicitly warns that one Wunderhorn illustration in the digital object is **not an original impression**, but a 1912 tracing by Fr. Schohusen after the original woodcut. The volume also contains three folded leaves and a mixed apparatus (`Ill. Holzschn.; 1 Kt. Kupferst.; 1 Ill. Kupferst.; 1 Ill. Holzschn.`), so image identity must be established before comparing the 1684 representation with Jacobaeus 1696 and the surviving object.
+- **Minimum action:** download and upload the complete PDF. Direct file: `https://digital.lb-oldenburg.de/ihd/download/pdf/234884`.
+- **Completion criterion:** assistant receives the PDF, isolates the original/1912-surrogate Horn image(s), map and copperplate/folded leaves, and performs the 1684 ↔ 1696 ↔ surviving-object comparison without conflating the 1912 tracing with a 1684 impression.
+- **Catalogue warning:** `1 Ill. (Wunderhorn) nicht im Orig., sondern nach dem Orig.-Holzschn. durchgez. von Fr. Schohusen 1912`.
+
 ## Completed actions
 
 None yet.
