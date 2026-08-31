@@ -1,0 +1,72 @@
+{
+  "repository": "zhhos98-cell/frontispieces_18chistoriography",
+  "date": "2026-08-31",
+  "status": "CLOSED",
+  "public_web_discovery": "CLOSED",
+  "final_sanity_sweep": "COMPLETE",
+  "generic_expansion": "STOP",
+  "canonical_closure": "FINAL_CLOSURE_2026-08-31.md",
+  "sanity_sweep_record": "docs/FINAL_SANITY_SWEEP_2026-08-31.md",
+  "canonical_research_questions": "FROZEN",
+  "canonical_colour_questions": "FROZEN",
+  "open_github_issues": 0,
+  "open_github_pull_requests": 0,
+  "active_user_actions": [],
+  "completed_user_actions": [
+    {
+      "id": "UA-001",
+      "object": "Winckelmann 1664 JCB p142/p168/p179 direct images",
+      "result": "DONE 2026-08-30: p168 source corrected to the 1557 Igarassu battle plate; p168 and p179 promoted to high-confidence direct-raster same-matrix relations; selective lettering-state differences directly observed; exact physical alteration mechanism remains unresolved"
+    },
+    {
+      "id": "UA-002",
+      "object": "Winckelmann 1684 Oldenburg Horn LB Oldenburg full scan",
+      "result": "DONE 2026-08-30: full carrier audit identifies PDF p26 main Wunderhorn image as the explicit 1912 Fr. Schohusen tracing after the original woodcut; no genuine 1684 main Wunderhorn impression survives in this digitized carrier"
+    },
+    {
+      "id": "UA-003",
+      "object": "Winckelmann 1754 sixth part printed pp.375-378 direct seam images",
+      "result": "DONE 2026-08-31: p376-p377 reader-facing typography and marginal apparatus remain continuous with no explicit author/editor break; centered Bbb signature mark is directly visible at p377 and is consistent with a new gathering/signature unit; causal relation to Bernhard authorship boundary is not established"
+    }
+  ],
+  "parked_nonblocking_refinements": [
+    {
+      "object": "Muenster ULB 1664 second copy",
+      "purpose": "confirm whether p168/p179 lettering omissions and p171 state features are stable across 1664 copies",
+      "reopen_condition": "only if copy-state versus impression-level treatment becomes load-bearing"
+    }
+  ],
+  "dormant_direct_upgrades": [
+    "LB Oldenburg Cim I 204 ff.543r-552v",
+    "UB Marburg Ms. 309 / DE-611-HS-3888458",
+    "direct Bernhard/Winkelmann manuscript alignment",
+    "another securely dated 1684 Oldenburg Horn witness preserving the original main woodcut, if one is located for a load-bearing publication claim"
+  ],
+  "completed_direct_object_refinements": [
+    "1754 sixth part pp.375-378 direct seam inspection"
+  ],
+  "closed_priority_queue": {
+    "priority_1_1664_staden": "CLOSED at direct-raster level; p168 corrected to Igarassu; p168/p179 same-matrix relations high-confidence direct-raster; exact lettering-removal mechanism unresolved but non-blocking",
+    "priority_2_1671_maps": "CLOSED",
+    "priority_3_1684_horn": "CLOSED at direct carrier limit; main image in digitized copy is a 1912 tracing, original 1684 main Horn impression absent; 1696 derivation not directly provable from this carrier",
+    "priority_4_hessian_visual_plan": "CLOSED at source-survival boundary",
+    "priority_5_1754_p377": "CLOSED; direct seam inspection completed 2026-08-31; continuous typographic surface plus directly observed Bbb signature mark at p377; authorship causality not inferred",
+    "priority_6_ms309": "CLOSED for public-web research; archive-only"
+  },
+  "guardrails": [
+    "Do not restore a bulk 32-fold same-matrix claim from the two pairwise direct-raster promotions",
+    "Unresolved assertion does not equal active research obligation",
+    "Do not specify cutting, plugging, masking, selective inking or another lettering-removal mechanism without stronger copy/state evidence",
+    "Do not treat the 1912 Schohusen Horn tracing as an original 1684 impression",
+    "Do not promote 1696 derived_from 1684 print to direct proof from the traced carrier alone",
+    "Do not treat the p377 Bbb gathering/signature mark as proof of Bernhard authorship or deliberate printer synchronization",
+    "Older dated OPEN/Priority/next-round wording is provenance, not a live instruction"
+  ],
+  "reopen_only_for": [
+    "new direct image/object capable of materially proving or falsifying a retained matrix/state relation",
+    "bounded manuscript/archive source from a known shelfmark/folio route",
+    "new primary source contradicting a retained first-order claim",
+    "load-bearing citation/source gap arising during writing",
+    "deliberately scoped new project using the corpus"
+  ]
+}
