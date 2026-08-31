@@ -2,106 +2,107 @@
 
 ## Canonical state
 
-**RESEARCH CLOSED — 2026-08-30.**
+**RESEARCH CLOSED — FINAL SEAL 2026-08-31.**
 
 Read first:
 
-1. [`FINAL_CLOSURE_2026-08-30.md`](FINAL_CLOSURE_2026-08-30.md)
-2. [`CLOSURE_STATE_2026-08-30.json`](CLOSURE_STATE_2026-08-30.json)
-3. [`docs/USER_ACTION_LOG.md`](docs/USER_ACTION_LOG.md)
-4. [`docs/WINCKELMANN_1664_DIRECT_RASTER_MATRIX_STATE_CLOSURE_P142_P168_P179_2026-08-30.md`](docs/WINCKELMANN_1664_DIRECT_RASTER_MATRIX_STATE_CLOSURE_P142_P168_P179_2026-08-30.md)
-5. [`docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md`](docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md)
+1. [`FINAL_CLOSURE_2026-08-31.md`](FINAL_CLOSURE_2026-08-31.md)
+2. [`CLOSURE_STATE_2026-08-31.json`](CLOSURE_STATE_2026-08-31.json)
+3. [`docs/FINAL_SANITY_SWEEP_2026-08-31.md`](docs/FINAL_SANITY_SWEEP_2026-08-31.md)
+4. [`docs/USER_ACTION_LOG.md`](docs/USER_ACTION_LOG.md)
 
-Older dated checkpoints remain research provenance. If an older `CURRENT`, `Priority`, `OPEN`, `next round`, or handoff instruction conflicts with the files above, this closure state controls.
+`FINAL_CLOSURE_2026-08-30.md` and older dated checkpoints remain research provenance. If any older `CURRENT`, `OPEN`, `Priority`, `next round`, or exploratory instruction conflicts with the 2026-08-31 files above, the 2026-08-31 seal controls.
 
-## Current operational status
+## Operational status
 
 - **Research programme:** CLOSED.
 - **Public-web discovery:** CLOSED.
+- **Final sanity sweep:** COMPLETE.
 - **Generic expansion:** STOP.
 - **Active blocking user actions:** NONE.
-- **Logged user actions:** UA-001 DONE; UA-002 DONE.
+- **Completed user-assisted direct checks:** UA-001, UA-002, UA-003.
 - **Canonical core research queue:** FROZEN.
 - **Canonical colour research queue:** FROZEN.
+- **Open GitHub issues:** 0.
+- **Open GitHub pull requests:** 0.
 - **Archive/direct-object residuals:** bounded, dormant, source-triggered only.
-- **Stale discovery PRs:** none should remain open; historical branches may remain as provenance.
 
 No further broad research round is justified by the current evidence state.
 
-## Priority 1 — Winckelmann 1664 / Staden: CLOSED
+## Key final deltas from the 2026-08-30 closure
 
-The former `UA-001` raster task is complete.
+### 1754 sixth part p.377 seam: COMPLETED
 
-Key correction:
+The user supplied direct images covering printed pp.375–378.
 
-**1664 p.168 is not the 1557 Ubatuba / `uwatibi` plate.** The correct source is the 1557 Igarassu battle plate:
+Direct result at the historically attributed Bernhard boundary from p.377:
 
-`[Combate entre portugueses e índios caetés em Igarassu]`, Brasiliana / BBM ID `45000008047.28`.
+- no explicit author/editor announcement;
+- two-column typography and marginal apparatus continue across p.376 → p.377;
+- no conspicuous section-heading or type/spacing rupture;
+- centered `Bbb` signature mark directly visible at the foot of p.377, consistent with a new gathering/signature unit.
 
-Direct-raster result:
+Evidence ceiling:
 
-- p.168 → `same_matrix_as_1557 = HIGH_CONFIDENCE_DIRECT_RASTER`;
-- p.179 → `same_matrix_as_1557 = HIGH_CONFIDENCE_DIRECT_RASTER`;
-- selective lettering-state differences are directly observed in both cases;
-- exact physical mechanism remains unspecified;
-- p.142 direct 1664 raster is controlled as positive control.
+`typographic/editorial surface = continuous`
 
-Do **not** restore a bulk `32 same matrices` claim from these two pairwise promotions.
+`Bbb gathering/signature boundary at p.377 = directly observed`
 
-The Münster second copy is only an optional confirmatory state test.
+`Bbb boundary proves Bernhard authorship = NO`
 
-## Priority 3 — Winckelmann 1684 Oldenburg Horn: CLOSED AT CARRIER LIMIT
+`causal synchronization by printer/editor = NOT ESTABLISHED`.
 
-The former `UA-002` full-scan task is complete.
+The former `1754 sixth part pp.376–378 direct seam inspection` dormant item is now complete and removed from the dormant list.
 
-Direct scan result:
+Definitive checkpoint:
 
-- digital PDF pp.25–27 are the main Wunderhorn foldout sequence;
-- the fully opened image at PDF p.26 is explicitly labelled `Nach dem Originalholzschnitt durchgezeichnet von Fr. Schohusen 1912.`;
-- therefore the principal Horn image in the digitized `GE IX B 70 A` copy is a **1912 tracing after the original woodcut**, not an original 1684 impression;
-- no genuine 1684 main Wunderhorn impression survives in this digitized carrier;
-- other historical image apparatus in the volume does not repair that absence.
+[`docs/WINKELMANN_1754_P377_DIRECT_OBJECT_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md`](docs/WINKELMANN_1754_P377_DIRECT_OBJECT_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md)
 
-Comparison result:
+### Final sanity sweep: NO REOPEN TRIGGER
 
-- Jacobaeus 1696 Tab. XVI shows strong broad concordance with the traced 1684 visual tradition;
-- `1696 derived_from 1684 print` remains **strong scholarly reported / not directly proven** because the available 1684 image is second-order and Jacobaeus also had object access;
-- the reported heraldic discrepancy remains controlled at scholarly/transmission level, but this specific carrier cannot establish it by direct observation of an extant 1684 main-Horn impression.
+The final targeted sweep rechecked:
 
-No further user action is required. Reopen only if another 1684 copy preserving the original main Wunderhorn woodcut, or another securely dated seventeenth-century production witness, appears for a load-bearing claim.
+- Münster ULB 1664 second copy;
+- 1671 Oldenburg apparatus;
+- possible alternate 1684 Horn witnesses;
+- Oldenburg `Cim I 204`;
+- Marburg `Ms. 309`;
+- Bernhard manuscript comparators;
+- repository issue/PR state.
 
-## Other Winckelmann modules
+No new public source materially changed the argument/evidence architecture.
 
-Closed modules:
+## Stable closed modules
 
-- p.136 provenance + pp.18/74 source models: [`docs/WINCKELMANN_1664_P136_PROVENANCE_AND_P18_P74_SOURCE_MODEL_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_1664_P136_PROVENANCE_AND_P18_P74_SOURCE_MODEL_CLOSURE_2026-08-30.md)
-- 1671 two maps / cartographic ancestry: [`docs/WINCKELMANN_1671_TWO_MAPS_AND_CARTOGRAPHIC_SOURCE_ANCESTRY_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_1671_TWO_MAPS_AND_CARTOGRAPHIC_SOURCE_ANCESTRY_CLOSURE_2026-08-30.md)
-- 1684 Horn carrier audit: [`docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md`](docs/WINCKELMANN_1684_HORN_CARRIER_FIREWALL_AND_DIRECT_IMAGE_BOUNDARY_2026-08-30.md)
-- Hessian planned visual apparatus: [`docs/WINCKELMANN_HESSIAN_PLANNED_VISUAL_APPARATUS_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_HESSIAN_PLANNED_VISUAL_APPARATUS_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md)
-- 1754 p.377 / Bernhard source boundary: [`docs/WINCKELMANN_1754_P377_DIRECT_OBJECT_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md`](docs/WINCKELMANN_1754_P377_DIRECT_OBJECT_SOURCE_BOUNDARY_CLOSURE_2026-08-30.md)
-- Marburg `Ms.309`: [`docs/WINCKELMANN_MARBURG_MS309_OPEN_WEB_CLOSURE_AND_ARCHIVE_ONLY_STATUS_2026-08-30.md`](docs/WINCKELMANN_MARBURG_MS309_OPEN_WEB_CLOSURE_AND_ARCHIVE_ONLY_STATUS_2026-08-30.md)
+- 1664 Staden direct-raster matrix/state checks: CLOSED.
+- 1671 maps/cartographic ancestry: CLOSED.
+- 1684 Horn carrier audit: CLOSED AT CARRIER LIMIT.
+- Hessian planned visual apparatus: CLOSED AT SOURCE-SURVIVAL BOUNDARY.
+- 1754 p.377/Bernhard printed boundary: CLOSED; direct seam check COMPLETED.
+- Marburg `Ms. 309`: PUBLIC-WEB CLOSED / ARCHIVE-ONLY.
+
+## Dormant source-triggered upgrades
+
+Reopen only if the actual source arrives or writing makes the point load-bearing:
+
+- Münster ULB 1664 second-copy p.168/p.171/p.179 state comparison;
+- LB Oldenburg `Cim I 204`, ff.543r–552v;
+- UB Marburg `Ms. 309`, Kalliope `DE-611-HS-3888458`;
+- direct Bernhard/Winkelmann manuscript alignment;
+- another securely dated 1684 Horn witness preserving the original main woodcut.
+
+These are not active tasks and do not justify generic web searching.
 
 ## Canonical lifecycle rule
 
-`data/canonical/research_questions.jsonl` and `data/canonical/colour_research_questions.jsonl` are frozen.
+`data/canonical/research_questions.jsonl` and `data/canonical/colour_research_questions.jsonl` remain frozen.
 
-This does not turn unresolved/probable claims into established facts. It means their remaining tests are bounded object/archive/copy refinements rather than current discovery obligations.
+This does not promote unresolved/probable claims to facts. It means their remaining tests are bounded object/archive/copy refinements rather than current discovery obligations.
 
 `unresolved assertion ≠ active research obligation`.
-
-## Dormant archive/library upgrades
-
-Reopen only when the actual source or a load-bearing writing need appears:
-
-- Münster ULB 1664 p.168 / p.179 second-copy state confirmation;
-- LB Oldenburg `Cim I 204`, ff.543r–552v;
-- UB Marburg `Ms.309`, Kalliope `DE-611-HS-3888458`;
-- 1754 sixth part pp.376–378 if a direct seam check is required;
-- direct Bernhard/Winkelmann manuscript alignment;
-- another 1684 Horn copy preserving the original main woodcut, if one appears and the claim becomes load-bearing.
 
 ## Restart rule
 
 For any future chat:
 
-`先读 FINAL_CLOSURE_2026-08-30.md、CLOSURE_STATE_2026-08-30.json 和 docs/USER_ACTION_LOG.md。frontispieces 当前状态为 CLOSED。UA-001、UA-002 均已完成。只有新的直接图像/实物、已锁定档案材料、会改变论证的一手材料、或写作时暴露出的 load-bearing source gap 才允许重开具体分支；不要恢复旧 Priority queue 或 generic web sweep。`
+`先读 FINAL_CLOSURE_2026-08-31.md、CLOSURE_STATE_2026-08-31.json、docs/FINAL_SANITY_SWEEP_2026-08-31.md 和 docs/USER_ACTION_LOG.md。frontispieces 已于 2026-08-31 最终封库。不要恢复 generic web sweep 或旧 Priority queue。只有新的直接图像/实物、已锁定档案材料、会改变论证的一手材料、或写作中暴露出的 load-bearing source gap 才允许局部重开。`
