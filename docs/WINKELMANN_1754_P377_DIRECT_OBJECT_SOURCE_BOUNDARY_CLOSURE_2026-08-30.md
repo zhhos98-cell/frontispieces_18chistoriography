@@ -1,28 +1,33 @@
 # Winckelmann 1754 sixth part — p.377 direct-object source-boundary closure
 
-Date: 2026-08-30  
-Status: **PRINT OBJECT AND HISTORICAL ATTRIBUTION CONTROLLED; DIRECT P.376–378 VISUAL TEST ROUTED TO OPEN DIGITAL COPIES; NO BROAD RESEARCH GAP REMAINS.**
+Date opened: 2026-08-30  
+Direct seam check completed: 2026-08-31  
+Status: **CLOSED — HISTORICAL ATTRIBUTION CONTROLLED / DIRECT P.375–378 VISUAL TEST COMPLETE / MATERIAL SIGNATURE BOUNDARY OBSERVED / MANUSCRIPT AUTHORSHIP NOT INFERRED**
 
 ## Result
 
-The repo's former Priority 5 asked for direct inspection around printed p.377 to determine whether the historically attributed Bernhard continuation boundary is also visible as a typographic/section/codicological break.
+The former Priority 5 asked whether the historically attributed Bernhard continuation from printed p.377 is also visible as a physical or typographic break in the 1754 sixth part.
 
-That question can now be bounded without keeping the research programme open.
+That bounded direct-object test is now complete.
 
-1. The **historical attribution** is explicit and stable: the *Allgemeine Deutsche Biographie* says the continuation `von S. 377 an` is by the Hanau archivist Bernhard.
-2. The **1754 print object** is directly controlled in an open digital institutional copy at ULB Sachsen-Anhalt, shelfmark `AB BB 2264 (6)`, VD18 `11053887`, with `8 ungezählte Seiten, 490, 67 Seiten`, public domain.
-3. The same work is independently used by the Leibniz-Katalog under Munich BSB shelfmark `2 Germ.sp. 164-2`, where modern editors align pre-publication Leibniz notes with printed pp.10, 11, 12, 40, 41, 54, 55, 56, 59, 69 and 96 (and perhaps more). This independently proves pre-1697 textual continuity in the early printed zone.
-4. The remaining p.376–378 test can refine how smoothly Bernhard's continuation was integrated into the 1754 print. It cannot by itself convert the ADB attribution into direct manuscript authorship, nor does its absence block the article-level stratigraphic claim.
+1. The historical attribution remains explicit: the *Allgemeine Deutsche Biographie* states that the continuation `von S. 377 an` is by the Hanau archivist Johann Adam Bernhard.
+2. The 1754 sixth-part print object remains controlled in the ULB Sachsen-Anhalt copy, shelfmark `AB BB 2264 (6)`, VD18 `11053887`.
+3. The user supplied direct images covering printed pp.375–378.
+4. Across p.376 → p.377, the reader-facing typography and marginal apparatus remain continuous. There is no explicit author/editor announcement, no new section heading, and no conspicuous type/spacing rupture.
+5. A centered `Bbb` signature mark is directly visible at the foot of p.377. In ordinary gathering/signature practice this is consistent with a new gathering/signature unit beginning at this point.
+6. The coincidence between the `Bbb` material boundary and the historical p.377 authorship attribution is noteworthy but does **not** prove that the printer synchronized a quire boundary with a change of author, nor that a surviving manuscript join lay there.
 
-Therefore the correct state is:
+Final classifications:
 
-`HISTORICAL ATTRIBUTION BOUNDARY = CONTROLLED`
+`P.377ff BERNHARD CONTINUATION = CONTROLLED HISTORICAL ATTRIBUTION`
 
-`PRINT OBJECT = OPEN-DIGITAL CONTROLLED`
+`P.376 → P.377 TYPOGRAPHIC / EDITORIAL SURFACE = DIRECTLY OBSERVED CONTINUITY`
 
-`DIRECT PAGE-SEAM INSPECTION = BOUNDED OBJECT-LEVEL REFINEMENT`
+`P.377 Bbb SIGNATURE / GATHERING BOUNDARY = DIRECTLY OBSERVED`
 
-`MANUSCRIPT AUTHORSHIP = REQUIRES BERNHARD/WINCKELMANN MANUSCRIPT ALIGNMENT, NOT TYPOGRAPHY ALONE`.
+`GATHERING BOUNDARY CAUSED BY AUTHORSHIP CHANGE = NOT ESTABLISHED`
+
+`DIRECT MANUSCRIPT AUTHORSHIP BOUNDARY = REQUIRES MANUSCRIPT ALIGNMENT`.
 
 ---
 
@@ -36,15 +41,11 @@ Official route:
 
 `https://www.deutsche-biographie.de/pnd104280883.html`
 
-Evidence status:
-
-`P.377ff BERNHARD CONTINUATION = CONTROLLED HISTORICAL ATTRIBUTION`.
-
-This remains an attribution statement, not a surviving printer's-copy colophon.
+This remains a historical attribution statement, not a printer's-copy colophon or direct manuscript hand identification.
 
 ---
 
-## 2. Open digital 1754 print object
+## 2. Controlled 1754 print object
 
 ULB Sachsen-Anhalt / Share_it controls the complete sixth part:
 
@@ -55,82 +56,90 @@ ULB Sachsen-Anhalt / Share_it controls the complete sixth part:
 - VD18: `11053887`;
 - URN: `urn:nbn:de:gbv:3:1-1192015415-137755333-13`;
 - DOI: `10.25673/73869`;
-- license: Public Domain Mark 1.0;
-- repository exposes online viewing / IIIF and a complete PDF (~451.95 MB).
+- license: Public Domain Mark 1.0.
 
 Landing page:
 
 `https://opendata.uni-halle.de//handle/1981185920/75821`
 
-This closes the bibliographic/object-existence issue. The current browser layer is impeded by the repository's anti-bot/JavaScript protection for direct page extraction, but that is a technical access boundary rather than a research uncertainty.
+The institutional object identity and access route were already closed before the direct page images arrived.
 
 ---
 
-## 3. Preprint continuity before p.377 is independently controlled
+## 3. Pre-p.377 continuity remains independently controlled
 
-Leibniz-Katalog record 11623 compares Leibniz working notes against the 1754 print and identifies matches/helpful passages on:
+The Leibniz-Katalog uses the Munich BSB copy `2 Germ.sp. 164-2` and aligns pre-publication Leibniz working notes with multiple early printed pages, including pp.10, 11, 12, 40, 41, 54, 55, 56, 59, 69 and 96.
 
-`10, 11, 12, 40, 41, 54, 55, 56, 59, 69, 96` and perhaps further pages.
+This independently protects against a model in which the whole 1754 sixth part is simply a new Bernhard composition.
 
-It identifies the Munich copy as:
+Current stratigraphy remains:
 
-`BSB: 2 Germ.sp. 164-2`.
+`selected early printed passages = pre-publication Winckelmann-side continuity controlled`
 
-This directly protects against an over-simple model in which the entire 1754 sixth part is a new Bernhard construction.
-
-Current stratigraphy therefore remains:
-
-`selected early pages = preprint continuity directly controlled`
-
-`pre-p.377 remainder = historically Winkelmann-side / editorial-composite zone, exact contribution unresolved`
+`pre-p.377 remainder = historically Winckelmann-side / editorial-composite zone, exact mixture unresolved`
 
 `p.377ff = historically attributed Bernhard continuation`
 
-`direct Bernhard manuscript identity = still higher evidentiary bar`.
+`direct manuscript boundary = higher evidentiary bar`.
 
 ---
 
-## 4. What a p.376–378 visual check could and could not add
+## 4. Direct p.375–378 visual inspection
 
-Useful observations if/when the pages are directly rendered:
+The supplied images show two consecutive spreads covering printed pp.375–376 and pp.377–378.
 
-- section/reign transition;
-- running heading change;
-- catchword continuity;
-- quire signature;
-- type/spacing discontinuity;
-- source formula change;
-- explicit editor/author marker.
+### Reader-facing continuity
 
-Possible outcomes:
+At p.376 → p.377:
 
-### Visible break
+- no explicit `Fortsetzung`, author name, editor name, or equivalent announcement appears;
+- the established two-column text block continues;
+- the marginal-reference system continues;
+- the text does not restart under a conspicuous new section heading;
+- there is no obvious reset in type size, column width, or general spacing that visually advertises an authorship transition.
 
-Would strengthen the interpretation that the historical attribution boundary coincides with a reader-visible structural boundary.
+Thus the printed edition smooths the historical authorship boundary at the level visible to an ordinary reader.
 
-### No visible break
+### Material signature boundary
 
-Would strengthen the interpretation of editorial smoothing under continuous public authorship.
+At the foot of p.377, centered below the text block, a clear `Bbb` signature mark is visible.
 
-Neither outcome establishes manuscript hand or textual authorship by itself.
+Safe inference:
 
-Thus the direct page test is **diagnostic refinement**, not a prerequisite for the current historical argument.
+> p.377 coincides with a new signature/gathering unit in this copy's printed structure.
+
+Unsafe inference:
+
+> the gathering was deliberately begun because Bernhard's authorship begins here.
+
+The first is a direct material observation plus standard bibliographical interpretation. The second would require printer/editorial evidence or manuscript/setting-copy alignment.
+
+### Combined result
+
+The most useful formulation is therefore:
+
+> The 1754 edition presents the p.376–377 transition as typographically continuous even though p.377 carries a new `Bbb` signature mark. The historically reported Bernhard continuation boundary thus coincides with a material gathering boundary but is not announced as an authorship change to the reader. The coincidence is suggestive for textual stratigraphy, not proof of manuscript authorship or editorial causation.
 
 ---
 
-## 5. Article-level claim ceiling
+## 5. Claim ceiling
 
-Safe formulation:
+Safe:
 
-> The 1754 sixth part presents a single continuous Winkelmann project surface, while later historical scholarship locates Bernhard's continuation from p.377. Independent Leibniz working material aligns with multiple passages in the early printed zone, confirming that the reconstructed edition preserves pre-publication Winkelmann material. The precise manuscript and editorial mixture on either side of p.377 remains a textual-stratigraphic question rather than a reason to treat the whole sixth part as homogeneous.
+- later historical scholarship locates Bernhard's continuation from p.377;
+- the direct print shows no explicit reader-facing authorship break there;
+- p.377 bears the `Bbb` signature mark and is consistent with a new gathering boundary;
+- early printed passages preserve demonstrable pre-publication Winckelmann-side material;
+- direct manuscript alignment would be required to identify the exact textual hand or setting-copy transition.
 
 Do not state:
 
-- pp.1–376 = pure untouched Winkelmann;
+- pp.1–376 = pure untouched Winckelmann;
 - pp.377–490 = entirely newly authored by Bernhard;
-- p.377 = surviving physical manuscript join;
-- Bernhard had no editorial role before p.377;
-- the typographic seam itself proves authorship.
+- `Bbb` proves Bernhard begins writing at p.377;
+- p.377 is a surviving manuscript join;
+- the printer intentionally synchronized gathering and authorship boundaries;
+- Bernhard had no editorial role before p.377.
 
 ---
 
@@ -139,6 +148,7 @@ Do not state:
 **1754 print identity/access: CLOSED.**  
 **p.377 Bernhard historical attribution: CLOSED.**  
 **preprint continuity in early zone: CONTROLLED.**  
-**p.376–378 direct visual seam: OPTIONAL BOUNDED OBJECT CHECK.**  
+**p.375–378 direct visual seam: COMPLETED 2026-08-31.**  
+**p.377 `Bbb` material signature boundary: DIRECTLY OBSERVED.**  
 **direct Bernhard manuscript alignment: DORMANT ARCHIVE/MANUSCRIPT UPGRADE.**  
 **Priority 5 broad research: CLOSED.**
