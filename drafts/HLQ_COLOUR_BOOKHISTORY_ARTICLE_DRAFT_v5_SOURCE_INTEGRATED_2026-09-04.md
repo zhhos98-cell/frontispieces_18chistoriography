@@ -20,6 +20,8 @@ Rather than treating colour as a metaphor for historical knowledge, the article 
 
 # I. Göttingen: Colouring Facts
 
+By 1772 Gatterer had taught history at Göttingen for more than a decade, while Schlözer had returned to the university as an ordinary professor only in 1770 and soon began teaching universal history alongside him. Their programmes were close enough that the two men would publicly quarrel in 1773 over teaching, priority, and alleged borrowing.
+
 In 1772 August Ludwig Schlözer compared the materials of universal history to the small coloured stones of a mosaic. Criticism recovered or tested facts from annals and monuments; the historian then distributed and combined them until a larger *Gemälde* appeared. Yet the same passage drew a limit around one kind of colouring. The writers who did not simply make their facts, Schlözer remarked, at least “coloured” them — *färben sie wenigstens*.[^1]
 
 **[FIG. 1A]** Schlözer, *Vorstellung seiner Universal-Historie*, I (1772), pp. 44–45: mosaic / *Facta färben* / *Zusammenstellung*.
@@ -49,6 +51,8 @@ The question raised by these Göttingen books is therefore elementary: what did 
 ---
 
 # II. Nürnberg: An *Erklärung der Farben*
+
+A *Wappenkalender* was an annually updated reference book that brought princely and noble genealogies, coats of arms, dynastic changes, and related historical information into one portable publication. The Weigel series at the centre of this article ran from 1723 through 1757, so the 1744 copy examined below belongs to a publication already two decades old.
 
 ## Good copper, bad explanation
 
@@ -139,6 +143,8 @@ That continuity is enough to turn the article back toward Gatterer without requi
 # III. Göttingen Again: Coloured Historical Books
 
 ## Gatterer in the Nürnberg publication world
+
+These years also mark Gatterer’s own move between the two places. He had taught history in Nürnberg during the 1750s; in 1759 he accepted the Göttingen chair formerly held by Johann David Köhler.
 
 Gatterer did not encounter the Nürnberg genealogy-heraldry trade only as a remote predecessor to his Göttingen work. In 1755 his *Historia genealogica dominorum Holzschuherorum* was produced in Nürnberg, with Martin Tyroff among the engravers associated with its visual apparatus.[^29] The Weigel-heirs *Wappenkalender* was still being issued, and Tyroff was active in extending inherited heraldic plate stock. These facts do not connect Gatterer personally to the design of the *Erklärung der Farben*, but they place his work within the same production world of genealogical books and heraldic copperplates.
 
