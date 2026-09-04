@@ -52,7 +52,7 @@ The question raised by these Göttingen books is therefore elementary: what did 
 
 # II. Nürnberg: An *Erklärung der Farben*
 
-A *Wappenkalender* was an annually updated reference book that brought princely and noble genealogies, coats of arms, dynastic changes, and related historical information into one portable publication. The Weigel series at the centre of this article ran from 1723 through 1757, so the 1744 copy examined below belongs to a publication already two decades old.
+A *Wappenkalender* was an annually updated reference book that brought princely and noble genealogies, coats of arms, dynastic changes, and related historical information into one portable publication. The Weigel series at the centre of this article ran from 1723 through 1757, so the 1744 copy examined below belongs to a publication already two decades old. The names attached to this publication world refer to different kinds of work: Christoph Weigel was an engraver, publisher, and print dealer; Johann David Köhler a historian, numismatist, and heraldist; Martin Tyroff an engraver who entered the Weigel family business through marriage.
 
 ## Good copper, bad explanation
 
@@ -60,7 +60,7 @@ Genealogy-heraldry calendars were already substantial illustrated books before t
 
 The target was not an isolated experiment. A surviving-copy description for the Augsburg *Genealogisch-Heraldischer Staats-Kalender* of 1723 lists an engraved frontispiece, seventy-four armorial copperplates, twelve text coppers, and folding genealogical trees.[^9] By the early 1720s, genealogy-heraldry calendars already brought together images, tables, and prose on a substantial scale.
 
-Heraldic colour made the relation between image and explanation especially visible because the relevant colours did not have to appear materially on the printed page. Johann Siebmacher’s *New Wapenbuch* of 1605 supplied a *Declaration* of the proper colours so that a purchaser could have the arms *illuminiren und erhöhen lassen*.[^10] Colour could therefore exist as information in an uncoloured printed book and as pigment in a subsequently finished copy.
+Heralds called the conventional colours and metals of a coat of arms its tinctures. In a black-ink engraving, those tinctures still had to be communicated somehow. Johann Siebmacher’s *New Wapenbuch* of 1605 supplied a *Declaration* of the proper colours so that a purchaser could have the arms *illuminiren und erhöhen lassen*.[^10] Colour could therefore exist as information in an uncoloured printed book and as pigment in a subsequently finished copy.
 
 **[FIG. 3A]** Siebmacher 1605 *Declaration*: *gehörigen Farben* / *illuminiren und erhöhen*.
 
@@ -121,7 +121,7 @@ The preface is retrospective and should not be attributed to Köhler in 1723. It
 
 ## A key survives the change of format
 
-The *Erklärung der Farben* did not disappear with the last numbered Köhler/Weigel annual in 1757. A digitized copy of Johann Friedrich Seyfart’s *Der durchlauchtigen Welt vollständiges Wappenbuch* at Tübingen, catalogued under 1771 but bearing a title page dated 1772, opens in the sequence:
+Fifteen years after the last numbered Köhler/Weigel annual of 1757, the *Erklärung der Farben* was still present in a new host. A digitized copy of Johann Friedrich Seyfart’s *Der durchlauchtigen Welt vollständiges Wappenbuch* at Tübingen, catalogued under 1771 but bearing a title page dated 1772, opens in the sequence:
 
 *Vorsatz → Erklärung der Farben → Titelblatt → Vorbericht*.[^26]
 
