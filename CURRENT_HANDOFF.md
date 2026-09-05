@@ -29,6 +29,12 @@ Read first:
 
 No further broad research round is justified by the current evidence state.
 
+## Post-seal external writing linkage
+
+On 2026-09-05 an essay-review proposal, *Putting Colour on Paper*, was sent to the Ambix reviews editors. It begins from Anne Varichon’s *Color Charts: A History* and proposes a possible conversation with *Printing Colour 1700–1830* and Giulia Simonini’s *Color Charts in 18th-century Europe*. The proposal is relevant to the existing Göttingen/Nuremberg colour branch but does **not** reopen the frozen research queues.
+
+Full outreach provenance, rationale, and the sent email body are recorded in [`docs/AMBIX_COLOUR_ESSAY_REVIEW_PITCH_2026-09-05.md`](docs/AMBIX_COLOUR_ESSAY_REVIEW_PITCH_2026-09-05.md).
+
 ## Key final deltas from the 2026-08-30 closure
 
 ### 1754 sixth part p.377 seam: COMPLETED
