@@ -1,6 +1,6 @@
 # An *Erklärung der Farben*: Colour, Books, and Historical Method from Nürnberg to Göttingen
 
-**Working draft v5 — canonical / AGENTS source-status pass**  
+**Working draft v5 — canonical / sentence-level tightening pass**  
 **Date:** 5 September 2026  
 **Target:** *Huntington Library Quarterly*  
 **Structure locked:** Göttingen → Nürnberg → Göttingen  
@@ -8,70 +8,68 @@
 
 ## Abstract
 
-Johann Christoph Gatterer’s *Synopsis historiae universalis* advertised six tables, two of them copper-engraved and *coloribusque illustratae*. Yet the hand-applied colour was not a stable edition-wide finish: André de Melo Araújo’s copy census records coloured and uncoloured witnesses and, most strikingly, a Tübingen copy in which one of the relevant tables is coloured while its partner is not. In 1772 August Ludwig Schlözer, writing in the same Göttingen environment, warned historians against making or at least “colouring” their facts. These books place a material question beside a methodological one: where, within an eighteenth-century historical book, did colour reside?
+A surviving Tübingen copy of Johann Christoph Gatterer’s *Synopsis historiae universalis* contains one coloured and one uncoloured table within a pair advertised on the title page as copper-engraved and *coloribusque illustratae*. Other surviving copies preserve different chromatic states. In 1772, in the same Göttingen environment, August Ludwig Schlözer warned historians against making or at least “colouring” their facts. Colour could therefore enter historical work at sharply different points: as an intervention in a fact, as information carried by a page, or as pigment added to a printed table.
 
-This article answers that question through an older Nürnberg publication practice. The Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* repeatedly carried an engraved *Erklärung der Farben*, a monochrome key in which dots and hatchings stood for named heraldic colours. In a directly inspected 1744 copy the key is followed immediately by armorial plates using the same graphic vocabulary, while a later prose section names the tinctures again. A defective 1729 copy is described as lacking the key, exposing it as a separable bibliographical component. The annuals around it were repeatedly revised and patched with additions and changes received while printing was underway. In a cumulative *Wappenbuch* preserved at Tübingen, catalogued under 1771 but bearing a 1772 title state, an *Erklärung der Farben* still precedes the title page, and the publisher states that arms formerly used in the *Wappencalender* supplied the basis of the new work.
+The Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* makes that distinction materially visible. Its recurring engraved *Erklärung der Farben* was a monochrome key in which dots and hatchings stood for named heraldic colours. In a directly inspected 1744 copy the key is followed immediately by armorial plates using the same graphic vocabulary, while a later prose section names the tinctures again. A defective 1729 copy is described as lacking the key. The annuals around it were revised from new reports and patched with dynastic changes received while printing was underway. In a cumulative *Wappenbuch* preserved at Tübingen, catalogued under 1771 but bearing a 1772 title state, an *Erklärung der Farben* still precedes the title page, and the publisher states that arms formerly used in the *Wappencalender* supplied the basis of the new work.
 
-Gatterer worked within this publication world before and after his move from Nürnberg to Göttingen. His books involved Nürnberg engravers in 1755, he participated in the posthumous completion of Johann David Köhler’s numismatic serial, and his 1759 *Handbuch der neuesten Genealogie und Heraldik* appeared under the Weigel-heirs imprint as a formal continuation of the older annual. Following these books at component and copy level changes the history of colour at the page: colour could be named without being printed in colour, encoded by black signs, supplied through a key, added by hand, lost with a leaf, or preserved unevenly within a book whose title promised it.
+Gatterer worked within this publication world before and after his move from Nürnberg to Göttingen. His books involved Nürnberg engravers in 1755; he participated in the posthumous completion of Johann David Köhler’s numismatic serial; and his 1759 *Handbuch der neuesten Genealogie und Heraldik* appeared under the Weigel-heirs imprint as a continuation of the older annual. Across these books, colour was not one stable property of an edition. It could be named without pigment, encoded by black signs, supplied through a separate key, added by hand, lost with a leaf, or preserved unevenly inside a book whose title promised it.
 
 ---
 
-# I. Göttingen: Colouring Facts
+# I. Göttingen: A Coloured Book with an Uncoloured Table
 
-By 1772 Gatterer had taught history at Göttingen for more than a decade, while Schlözer had returned to the university as an ordinary professor in 1770 and soon taught universal history alongside him. Their programmes were close enough that the two men publicly quarrelled in 1773 over teaching, priority, and alleged borrowing.
-
-In 1772 Schlözer compared the materials of universal history to the small coloured stones of a mosaic. Criticism recovered or tested facts from annals and monuments; the historian then distributed and combined them until a larger *Gemälde* appeared. Yet the same passage drew a boundary around intervention in those facts. Writers who did not simply make their facts, Schlözer remarked, at least “coloured” them — *färben sie wenigstens*.[^1]
-
-**[FIG. 1]** Schlözer, *Vorstellung seiner Universal-Historie*, I (1772), pp. 44–45: mosaic / *Facta färben* / *Zusammenstellung*.
-
-Gatterer’s *Synopsis historiae universalis* makes a different colour problem visible at the level of the book. Its title describes six tables, two engraved in copper and *coloribusque illustratae*.[^5] Araújo established the importance of these tables for the history of synchronistic and visual historiography and showed that hand-applied pigment could sharpen boundaries and political changes while engraved lines carried much of the historical arrangement.[^6] His copy census also changes the bibliographical reading of the title. Coloured 1766 witnesses include the ULB Sachsen-Anhalt, Hannover, and Tübingen copies; Leipzig and Gotha preserve wholly uncoloured 1766 witnesses, and several 1769 witnesses are likewise uncoloured.[^7] Tübingen `Fn 28.2` is internally mixed: one of the relevant tables is coloured while the other is not.
+Gatterer’s *Synopsis historiae universalis* describes six tables on its title page, two engraved in copper and *coloribusque illustratae*.[^5] Araújo’s copy census records coloured 1766 witnesses at Halle, Hannover, and Tübingen; Leipzig and Gotha preserve wholly uncoloured 1766 witnesses, and several 1769 witnesses are likewise uncoloured.[^6][^7] Tübingen `Fn 28.2` is internally mixed: one of the relevant tables is coloured while the other is not.
 
 **[FIG. 2A]** *Synopsis* title: *quarum duae in aes incisae coloribusque illustratae sunt*.  
 **[FIG. 2B]** Tübingen `Fn 28.2`, relevant Table I, coloured.  
 **[FIG. 2C]** Tübingen `Fn 28.2`, relevant Table II, uncoloured.
 
-The mixed witness makes colour a copy- and component-level property. The Nürnberg books examined next had confronted the inverse material problem for decades: how to preserve colour information on pages printed only in black.
+The title describes colour at edition level; the surviving copy preserves it unevenly at component level. Engraved lines remain where hand-applied pigment does not. A “coloured” historical book could therefore contain an uncoloured historical table.
+
+At Göttingen in 1772 Schlözer used colour language for a different operation. He compared the materials of universal history to the small coloured stones of a mosaic. Criticism recovered or tested facts from annals and monuments; the historian then distributed and combined them until a larger *Gemälde* appeared. Yet writers who did not simply make their facts, he remarked, at least “coloured” them — *färben sie wenigstens*.[^1]
+
+**[FIG. 1]** Schlözer, *Vorstellung seiner Universal-Historie*, I (1772), pp. 44–45: mosaic / *Facta färben* / *Zusammenstellung*.
+
+Schlözer’s sentence concerns intervention in historical facts. Gatterer’s surviving tables concern the material finish of a book. Nürnberg genealogy-heraldry books had long handled a third case: preserving colour information on pages printed only in black.
 
 ---
 
 # II. Nürnberg: An *Erklärung der Farben*
 
-A *Wappenkalender* was an annually updated reference book that brought princely and noble genealogies, coats of arms, dynastic changes, and related historical information into one portable publication. The Weigel series at the centre of this article ran from 1723 through 1757. Christoph Weigel worked as engraver, publisher, and print dealer; Johann David Köhler as historian, numismatist, and heraldist; Martin Tyroff as an engraver who entered the Weigel family business through marriage.
+A *Wappenkalender* brought princely and noble genealogies, coats of arms, dynastic changes, and related historical information into an annually updated reference book. The Weigel series at the centre of this article ran from 1723 through 1757. Christoph Weigel worked as engraver, publisher, and print dealer; Johann David Köhler as historian, numismatist, and heraldist; Martin Tyroff as an engraver who entered the Weigel family business through marriage.
 
 ## Earlier ways of carrying colour
 
-Heraldic books had long separated chromatic information from pigment. Johann Siebmacher’s *New Wapenbuch* of 1605 supplied a *Declaration* of the proper colours so that a purchaser could have the arms *illuminiren und erhöhen lassen*.[^10] The printed book could therefore specify colour before any purchaser or colourist applied it.
-
-Philipp Jakob Spener made the graphic problem explicit in 1680. His copperplates used the French manner of dots and differently directed lines, *punctulis aut lineolis*, while he recalled the German practice of indicating colours by initials, *literis initialibus colorum*. When figures were too small for the lines to distinguish tinctures sufficiently, the reader had to return to the printed explanation: *ad explicationem typis expressam recurrere necesse erit*.[^12] Words, letters, graphic marks, and later colouring were concurrent channels for carrying chromatic information.
+Heraldic books had long separated chromatic information from pigment. Johann Siebmacher’s *New Wapenbuch* of 1605 supplied a *Declaration* of the proper colours so that a purchaser could have the arms *illuminiren und erhöhen lassen*.[^10] Philipp Jakob Spener made the graphic problem explicit in 1680. His copperplates used dots and differently directed lines, *punctulis aut lineolis*, while he recalled the German practice of indicating colours by initials, *literis initialibus colorum*. When figures were too small for the lines to distinguish tinctures sufficiently, the reader had to return to the printed explanation: *ad explicationem typis expressam recurrere necesse erit*.[^12] Words, letters, graphic marks, and later colouring could carry the same chromatic information through different parts or states of a book.
 
 **[FIG. 3A]** Siebmacher 1605 *Declaration*: *gehörigen Farben* / *illuminiren und erhöhen*.  
 **[FIG. 3B]** Spener 1680: hatching / initial letters / prose fallback.
 
 ## The black page that explains colour
 
-A page headed *Erklärung der Farben* might be expected to contain colours. The copy of the Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* for 1744 preserved by the Universitäts- und Landesbibliothek Düsseldorf does not. Its colour explanation is a full-page copper engraving printed in black ink.[^13] Small shield-shaped fields contain dots, vertical lines, horizontal lines, diagonals, cross-hatching, and conventional fur patterns. French and German labels identify the corresponding tinctures: *d’Or / Gold*, *d’Argent / Silber*, *de Gueules / Roth*, *d’Azur / Blau*, *de Sable / Schwartz*, *de Sinople / Grün*, together with vair, ermine, purple, iron, and natural colour.
+The copy of the Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* for 1744 preserved by the Universitäts- und Landesbibliothek Düsseldorf contains a full-page copper engraving headed *Erklärung der Farben*.[^13] It is printed in black ink. Small shield-shaped fields contain dots, vertical lines, horizontal lines, diagonals, cross-hatching, and conventional fur patterns. French and German labels identify the corresponding tinctures: *d’Or / Gold*, *d’Argent / Silber*, *de Gueules / Roth*, *d’Azur / Blau*, *de Sable / Schwartz*, *de Sinople / Grün*, together with vair, ermine, purple, iron, and natural colour.
 
 **[FIG. 4A — principal image]** 1744 *Erklärung der Farben*, ULB Düsseldorf, image 8331529.
 
-The page supplies no sample of red, blue, green, gold, or silver. Instead it places a black graphic mark beside a named chromatic category. Dots are read as gold, horizontal lines as blue, and other marks through the convention established by the page. The *Erklärung* is a monochrome key to colour.
+The page supplies no sample of red, blue, green, gold, or silver. A black graphic mark stands beside each named chromatic category: dots are read as gold, horizontal lines as blue, and the other marks through the convention established by the key.
 
-The next image in the same copy shows the key in use. The armorial section begins with the *Kayserliches Wappen*, densely engraved with the same kinds of dots, lines, diagonals, and cross-hatchings displayed on the preceding key.[^14]
+The next image in the same copy shows that convention in use. The armorial section begins with the *Kayserliches Wappen*, densely engraved with the same kinds of dots, lines, diagonals, and cross-hatchings displayed on the preceding key.[^14]
 
 **[FIG. 4B]** *Kayserliches Wappen*, image 8331530, cropped to diagnostic hatch fields.
 
-Later in the volume the colours are stated again in words. Printed p. 87 begins the *Kurtze und deutliche Beschreibung aller hierinnen vorkommenden Wappen / Nach dem Alphabet*.[^15] The blazons repeatedly name tinctures and metals — *Gold*, *roth*, *schwartz*, *blau*, *silbern*.
+Later in the volume the colours are stated again in words. Printed p. 87 begins the *Kurtze und deutliche Beschreibung aller hierinnen vorkommenden Wappen / Nach dem Alphabet*.[^15] Its blazons repeatedly name tinctures and metals — *Gold*, *roth*, *schwartz*, *blau*, *silbern*.
 
 **[FIG. 4C]** p. 87, image 8331757, cropped around explicit tincture words.
 
-The three panels form one reading sequence. The key explains marks; the armorial plate deploys them; the prose names the colours again. The same 1744 volume also contains a register of 125 genealogical tables.[^16] Extensive colour information could circulate through a monochrome book.
+The sequence is internal to one book: the key explains marks; the armorial plate deploys them; the prose names the colours again. The same volume also contains a register of 125 genealogical tables.[^16] Its colour apparatus operated without coloured printing.
 
-Detailed physical-copy descriptions record a full-page engraved *Erklärung der Farben* in annuals for 1728, 1732, 1737, 1738, 1744, 1751, 1755, and 1757; another description records a colour-key copper in 1725.[^17] A 1745 description explicitly says that the colours were represented *durch Schraffierung*.[^18] These records establish recurrence of the module; matrix identity across those impressions remains uncontrolled.
+Detailed physical-copy descriptions record a full-page engraved *Erklärung der Farben* in annuals for 1728, 1732, 1737, 1738, 1744, 1751, 1755, and 1757; another description records a colour-key copper in 1725.[^17] A 1745 description explicitly says that the colours were represented *durch Schraffierung*.[^18] The module recurred across the series, although current controls do not establish one continuous copper matrix.
 
-A defective 1729 copy exposes the key as a separable part of the book. Its collation lists among the missing material “1 gest. Tafel ‘Erklärung der Farben’,” together with two missing armorial engravings and other leaves.[^19] The loss concerns that surviving copy, while the encoded armorial images and other components could remain present.
+A defective 1729 copy lists among its missing material “1 gest. Tafel ‘Erklärung der Farben’,” together with two missing armorial engravings and other leaves.[^19] The encoded armorial apparatus could thus survive in a copy after its internal colour key had disappeared.
 
-A near-contemporary bibliographical source gives the explanatory layer its own edition history. Adam Friedrich Glafey’s 1747 catalogue of Eucharius Gottlieb Rinck’s library summarizes Köhler’s preface to the large Weigel armorial of 1734. Glafey reports that Köhler regretted the neglect, in later editions after Siebmacher’s death, of a German explanation of the colours occurring in shields; the catalogue adds that the explanatory layer was still lacking in the newest Weigel edition prepared with Köhler’s involvement.[^20] Graphic tincture coding and verbal explanation could therefore have different bibliographical histories.
+Adam Friedrich Glafey’s 1747 catalogue of Eucharius Gottlieb Rinck’s library gives the explanatory layer an edition history. Summarizing Köhler’s preface to the large Weigel armorial of 1734, Glafey reports that Köhler regretted the neglect, in later editions after Siebmacher’s death, of a German explanation of the colours occurring in shields; the catalogue adds that this explanatory layer was still lacking in the newest Weigel edition prepared with Köhler’s involvement.[^20] Graphic tincture coding and verbal explanation did not necessarily travel together from edition to edition.
 
-The *Erklärung der Farben* was a working component of a book: a leaf that could recur, disappear from a surviving copy, change hosts, and operate together with the plates and prose around it.
+The *Erklärung der Farben* was therefore a working bibliographical component. It could recur across annuals, disappear from a surviving copy, and operate with armorial plates and prose that had their own histories.
 
 ## The key inside a changing annual book
 
@@ -80,67 +78,59 @@ The *Wappenkalender* changed during as well as between annual issues. The 1728 a
 **[FIG. 5A]** 1728 *Geneigter Leser!*: newest reports / daily newspaper reading.  
 **[FIG. 5B]** 1728 in-press additions, image 8331489.
 
-The 1733 annual repeats the procedure. Its preface describes the series as serving the *alljährliche Vermehrung und Verbesserung der neuesten Genealogie und Heraldic*, names a *guter Freund* resident in Rome who had supplied information about Italian princely houses, and again emphasizes revision from the newest and most reliable reports.[^23] At the end appears *Unter währenden Druck geschehene Veränderungen*, recording dynastic changes that occurred during printing and pointing back to the affected tables.[^24]
+The 1733 annual repeats the procedure. Its preface describes the series as serving the *alljährliche Vermehrung und Verbesserung der neuesten Genealogie und Heraldic*, names a *guter Freund* resident in Rome who supplied information about Italian princely houses, and again emphasizes the newest and most reliable reports.[^23] At the end, *Unter währenden Druck geschehene Veränderungen* records dynastic changes that occurred during printing and points back to the affected tables.[^24]
 
 **[FIG. 5C]** 1733 *Geneigter Leser!*: annual improvement / Rome correspondent.  
 **[FIG. 5D]** 1733 in-press changes, image 8335352.
 
-The colour key sat inside this revision cycle. Persons, houses, arms, tables, and corrections changed while the chromatic convention remained available to decode newly arranged armorial material.
+The colour key belonged to a book whose persons, houses, tables, and corrections were continually being updated. Its stable graphic convention allowed newly arranged armorial material to remain readable as the historical content changed.
 
-A publisher’s retrospective of 1772 records the practical pressures behind such systems. The *Vorbericht* to *Der durchlauchtigen Welt vollständiges Wappenbuch* looked back at the large armorial tradition and listed several defects: too many arms forced figures into formats too small for adequate clarity; blazoning had not been sufficiently determinate; attempts to mark tinctures through letters caused *Unordnung und Mißverstand*; the number of images left too little room for description; and arms changed *von Zeit zu Zeit*.[^25]
+A publisher’s retrospective of 1772 records the practical pressures behind such systems. The *Vorbericht* to *Der durchlauchtigen Welt vollständiges Wappenbuch* lists several defects in the older armorial tradition: too many arms forced figures into formats too small for adequate clarity; blazoning had not been sufficiently determinate; attempts to mark tinctures through letters caused *Unordnung und Mißverstand*; the number of images left too little room for description; and arms changed *von Zeit zu Zeit*.[^25]
 
 **[FIG. 6A]** figures too small / unclear.  
 **[FIG. 6B]** *Tincturen mit Buchstaben* / *Unordnung und Mißverstand*.  
 **[FIG. 6C]** insufficient room for description / *von Zeit zu Zeit*.
 
-The publisher placed colour notation beside figure size, descriptive prose, and temporal change as problems in making an armorial reference book usable.
+Colour notation, figure size, descriptive prose, and temporal change appear here as linked problems in keeping an armorial reference book legible and current.
 
 ## A key survives the change of format
 
-Fifteen years after the last numbered Köhler/Weigel annual of 1757, the *Erklärung der Farben* was still present in a new host. A digitized copy of Johann Friedrich Seyfart’s *Der durchlauchtigen Welt vollständiges Wappenbuch* at Tübingen, catalogued under 1771 but bearing a title page dated 1772, opens in the sequence:
+Fifteen years after the last numbered Köhler/Weigel annual of 1757, an *Erklärung der Farben* was still present in a new host. A digitized copy of Johann Friedrich Seyfart’s *Der durchlauchtigen Welt vollständiges Wappenbuch* at Tübingen, catalogued under 1771 but bearing a title page dated 1772, opens in the sequence:
 
 *Vorsatz → Erklärung der Farben → Titelblatt → Vorbericht*.[^26]
 
 **[FIG. 7A]** Tübingen Fe 18-1 *Erklärung der Farben*.  
 **[FIG. 7B]** following title page.
 
-The publisher’s preface states that the new project took *die bisher bey dem Wappencalender gewesenen Wappen zum Grunde gelegt*: the arms previously used in the *Wappencalender* were made the basis of the cumulative *Wappenbuch*.[^27] Because additional arms could only be gathered gradually, the new divisions were to be issued *jährlich mit dem Wappencalender* and eventually accumulated into several octavo volumes.[^28]
+The publisher states that the new project took *die bisher bey dem Wappencalender gewesenen Wappen zum Grunde gelegt*: the arms previously used in the *Wappencalender* were made the basis of the cumulative *Wappenbuch*.[^27] Because additional arms could only be gathered gradually, the new divisions were to be issued *jährlich mit dem Wappencalender* and eventually accumulated into several octavo volumes.[^28]
 
 **[FIG. 7C]** *Vorbericht*: older *Wappencalender* arms used as basis / annual delivery.
 
-Here continuity between annual and cumulative formats is stated by the publisher and visible in the opening structure of the surviving book. The colour key remained attached to an armorial corpus while that corpus changed bibliographical form.
+The publisher carried the annual’s armorial corpus into a cumulative format, and the surviving copy carried a colour key with it. What persisted was not simply an image but an apparatus for reading images.
 
 ---
 
-# III. Göttingen Again: Coloured Historical Books
+# III. Göttingen Again: Gatterer in the Nürnberg Publication World
 
-## Gatterer in the Nürnberg publication world
+Gatterer taught history in Nürnberg during the 1750s and in 1759 accepted the Göttingen chair formerly held by Johann David Köhler. His publications already joined him to the Nürnberg visual and antiquarian trades. In 1755 his *Historia genealogica dominorum Holzschuherorum* was produced there, with Martin Tyroff among the engravers associated with its visual apparatus.[^29] After Köhler’s death later that year, bibliographic work attributes six numismatic pieces and an unpaginated biographical preface on Köhler to Gatterer in the delayed final material of Köhler’s *Wöchentliche Historische Münz-Belustigung*; Johann Tobias Köhler also participated.[^30]
 
-Gatterer’s own publication history crosses this Nürnberg–Göttingen route. He taught history in Nürnberg during the 1750s and in 1759 accepted the Göttingen chair formerly held by Johann David Köhler.
+In 1759 Gatterer’s *Handbuch der neuesten Genealogie und Heraldik* appeared under the imprint of Christoph Weigel the Elder’s heirs and described itself as *aufs neue ausgefertigt* by Gatterer.[^31] Repository title-state controls identify it as a continuation of the older *Wappenkalender*. The 1762 issue advertised that it had been *ganz neu ausgearbeitet* and enlarged with *Stammtafeln* and arms; in 1763 the title added an *Abriß der Heraldik oder Wappenkunde*; in 1764 the annual label returned as *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch*.[^32] By 1766 Gatterer’s *Abriß der Heraldik* was advertised *zum Nutzen der studirenden Jugend* and *mit acht Kupfertafeln erläutert*.[^33]
 
-In 1755 Gatterer’s *Historia genealogica dominorum Holzschuherorum* was produced in Nürnberg, with Martin Tyroff among the engravers associated with its visual apparatus.[^29] After Köhler’s death later that year, bibliographic work attributes six numismatic pieces and an unpaginated biographical preface on Köhler to Gatterer in the delayed final material of Köhler’s *Wöchentliche Historische Münz-Belustigung*; Johann Tobias Köhler also participated.[^30] These publications place Gatterer inside the same Nürnberg ecology of genealogical, heraldic, and numismatic books before his move to Göttingen.
+This sequence joined annual updating, armorial imagery, and instruction within one publication lineage. A modern critical edition of Gatterer’s 1771 *Von der historischen Erziehung* prints practical exercises that included colouring coats of arms and family trees alongside numismatic work.[^37] Colouring was one operation a learner could perform on the auxiliary materials of history.
 
-Gatterer’s *Handbuch der neuesten Genealogie und Heraldik* appeared in 1759 under the imprint of Christoph Weigel the Elder’s heirs and described itself as *aufs neue ausgefertigt* by Gatterer.[^31] Repository title-state controls identify it as a formal continuation of the older *Wappenkalender*. The handbook continued to be revised: the 1762 issue advertised that it had been *ganz neu ausgearbeitet* and enlarged with *Stammtafeln* and arms; in 1763 the title added an *Abriß der Heraldik oder Wappenkunde*; in 1764 the annual label returned as *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch*.[^32] By 1766 Gatterer’s *Abriß der Heraldik* was advertised *zum Nutzen der studirenden Jugend* and *mit acht Kupfertafeln erläutert*.[^33]
+Returning to the Tübingen *Synopsis* after this sequence changes what its mixed chromatic state records. One table received pigment and its partner did not, while both remained parts of the same printed historical instrument.[^38] In the Nürnberg books, black signs and prose could preserve colour information without pigment; in the *Synopsis*, the engraved historical structure could survive where pigment was absent. The material state of colour belonged to particular components and copies rather than to the title alone.
 
-The sequence joined current genealogical information, armorial imagery, and explicit instruction within the same publication lineage. A modern critical edition of Gatterer’s 1771 *Von der historischen Erziehung* also records practical exercises that included colouring coats of arms and family trees alongside numismatic work.[^37] Colouring here appears as an operation performed by a learner on historical auxiliary material.
-
-## What kind of coloured book did the reader receive?
-
-The *Synopsis* can now be read again beside this publication history. Tübingen `Fn 28.2`, as recorded by Araújo, contains one coloured and one uncoloured table within the relevant pair.[^38] The title’s *coloribusque illustratae* therefore describes an intended or supplied chromatic feature without exhausting the material state of every surviving table.
-
-The Nürnberg books present the converse condition. Their *Erklärung der Farben* could be fully monochrome while still communicating heraldic colours. A missing key altered the apparatus available in one copy without removing every encoded armorial image. The cumulative *Wappenbuch* retained an *Erklärung* after the publication format changed. In each case, “colour” has to be located in a particular component and copy: in pigment, code, words, or the relation among them.
-
-Schlözer’s 1772 warning about historians who “coloured” facts belongs to another operation altogether. Placed beside these books, its force becomes more exact. Chromatic language at the level of historical assertion could mark distortion, while physical books carried colour information through several legitimate material procedures. The distinction arises from the sources themselves: fact-making and book-making assigned colour different work.
+Schlözer’s 1772 warning marks the other boundary. At the level of historical assertion, to “colour” facts could mean altering them. At the level of book production and use, colour could be encoded, decoded, applied, omitted, or lost. The same vocabulary covered different historical operations because it acted on different objects.
 
 ---
 
-# Colour in Books
+# Conclusion: Colour in Books
 
-Recent histories of colour printing have substantially enlarged the field. *Printing Colour 1700–1830*, edited by Margaret Morgan Grasselli and Elizabeth Savage, surveys coloured inks, printing processes, book illustration, typography, labour, and variant impressions across the long eighteenth century.[^40] Histories of hand-colouring have established that coloured copies could be supervised, corrected, unevenly finished, and materially divergent.[^41] Giulia Simonini’s *Color Charts in 18th-century Europe* integrates natural, pigmentary, and trichromatic colour charts with the histories of samples, names, recipes, and systems.[^42]
+Histories of colour printing have reconstructed coloured inks, printing processes, labour, illustration, and variant impressions; work on hand-colouring has shown how copies could diverge through later finishing; histories of colour charts have followed relations among samples, names, recipes, and systems.[^40][^41][^42] The recurrent *Erklärung der Farben* adds a different object to that literature: a black-line decoder whose history can be followed through recurrence, copy loss, use beside armorial plates and prose, and re-hosting in a cumulative book.
 
-The recurrent *Erklärung der Farben* adds a different bibliographical object to these histories. It is a reproducible black-line decoder linking graphic signs to named chromatic categories. Its history can be followed through recurrence, copy loss, use beside armorial plates and prose, and re-hosting in a cumulative work. The 1744 copy makes the mechanism especially visible: a black page explains colour, the next plate uses the code, and the prose later names the tinctures again.
+The 1744 *Wappenkalender* shows the mechanism in one surviving copy. A black page names colour through signs; the next armorial plate uses those signs; prose later names the tinctures again. The 1728 and 1733 issues place this apparatus inside a publication repeatedly corrected from new reports, even while printing was underway. The 1771/72 *Wappenbuch* then carries an *Erklärung der Farben* into a new format whose publisher explicitly bases its armorial corpus on the older annual.
 
-This changes the unit at which colour in a historical book is described. Edition titles, subjects, and image categories remain insufficient by themselves. The annuals show colour information surviving without pigment; the *Synopsis* shows pigment varying within a book advertised as coloured. Gatterer’s movement through the Nürnberg publishing world and into Göttingen joins the two cases without requiring a genealogy of influence. The material contrast carries the argument: **a black page could carry colour; a book advertised as coloured could survive without it.**
+The Tübingen *Synopsis* supplies the inverse case. Its title promises coloured tables, while one relevant table survives without pigment beside another that received it. Gatterer’s path through the Nürnberg publication world and into Göttingen connects these cases without requiring a genealogy of influence. A black page could carry colour; a book advertised as coloured could survive without it.
 
 ---
 
