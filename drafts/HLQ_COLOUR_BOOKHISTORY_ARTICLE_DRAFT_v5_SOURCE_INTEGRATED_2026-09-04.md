@@ -1,6 +1,6 @@
 # An *Erklärung der Farben*: Colour, Books, and Historical Method from Nürnberg to Göttingen
 
-**Working draft v5 — canonical / sentence-level tightening pass**  
+**Working draft v5 — canonical / submission-level source QA pass**  
 **Date:** 5 September 2026  
 **Target:** *Huntington Library Quarterly*  
 **Structure locked:** Göttingen → Nürnberg → Göttingen  
@@ -12,7 +12,7 @@ A surviving Tübingen copy of Johann Christoph Gatterer’s *Synopsis historiae 
 
 The Weigel/Köhler *Geschichts-, Geschlechts- und Wappen-Calender* makes that distinction materially visible. Its recurring engraved *Erklärung der Farben* was a monochrome key in which dots and hatchings stood for named heraldic colours. In a directly inspected 1744 copy the key is followed immediately by armorial plates using the same graphic vocabulary, while a later prose section names the tinctures again. A defective 1729 copy is described as lacking the key. The annuals around it were revised from new reports and patched with dynastic changes received while printing was underway. In a cumulative *Wappenbuch* preserved at Tübingen, catalogued under 1771 but bearing a 1772 title state, an *Erklärung der Farben* still precedes the title page, and the publisher states that arms formerly used in the *Wappencalender* supplied the basis of the new work.
 
-Gatterer worked within this publication world before and after his move from Nürnberg to Göttingen. His books involved Nürnberg engravers in 1755; he participated in the posthumous completion of Johann David Köhler’s numismatic serial; and his 1759 *Handbuch der neuesten Genealogie und Heraldik* appeared under the Weigel-heirs imprint as a continuation of the older annual. Across these books, colour occupied several material locations: it could be named without pigment, encoded by black signs, supplied through a separate key, added by hand, lost with a leaf, or preserved unevenly inside a book whose title promised it.
+Gatterer worked within this publication world before and after his move from Nürnberg to Göttingen. His books involved Nürnberg engravers in 1755; modern bibliography attributes six numismatic pieces and a biographical preface by him to the posthumously completed final material of Johann David Köhler’s numismatic serial; and his 1759 *Handbuch der neuesten Genealogie und Heraldik* appeared under the Weigel-heirs imprint as a continuation of the older annual. Across these books, colour occupied several material locations: it could be named without pigment, encoded by black signs, supplied through a separate key, added by hand, lost with a leaf, or preserved unevenly inside a book whose title promised it.
 
 ---
 
@@ -63,9 +63,9 @@ Later in the volume the colours are stated again in words. Printed p. 87 begins 
 
 The sequence is internal to one book: the key explains marks; the armorial plate deploys them; the prose names the colours again. The same volume also contains a register of 125 genealogical tables.[^16] Its colour apparatus operated without coloured printing.
 
-Detailed physical-copy descriptions record a full-page engraved *Erklärung der Farben* in annuals for 1728, 1732, 1737, 1738, 1744, 1751, 1755, and 1757; another description records a colour-key copper in 1725.[^17] A 1745 description explicitly says that the colours were represented *durch Schraffierung*.[^18] The module recurred across the series.
+Holger Christoph & Co.’s 2014 auction catalogue records a full-page engraved *Erklärung der Farben* in described copies of the annuals for 1728, 1732, 1737, 1738, 1744, 1751, 1755, and 1757.[^17] A separate 1745 copy description says that the colours were represented *durch Schraffierung*.[^18] These descriptions show the module recurring across surviving copies of the series.
 
-A defective 1729 copy lists among its missing material “1 gest. Tafel ‘Erklärung der Farben’,” together with two missing armorial engravings and other leaves.[^19] The encoded armorial apparatus could thus survive in a copy after its internal colour key had disappeared.
+A Kunstbroker/AbeBooks description of a defective 1729 copy lists among its missing material “1 gest. Tafel ‘Erklärung der Farben’,” together with two missing armorial engravings and other leaves.[^19] At least one surviving copy could therefore retain parts of the armorial apparatus after losing its internal colour key.
 
 Adam Friedrich Glafey’s 1747 catalogue of Eucharius Gottlieb Rinck’s library gives the explanatory layer an edition history. Summarizing Köhler’s preface to the large Weigel armorial of 1734, Glafey reports that Köhler regretted the neglect, in later editions after Siebmacher’s death, of a German explanation of the colours occurring in shields; the catalogue adds that this explanatory layer was still lacking in the newest Weigel edition prepared with Köhler’s involvement.[^20] Graphic tincture coding and verbal explanation did not necessarily travel together from edition to edition.
 
@@ -112,7 +112,7 @@ The publisher carried the annual’s armorial corpus into a cumulative format, a
 
 # III. Göttingen Again: Gatterer in the Nürnberg Publication World
 
-Gatterer taught history in Nürnberg during the 1750s and in 1759 accepted the Göttingen chair formerly held by Johann David Köhler. His publications already joined him to the Nürnberg visual and antiquarian trades. In 1755 his *Historia genealogica dominorum Holzschuherorum* was produced there, with Martin Tyroff among the engravers associated with its visual apparatus.[^29] After Köhler’s death later that year, the delayed final material of Köhler’s *Wöchentliche Historische Münz-Belustigung* included six numismatic pieces and an unpaginated biographical preface attributed to Gatterer; Johann Tobias Köhler also participated.[^30]
+Gatterer taught history in Nürnberg during the 1750s and in 1759 accepted the Göttingen chair formerly held by Johann David Köhler. His publications already joined him to the Nürnberg visual and antiquarian trades. In 1755 his *Historia genealogica dominorum Holzschuherorum* was produced there; heraldic bibliography and modern work on the volume identify Martin Tyroff among the engravers of its armorial apparatus.[^29] After Köhler’s death later that year, the delayed final material of Köhler’s *Wöchentliche Historische Münz-Belustigung* included six numismatic pieces and an unpaginated biographical preface attributed to Gatterer in modern bibliography; Johann Tobias Köhler also participated in the posthumous closure.[^30]
 
 In 1759 Gatterer’s *Handbuch der neuesten Genealogie und Heraldik* appeared under the imprint of Christoph Weigel the Elder’s heirs and described itself as *aufs neue ausgefertigt* by Gatterer.[^31] Its title sequence continues the older *Wappenkalender*: the 1762 issue advertised that it had been *ganz neu ausgearbeitet* and enlarged with *Stammtafeln* and arms; in 1763 the title added an *Abriß der Heraldik oder Wappenkunde*; in 1764 the annual label returned as *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch*.[^32] By 1766 Gatterer’s *Abriß der Heraldik* was advertised *zum Nutzen der studirenden Jugend* and *mit acht Kupfertafeln erläutert*.[^33]
 
@@ -126,7 +126,7 @@ Schlözer’s 1772 warning marks the other boundary. At the level of historical 
 
 # Conclusion: Colour in Books
 
-Histories of colour printing have reconstructed coloured inks, printing processes, labour, illustration, and variant impressions; work on hand-colouring has shown how copies could diverge through later finishing; histories of colour charts have followed relations among samples, names, recipes, and systems.[^40][^41][^42] The recurrent *Erklärung der Farben* adds a different object to that literature: a black-line decoder whose history can be followed through recurrence, copy loss, use beside armorial plates and prose, and re-hosting in a cumulative book.
+Histories of colour printing have reconstructed coloured inks, printing processes, labour, illustration, and variant impressions; work on hand-colouring has shown how a printed image could acquire colour through a distinct finishing stage; histories of colour charts have followed relations among samples, names, recipes, and systems.[^40][^41][^42] The recurrent *Erklärung der Farben* adds a different object to that literature: a black-line decoder whose history can be followed through recurrence, copy loss, use beside armorial plates and prose, and re-hosting in a cumulative book.
 
 The 1744 *Wappenkalender* shows the mechanism in one surviving copy. A black page names colour through signs; the next armorial plate uses those signs; prose later names the tinctures again. The 1728 and 1733 issues place this apparatus inside a publication repeatedly corrected from new reports, even while printing was underway. The 1771/72 *Wappenbuch* then carries an *Erklärung der Farben* into a new format whose publisher explicitly bases its armorial corpus on the older annual.
 
@@ -211,11 +211,11 @@ Evidence-status labels below are editorial controls rather than article prose. *
 
 [^16]: Same 1744 volume, register of 125 *Stammtafeln*.
 
-[^17]: Physical-copy descriptions for 1728, 1732, 1737, 1738, 1744, 1751, 1755, 1757; separate project control reports a 1725 colour-key copper. Presence across copies does not prove one matrix.
+[^17]: Holger Christoph & Co. GmbH, Auktion 37, *Wertvolle Bücher / Alte Ansichten und Landkarten*, 11 October 2014, lots 28–36: physical-copy descriptions for the 1728, 1732, 1737, 1738, 1744, 1751, 1755, and 1757 *Wappenkalender* record a full-page engraved *Erklärung der Farben*. These descriptions establish reported copy-level presence, not continuity of one copper matrix. A separate project control reports a 1725 colour-key copper but is not used in the body chronology here.
 
-[^18]: 1745 physical-copy description: colours *durch Schraffierung dargestellt*.
+[^18]: Booklooker physical-copy description for the 1745 *Wappenkalender*: `Anfangs ein Stich mit Erklärung der Farben (durch Schraffierung dargestellt)`. Corroborative seller description; the directly inspected 1744 ULB image remains the technical control.
 
-[^19]: Incomplete 1729 copy: missing `1 gest. Tafel “Erklärung der Farben”` plus other matter. Copy-loss evidence only.
+[^19]: Kunstbroker / AbeBooks physical-copy description of an incomplete 1729 *Wappenkalender*: missing engraved frontispiece, title, December text leaf, `1 gest. Tafel “Erklärung der Farben”`, two armorial engravings, and other matter. Copy-loss evidence only; it does not establish that the 1729 edition was issued without the key.
 
 [^20]: Adam Friedrich Glafey, *Bibliotheca Rinckiana* (Leipzig, 1747), entry 1993, e-rara DOI `10.3931/e-rara-30605`, reporting Köhler’s complaint about the lost German colour-explanation layer and its absence in the 1734 Weigel edition. Direct Köhler 1734 wording remains a source-triggered upgrade; body prose attributes the claim to Glafey.
 
@@ -235,15 +235,15 @@ Evidence-status labels below are editorial controls rather than article prose. *
 
 [^28]: Ibid.: divisions to be *jährlich mit dem Wappencalender ausgegeben werden*.
 
-[^29]: Gatterer, *Historia genealogica dominorum Holzschuherorum* (Nürnberg, 1755); repository controls place Martin Tyroff among engravers associated with the visual apparatus.
+[^29]: Johann Christoph Gatterer, *Historia genealogica dominorum Holzschuherorum* (Nürnberg, 1755). Nineteenth-century heraldic bibliography attributes multiple armorial plates in the work to Martin Tyroff as designer/engraver; André de Melo Araújo’s modern reconstruction of the book’s collective visual production supplies the present secondary control. Direct plate-signature inspection remains desirable before assigning individual plates to Tyroff in article prose.
 
-[^30]: Köhler, *Wöchentliche Historische Münz-Belustigung*, part 22, nominal 1750 / completed posthumously in the 1756 environment; modern bibliographic work attributes six numismatic contributions plus the Köhler biographical preface to Gatterer; Johann Tobias Köhler also participated.
+[^30]: Johann David Köhler, *Wöchentliche Historische Münz-Belustigung*, part 22, nominal 1750, terminal material published in 1756. Martin Gierl’s bibliography attributes six numismatic pieces (pp. 393–444 across nos. 50–52 and three supplements) plus the unpaginated Köhler biographical preface to Gatterer and explicitly dates their appearance to 1756; a separate modern history of eighteenth-century numismatics independently counts seven Gatterer contributions. Biographical/catalogue literature also credits Johann Tobias Köhler with participation in the final completion/publication. The body therefore uses `attributed to Gatterer` and treats the posthumous closure as collaborative; direct inspection of the preface and terminal issues remains a primary upgrade.
 
-[^31]: Gatterer, *Handbuch der neuesten Genealogie und Heraldik* (1759), BSB `bsb10428155`; Weigel-heirs imprint; *Aufs neue ausgefertigt*. Formal continuation of the old *Wappenkalender* secure.
+[^31]: Gatterer, *Handbuch der neuesten Genealogie und Heraldik* (Nürnberg, 1759), BSB `bsb10428155`; imprint of Christoph Weigel the Elder’s heirs / Bieling; title state *Aufs neue ausgefertigt*. Formal continuation of the old *Wappenkalender* secure at title/bibliographic level.
 
-[^32]: Repository title-state controls: 1761 *aufs neue ausgefertigt*; 1762 *ganz neu ausgearbeitet* + more *Stammtafeln/Wappen*; 1763 adds *Abriß der Heraldik*; 1764 returns to *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch*.
+[^32]: Title-state sequence: 1761 *Handbuch*, BSB `bsb10428156`, again *Aufs neue ausgefertigt*; 1762, BSB `bsb10428105`, *Ganz neu ausgearbeitet und mit vielen Stammtafeln und Wappen vermehret*; 1763, BSB `bsb10428784`, adds *einem Abrisse der Heraldik oder Wappenkunde*; 1764 *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch*, BSB `bsb10428159`, Nürnberg: Raspe. These are title-state claims and are not converted into quantified amounts of revision without copy comparison.
 
-[^33]: Gatterer, *Abriß der Heraldik oder Wappenkunde* (1766), *zum Nutzen der studirenden Jugend*, *mit acht Kupfertafeln erläutert*.
+[^33]: Gatterer, *Abriß der Heraldik oder Wappenkunde* (1766), first edition, advertised *zum Nutzen der studirenden Jugend* and *mit acht Kupfertafeln erläutert*; the 1766 *Fortgesetzter Wappen-Calender ... oder jährliches Handbuch* is BSB `bsb10428160`. Bibliographic controls attest the attachment of the *Abriß* and its eight explanatory plates to the calendar/handbook environment; copy-specific binding configurations may vary.
 
 [^34]: **PARTIAL / NOTE-ONLY.** Gatterer, *Abriß der Heraldik oder Wappenkunde*, 2nd ed. (Nürnberg: Gabriel Nicolaus Raspe, 1774), p. 12. HEIDI/BSB bibliographic control: `[4] Bl., 128 S., XIII Bl.`, 13 copper illustrations, VD18 `10538259`, BSB carriers `bsb10455116`, `bsb10455609`. The wording on Rink, *Naturfarbe*, *Eisenfarbe*, old *Wappenbriefe*, and the `köhlerische Programma` is currently controlled through secondary transcription with a fixed primary locator; direct institutional page inspection is still required.
 
@@ -257,8 +257,8 @@ Evidence-status labels below are editorial controls rather than article prose. *
 
 [^39]: **NOTE-ONLY CONTEXT.** Herder–Schlözer table/method controversy control in project repository; Herder’s *Maaß* challenge concerns commensuration before colour and is outside the present article’s central book-historical sequence.
 
-[^40]: Margaret Morgan Grasselli and Elizabeth Savage, eds., *Printing Colour 1700–1830* (2024/25).
+[^40]: Margaret Morgan Grasselli and Elizabeth Savage, eds., *Printing Colour 1700–1830: Histories, Techniques, Functions, and Receptions*, Proceedings of the British Academy 263 (Oxford: Oxford University Press for the British Academy, 2025), DOI `10.5871/bacad/9780197267530.001.0001`. The online edition appeared 27 December 2024; the volume’s copyright page identifies the first edition as 2025.
 
-[^41]: Susan Dackerman, ed., *Painted Prints* (2002); Kärin Nickelsen, *Draughtsmen, Botanists and Nature* / relevant hand-colouring workflow studies.
+[^41]: Susan Dackerman, ed., *Painted Prints: The Revelation of Color in Northern Renaissance & Baroque Engravings, Etchings & Woodcuts* (University Park: Pennsylvania State University Press, 2002); Kärin Nickelsen, *Draughtsmen, Botanists and Nature: The Construction of Eighteenth-Century Botanical Illustrations*, Archimedes 15 (Dordrecht: Springer, 2006), DOI `10.1007/978-1-4020-4820-3`.
 
-[^42]: Giulia Simonini, *Color Charts in 18th-century Europe* (2025).
+[^42]: Giulia Simonini, *Color Charts in 18th-century Europe: Natural, Pigmentary, Trichromatic* (Heidelberg: arthistoricum.net, 2025), DOI `10.11588/arthistoricum.1483`.
